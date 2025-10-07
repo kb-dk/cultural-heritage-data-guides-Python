@@ -27,6 +27,11 @@ LOAR is a platform that the Royal Danish Library uses to publish the library's o
 ### Copenhagen Diplomatarium (Københavns Diplomatarium)
 **Explore the kd dataset** - Analyze medieval Danish documents using text mining techniques, including frequency distributions, n-grams, and collocation analysis with NLTK.
 
+### Trykkefrihedens Skrifter (Freedom of the Press Writings)
+**Text Mining Freedom of the Press Writings** - Comprehensive text mining workflow including tokenization with regex, removal of Danish and German stopwords, word frequency analysis, filtered analysis by series and volume, and keyword-in-context (KWIC) analysis.
+
+**Bigram Analysis of Freedom of the Press Writings** - Explore word associations and patterns in the Freedom of the Press texts by analyzing bigrams (word pairs), creating network visualizations, and discovering frequently co-occurring terms.
+
 ## Table of Contents
 ```{tableofcontents}
 ```

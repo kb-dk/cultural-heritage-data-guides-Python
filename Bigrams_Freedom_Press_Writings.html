@@ -1,0 +1,1202 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Bigram Analysis of Trykkefrihedens Skrifter &#8212; Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'Bigrams_Freedom_Press_Writings';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Textmining Trykkefrihedens Skrifter" href="TextMining_Freedom_Press_Writings.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="intro.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/DKB logo expanded black RGB.png" class="logo__image only-light" alt="Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv - Home"/>
+    <script>document.write(`<img src="_static/DKB logo expanded black RGB.png" class="logo__image only-dark" alt="Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="intro.html">
+                    Guides to the Royal Danish Library’s Digital Cultural Heritage
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (ADL)</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Explore%20the%20ADL%20dataset.html">Explore the ADL dataset</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Flora Danica</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Clean%20the%20Flora%20Danica%20dataset.html">Clean the Flora Danica dataset</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Visualise%20the%20Flora%20Danicas%20metadata.html">Visualise the Flora Danica metadata</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Change%20size%20on%20tiff%20files%20of%20Flora%20Danica.html">Resize Flora Danica TIFF images</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Copenhagen Diplomatarium</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Explore%20the%20kd%20dataset.html">Explore medieval Danish documents</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Trykkefrihedens Skrifter (Freedom of the Press)</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="TextMining_Freedom_Press_Writings.html">Text Mining Freedom of Press Writings</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Bigram Analysis of Freedom of Press</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/kb-dk/Vejledninger-til-Det-Kgl.-Biblioteks-Digitale-Kulturarv" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/kb-dk/Vejledninger-til-Det-Kgl.-Biblioteks-Digitale-Kulturarv/issues/new?title=Issue%20on%20page%20%2FBigrams_Freedom_Press_Writings.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/Bigrams_Freedom_Press_Writings.ipynb" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.ipynb</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Bigram Analysis of Trykkefrihedens Skrifter</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">1. Install and Import Dependencies</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">2. Load Data</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#formation-of-bigrams">3. Formation of Bigrams</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-bigrams">4. Count Bigrams</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#remove-bigrams-where-one-of-the-words-is-a-stopword">5. Remove Bigrams Where One of the Words is a Stopword</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-filtered-bigrams">6. Count Filtered Bigrams</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#search-for-specific-bigrams-e-g-where-word2-matches-a-pattern">7. Search for Specific Bigrams (e.g., where word2 matches a pattern)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualization-as-network-graph">8. Visualization as Network Graph</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-graph-and-results">9. Save Graph and Results</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="bigram-analysis-of-trykkefrihedens-skrifter">
+<h1>Bigram Analysis of Trykkefrihedens Skrifter<a class="headerlink" href="#bigram-analysis-of-trykkefrihedens-skrifter" title="Link to this heading">#</a></h1>
+<p>This notebook performs bigram (word pair) analysis on <em>Trykkefrihedens Skrifter</em> in Python, inspired by the R workflow.</p>
+<section id="install-and-import-dependencies">
+<h2>1. Install and Import Dependencies<a class="headerlink" href="#install-and-import-dependencies" title="Link to this heading">#</a></h2>
+<p>If you’re missing any packages, uncomment and run the pip cell below.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># !pip install pandas numpy nltk matplotlib seaborn networkx</span>
+
+<span class="kn">import</span><span class="w"> </span><span class="nn">pandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">pd</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">numpy</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">np</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">re</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">nltk</span>
+<span class="kn">from</span><span class="w"> </span><span class="nn">nltk.corpus</span><span class="w"> </span><span class="kn">import</span> <span class="n">stopwords</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">matplotlib.pyplot</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">plt</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">seaborn</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">sns</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">networkx</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">nx</span>
+
+<span class="n">nltk</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="s1">&#39;punkt&#39;</span><span class="p">)</span>
+<span class="n">nltk</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="s1">&#39;stopwords&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stderr highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\lakj\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\lakj\AppData\Roaming\nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+</pre></div>
+</div>
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>True
+</pre></div>
+</div>
+</div>
+</div>
+</section>
+<section id="load-data">
+<h2>2. Load Data<a class="headerlink" href="#load-data" title="Link to this heading">#</a></h2>
+<p>We load the main data and stopwords from CSV files.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">main_data_path</span> <span class="o">=</span> <span class="s1">&#39;tfs_data/tfs_structured.csv&#39;</span>
+<span class="n">stopwords_path</span> <span class="o">=</span> <span class="s1">&#39;tfs_data/tfs_stopord.csv&#39;</span>
+
+<span class="k">try</span><span class="p">:</span>
+    <span class="n">tfs</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">main_data_path</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Data loaded. Shape: </span><span class="si">{</span><span class="n">tfs</span><span class="o">.</span><span class="n">shape</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
+<span class="k">except</span> <span class="ne">FileNotFoundError</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;File not found: </span><span class="si">{</span><span class="n">main_data_path</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
+    <span class="n">tfs</span> <span class="o">=</span> <span class="kc">None</span>
+
+<span class="k">try</span><span class="p">:</span>
+    <span class="n">stopord_tfs</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">stopwords_path</span><span class="p">)[</span><span class="s1">&#39;word&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">astype</span><span class="p">(</span><span class="nb">str</span><span class="p">)</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span><span class="o">.</span><span class="n">tolist</span><span class="p">()</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Loaded </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">stopord_tfs</span><span class="p">)</span><span class="si">}</span><span class="s1"> project-specific stopwords.&#39;</span><span class="p">)</span>
+<span class="k">except</span> <span class="ne">Exception</span> <span class="k">as</span> <span class="n">e</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Could not load project-specific stopwords: </span><span class="si">{</span><span class="n">e</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
+    <span class="n">stopord_tfs</span> <span class="o">=</span> <span class="p">[]</span>
+
+<span class="c1"># Optional extra stopwords list from URL (can be added if desired)</span>
+<span class="c1"># stopord_url = &quot;https://gist.githubusercontent.com/maxodsbjerg/4d1e3b1081ebba53a8d2c3aae2a1a070/raw/e1f63b4c81c15bb58a54a2f94673c97d75fe6a74/stopord_18.csv&quot;</span>
+<span class="c1"># stopord_extra = pd.read_csv(stopord_url)[&#39;word&#39;].astype(str).str.lower().tolist()</span>
+<span class="c1"># stopord_tfs += stopord_extra</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Data loaded. Shape: (28133, 14)
+Loaded 60 project-specific stopwords.
+</pre></div>
+</div>
+</div>
+</div>
+</section>
+<section id="formation-of-bigrams">
+<h2>3. Formation of Bigrams<a class="headerlink" href="#formation-of-bigrams" title="Link to this heading">#</a></h2>
+<p>We create bigrams (word pairs) for each text.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">regex_tokenize</span><span class="p">(</span><span class="n">text</span><span class="p">):</span>
+    <span class="c1"># Simple tokenization, can be extended if needed</span>
+    <span class="k">return</span> <span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="sa">r</span><span class="s1">&#39;\b\S+\b&#39;</span><span class="p">,</span> <span class="nb">str</span><span class="p">(</span><span class="n">text</span><span class="p">)</span><span class="o">.</span><span class="n">lower</span><span class="p">())</span>
+
+<span class="k">def</span><span class="w"> </span><span class="nf">make_bigrams</span><span class="p">(</span><span class="n">tokens</span><span class="p">):</span>
+    <span class="k">return</span> <span class="p">[(</span><span class="n">tokens</span><span class="p">[</span><span class="n">i</span><span class="p">],</span> <span class="n">tokens</span><span class="p">[</span><span class="n">i</span><span class="o">+</span><span class="mi">1</span><span class="p">])</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">tokens</span><span class="p">)</span><span class="o">-</span><span class="mi">1</span><span class="p">)]</span>
+
+<span class="c1"># Create bigrams for all rows</span>
+<span class="n">bigrams_list</span> <span class="o">=</span> <span class="p">[]</span>
+<span class="k">for</span> <span class="n">idx</span><span class="p">,</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">tfs</span><span class="o">.</span><span class="n">iterrows</span><span class="p">():</span>
+    <span class="n">tokens</span> <span class="o">=</span> <span class="n">regex_tokenize</span><span class="p">(</span><span class="n">row</span><span class="p">[</span><span class="s1">&#39;content&#39;</span><span class="p">])</span>
+    <span class="n">bigrams</span> <span class="o">=</span> <span class="n">make_bigrams</span><span class="p">(</span><span class="n">tokens</span><span class="p">)</span>
+    <span class="k">for</span> <span class="n">bg</span> <span class="ow">in</span> <span class="n">bigrams</span><span class="p">:</span>
+        <span class="n">bigrams_list</span><span class="o">.</span><span class="n">append</span><span class="p">({</span><span class="s1">&#39;refnr&#39;</span><span class="p">:</span> <span class="n">row</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;refnr&#39;</span><span class="p">,</span> <span class="n">idx</span><span class="p">),</span>
+                             <span class="s1">&#39;række&#39;</span><span class="p">:</span> <span class="n">row</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;række&#39;</span><span class="p">,</span> <span class="kc">None</span><span class="p">),</span>
+                             <span class="s1">&#39;bind&#39;</span><span class="p">:</span> <span class="n">row</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;bind&#39;</span><span class="p">,</span> <span class="kc">None</span><span class="p">),</span>
+                             <span class="s1">&#39;side&#39;</span><span class="p">:</span> <span class="n">row</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;side&#39;</span><span class="p">,</span> <span class="kc">None</span><span class="p">),</span>
+                             <span class="s1">&#39;word1&#39;</span><span class="p">:</span> <span class="n">bg</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span>
+                             <span class="s1">&#39;word2&#39;</span><span class="p">:</span> <span class="n">bg</span><span class="p">[</span><span class="mi">1</span><span class="p">]})</span>
+
+<span class="n">tfs_bigrams</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">bigrams_list</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Number of bigrams: </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">tfs_bigrams</span><span class="p">)</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
+<span class="n">display</span><span class="p">(</span><span class="n">tfs_bigrams</span><span class="o">.</span><span class="n">head</span><span class="p">())</span>
+</pre></div>
+</div>
+</div>
+</div>
+</section>
+<section id="count-bigrams">
+<h2>4. Count Bigrams<a class="headerlink" href="#count-bigrams" title="Link to this heading">#</a></h2>
+<p>We count the frequency of each bigram (word pair).</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">bigram_counts</span> <span class="o">=</span> <span class="n">tfs_bigrams</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">&#39;word1&#39;</span><span class="p">,</span> <span class="s1">&#39;word2&#39;</span><span class="p">])</span><span class="o">.</span><span class="n">size</span><span class="p">()</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s1">&#39;count&#39;</span><span class="p">)</span>
+<span class="n">bigram_counts</span> <span class="o">=</span> <span class="n">bigram_counts</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="s1">&#39;count&#39;</span><span class="p">,</span> <span class="n">ascending</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+<span class="n">display</span><span class="p">(</span><span class="n">bigram_counts</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">20</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>word1</th>
+      <th>word2</th>
+      <th>count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1417738</th>
+      <td>til</td>
+      <td>at</td>
+      <td>10099</td>
+    </tr>
+    <tr>
+      <th>335398</th>
+      <td>det</td>
+      <td>er</td>
+      <td>6434</td>
+    </tr>
+    <tr>
+      <th>507506</th>
+      <td>for</td>
+      <td>at</td>
+      <td>6155</td>
+    </tr>
+    <tr>
+      <th>130779</th>
+      <td>at</td>
+      <td>de</td>
+      <td>5393</td>
+    </tr>
+    <tr>
+      <th>444015</th>
+      <td>er</td>
+      <td>det</td>
+      <td>3924</td>
+    </tr>
+    <tr>
+      <th>132588</th>
+      <td>at</td>
+      <td>han</td>
+      <td>3605</td>
+    </tr>
+    <tr>
+      <th>759583</th>
+      <td>i</td>
+      <td>det</td>
+      <td>3584</td>
+    </tr>
+    <tr>
+      <th>759543</th>
+      <td>i</td>
+      <td>den</td>
+      <td>3010</td>
+    </tr>
+    <tr>
+      <th>759924</th>
+      <td>i</td>
+      <td>en</td>
+      <td>3003</td>
+    </tr>
+    <tr>
+      <th>130867</th>
+      <td>at</td>
+      <td>det</td>
+      <td>2853</td>
+    </tr>
+    <tr>
+      <th>1071406</th>
+      <td>og</td>
+      <td>at</td>
+      <td>2728</td>
+    </tr>
+    <tr>
+      <th>1328585</th>
+      <td>som</td>
+      <td>de</td>
+      <td>2636</td>
+    </tr>
+    <tr>
+      <th>1074505</th>
+      <td>og</td>
+      <td>det</td>
+      <td>2563</td>
+    </tr>
+    <tr>
+      <th>130821</th>
+      <td>at</td>
+      <td>den</td>
+      <td>2497</td>
+    </tr>
+    <tr>
+      <th>61524</th>
+      <td>af</td>
+      <td>de</td>
+      <td>2487</td>
+    </tr>
+    <tr>
+      <th>1328912</th>
+      <td>som</td>
+      <td>en</td>
+      <td>2445</td>
+    </tr>
+    <tr>
+      <th>1081091</th>
+      <td>og</td>
+      <td>i</td>
+      <td>2432</td>
+    </tr>
+    <tr>
+      <th>137823</th>
+      <td>at</td>
+      <td>være</td>
+      <td>2378</td>
+    </tr>
+    <tr>
+      <th>133386</th>
+      <td>at</td>
+      <td>jeg</td>
+      <td>2354</td>
+    </tr>
+    <tr>
+      <th>1074337</th>
+      <td>og</td>
+      <td>de</td>
+      <td>2252</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
+</div>
+</section>
+<section id="remove-bigrams-where-one-of-the-words-is-a-stopword">
+<h2>5. Remove Bigrams Where One of the Words is a Stopword<a class="headerlink" href="#remove-bigrams-where-one-of-the-words-is-a-stopword" title="Link to this heading">#</a></h2>
+<p>We remove bigrams where either word1 or word2 is a stopword (Danish, German, or project-specific).</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">stopord_da</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span><span class="n">stopwords</span><span class="o">.</span><span class="n">words</span><span class="p">(</span><span class="s1">&#39;danish&#39;</span><span class="p">))</span>
+<span class="n">stopord_de</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span><span class="n">stopwords</span><span class="o">.</span><span class="n">words</span><span class="p">(</span><span class="s1">&#39;german&#39;</span><span class="p">))</span>
+<span class="n">stopord_all</span> <span class="o">=</span> <span class="n">stopord_da</span> <span class="o">|</span> <span class="n">stopord_de</span> <span class="o">|</span> <span class="nb">set</span><span class="p">(</span><span class="n">stopord_tfs</span><span class="p">)</span>
+
+<span class="n">bigrams_filtered</span> <span class="o">=</span> <span class="n">tfs_bigrams</span><span class="p">[</span>
+    <span class="p">(</span><span class="o">~</span><span class="n">tfs_bigrams</span><span class="p">[</span><span class="s1">&#39;word1&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">isin</span><span class="p">(</span><span class="n">stopord_all</span><span class="p">))</span> <span class="o">&amp;</span>
+    <span class="p">(</span><span class="o">~</span><span class="n">tfs_bigrams</span><span class="p">[</span><span class="s1">&#39;word2&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">isin</span><span class="p">(</span><span class="n">stopord_all</span><span class="p">))</span>
+<span class="p">]</span>
+<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Number of bigrams after stopword filtering: </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">bigrams_filtered</span><span class="p">)</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Number of bigrams after stopword filtering: 966952
+</pre></div>
+</div>
+</div>
+</div>
+</section>
+<section id="count-filtered-bigrams">
+<h2>6. Count Filtered Bigrams<a class="headerlink" href="#count-filtered-bigrams" title="Link to this heading">#</a></h2>
+<p>We now count bigrams without stopwords.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">bigram_counts_filtered</span> <span class="o">=</span> <span class="n">bigrams_filtered</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">&#39;word1&#39;</span><span class="p">,</span> <span class="s1">&#39;word2&#39;</span><span class="p">])</span><span class="o">.</span><span class="n">size</span><span class="p">()</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s1">&#39;count&#39;</span><span class="p">)</span>
+<span class="n">bigram_counts_filtered</span> <span class="o">=</span> <span class="n">bigram_counts_filtered</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="s1">&#39;count&#39;</span><span class="p">,</span> <span class="n">ascending</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+<span class="n">display</span><span class="p">(</span><span class="n">bigram_counts_filtered</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">20</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>word1</th>
+      <th>word2</th>
+      <th>count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>358413</th>
+      <td>kiøbenhavn</td>
+      <td>1771</td>
+      <td>477</td>
+    </tr>
+    <tr>
+      <th>552523</th>
+      <td>skilling</td>
+      <td>stor</td>
+      <td>353</td>
+    </tr>
+    <tr>
+      <th>9418</th>
+      <td>1771</td>
+      <td>trykt</td>
+      <td>318</td>
+    </tr>
+    <tr>
+      <th>560772</th>
+      <td>slet</td>
+      <td>intet</td>
+      <td>305</td>
+    </tr>
+    <tr>
+      <th>358686</th>
+      <td>kiøbenhavn</td>
+      <td>trykt</td>
+      <td>275</td>
+    </tr>
+    <tr>
+      <th>9615</th>
+      <td>1772</td>
+      <td>trykt</td>
+      <td>272</td>
+    </tr>
+    <tr>
+      <th>524686</th>
+      <td>s</td>
+      <td>v</td>
+      <td>266</td>
+    </tr>
+    <tr>
+      <th>461193</th>
+      <td>o</td>
+      <td>s</td>
+      <td>266</td>
+    </tr>
+    <tr>
+      <th>340844</th>
+      <td>intet</td>
+      <td>andet</td>
+      <td>262</td>
+    </tr>
+    <tr>
+      <th>381451</th>
+      <td>lang</td>
+      <td>tid</td>
+      <td>251</td>
+    </tr>
+    <tr>
+      <th>358414</th>
+      <td>kiøbenhavn</td>
+      <td>1772</td>
+      <td>228</td>
+    </tr>
+    <tr>
+      <th>368694</th>
+      <td>kort</td>
+      <td>tid</td>
+      <td>220</td>
+    </tr>
+    <tr>
+      <th>364293</th>
+      <td>kong</td>
+      <td>christian</td>
+      <td>218</td>
+    </tr>
+    <tr>
+      <th>200040</th>
+      <td>findes</td>
+      <td>tilkiøbs</td>
+      <td>207</td>
+    </tr>
+    <tr>
+      <th>191</th>
+      <td>1</td>
+      <td>ark</td>
+      <td>206</td>
+    </tr>
+    <tr>
+      <th>349143</th>
+      <td>junior</td>
+      <td>philopatreias</td>
+      <td>200</td>
+    </tr>
+    <tr>
+      <th>839</th>
+      <td>1/2</td>
+      <td>ark</td>
+      <td>195</td>
+    </tr>
+    <tr>
+      <th>392811</th>
+      <td>ligesaa</td>
+      <td>lidet</td>
+      <td>182</td>
+    </tr>
+    <tr>
+      <th>23815</th>
+      <td>4</td>
+      <td>skilling</td>
+      <td>176</td>
+    </tr>
+    <tr>
+      <th>581354</th>
+      <td>stor</td>
+      <td>1</td>
+      <td>175</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
+</div>
+</section>
+<section id="search-for-specific-bigrams-e-g-where-word2-matches-a-pattern">
+<h2>7. Search for Specific Bigrams (e.g., where word2 matches a pattern)<a class="headerlink" href="#search-for-specific-bigrams-e-g-where-word2-matches-a-pattern" title="Link to this heading">#</a></h2>
+<p>We can filter bigrams where word2 matches a specific pattern, e.g., words starting with ‘gud’.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">pattern</span> <span class="o">=</span> <span class="sa">r</span><span class="s1">&#39;\bgud[a-zæø]*&#39;</span>
+<span class="n">match_bigrams</span> <span class="o">=</span> <span class="n">bigrams_filtered</span><span class="p">[</span><span class="n">bigrams_filtered</span><span class="p">[</span><span class="s1">&#39;word2&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">str</span><span class="o">.</span><span class="n">contains</span><span class="p">(</span><span class="n">pattern</span><span class="p">,</span> <span class="n">regex</span><span class="o">=</span><span class="kc">True</span><span class="p">)]</span>
+<span class="n">match_counts</span> <span class="o">=</span> <span class="n">match_bigrams</span><span class="o">.</span><span class="n">groupby</span><span class="p">([</span><span class="s1">&#39;word1&#39;</span><span class="p">,</span> <span class="s1">&#39;word2&#39;</span><span class="p">])</span><span class="o">.</span><span class="n">size</span><span class="p">()</span><span class="o">.</span><span class="n">reset_index</span><span class="p">(</span><span class="n">name</span><span class="o">=</span><span class="s1">&#39;count&#39;</span><span class="p">)</span>
+<span class="n">match_counts</span> <span class="o">=</span> <span class="n">match_counts</span><span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="s1">&#39;count&#39;</span><span class="p">,</span> <span class="n">ascending</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+<span class="n">display</span><span class="p">(</span><span class="n">match_counts</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">20</span><span class="p">))</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>word1</th>
+      <th>word2</th>
+      <th>count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1523</th>
+      <td>o</td>
+      <td>gud</td>
+      <td>95</td>
+    </tr>
+    <tr>
+      <th>1145</th>
+      <td>imod</td>
+      <td>gud</td>
+      <td>83</td>
+    </tr>
+    <tr>
+      <th>1935</th>
+      <td>store</td>
+      <td>gud</td>
+      <td>47</td>
+    </tr>
+    <tr>
+      <th>2011</th>
+      <td>takke</td>
+      <td>gud</td>
+      <td>38</td>
+    </tr>
+    <tr>
+      <th>816</th>
+      <td>frygte</td>
+      <td>gud</td>
+      <td>35</td>
+    </tr>
+    <tr>
+      <th>993</th>
+      <td>herre</td>
+      <td>gud</td>
+      <td>32</td>
+    </tr>
+    <tr>
+      <th>1195</th>
+      <td>jordens</td>
+      <td>guder</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <th>1148</th>
+      <td>imod</td>
+      <td>guds</td>
+      <td>31</td>
+    </tr>
+    <tr>
+      <th>913</th>
+      <td>gode</td>
+      <td>gud</td>
+      <td>29</td>
+    </tr>
+    <tr>
+      <th>1791</th>
+      <td>sande</td>
+      <td>gud</td>
+      <td>28</td>
+    </tr>
+    <tr>
+      <th>1794</th>
+      <td>sande</td>
+      <td>guds</td>
+      <td>21</td>
+    </tr>
+    <tr>
+      <th>821</th>
+      <td>frygter</td>
+      <td>gud</td>
+      <td>21</td>
+    </tr>
+    <tr>
+      <th>531</th>
+      <td>elske</td>
+      <td>gud</td>
+      <td>21</td>
+    </tr>
+    <tr>
+      <th>2042</th>
+      <td>tiene</td>
+      <td>gud</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <th>241</th>
+      <td>bede</td>
+      <td>gud</td>
+      <td>19</td>
+    </tr>
+    <tr>
+      <th>1217</th>
+      <td>kiende</td>
+      <td>gud</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <th>1706</th>
+      <td>retfærdige</td>
+      <td>gud</td>
+      <td>17</td>
+    </tr>
+    <tr>
+      <th>159</th>
+      <td>almægtige</td>
+      <td>gud</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <th>937</th>
+      <td>gudernes</td>
+      <td>gud</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <th>1787</th>
+      <td>sand</td>
+      <td>gudsfrygt</td>
+      <td>16</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
+</div>
+</section>
+<section id="visualization-as-network-graph">
+<h2>8. Visualization as Network Graph<a class="headerlink" href="#visualization-as-network-graph" title="Link to this heading">#</a></h2>
+<p>We can visualize the most frequent bigrams as a network graph.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Select bigrams that occur more than e.g., 8 times</span>
+<span class="n">threshold</span> <span class="o">=</span> <span class="mi">8</span>
+<span class="n">graph_data</span> <span class="o">=</span> <span class="n">match_counts</span><span class="p">[</span><span class="n">match_counts</span><span class="p">[</span><span class="s1">&#39;count&#39;</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">threshold</span><span class="p">]</span>
+
+<span class="n">G</span> <span class="o">=</span> <span class="n">nx</span><span class="o">.</span><span class="n">DiGraph</span><span class="p">()</span>
+<span class="k">for</span> <span class="n">_</span><span class="p">,</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">graph_data</span><span class="o">.</span><span class="n">iterrows</span><span class="p">():</span>
+    <span class="n">G</span><span class="o">.</span><span class="n">add_edge</span><span class="p">(</span><span class="n">row</span><span class="p">[</span><span class="s1">&#39;word1&#39;</span><span class="p">],</span> <span class="n">row</span><span class="p">[</span><span class="s1">&#39;word2&#39;</span><span class="p">],</span> <span class="n">weight</span><span class="o">=</span><span class="n">row</span><span class="p">[</span><span class="s1">&#39;count&#39;</span><span class="p">])</span>
+
+<span class="n">plt</span><span class="o">.</span><span class="n">figure</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">12</span><span class="p">,</span> <span class="mi">8</span><span class="p">))</span>
+<span class="n">pos</span> <span class="o">=</span> <span class="n">nx</span><span class="o">.</span><span class="n">spring_layout</span><span class="p">(</span><span class="n">G</span><span class="p">,</span> <span class="n">k</span><span class="o">=</span><span class="mf">0.5</span><span class="p">)</span>
+<span class="n">edges</span> <span class="o">=</span> <span class="n">G</span><span class="o">.</span><span class="n">edges</span><span class="p">()</span>
+<span class="n">weights</span> <span class="o">=</span> <span class="p">[</span><span class="n">G</span><span class="p">[</span><span class="n">u</span><span class="p">][</span><span class="n">v</span><span class="p">][</span><span class="s1">&#39;weight&#39;</span><span class="p">]</span> <span class="k">for</span> <span class="n">u</span><span class="p">,</span><span class="n">v</span> <span class="ow">in</span> <span class="n">edges</span><span class="p">]</span>
+<span class="n">nx</span><span class="o">.</span><span class="n">draw</span><span class="p">(</span><span class="n">G</span><span class="p">,</span> <span class="n">pos</span><span class="p">,</span> <span class="n">with_labels</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">node_color</span><span class="o">=</span><span class="s1">&#39;lightgreen&#39;</span><span class="p">,</span> <span class="n">edge_color</span><span class="o">=</span><span class="n">weights</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mf">2.0</span><span class="p">,</span> <span class="n">edge_cmap</span><span class="o">=</span><span class="n">plt</span><span class="o">.</span><span class="n">cm</span><span class="o">.</span><span class="n">Greens</span><span class="p">,</span> <span class="n">arrows</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">&#39;Network Graph of Frequent Bigrams&#39;</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<img alt="_images/58eac1145f3b6baaaa855743ffd903cba138ed7180581f306f0839326d19723e.png" src="_images/58eac1145f3b6baaaa855743ffd903cba138ed7180581f306f0839326d19723e.png" />
+</div>
+</div>
+</section>
+<section id="save-graph-and-results">
+<h2>9. Save Graph and Results<a class="headerlink" href="#save-graph-and-results" title="Link to this heading">#</a></h2>
+<p>You can save the graph and results as CSV files.</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">bigram_counts_filtered</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s1">&#39;results_bigrams_filtered.csv&#39;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+<span class="n">match_counts</span><span class="o">.</span><span class="n">to_csv</span><span class="p">(</span><span class="s1">&#39;results_bigrams_match.csv&#39;</span><span class="p">,</span> <span class="n">index</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">savefig</span><span class="p">(</span><span class="s1">&#39;graphics/bigram_network.png&#39;</span><span class="p">,</span> <span class="n">bbox_inches</span><span class="o">=</span><span class="s1">&#39;tight&#39;</span><span class="p">,</span> <span class="n">dpi</span><span class="o">=</span><span class="mi">150</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Results and graph saved.&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Results and graph saved.
+</pre></div>
+</div>
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;Figure size 640x480 with 0 Axes&gt;
+</pre></div>
+</div>
+</div>
+</div>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="TextMining_Freedom_Press_Writings.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Textmining Trykkefrihedens Skrifter</p>
+      </div>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">1. Install and Import Dependencies</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">2. Load Data</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#formation-of-bigrams">3. Formation of Bigrams</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-bigrams">4. Count Bigrams</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#remove-bigrams-where-one-of-the-words-is-a-stopword">5. Remove Bigrams Where One of the Words is a Stopword</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-filtered-bigrams">6. Count Filtered Bigrams</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#search-for-specific-bigrams-e-g-where-word2-matches-a-pattern">7. Search for Specific Bigrams (e.g., where word2 matches a pattern)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualization-as-network-graph">8. Visualization as Network Graph</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-graph-and-results">9. Save Graph and Results</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Det Kgl. Bibliotek
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2023.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>

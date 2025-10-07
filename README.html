@@ -1,0 +1,689 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="./" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Textmining Trykkefrihedens Skrifter - Python Jupyter Notebook Version &#8212; Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="_static/copybutton.js?v=f281be69"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js?v=4a39c7ea"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'README';</script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+        
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="intro.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="_static/DKB logo expanded black RGB.png" class="logo__image only-light" alt="Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv - Home"/>
+    <script>document.write(`<img src="_static/DKB logo expanded black RGB.png" class="logo__image only-dark" alt="Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="intro.html">
+                    Guides to the Royal Danish Library’s Digital Cultural Heritage
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (ADL)</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Explore%20the%20ADL%20dataset.html">Explore the ADL dataset</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Flora Danica</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Clean%20the%20Flora%20Danica%20dataset.html">Clean the Flora Danica dataset</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Visualise%20the%20Flora%20Danicas%20metadata.html">Visualise the Flora Danica metadata</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Change%20size%20on%20tiff%20files%20of%20Flora%20Danica.html">Resize Flora Danica TIFF images</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Copenhagen Diplomatarium</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Explore%20the%20kd%20dataset.html">Explore medieval Danish documents</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Trykkefrihedens Skrifter (Freedom of the Press)</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="TextMining_Freedom_Press_Writings.html">Text Mining Freedom of Press Writings</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Bigrams_Freedom_Press_Writings.html">Bigram Analysis of Freedom of Press</a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/kb-dk/Vejledninger-til-Det-Kgl.-Biblioteks-Digitale-Kulturarv" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/kb-dk/Vejledninger-til-Det-Kgl.-Biblioteks-Digitale-Kulturarv/issues/new?title=Issue%20on%20page%20%2FREADME.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/README.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Textmining Trykkefrihedens Skrifter - Python Jupyter Notebook Version</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#features">Features</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#notebooks">Notebooks</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#textmining-trykkefrihedens-skrifter-ipynb">1. TextMining_Trykkefrihedens_Skrifter.ipynb</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#bigrams-trykkefrihedens-skrifter-ipynb">2. Bigrams_Trykkefrihedens_Skrifter.ipynb</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#installation">Installation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#usage">Usage</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#notebook-structure">Notebook Structure</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#text-mining-notebook">Text Mining Notebook:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#bigram-analysis-notebook">Bigram Analysis Notebook:</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#data-structure">Data Structure</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#notes">Notes</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="textmining-trykkefrihedens-skrifter-python-jupyter-notebook-version">
+<h1>Textmining Trykkefrihedens Skrifter - Python Jupyter Notebook Version<a class="headerlink" href="#textmining-trykkefrihedens-skrifter-python-jupyter-notebook-version" title="Link to this heading">#</a></h1>
+<p>This project provides Jupyter Notebooks for text mining analysis of “Trykkefrihedens Skrifter” (Freedom of the Press Writings), replicating the original R workflow in Python. The notebooks guide you through data loading, tokenization, stopword removal, word frequency analysis, filtered analysis, keyword-in-context (KWIC) analysis, and bigram analysis.</p>
+<section id="features">
+<h2>Features<a class="headerlink" href="#features" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p><strong>Interactive Jupyter Notebooks</strong>: All steps are divided into clear code and markdown cells with explanations</p></li>
+<li><p><strong>Data Loading</strong>: Reads structured CSV data from Trykkefrihedens Skrifter</p></li>
+<li><p><strong>Regex Tokenization</strong>: Splits text into words using a regex pattern</p></li>
+<li><p><strong>Stopword Removal</strong>: Handles Danish, German, and project-specific stopwords</p></li>
+<li><p><strong>Word Frequency Analysis</strong>: Counts and ranks word frequencies</p></li>
+<li><p><strong>Filtered Analysis</strong>: Focuses on Række 1, Bind 5+6 (Landøkonomi)</p></li>
+<li><p><strong>Keyword-in-Context (KWIC)</strong>: Finds and displays context for keywords (e.g., ‘jord’)</p></li>
+<li><p><strong>Bigram Analysis</strong>: Analyzes word pairs and their frequencies</p></li>
+<li><p><strong>Network Visualization</strong>: Creates network graphs of frequent bigrams</p></li>
+<li><p><strong>Results Export</strong>: Saves results to CSV files for further analysis</p></li>
+</ul>
+</section>
+<section id="notebooks">
+<h2>Notebooks<a class="headerlink" href="#notebooks" title="Link to this heading">#</a></h2>
+<section id="textmining-trykkefrihedens-skrifter-ipynb">
+<h3>1. TextMining_Trykkefrihedens_Skrifter.ipynb<a class="headerlink" href="#textmining-trykkefrihedens-skrifter-ipynb" title="Link to this heading">#</a></h3>
+<p>Main text mining workflow including:</p>
+<ul class="simple">
+<li><p>Word frequency analysis</p></li>
+<li><p>Stopword removal</p></li>
+<li><p>Keyword-in-context analysis</p></li>
+<li><p>Filtered analysis (Række 1, Bind 5+6)</p></li>
+</ul>
+</section>
+<section id="bigrams-trykkefrihedens-skrifter-ipynb">
+<h3>2. Bigrams_Trykkefrihedens_Skrifter.ipynb<a class="headerlink" href="#bigrams-trykkefrihedens-skrifter-ipynb" title="Link to this heading">#</a></h3>
+<p>Bigram (word pair) analysis including:</p>
+<ul class="simple">
+<li><p>Bigram formation and counting</p></li>
+<li><p>Stopword filtering for bigrams</p></li>
+<li><p>Regex pattern matching</p></li>
+<li><p>Network graph visualization</p></li>
+<li><p>Bigram frequency analysis</p></li>
+</ul>
+</section>
+</section>
+<section id="installation">
+<h2>Installation<a class="headerlink" href="#installation" title="Link to this heading">#</a></h2>
+<ol class="arabic">
+<li><p><strong>Install Python dependencies:</strong></p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>pip<span class="w"> </span>install<span class="w"> </span>pandas<span class="w"> </span>numpy<span class="w"> </span>nltk<span class="w"> </span>matplotlib<span class="w"> </span>seaborn<span class="w"> </span>networkx
+</pre></div>
+</div>
+</li>
+<li><p><strong>Download NLTK data:</strong>
+The notebooks will attempt to download required NLTK data (stopwords, punkt) automatically. If you encounter issues, run these in a Python shell:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">nltk</span>
+<span class="n">nltk</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="s1">&#39;punkt&#39;</span><span class="p">)</span>
+<span class="n">nltk</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="s1">&#39;stopwords&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+</li>
+</ol>
+</section>
+<section id="usage">
+<h2>Usage<a class="headerlink" href="#usage" title="Link to this heading">#</a></h2>
+<ol class="arabic simple">
+<li><p><strong>Open the notebooks:</strong></p>
+<ul class="simple">
+<li><p>Launch Jupyter Notebook or JupyterLab in your project directory.</p></li>
+<li><p>Open either <code class="docutils literal notranslate"><span class="pre">TextMining_Trykkefrihedens_Skrifter.ipynb</span></code> or <code class="docutils literal notranslate"><span class="pre">Bigrams_Trykkefrihedens_Skrifter.ipynb</span></code>.</p></li>
+</ul>
+</li>
+<li><p><strong>Check your data files:</strong></p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">tfs_data/tfs_structured.csv</span></code> — Main text data</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">tfs_data/tfs_stopord.csv</span></code> — Project-specific stopwords</p></li>
+</ul>
+</li>
+<li><p><strong>Run the notebooks:</strong></p>
+<ul class="simple">
+<li><p>Execute each cell in order. Read the markdown explanations for guidance.</p></li>
+<li><p>The notebooks will display word frequencies, bigram analysis, and visualizations.</p></li>
+</ul>
+</li>
+<li><p><strong>View and use results:</strong></p>
+<ul class="simple">
+<li><p>Output CSV files will be saved in your project directory:</p>
+<ul>
+<li><p><code class="docutils literal notranslate"><span class="pre">results_word_frequencies_all.csv</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">results_word_frequencies_filtered.csv</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">results_kwic_jord.csv</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">results_bigrams_filtered.csv</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">results_bigrams_match.csv</span></code></p></li>
+</ul>
+</li>
+<li><p>Network graphs will be saved as PNG files in the <code class="docutils literal notranslate"><span class="pre">graphics/</span></code> folder.</p></li>
+</ul>
+</li>
+</ol>
+</section>
+<section id="notebook-structure">
+<h2>Notebook Structure<a class="headerlink" href="#notebook-structure" title="Link to this heading">#</a></h2>
+<section id="text-mining-notebook">
+<h3>Text Mining Notebook:<a class="headerlink" href="#text-mining-notebook" title="Link to this heading">#</a></h3>
+<ol class="arabic simple">
+<li><p><strong>Title &amp; Introduction</strong> — Overview of the workflow</p></li>
+<li><p><strong>Install and Import Dependencies</strong> — Required packages and setup</p></li>
+<li><p><strong>Load Data</strong> — Read main data and stopwords</p></li>
+<li><p><strong>Tokenization with Regex</strong> — Split text into words</p></li>
+<li><p><strong>Stopword Handling</strong> — Remove Danish, German, and project-specific stopwords</p></li>
+<li><p><strong>Word Frequency Analysis</strong> — Count and display word frequencies</p></li>
+<li><p><strong>Filtered Analysis</strong> — Focus on Række 1, Bind 5+6</p></li>
+<li><p><strong>Keyword-in-Context (KWIC) Analysis</strong> — Find context for keywords</p></li>
+<li><p><strong>Save Results</strong> — Export results to CSV</p></li>
+<li><p><strong>Conclusion</strong> — Summary and next steps</p></li>
+</ol>
+</section>
+<section id="bigram-analysis-notebook">
+<h3>Bigram Analysis Notebook:<a class="headerlink" href="#bigram-analysis-notebook" title="Link to this heading">#</a></h3>
+<ol class="arabic simple">
+<li><p><strong>Title &amp; Introduction</strong> — Overview of bigram analysis</p></li>
+<li><p><strong>Install and Import Dependencies</strong> — Required packages and setup</p></li>
+<li><p><strong>Load Data</strong> — Read main data and stopwords</p></li>
+<li><p><strong>Formation of Bigrams</strong> — Create word pairs from text</p></li>
+<li><p><strong>Count Bigrams</strong> — Count bigram frequencies</p></li>
+<li><p><strong>Remove Bigrams with Stopwords</strong> — Filter out stopwords from bigrams</p></li>
+<li><p><strong>Count Filtered Bigrams</strong> — Count frequencies after filtering</p></li>
+<li><p><strong>Search for Specific Bigrams</strong> — Regex pattern matching</p></li>
+<li><p><strong>Visualization as Network Graph</strong> — Create network visualizations</p></li>
+<li><p><strong>Save Graph and Results</strong> — Export results and visualizations</p></li>
+</ol>
+</section>
+</section>
+<section id="data-structure">
+<h2>Data Structure<a class="headerlink" href="#data-structure" title="Link to this heading">#</a></h2>
+<p>The notebooks expect the following columns in <code class="docutils literal notranslate"><span class="pre">tfs_structured.csv</span></code>:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">refnr</span></code>: Reference number</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">række</span></code>: Series number</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">bind</span></code>: Volume number</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">side</span></code>: Page number</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">content</span></code>: Text content</p></li>
+</ul>
+</section>
+<section id="notes">
+<h2>Notes<a class="headerlink" href="#notes" title="Link to this heading">#</a></h2>
+<ul class="simple">
+<li><p>The workflow is now fully interactive and notebook-based.</p></li>
+<li><p>You can further explore, visualize, or adapt the analysis as needed.</p></li>
+<li><p>If you need to add new analyses or visualizations, simply add new cells to the notebooks.</p></li>
+<li><p>The bigram analysis provides insights into word co-occurrence patterns.</p></li>
+</ul>
+<hr class="docutils" />
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#features">Features</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#notebooks">Notebooks</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#textmining-trykkefrihedens-skrifter-ipynb">1. TextMining_Trykkefrihedens_Skrifter.ipynb</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#bigrams-trykkefrihedens-skrifter-ipynb">2. Bigrams_Trykkefrihedens_Skrifter.ipynb</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#installation">Installation</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#usage">Usage</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#notebook-structure">Notebook Structure</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#text-mining-notebook">Text Mining Notebook:</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#bigram-analysis-notebook">Bigram Analysis Notebook:</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#data-structure">Data Structure</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#notes">Notes</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Det Kgl. Bibliotek
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2023.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
