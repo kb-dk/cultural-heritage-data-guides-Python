@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--shit-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="root" status="published">
+  <teiHeader xml:id="idm140619201139552">
+    <fileDesc xml:id="idm140619169428720">
+      <titleStmt xml:id="idm140619190755952">
+        <title xml:id="idm140619203173824">En  Pariserfærd i Efteraaret 1866 - Breve til hjemmet fra fabrikant C. Sødring og hustru Julie Sødring</title>
+        <!-- OCR: En Pariserfærd I Efteraaret 1866-->
+        <author n="1">Marius Frederik Carl Adolph Sødring, 1858-</author>
+        <!-- OCR: M. F. Sødring-->
+      </titleStmt>
+      <publicationStmt xml:id="idm140619200724544">
+        <publisher xml:id="idm140619200791920">J. Frimodts</publisher>
+        <pubPlace xml:id="idm140619163987008">København</pubPlace>
+        <date>1916</date>
+      </publicationStmt>
+      <idno>letter_books/002086735/002086735_000</idno>
+      <sourceDesc>
+        <bibl>
+          <!-- This is where we expect metadata for the analogue source in ADL -->
+        </bibl>
+        <listBibl>
+          <bibl xml:id="bibL0020867350000001" status="completed">
+            <date xml:id="idm546b964f-742b-4778-aa99-ef96f584720a">1866-09-05</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmff1857a1-124c-4262-aa11-bdd89ca787e7">
+              <resp>sender</resp>
+              <name xml:id="personidm140619108087648" ref="7c/72/db/49/7c72db49-ab65-485e-bd37-4b230b84599f"><surname>Sødring</surname>,
+      <forename>Julie Weber</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm9f83b910-1ef9-4895-ac47-bb433dff43e5">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619108086000" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+              <name xml:id="personpersonfcffd9e9-c02b-41d1-a5e7-2591491086fa" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson883ce48d-7868-4852-9dc9-ea14901da317" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personpersonb1c3bdfb-87c8-4348-97a2-13afca08bd27" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson88ba4b44-14fe-4a05-84ac-b16e094c9511" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmdb8b5249-3344-4e31-bdf1-3ea33c44473b">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000002" status="completed">
+            <date xml:id="idmdc6a44b9-ef5a-4d5c-b146-b5775f63529c">1866-09-05</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm198fc07b-82f9-4574-9e9c-2fd23eb523bd">
+              <resp>sender</resp>
+              <name xml:id="personidm140619108076704" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4e16fd7b-b2b9-4fc3-91f1-a03f8e85940d">
+              <resp>recipient</resp>
+              <name xml:id="personpersona7f3eb6a-5707-4f03-a41a-315ab2101fc7" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson83f9ab74-2a1d-4f45-be8b-6d49e8a59f31" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personpersonb1a1b370-9323-42d4-8abd-1b439ca26383" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson776d7687-e9e9-43df-b3c5-59a11a142043" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personperson7f6bee3f-5098-4126-99da-90d04e268d66" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm120b877c-6ff6-4002-8867-aafa6ff4cb3d">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000003" status="completed">
+            <date xml:id="idm32bd4407-8802-44ff-9a1d-b1a151286fba">1866-09-01/1866-11-30</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm8392cc87-fa60-4a61-9860-afe403c8a874">
+              <resp>sender</resp>
+              <name xml:id="personidm140619108069952" ref="7c/72/db/49/7c72db49-ab65-485e-bd37-4b230b84599f"><surname>Sødring</surname>,
+      <forename>Julie Weber</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmaedcf9c0-0cf0-46c3-bc78-c5bc62f8fb0d">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619108067920" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson846daaeb-b4f3-4645-9dad-743c2bac689c" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson50410d44-3746-4636-a77e-4f4b08be72a2" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson018d8f55-553d-4b84-ac3a-5b8b384bab33" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personperson12d676a3-14c0-4c23-a121-594e836494f8" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm4149a8f5-f382-4fc3-a9d6-efd547af2d9c">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000004" status="completed">
+            <date xml:id="idm9621eacb-3fbc-4b87-b7a5-52fede72f336">1866-09-07</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmed8364a0-1385-4c04-89b6-47bcc18aa0d5">
+              <resp>sender</resp>
+              <name xml:id="personidm140619108053328" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm35329a3c-6106-4d8e-900b-9b3d5e86956a">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619108050784" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson8dfb555d-c8ea-4de1-ac16-183a4f2d2b1c" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson6ba3454a-098c-4536-ae80-297d49444882" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson8f17fad9-0e97-4031-aaa6-165037533790" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personperson5858a8f5-eff1-407e-a873-57f06e6b8ede" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmfd06a0c6-557a-4461-8e4b-9d1f7aaa732c">
+              <placeName>Paris</placeName>
+            </location>
+            <location type="recipient" xml:id="idm99b545ed-bc95-4e4a-9349-c6b11045ede5">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000005" status="completed">
+            <date xml:id="idmb87c0c5c-552a-469e-a6aa-d579ca126e19">1866-09-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm1a5268d9-957a-4924-b3bb-896af0e4206d">
+              <resp>sender</resp>
+              <name xml:id="personidm140619108037936" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmfa13fa7a-3b44-42c0-8de1-6cce7b1bc56c">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619108035904" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson0e208acd-f02e-48b3-9f4c-0b2addb29322" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personpersonf65a165e-354e-4692-8a85-5419a543c129" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personpersonc6e61443-ea5e-4e5d-87fb-1c8e7d7d27ee" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personpersonf3183960-0ff8-4cff-953c-494625e5325c" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm12d5accb-8c0b-46b0-83fd-318e6a8ef8ea">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000006" status="completed">
+            <date xml:id="idmde4001a3-9cc9-4f6f-a4e9-839b6a424609">1866-09-10</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm08b02404-6810-40c5-9d38-e3e3533260fa">
+              <resp>sender</resp>
+              <name xml:id="personidm140619108018384" ref="7c/72/db/49/7c72db49-ab65-485e-bd37-4b230b84599f"><surname>Sødring</surname>,
+      <forename>Julie Weber</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme07f34ca-4389-4c06-947b-93ef98dc3aa1">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160106896" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson2a4c1477-1f9c-47cd-9064-88c780b942b1" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson86c9d2ae-ebef-482e-9618-02fe32e97757" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personpersonb126770b-93dd-47d8-b384-e858440f186f" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personpersonbd6338f7-cb92-4f56-b076-cc3fb81805c2" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm82ceb8b3-d159-4130-83b8-b0e50d194c12">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000007" status="completed">
+            <date xml:id="idm99b8bf8c-91d8-46b5-9b48-6e5207b2a724">1866-09-01/1866-11-30</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmecafe0d5-7d1d-437a-845b-00baecaa4cab">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160097120" ref="7c/72/db/49/7c72db49-ab65-485e-bd37-4b230b84599f"><surname>Sødring</surname>,
+      <forename>Julie Weber</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf18ee56a-8011-47bd-bd53-54eea114fe4b">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160096112" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson86d67969-402b-40e4-8216-1300c9474fd6" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson1ae0f7fb-1549-4fff-b65d-4edbebf0f9c4" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson6f69e63c-bc8d-44e2-8cde-9963fda0b646" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personpersonfa933ccb-2194-4b38-81ee-d2683afed42e" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm99d00b7a-bd38-4517-86be-dcffd1ff1b21">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000008" status="completed">
+            <date xml:id="idm2bdbdbc9-28b6-4f61-b75f-e986eacfa3ed">1866-09-01/1866-11-30</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf15a86b3-1420-459d-9582-7f1fd15c0196">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160082864" ref="7c/72/db/49/7c72db49-ab65-485e-bd37-4b230b84599f"><surname>Sødring</surname>,
+      <forename>Julie Weber</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm028ddc99-2160-46b0-8a91-76009533b77d">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160081216" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personpersona97359d0-ff9e-41da-be49-2c4f0cb0c629" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personpersond9c9e6d9-8c39-4724-b3dc-f99a393dc983" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personpersonddd72e5b-0690-4502-9b84-e4c3cede5888" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personperson863b67f6-2d17-4721-a17f-5aebc376a5cf" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm5c0cef7d-499e-4a54-a321-9d2b069e51ac">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000009" status="completed">
+            <date xml:id="idm7f198182-cbbb-4b3b-9cc4-9ec83f30e647">1866-09-01/1866-11-30</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm6cb622ef-d734-4014-a5b9-50e77b7de154">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160066720" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb04bf7c6-0c00-458e-a087-f85adbd9d7e2">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160065712" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personpersonc10de39d-c48c-4f5d-b4bb-2dd7568b79d9" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+              <name xml:id="personpersonaf95ca54-3ac9-4f8e-ae18-d7929513df8d" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson8e1599c7-071b-4279-9f19-a1f599f780a2" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personpersonf9840ddf-9b6f-479d-a7e0-a73e2eb664cf" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm646ab6d3-f123-4718-a1cb-e0e96f986acc">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000010" status="completed">
+            <date xml:id="idmdc2afc91-2373-49d6-a740-0b5799313dae">1866-09-16</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmd498f864-b6e2-49a8-8602-db0bead2c691">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160055312" ref="7c/72/db/49/7c72db49-ab65-485e-bd37-4b230b84599f"><surname>Sødring</surname>,
+      <forename>Julie Weber</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm589b20e2-72ba-4a96-b2ea-8c7846f94e20">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160053728" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson4966d479-b378-4d28-be93-426cbccb534b" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personpersonaefad6d5-28f1-47c3-97df-5e1f11a5db0c" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personpersondd930cca-db5b-473f-acdc-e5605d06d435" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personpersone55bbf5e-65c7-4912-a8f6-4597655b7d1c" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idme3dd4f34-7e8f-45d8-af8d-71c43dda3305">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000011" status="completed">
+            <date xml:id="idm7c0d115e-d21b-4586-87a0-21131f708b6c">1866-09-16</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm1362ff25-bb17-4111-b7f1-1c79adada66d">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160034224" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb4ed0b5c-1154-417a-941f-255957ac25c3">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160032192" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personpersond32d71aa-122a-4e37-9a6f-d1d0c97d11f5" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personpersonec11b148-dcd8-4137-9d5b-2d25da0c6d40" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson2f80a782-26bd-4b39-b0ba-bdc0aad6d8d3" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personpersond127ce42-7a6e-4020-8ea2-de39963a3b39" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idma4bbb110-6dde-428d-8486-170b7338936a">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000012" status="completed">
+            <date xml:id="idm2b31af36-b098-4540-a154-cc32d8f4104c">1866-09-17</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmdc973145-4d50-4fd0-8895-016bee36e923">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160015904" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm03537740-ae72-46e7-8c10-7ce069a77817">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160014256" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson54b81d7c-ba21-4e0d-9122-dddcec1e04e5" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson10f9f268-fffe-4905-9af3-66d1a1be05cd" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson2c0c9fe3-2840-4f6a-8566-943d859dc954" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personperson738a5027-5111-4feb-9e66-a054be432a8c" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm7087928c-0f2e-4e45-b2ce-0961dcb60f29">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000013" status="completed">
+            <date xml:id="idm34eb5a8a-96c9-4527-9599-bfd90549a9fe">1866-09-01/1866-11-30</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm47ab6fbf-ddf8-4cd0-af98-22708a63d403">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160004576" ref="7c/72/db/49/7c72db49-ab65-485e-bd37-4b230b84599f"><surname>Sødring</surname>,
+      <forename>Julie Weber</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm47384d3d-4fb6-4ada-8f3e-63054b6b4262">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160003312" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson896499e6-f807-4ec6-a616-752d3fa28945" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson211eea78-3466-4247-8447-6f49ca165485" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personpersonf7a23040-dd41-4d3a-a044-2514b7d30077" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personperson6afd2f06-090e-4120-8f87-345aad9b8526" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm384a0db6-b4de-47fb-bcae-54ab5d04c3a6">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000014" status="completed">
+            <date xml:id="idmbb48e552-3bc2-43a7-abd0-6a84c3fe5de5">1866-09-20</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm6fdbecf6-46ea-4a25-9380-5b26fbf61562">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159984000" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm9dec0947-7d94-44a3-a032-bc75fa2d6693">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619159981968" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personpersone8f95923-e2a6-404d-850a-49f38a06a0b7" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personpersone52b0d60-2c11-4be6-95a9-e0ff31e72db3" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson69f9981a-a7f4-43e9-a14d-0b05dba07bc2" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personperson9e14eb49-e8d9-4020-b645-e2a30daaad31" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm058db334-66ff-4ab3-8a1b-566328cc1be0">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000015" status="completed">
+            <date xml:id="idm27de42e3-11a4-424e-8677-96db103a5fec">1866-09-22</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idma8549719-6111-4a10-860d-3d0f966ba058">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159967056" ref="7c/72/db/49/7c72db49-ab65-485e-bd37-4b230b84599f"><surname>Sødring</surname>,
+      <forename>Julie Weber</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm64ace842-2ef8-4bb4-b9fc-581c73a9f432">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158315120" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personpersona59f3d16-1a98-46be-b6d0-6fad87f77d7a" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson2f9d63e3-f1dd-4082-a7ce-9ad87ea28717" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personpersonb50b2e79-3ec0-4afc-957b-72cab84ab1d7" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+              <name xml:id="personpersone308d5ff-17a1-4c51-a4e5-fc382398fb2f" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm493314db-6c4f-47f9-a884-1b505ea11e2b">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000016" status="completed">
+            <date xml:id="idmeb9e4890-5611-4394-8be7-f29e4b29b03d">1866-09-23</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmda7c94d9-18d4-4a38-8de2-936652d171b7">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159930640" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm88e5f5d4-57d0-464a-bc23-321fb2884083">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619159928608" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson8b196e8c-a1f1-4e01-81c7-d34dfcc98b5d" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson7bf5feb9-7113-410f-b836-ad516ce0a5b5" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson2ef9a97f-f65d-49da-810c-e5315c3a74cf" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+              <name xml:id="personpersonbc9cc0e3-d699-4cd3-b9cc-0dfb197e6ec2" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm9576643e-61bd-45fd-a935-54768fe5342b">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000017" status="completed">
+            <date xml:id="idm1bc030ea-9d35-47cd-bc8a-34ab33f9548a">1866-09-26</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm8da235a4-c246-4d14-8559-6bce0eec514c">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159909136" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf2578826-9d6b-47da-90af-66cc0747b54b">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619159907104" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson1aa551b5-313e-47bf-9fa4-584d1821a798" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personpersondf7a8c66-159b-4dcc-8fad-9545d7ea27c4" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson067b1c0d-cc3e-4a90-a9b2-004f8d3ec125" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+              <name xml:id="personpersoncd96d34f-35e8-4d71-9a42-1f77bfac0c24" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idma17a1b0d-ff61-49e1-830e-b24c149aef63">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000018" status="completed">
+            <date xml:id="idmb822bd43-2918-4a0e-bd1f-59669e32d344">1866-09-29</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm1802f2a0-7c7b-49b8-8bb6-40728b21e79f">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159879216" ref="7c/72/db/49/7c72db49-ab65-485e-bd37-4b230b84599f"><surname>Sødring</surname>,
+      <forename>Julie Weber</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm3cfa3823-4f74-48f9-a572-7ec0ac88a4db">
+              <resp>recipient</resp>
+              <name xml:id="personperson7793cef8-d6f6-4049-90f7-899644dfea38" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson8e30f4e1-f685-41e8-959c-8d8a73981873" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personpersonf735f42f-f703-40a9-9666-145e11b85027" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson65703d93-8bae-4df6-8b22-42150f5564f9" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personperson9087ac6f-9281-417a-af9c-078352f69b42" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm84400acc-5b6a-490d-898b-7ad58db146e2">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000019" status="completed">
+            <date xml:id="idma60a2a2e-a3dc-4317-b3a1-314a0d8205d0">1866-09-29</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm7ef2681c-52c7-4df4-b517-dc7380e207f7">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159861952" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm9583ca78-a912-45d3-9b2f-46d85ad254c5">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619159859920" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personpersonc0897c05-832f-41a3-b4ee-3cf84dc7994a" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personpersone6336a08-7ab6-4d39-b2bd-3a1cc5ae5495" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personpersonb13a97bb-bf15-4354-ac29-526bb6cf6415" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+              <name xml:id="personperson2f0af3bc-4d84-4225-b179-58ed763b808e" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm2c34f197-1244-4948-b7eb-e21a50b5fecd">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000020" status="completed">
+            <date xml:id="idm7ad726f6-b921-4bfe-b8a0-d3e14b11f85c">1866-10-03</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm2b4d07bc-1d53-4317-8963-e2140dd71b86">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159827440" ref="7c/72/db/49/7c72db49-ab65-485e-bd37-4b230b84599f"><surname>Sødring</surname>,
+      <forename>Julie Weber</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm260743e5-4c96-461f-8e5f-d50d01055347">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619159826048" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personpersonc6514f3c-f133-49ab-acc8-ab3e24957d95" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson4689f04e-0037-48da-ac3f-783c1afeaad9" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson3a1706bc-8756-4fc0-9291-dfa6ac4aa609" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personperson3a56d9d5-6a05-43e1-8bd7-2f15f6773862" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm75ea6190-2f6a-44da-ae77-1af2f5841ef2">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000021" status="completed">
+            <date xml:id="idm66eb256d-e47c-44cd-9c8b-4c74028a6b7c">1866-10-04</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmded6a19d-81e0-4ea6-ab3b-b52b4b2f3ad0">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159814560" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm98ad3000-ff30-4dba-ab0e-2b50fc429a4d">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619159812528" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson8c42c945-f2d4-4333-8556-5a560f02fe9c" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson19a071a9-918f-45f7-80a1-a28a7f524819" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personpersonfe1701de-4d42-4bd7-91ac-6faf61a6f521" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personperson2b17877b-a804-41a7-aacd-52fa8bdcecbe" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm14955ede-f64a-4c15-a670-733de548d262">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000022" status="completed">
+            <date xml:id="idm38b6736a-9a79-4910-b063-1ec1365215c2">1866-10-05</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmd34b1308-f9a3-4c59-9a3d-00efe1d7277b">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159795600" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm3e983fd1-ded8-4dc8-b33d-bc23717cb506">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619159793568" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson22d8b84d-a80a-4cb8-b175-de57c2cb8eb0" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson3c47eff3-d55c-4808-ba2e-0fff9f110c5d" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personpersona20800f3-7b60-485e-a3b8-8b2732bdb328" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personperson61f2a04e-09df-44e8-a7dd-a305298d2521" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmb6210fd7-86fe-44bc-a544-890d537a99b3">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000023" status="completed">
+            <date xml:id="idm749e7201-e083-4565-8d76-47bc007014c2">1866-10-06</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmee6ace55-43d3-4d19-8950-b0d88e795175">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159783920" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf5d2bee6-45b4-498f-9064-fedcaef5f276">
+              <resp>recipient</resp>
+              <name xml:id="personpersonb165c1ef-9c3a-489b-995e-87f96724029d" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personpersoncbfafe1a-f872-44f7-ab2a-333c9dbc7a9c" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson4a609af1-ee6d-4bcf-8ec4-b09aee71305a" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson0ad83827-55df-47e6-95fd-a484824e783c" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personpersone00ace83-95a5-4e5f-af18-6b4c126e2455" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm8c2e955a-91e4-41d9-a7c5-043102a7620e">
+              <placeName>Paris</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000024" status="completed">
+            <date xml:id="idm140ff96e-5343-4a26-9b86-7254a9d70506">1866-10-13</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm1f8bccfc-9fa9-47f1-b9ae-b03b81ba7eb5">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159767760" ref="cc/85/ad/73/cc85ad73-a2a6-4e04-a10c-32febd9eb0a1"><surname>Sødring</surname>,
+      <forename>Christopher Hansen</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmac22da44-fdbd-4907-8af9-9bc21ce2ea63">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619159765472" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personpersond8b924de-3620-4268-a18c-f5e3bc6f64eb" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personpersond9ce8014-b09b-4aa9-8468-22c787daf476" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson352d65d5-d1e7-4e87-bd93-ae7c897be74a" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personperson612dc6d5-56ca-42f0-9a23-ca10c9e4346f" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm1603c5f3-7557-4901-bcaf-331dfa8b8a77">
+              <placeName>Interlaken</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020867350000025" status="completed">
+            <date xml:id="idm36eec3d3-6e7f-46dc-851a-af441160f77c">1866-09-01/1866-11-30</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmae30f9ef-fbdc-4e92-a02c-fd83408bda21">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159758336" ref="7c/72/db/49/7c72db49-ab65-485e-bd37-4b230b84599f"><surname>Sødring</surname>,
+      <forename>Julie Weber</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm06453816-248e-4128-993c-abe5e7f0e7de">
+              <resp>recipient</resp>
+              <name xml:id="personpersona8cbbc73-9842-4b7c-bc4f-ae9e7d206aaa" ref="b2/33/e7/63/b233e763-2cee-4320-acbb-1d2144d09530"><surname>Sødring</surname>,
+      <forename>Christen</forename></name>
+              <name xml:id="personperson412eb2bd-861e-43b2-ac7f-7434dac1c77c" ref="e5/65/83/ca/e56583ca-f65c-438a-a7e6-b898ad64197a"><surname>Sødring</surname>,
+      <forename>Christopher</forename></name>
+              <name xml:id="personperson003b6828-eae2-4e2b-a6a4-fa255ac26de1" ref="dd/b9/3d/8c/ddb93d8c-d905-4c6e-9154-b2d8d52e28ec"><surname>Sødring</surname>,
+      <forename>Johanne Louise</forename></name>
+              <name xml:id="personperson813b08c1-c29e-4a84-aefc-79a64200515d" ref="7b/fc/61/2a/7bfc612a-f459-4ed4-957d-46646a4089d0"><surname>Sødring</surname>,
+      <forename>Marius Frederik Carl Adolph</forename></name>
+              <name xml:id="personperson02122cd2-72b3-4312-ad92-b3f18de5955f" ref="34/ae/20/da/34ae20da-0e87-42ed-b762-ba5c0c9289b4"><surname>Sødring</surname>,
+      <forename>Rose Cecilie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm503ea05c-59e3-415d-bf5d-7c0d1d6b7401">
+              <placeName>Interlaken</placeName>
+            </location>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140619164319472">
+    <body xml:id="idm140619198986416">
+      <div xml:id="idm140619198001472">
+        <p xml:id="idm140619171883008"><pb xml:id="idm140619180189856" n="1" facs="images/002086735_000/002086735_000_0009.jpg"/>EN PARISERFÆRD</p>
+        <p xml:id="idm140619169558096">I EFTERAARET 1866</p>
+        <p xml:id="idm140619198479744"><pb xml:id="idm140619200801136" n="2" facs="images/002086735_000/002086735_000_0010.jpg"/><pb xml:id="idm140619157617648" n="3" facs="images/002086735_000/002086735_000_0011.jpg"/>EN PARISERFÆRD<lb xml:id="idm140619164104128"/>
+I EFTERAARET 1866</p>
+        <p xml:id="idm140619150541920">BREVE TIL HJEMMET FRA<lb xml:id="idm140619200792592"/>
+FABRIKANT C. SØDRING OG HUSTRU<lb xml:id="idm140619197692128"/>
+JULIE SØDRING,<lb xml:id="idm140619166413664"/>
+f. ROSENKILDE</p>
+        <p xml:id="idm140619201187312">MEDDELTE AF</p>
+        <p xml:id="idm140619170419408">KONTORCHEF M. F. SØDRING</p>
+        <p xml:id="idm140619164713072">KØBENHAVN<lb xml:id="idm140619187415152"/>
+J. FRIMODTS FORLAG<lb xml:id="idm140619192903664"/>
+1916</p>
+        <p xml:id="idm140619167434448"><pb xml:id="idm140619168141136" n="4" facs="images/002086735_000/002086735_000_0012.jpg"/>KROHNS BOGTRYKKERJ</p>
+        <p xml:id="idm140619167968624"><pb xml:id="idm140619166991296" n="5" facs="images/002086735_000/002086735_000_0013.jpg"/>INDLEDNING</p>
+        <p xml:id="idm140619166839680">EN Udenlandsrejse var i ældre Dage en Begivenhed! Selv efter at Jernbaner og Dampskibe havde forkortet Afstandene og gjort Rejsefærden saa langt bekvemmere end den tidligere var, tillod i Reglen kun velhavende og uafhængige Folk sig den Luksus en sjælden Gang at drage til fremmede Lande.</p>
+        <p xml:id="idm140619166411584">Kunstnerne — navnlig Malerne — rejste paa deres Stipendier, men det var jo kun én blandt hundrede, som blev den lykkelige. Resten maatte blive i Hjemlandet. Havde man giftet sig og stiftet Familie, skulde der— naar man da ikke var meget velstillet — et ganske særligt Held til at komme afsted.</p>
+        <p xml:id="idm140619166652384">Mine Forældre naaede først at gøre en Udenlandsrejse i 1866, da de var i en Alder af nogle og fyrretyve Aar. Min Moder erholdt et mindre Stipendium af det kgl. Teaters Kasse for at blive i Stand til at gøre Studier ved Udlandets Scener, og min Fader besluttede da at rive sig løs fra det daglige Slid og ledsage hende paa Rejsen. Rejsens oprindelige Maal var Paris og Wien — Théâtre Français og Burgteatret — men blev ændret undervejs.</p>
+        <p xml:id="idm140619174195808"><pb xml:id="idm140619164769968" n="6" facs="images/002086735_000/002086735_000_0014.jpg"/>Det er denne Rejse, som er skildret i de efterfølgende Breve. Brevene ere skrevne til os fire Børn, mine to Søstre, min Broder og mig. Mine Søstre var da i femten—seksten Aars Alderen, min Broder var fjorten Aar gammel, jeg selv otte Aar. Brevene ere ogsaa, som man vil se, affattede med skyldigt Hensyn til Adressaternes Alder.</p>
+        <p xml:id="idm140619171712832">Til bedre Forstaaelse af Brevene skal jeg bemærke følgende.</p>
+        <p xml:id="idm140619164089392">Vor Bolig i Kobenhavn var første Sal af Ejendommen paa Hjørnet af Vestervoldgade og St. Pederstræde (Vestervoldgade Nr. 3). Stedet ejedes af Kasserer i Privatbanken, Justitsraad, senere Etatsraad Bang. Mine Forældre havde boet her siden 1859.</p>
+        <p xml:id="idm140619150131264">Stedet havde — foruden Portnerbolig i Kælderen og en Kælderlejlighed paa Hjørnet, der var udlejet til en Værtshusholder — Stue, tre Etager og Kvistværelser. I Stuen boede en gammel Dame, Fru ***Schmidt, med sine tre Døttre, hvoraf den ene var Enke efter Kasserer i grønlandske Handel Wellmann og Moder til en lille Dreng. Fru Schmidt havde tillige to Sønner, Pastor Schmidt ved Helliggejstes Kirke og den senere Departementschef i Finansministeriet Schmidt. Anden Sals Beboer var Major, Kammerherre Rothe, og endelig paa tredie Sal boede Husets Ejer med sin Hustru. Sønnen, der lige var blevet Student, havde Værelse paa Kvisten. Heroppe var ogsaa Husets Pigekamre, ligesom min Broder og jeg senere hen fik vore Værelser i disse højere Regioner.</p>
+        <p xml:id="idm140619157733360">Der var en skøn Udsigt heroppefra — til den ene <pb xml:id="idm140619150131008" n="7" facs="images/002086735_000/002086735_000_0015.jpg"/>Side over Voldterrænet, Markerne og Engene helt ud til Brøndshøj og omliggende Landsbyer — til den anden over Byens røde Tegltage, Kallebodstrand og Amager.</p>
+        <p xml:id="idm140619172397568">I Brevene sendes ofte Hilsen til Slægt og Venner. Først og fremmest da til Hjemmets og Husets Beboere. Min Faders unge og talentfulde Søsterdatter Meta Sødring var kommen fra Aalborg — hvor hendes afdøde Fader, Købmand Sødring (min Faders Fætter) havde haft sin Forretning, og hvor hendes Moder endnu levede — for at bo hos os og holde os med Selskab i mine Forældres Fraværelse. Hun modtager stadig Hilsener i Brevene ligesom hendes Broder, cand. mag. Niels Sødring(den senere Seminarieforstander). Endvidere nævnes i Brevene min blinde Farbroder Hans Sødring med Familie, min Moders ugifte Søster Marie og hendes Brødre, kgl. Skuespiller Adolph Rosenkilde, Institutbestyrer Georg Rosenkilde og deres Hustruer. Et Navn, der ofte forekommer, er Holmblad — nemlig min Bedstefader C. N. Rosenkildes og mine Forældres gode Ven Assessor, senere Justitiarius i Kriminal- og Politiretten Andreas Holmblad. Endelig vor Huslæge, Dr. Silfverberg, Huslæreren, Student Fabritius, Folkene paa min Faders Fabrik og Pigerne.</p>
+        <p xml:id="idm140619172397184">Under Læsningen af Brevene maa det stadig erindres, at Afstanden mellem Paris og København for et halvthundrede Aar siden ogsaa figurlig talt var betydelig større end nuomstunder, hvor alle store Byer mere eller mindre ligner hverandre. <pb xml:id="idm140619169136144" n="8" facs="images/002086735_000/002086735_000_0016.jpg"/>København var dengang kun en Købstad, om end Landets største By og Residensen. Med sine krogede, daarligt brolagte Gader laa den bag de gamle Volde — ejendommelig og hyggelig, men lidet prunkende. Belysningen af Gaderne ved Mørkets Indtræden var sparsom, Butikkerne gennemgaaende tarvelige, Restauranter og Kaféer solide og jævne. Udskejelser som Servering udenfor Kaféerne paa Fortouget kendtes ikke. Det vilde ganske vist heller ikke have været nogen ublandet Behagelighed at indtage sine Forfriskninger lige op ad de dybe, ildelugtende Rendestene. Folkelivet paa Gaderne var — bortset fra Gadesælgernes Raaben — stilfærdigt og præget af, at man i stort Omfang kendte hverandre.</p>
+        <p xml:id="idm140619163957904">Man maa som sagt have alt dette in mente for ret at forstaa de forbavsede Stemningsudbrud, som Brevene indeholder over Paris’ Herligheder. —</p>
+        <p xml:id="idm140619158308016">Paa et enkelt Omraade er Glæden dog tydelig nok underbygget af en fra Hjemmet hentet sagkyndig Vurdering. Dette Omraade er de parisiske Teatre. At Théâtre-Ḟrançais staar i første Række for de to Rejsende, kan man tænke sig. Særlig interessant maatte det være for min Moder, der tilhørte den ene af de tre evropæiske Scener, som har bragt den dramatiske Kunst til sin højeste Blomstring, at stifte Bekendtskab med sine berømte franske Kunstfæller.</p>
+        <p xml:id="idm140619158306960">Phister mente rigtignok — som det Hjemme- og Vanemenneske han var — at der ikke var nogen Grund for min Moder til at rejse og ved sin Fraværelse bringe Forstyrrelse i Repertoiret. Han var saa <pb xml:id="idm140619107865952" n="9" facs="images/002086735_000/002086735_000_0017.jpg"/>galant ved Afskeden at sige til hende: »Hvad vil De i Udlandet? De kan rejse saa langt, De vil — Deres egen Lige faar De dog aldrig at se!« Min Moder følte sig dog overbevist om, at der altid vilde være noget for hende at lære paa Molières gamle Scene.</p>
+        <p xml:id="idm140619107864768">»La comédie française« indtog i Slutningen af Treserne omtrent en lignende Stilling som vort kgl. Teater paa den Tid. Det var tyndet ud mellem Genierne, men tilbage stod endnu et Personale af glimrende Talenter, prægede af den fineste Kultur. Endnu atten Aar senere, da den, der skriver disse Linjer, besøgte Paris, virkede Størsteparten af disse Kejserdømmets fremragende Aktører paa deres gamle Scene — kun ganske enkelte var i Mellemtiden faldne fra — saa jeg fik rig Lejlighed til at erkende Rigtigheden af mine Forældres Dom.</p>
+        <p xml:id="idm140619107863280">De sjældne gamle Kunstnere Samson (f. 1793, d. 1871) og Provost (f. 1798, d. 1865) havde i en Aarrække været de glimrende Forbilleder for den Kreds af Aktører, der i 1866 virkede ved Théâtre-Français. De havde været Lærere for mange af de yngre. Om dem fylkedes Navne som Bressant, Monrose, Barré, Delaunay, Mad. Favart, Bonval, Madeleine og Augustine Brohan, Provost jun., Got, Coquelin, Fébvre og m. fl.</p>
+        <p xml:id="idm140619107862272">Den nye Tid var for øvrigt — hvad allerede de sidste Navne antyder — begyndt at stikke sit Hoved frem. En ung syttenaarig Skuespillerinde Mlle. Sarah Bernhard havde allerede i 1861 debuteret paa <pb xml:id="idm140619107861600" n="10" facs="images/002086735_000/002086735_000_0018.jpg"/>den franske Nationalscene som Ifigenia, og en ung Mand — Mounet Sully — havde vist sig for det undrende Publikum paa Odéon.</p>
+        <p xml:id="idm140619107860400">Imellem min Moders efterladte Papirer har jeg fundet en lille Notebog, indeholdende Programmerne for de Forestillinger, mine Forældre overværede under Pariseropholdet. Saa godt som alle Forestillingerne paa Théâtre-Français tilhører det klassiske Repertoire. Molière, Racine, Beaumarchais, Alfred de Musset, Delavigne ere repræsenterede med deres berømteste Arbejder. Engang imellem opføres mindre Skuespil af Banville og Octave Feuillet.</p>
+        <p xml:id="idm140619107859136">Imellem Programmerne findes ogsaa en Del fra de Operaforestillinger, mine Forældre overværede. Paris havde dengang flere udmærkede Operascener. Den Scene, mine Forældre fortrinsvis yndede, var den komiske Opera, hvis Forestillinger glimrede ved Stilfuldhed og ypperlig Udførelse. Programmerne bærer syv Komponisters Navne — Pergolese, Grétry, Mehul, Nicolo (Isouard), Boieldieu, Auber og Gounod.</p>
+        <p xml:id="idm140619107857984">Af de Fotografier, som mine Forældre medtog fra Paris, og ved Hjemkomsten glædede sig over at vise os Børn, har jeg indsat nogle enkelte i Brevenes Tekst.</p>
+        <p xml:id="idm140619107857264">En kyndig og elskværdig Cicerone havde mine Forældre i Købmand Julius Goldschmidt, der samtidig foretog en Forretningsrejse til Paris. —</p>
+        <p xml:id="idm140619107856576">Og hermed følger saa de gamle Breve som et lidet Tillæg til min Moders »Erindringer«. Næsten alle, <pb xml:id="idm140619107856096" n="11" facs="images/002086735_000/002086735_000_0019.jpg"/>der omtales i Brevene, er gaaet bort i de forløbne halvtredsindstyve Aar. Men de, der endnu lever af den Kreds, som engang omgav mine Forældre i det gamle Hjem ved Vestervold — eller for min Moders Vedkommende ogsaa i det gamle Hus paa Kongens Nytorv — vil atter kunne høre og kunne genkende de Rejsendes Stemmer gennem Brevenes muntre Fortælling. —</p>
+        <p xml:id="idm140619107854464">Brevenes Ortografi er bibeholdt.</p>
+        <p xml:id="idm140619107854080">Frederiksberg, d. 5. September 1916.</p>
+        <p xml:id="idm140619107853696">M. F. SØDRING.</p>
+        <p xml:id="idm140619107853312">
+          <caption xml:id="idm140619108103296"><pb xml:id="idm140619108103168" n="12" facs="images/002086735_000/002086735_000_0020.jpg"/>Théâtre Français.</caption>
+        </p>
+      </div>
+      <pb xml:id="idm140619108102048" n="13" facs="images/002086735_000/002086735_000_0021.jpg"/>
+      <div decls="bibL0020867350000001" n="1" xml:id="L0020867350000001" xml:lang="da-Dk">
+        <head xml:id="idm140619108087904">(Fra <persName xml:id="idm140619108087648" type="sender" key="Sødring, Julie Weber" sameAs="#personidm140619108087648">J. Sødring</persName>.)<lb xml:id="idm140619108087024"/>
+               <date xml:id="idm140619108086768" sameAs="idm546b964f-742b-4778-aa99-ef96f584720a">Onsdag, d. 5. September 1866</date>.</head>
+        <p xml:id="idm140619108086256">Mine dyrebare, højtelskede <persName xml:id="idm140619108086000" type="recipient" key="Sødring, Rose Cecilie" sameAs="#personidm140619108086000">Børn</persName>!</p>
+        <p xml:id="idm140619108085248">Nu antager jeg nok, at I bliver meget overraskede og glade ved at høre fra os. Vi ere lykkelige ankomne til Lübeck — (Uh, naar I vidste, der krøb en mat Bremse paa mit Haandled; jeg brølte naturligvis: »Tag den! Tag den!« Goldschmidt<note xml:id="idm140619108084496" n="1" anchored="true">) Købmand J. Goldschmidt.</note>) troede, jeg var gal — Jeg maatte selv af med Kreturet ved Hjælp af en Underkop!) — Banegaarden, hvor vi for Øjeblikket opholder os, er meget smuk. —</p>
+        <p xml:id="idm140619108083104">Gud bevare Eder, I kjære! Vær nu kjærlige og forsigtige! Johannes Kort fik vi ikke. I maa tage det ud af vort Album og lægge det indeni et Brev til os.—</p>
+        <p xml:id="idm140619108082384">Jeg synes allerede at have oplevet meget. Ombord paa Dampskibet var der en Del Damer, alle venlige og artige, derimellem en ung Kone, som havde holdt Bryllup i Gaar og nu rejste med sin Mand for at leve i Hamborg. Hun var dansk. Jeg gav hende min ene Bouket. Den anden Dame havde <pb xml:id="idm140619108081824" n="14" facs="images/002086735_000/002086735_000_0022.jpg"/>Omfang som salig Bakke paa Bellevue. Hun var mageløs, da hun i Morges gjorde Toilette. Et lille lysegult Haar, en lasket Hals, en stor, rund, gul Mave, som tittede skælmsk ud af Krinolinen! —</p>
+        <p xml:id="idm140619108080496">Nu lev vel I Elskede! Gud være med Eder. Hils Stine<note xml:id="idm140619108080112" n="2" anchored="true">) Den gamle Kokkepige.</note>) og alle. I maa straks skrive lidt til os og adressere det efter Goldschmidts Adresse. —</p>
+      </div>
+      <pb xml:id="idm140619108078800" n="14" facs="images/002086735_000/002086735_000_0022.jpg"/>
+      <div decls="bibL0020867350000002" n="2" xml:id="L0020867350000002" xml:lang="da-Dk">
+        <head xml:id="idm140619108076960">(Fra <persName xml:id="idm140619108076704" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619108076704">C. Sødring</persName> i samme Brev.)</head>
+        <p xml:id="idm140619108075952">Moder har megen Routine! Paa Dampskibet stod hun og læste sin Feuilleton ganske som hjemme. Her paa Banegaarden i Lübeck drikker hun Portvin og siger til Opvarteren paa sin Ikke-Tysk: »Tag mig den Bakke af Bordet, kjære!«</p>
+        <p xml:id="idm140619108075104">Skriv os straks til, Børn, Torsdag! I maa levere Brevet paa Posthuset før Kl. 6 Aften. Vi ville være saa lykkelige ved at høre, hvorledes I have det.</p>
+        <p xml:id="idm140619108074400">Lev vel, kjære Børn. Send os Johannes Kort fra Albummet. Lad Fabritius <note xml:id="idm140619108073984" n="3" anchored="true">) Huslæreren, Student F.</note>) tage det ud og læg det i Brevet. Lev vel!</p>
+        <p xml:id="idm140619108072816">Eders trofaste Fader<lb xml:id="idm140619108072560"/>
+Chr. Sødring.</p>
+      </div>
+      <pb xml:id="idm140619108072048" n="15" facs="images/002086735_000/002086735_000_0023.jpg"/>
+      <div decls="bibL0020867350000003" n="3" xml:id="L0020867350000003" xml:lang="da-Dk">
+        <head xml:id="idm140619108070208">(Fra <persName xml:id="idm140619108069952" type="sender" key="Sødring, Julie Weber" sameAs="#personidm140619108069952">J. Sødring</persName>.)<lb xml:id="idm140619108069328"/>
+               <date xml:id="idm140619108069072" sameAs="idm32bd4407-8802-44ff-9a1d-b1a151286fba">Fredag Morgen</date> i <geogName xml:id="idm140619108068688" type="sender" sameAs="idm4149a8f5-f382-4fc3-a9d6-efd547af2d9c">Paris</geogName>.</head>
+        <p xml:id="idm140619108068176">Elskede <persName xml:id="idm140619108067920" type="recipient" key="Sødring, Christen" sameAs="#personidm140619108067920">Børn</persName>!</p>
+        <p xml:id="idm140619108067168">Ja, nu sidder jeg virkelig i mit nydelige Værelse i Hotel »Beau Séjour«. Mine Altandøre ere aabne, Solen skinner, Fader er ude for at opsøge en veritabel Pariser Friseur, som skal lave ham til en Adonis. Han — Fader nemlig — er i Dag fortryllende! Førend jeg gaar videre, vil jeg sige Eder, at jeg længes usigelig efter at høre fra Eder. I vore bedste Skatte! I ere vor første og sidste Tanke! Havde jeg Eder her, saa var min Glæde fuldstændig. Vi se intet og høre intet, uden at vi udraabe: »Gid vi havde Børnene!« Det er ogsaa grusomt, at Penge skal have en saa stor Betydning i Verden!</p>
+        <p xml:id="idm140619108066080">Vor Rejse hertil var heldig og god, synes jeg, morsom! Reisen igjennem Belgien er noget af det skjønneste, man kan see. Vi rejste med en elskværdig ældre Franskmand, som jeg underholdt mig meget behagelig med ved Hjælp af et yderst enkelt fransk Ord, et Par tyske, en Del danske og saa en Mængde storartede Gestus. Samtalen endte med gjensidig Tilfredshed, hvorpaa vi gav hinanden vore Kort (Visitkort).</p>
+        <p xml:id="idm140619108064880">Fader fortæller Eder nok lidt om Reisen. Glem ikke at besøge Fru Bang<note xml:id="idm140619108064464" n="4" anchored="true">) Gift med Ejeren af Vestervold Nr. 3, Justitsraad, Kasserer i Privatbanken B. (se Indledningen.)</note>), bring hende vor hjertelige Hilsen. Besøg endelig ogsaa Fru Schmidt<note xml:id="idm140619108063328" n="5" anchored="true">) Beboer af Stueetagen (se Indledningen.)</note>). <pb xml:id="idm140619108062400" n="16" facs="images/002086735_000/002086735_000_0024.jpg"/>Lad mig see, min søde Christen, at Du er forsigtig med Din Bue, og Du min elskede Marius, husk hvad Du har lovet, at være forsigtig og ikke komme til Vinduet. Blot Johanne er betænksom med Frugt hos Halkjers<note xml:id="idm140619108061168" n="6" anchored="true">) Enkefru Sophie Halkjer, f. Munch (Ejede Landstedet »Søvang« ved Strandpromenaden; Datteren Emma var Skolekammerat med Rose og Johanne Sødring.)</note>). I Belgien har der for nylig været Kolera, 60 Børn døde om Dagen!</p>
+        <p xml:id="idm140619108059696">I Morges, efter at vi havde nydt vor café au lait, kjøbte vi en lille Ting til Eder hver. Nu vil jeg overlade Resten af Brevet til Fader. Lev vel, I elskede! Hils Marie<note xml:id="idm140619108059088" n="7" anchored="true">) Marie Rosenkilde, Brevskriverindens Søster.</note>), Stine og Caroline<note xml:id="idm140619108058112" n="8" anchored="true">) Pigerne.</note>), Fabritius, Adolph<note xml:id="idm140619108057248" n="9" anchored="true">) Kgl. Skuespiller A. R., Brevskriv.s Broder.</note>) og alle gode kjære Venner.</p>
+        <p xml:id="idm140619108056192">Eders trofaste<lb xml:id="idm140619108055936"/>
+Moder.</p>
+      </div>
+      <pb xml:id="idm140619108055424" n="16" facs="images/002086735_000/002086735_000_0024.jpg"/>
+      <div decls="bibL0020867350000004" n="4" xml:id="L0020867350000004" xml:lang="da-Dk">
+        <head xml:id="idm140619108053584">(Fra <persName xml:id="idm140619108053328" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619108053328">C. Sødring</persName>.)<lb xml:id="idm140619108052704"/>
+               <geogName xml:id="idm140619108052448" type="sender" sameAs="idmfd06a0c6-557a-4461-8e4b-9d1f7aaa732c">Kjøbenhavn</geogName> ᴐ: Paris<lb xml:id="idm140619108052064"/>
+(man tager saa grumme let<lb xml:id="idm140619108051808"/>
+feil af Paris og Kbhvn.), <date xml:id="idm140619108051552" sameAs="idm9621eacb-3fbc-4b87-b7a5-52fede72f336">7de Septbr</date>.</head>
+        <p xml:id="idm140619108051040">Elskede, kjære <persName xml:id="idm140619108050784" type="recipient" key="Sødring, Christen" sameAs="#personidm140619108050784">Børn</persName>!</p>
+        <p xml:id="idm140619108050032">Nylig hjemkommen til Hotellet fra en. Friseur, der har rodet omkring i mit stakkels Hoved baade med Hænder og Ben — kan jeg næsten sige — og som prakkede mig Fedtelse og vellugtende Sager paa til 5 Rdlr. 30 Sk., sidder jeg da her med mit indsmurte <pb xml:id="idm140619108049248" n="17" facs="images/002086735_000/002086735_000_0025.jpg"/>Hoved, som Moder oven i Kjøbet erklærer for prægtigt gjort i Stand, og skriver til Eder. Vor Rejse var meget anstrængende, den evige Kjørsel i Banevognen havde nær gjort mig ganske fortvivlet. De skjønneste Egne i Belgien med en Masse Fabrikker — smaa Slotte — passerede vi i Gaar. Fra Køln fulgtes vi af tre Franskmænd, og det kan nok hænde sig, at jeg brak paa Fransken, medens Moder gjorde Tegn baade med Hænder og Fødder. Mage til disse Franskmænd kender jeg ikke — til at snakke da! — De klemmer paa, enten) man forstaar dem eller ikke.</p>
+        <p xml:id="idm140619108047648">Endelig i Gaar Aftes begyndte vi at mærke Paris derved, at det ene Tog foer os forbi paa Banen efter det andet. Jeg forholdt mig saa temmelig stille ved dette Indtog i Paris. Jeg var nemlig saadan stille hen nikkende — og det uagtet jeg sad imellem to franske Snakkebøtter, der rabaldrede i hvert sit af mine ulykkelige Øren.</p>
+        <p xml:id="idm140619108046592">Boulevarderne ere storartede! Vi have i Dag siddet udenfor en Café og nydt vor Frokost, bestaaende af café au lait og diverse Smørrebrøder, medens Zouaver og lignende spadserede forbi os. Franskmændene (dog ikke alle) løbe straks hen og tage hver Stump Cigar, jeg kaster fra mig paa Gaden — vistnok for dog at have en lille Erindring om mig.</p>
+        <p xml:id="idm140619108045488">Iøvrigt skal jeg sende Jer, elskede Børn, en fuldstændig Reisebeskrivelse næste Gang, jeg skriver. I Dag ere vi endnu en hel Del fortumlede og bouleverserede af hvad vi see. Det er saa overvældende <pb xml:id="idm140619108044816" n="18" facs="images/002086735_000/002086735_000_0026.jpg"/>— men allesteds spørges efter francs. Uden fr. er man en frygtelig Usling her i Byen. Det er sikkert nøk!</p>
+        <p xml:id="idm140619108043760">Hils Holmblad<note xml:id="idm140619108043504" n="10" anchored="true">) Justitiarius H.</note>) fra mig og Julie! Ligeledes alle vore andre Venner! — — Christen og Marius, send Eders Drage saa højt op, at vi kunne se den herfra! Hils vor kære Meta<note xml:id="idm140619108042304" n="11" anchored="true">) Brevskriverens Søsterdatter.</note>) og bed hende at lade falde et Par Linier af til os!</p>
+        <p xml:id="idm140619108041248">Lev vel, elskede Børn!</p>
+        <p xml:id="idm140619108040800">Eders hengivne Fader<lb xml:id="idm140619108040544"/>
+C. Sødring.</p>
+      </div>
+      <pb xml:id="idm140619108040032" n="18" facs="images/002086735_000/002086735_000_0026.jpg"/>
+      <div decls="bibL0020867350000005" n="5" xml:id="L0020867350000005" xml:lang="da-Dk">
+        <head xml:id="idm140619108038192">(Fra <persName xml:id="idm140619108037936" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619108037936">C. Sodring</persName>.)<lb xml:id="idm140619108037312"/>
+               <geogName xml:id="idm140619108037056" type="sender" sameAs="idm12d5accb-8c0b-46b0-83fd-318e6a8ef8ea">Paris</geogName>, <date xml:id="idm140619108036672" sameAs="idmb87c0c5c-552a-469e-a6aa-d579ca126e19">d. 9. Septbr</date>.</head>
+        <p xml:id="idm140619108036160">Kjære, elskede <persName xml:id="idm140619108035904" type="recipient" key="Sødring, Christen" sameAs="#personidm140619108035904">Børn</persName>!</p>
+        <p xml:id="idm140619108035152">I Dag Søndag har jeg i Sinde at fortælle Eder lidt om vore Farter. Sagen er, at det kniber voldsomt med Tiden! Siden jeg sidst har skrevet til Eder, have vi været 2 Gange i Théâtre Lyrique. Vi hørte den ene Gang »Don Juan«<note xml:id="idm140619108034416" n="12" anchored="true">) Kristina Nilsson som Donna Elvira.</note>) og i Gaar »Faust«! Hu-ha, det kan man kalde Stemmer! Hvilken Margrethe<note xml:id="idm140619108033392" n="13" anchored="true">) Mme. Carvalho.</note>) og hvilken Faust! Det er vidunderlig dejligt! Paris, Du er henrivende! Alt overgaar ganske og aldeles mine Forventninger! I Gaar gik Moder <pb xml:id="idm140619108032368" n="19" facs="images/002086735_000/002086735_000_0027.jpg"/>og jeg ene omkring i denne Kæmpestad. Moder er i det hele brillant! Hun har en vis Maade at gøre sig forstaaelig paa overfor Pariserne, som fuldkommen strækker til. Tænk Eder, elskede Børn, nu er hun kommen saa vidt, at hun i Gaar Aftes sad paa Boulevarden med Goldschmidt og mig Kl. 12½ — da vi nemlig kom fra Lyrique — og drak The! Uagtet det var Midnat, var det dejligt at sidde dér, og saa <pb xml:id="idm140619108030896" n="20" facs="images/002086735_000/002086735_000_0028.jpg"/>besynderligt er det her, at ved Marmorbordet os nærmest sad to Blusemænd, jævne Arbejdere, og drak deres Vin, ganske som om de altid var blevne betjente paa Marmor.</p>
+        <p xml:id="idm140619108029616">Keiserfamilien.</p>
+        <p xml:id="idm140619108029232">Sig til Stine, at hun maa komme herover og købe Suppeurter næste Gang, vi skulle have Kjødsuppe. Jeg skal nemlig sige Eder, kjære Børn, at naar I overdække en Plads større end Kongens Nytorv med Glastag og støtter Taget med Søjler samt saa tager det meste af den Marmor, der findes i Danmark, og laver Borde deraf og saa gaar ud til Etatsraad Rothe og siger ham fra mig, at man i otte Dage ganske og aldeles maa ophøre med at befordre paa Banen andet end Suppeurter, Kæmpepærer, Nødder, Ferskener, Figen, Druer, Blomster, Fisk, fordi I sikulle bruge alle disse Sager til dermed at fylde den Hal, I har lavet, saa kan det være (men det er s’gu ikke sikkert), at Hallen kan blive som den, vi saa i Gaar. Dog, bliv lidt, I maa rode Eder ned i Jorden og lave en Jernbane under Hallen, og saa maa I forskaffe Eder et vidunderligt kvindeligt Personale, der snakker og leer og synger og tripper, gestikulerer og lyner med sorte Øjne, først da ere I færdige med Hallen, og saa ere I endda ikke færdige, thi Aanden, der er over det hele, er ikke til at faa noget andetsteds end her. Disse høflige, venlige Folk, rigtignok glubende iltre efter Francs og sous, ere uforlignelige, og intet formaar at kalde dem frem uden netop den franske Jordbund.</p>
+        <p xml:id="idm140619108026848">Moder blev i Gaar næsten grædefærdig, da hun <pb xml:id="idm140619108026480" n="21" facs="images/002086735_000/002086735_000_0029.jpg"/>saa en sød lille Pige paa 5 à 6 Aar komme gjennem Folkevrimlen, smykket med en Krans om Hovedet og en Uendelighed af Baand. Hun — Barnet nemlig, ikke Moder — var prisbelønnet den Dag i Skolen.</p>
+        <p xml:id="idm140619108025136">Vi ville i Dag til Versailles. I Gaar vare vi i Tuillerierne. Mage til Pragt har jeg aldrig set! Gid jeg ret kunde beskrive Eder det, men det er umuligt. I Palais Royal i Forgaars blev vi Vidne til den Ugenerthed, hvormed man her »holder frem«! Palais Royal har en lille Have — tænk paa Ridebanen i Kjøbenhavn, tænk Eder, at der i Løngangene var pragtfulde Boutikker underneden og Restaurationer ovenpaa, plant nogle flere Træer, end der alt er plantet, og sæt saa Børn fra Rosenborg Have midt ind paa Pladsen, saa spørger jeg Eder, hvad I vilde sige, naar et af disse Børn uden videre blev afdækket, saa at Guds nøgne Skabelse kom frem og aabenlyst blev sat, i Virksomhed?</p>
+        <p xml:id="idm140619108023680">Næste Gang skal jeg give Eder en omstændelig Beretning om Versailles, men der maa vi ud een Gang til, thi det forslaar ikke med Tiden!</p>
+        <p xml:id="idm140619108023008">Hvorledes gaar det med Fabrikken? Tak for Brevet, Rose! Det var et yndigt, rart Brev. Hils Holmblad! Hils Niels<note xml:id="idm140619108022624" n="14" anchored="true">) Brevskriverens Søstersøn, cand. mag. N. Sødring.</note>) og Niels Formand paa Fabrikken! Hils Christen og Marius kjærligst! Tak, kjære Børn, for Eders kjærlige Breve! —</p>
+        <p xml:id="idm140619108021248">Eders<lb xml:id="idm140619108020992"/>
+Fader.</p>
+      </div>
+      <pb xml:id="idm140619108020480" n="22" facs="images/002086735_000/002086735_000_0030.jpg"/>
+      <div decls="bibL0020867350000006" n="6" xml:id="L0020867350000006" xml:lang="da-Dk">
+        <head xml:id="idm140619108018640">(Fra <persName xml:id="idm140619108018384" type="sender" key="Sødring, Julie Weber" sameAs="#personidm140619108018384">J. Sødring</persName> i samme Brev.)<lb xml:id="idm140619108017760"/>
+               <date xml:id="idm140619108017504" sameAs="idmde4001a3-9cc9-4f6f-a4e9-839b6a424609">Mandag, den 10</date>. —</head>
+        <p xml:id="idm140619160107152">Elskede <persName xml:id="idm140619160106896" type="recipient" key="Sødring, Christen" sameAs="#personidm140619160106896">Børn</persName>!</p>
+        <p xml:id="idm140619160106256">Gud være evig takket, for at I ere raske og har det godt! I veed, at vor Glæde er aldeles afhængig af Eder. — Tak for det rare Brev, min søde Rose! Vi kom hjem i Gaar Aftes og blev henrykte, da Portneren rakte os Brevet! Glem ikke at skrive, om Meta er kommet. Drikker I The Kl. 7? Spiser I præcis Kl. 4? Kommer Drengene i rette Tid i Skole? Svar mig paa alt det! Fik I Chokolade paa Christens Fødselsdag? Var I i Folketeatret? Har Holmblad været hos Eder? Hvorledes gaar det med Teatret?</p>
+        <p xml:id="idm140619160105248">Nu lidt om Paris! Ja, Børn, det siger jeg Eder, Paris er aldrig blevet beskrevet, det er Sødrings og min Mening. Det Liv, den Skjønhed, det storartede Præg, der er over det hele, den Venlighed og det overordentlige Galanteri hos alle lige ned til Blusemænd, det kjender man ikke Mage til, og det gjør man sig ingen Idé om.</p>
+        <p xml:id="idm140619160104208">Forleden hørte vi »Faust« i Theâtre Lyrique. Hvilken yndig Margrethe! Jeg græd, jeg var henrykt! Der skulde I høre et Publikum! Det maa være morsomt at spille en udmærket Rolle for dem. De gribe enhver lille Smule saa udmærket! I Galleriet var der en Del Blusemænd, der stampede med Fødderne, raabte »da capo«, og naar de Folk faar et Indfald, saa nytter det ikke at tænke paa, at de skulde opgive det. Nei, paa det Lag! Soldaterkoret, <pb xml:id="idm140619160103312" n="23" facs="images/002086735_000/002086735_000_0031.jpg"/>som, gaar glimrende, maatte om igen! Ja, det er et elskværdigt Folk, det franske — i Glæde, men vistnok et rædsomt Folk i Revolution! Her soves aldrig, lader det til. Vi høre Liv og Lystighed Kl. 2 om Natten og Kl. 6 om Morgenen. Naar jeg staar op, er alt i fuld Gang!</p>
+        <p xml:id="idm140619160101824">Dette Brev, velsignede Børn, sende vi afsted i Dag. Vi holder os ikke til nogen bestemt Dag — det er umuligt! Naar Brevene ere færdige, sende vi dem afsted. Lev nu vel og vær søde og fornuftige og kjærlige! Hils Meta saa hjertelig og Silfverberg<note xml:id="idm140619160101040" n="15" anchored="true">) Huslægen, Dr. H. S.</note>) og Holmblad og alle hjemme.</p>
+        <p xml:id="idm140619160099984">Eders trofaste<lb xml:id="idm140619160099728"/>
+Moder.</p>
+      </div>
+      <pb xml:id="idm140619160099216" n="23" facs="images/002086735_000/002086735_000_0031.jpg"/>
+      <div decls="bibL0020867350000007" n="7" xml:id="L0020867350000007" xml:lang="da-Dk">
+        <head xml:id="idm140619160097376">(Fra <persName xml:id="idm140619160097120" type="sender" key="Sødring, Julie Weber" sameAs="#personidm140619160097120">J. Sødring</persName>.)</head>
+        <p xml:id="idm140619160096368">Mine elskede <persName xml:id="idm140619160096112" type="recipient" key="Sødring, Christen" sameAs="#personidm140619160096112">Børn</persName>!</p>
+        <p xml:id="idm140619160095360">Det er i Dag et henrivende deiligt Veir! I to Dage havde vi Regn, saa vi begyndte at blive bange, men nu har vi i tre Dage haft det yndigste Veir. Vi ere nylig komne hjem til Hotellet. Ja, Børn, Gud veed, hvad I vilde sige, dersom I saa alt, hvad jeg vover at foretage mig. Jeg tænker, at I vilde tage mig fat i Kjolen og holde fast paa mig og raabe: »Aa nej, søde Moder, der vil Du dog vel aldrig op!« Sagen er den, at Fader vil gjerne see alt. Han er saa sød og god, at han ikke vil nyde noget uden mig. Jeg maa altsaa holde ud! Det er jo ogsaa af stor Interesse <pb xml:id="idm140619160094112" n="24" facs="images/002086735_000/002086735_000_0032.jpg"/>for mig selv. Bare jeg kan huske alt. I gjør Eder intet Begreb om den Storhed — det er næsten uoverkommeligt at rumme!</p>
+        <p xml:id="idm140619160092928">
+          <caption xml:id="idm140619160092800">Provost. — Théâtre Français.</caption>
+        </p>
+        <p xml:id="idm140619160092416">I Gaar vare vi i Boulogneskoven. Det er ingen Skov efter vort Begreb, ingen Lund, intet Krat. Det er en Drøm! Tænk Eder, at I drømme om Edens Have. Men dog ved alt sige vi: »Ingen Steder er der <pb xml:id="idm140619160091744" n="25" facs="images/002086735_000/002086735_000_0033.jpg"/>saa skjønt som i Danmark. En Skov som Dyrehaven, en Strand som vor—nej, det existerer ikke her!«</p>
+        <p xml:id="idm140619160090592">Jeg længes efter at høre, om Du, min egen elskede Rose, nu er fri for Smerte. Fader vil, at Du skal have lidt for Din store Standhaftighed. Naar Du hæver Paaklædningspenge, maa Du faa 9 Rdlr. i Stedet for 8. Du maa gjerne forklare Holmblad Grunden.</p>
+        <p xml:id="idm140619160089680">
+          <caption xml:id="idm140619160089552">Samson. — Théâtre Français.</caption>
+        </p>
+        <p xml:id="idm140619160089168"><pb xml:id="idm140619160089040" n="26" facs="images/002086735_000/002086735_000_0034.jpg"/>Jeg glæder mig til Eder og til mit elskede Hjem. Fortæl mig, hvorledes I havde det hos Gaméls<note xml:id="idm140619160088032" n="16" anchored="true">) cand. polyt., Mekaniker V. C. C. Gamél (Firma Gamst &amp; Lund’s Efterfølger, Vestervold 7).</note>), og Du min søde Johanne, Du fortæller nok om Halkiers. Hvert Ord fra Eder er dyrebart for os. Hvorledes har min Christen og mit Puds det? Vil de slet ikke lade høre fra sig — et Par Ord, hvad? Lad mig se, at I ere forsigtige! Husk, at de skulle have Trækstøvler, og husk, at Holmblad skal betale det. Pas endelig paa, at der ingen ubetalte Regninger er, naar vi komme hjem. Jeg tror nok, at en vis Mand bliver temmelig sparsommelig!</p>
+        <p xml:id="idm140619160086272">Hils nu alle, min gode Stine og Caroline, glem ingen! Skriv mig lidt til om Tante Marie og om Husets Folk. Lev nu vel alle I elskede i Hjemmet!</p>
+        <p xml:id="idm140619160085728">Eders tro<lb xml:id="idm140619160085472"/>
+hengivne Moder.</p>
+      </div>
+      <pb xml:id="idm140619160084960" n="26" facs="images/002086735_000/002086735_000_0034.jpg"/>
+      <div decls="bibL0020867350000008" n="8" xml:id="L0020867350000008" xml:lang="da-Dk">
+        <head xml:id="idm140619160083120">(Fra <persName xml:id="idm140619160082864" type="sender" key="Sødring, Julie Weber" sameAs="#personidm140619160082864">J. Sødring</persName>.)<lb xml:id="idm140619160082240"/>
+               <date xml:id="idm140619160081984" sameAs="idm2bdbdbc9-28b6-4f61-b75f-e986eacfa3ed">Tirsdag Morgen</date>.</head>
+        <p xml:id="idm140619160081472">Elskede <persName xml:id="idm140619160081216" type="recipient" key="Sødring, Christen" sameAs="#personidm140619160081216">Børn</persName>!</p>
+        <p xml:id="idm140619160080464">Morgenen er saa smuk i Dag. Fader er gaaet ud Kl. 6½ det morer ham at gaa alene og finde Vej i Paris. Jeg er paaklædt og længes efter ham, for at vi kan komme over i vor udmærkede Café og nyde vor Morgenkaffe med det dejlige Brod til. Fader læser da Figaros Program for at see, hvad Nydelse vi kan vente os i Theatrene.</p>
+        <p xml:id="idm140619160079408"><pb xml:id="idm140619160079280" n="27" facs="images/002086735_000/002086735_000_0035.jpg"/>I Gaar var vi i den store Opera. Pragt paa alle Kanter! Dér hørte vi en Baryton<note xml:id="idm140619160078304" n="17" anchored="true">) Sangeren Faure optraadte den Aften i »La Favorite« (Donizetti).</note>), som er noget af det fuldendteste, jeg nogensinde har hørt. Men aldrig har jeg kjendt Mage til Uro! Folk gaar bestandig ud og ind under Forestillingen. Damerne og Herrerne lee og tale højt. Imellem Akterne raabes med Aviser, Vifter og Kikkerter. Ja, det er utroligt! Her er Liv og Lystighed. Er man ikke glad, kan man umulig holde det ud. Man maa lee og raabe og slaa sig løs med alle de andre. —</p>
+        <p xml:id="idm140619160076432">Hvordan mon det gaar med Eders Husholdning? I kjære, søde Børn! Ak Gud hvor jeg glæder mig til at sidde og fortælle Eder om alt, hvad jeg oplever. Hvem kysser mit Puds to Gange om Aftenen, naar han er kommet i Seng? Hvem slukker Lyset for Christen og lægger hans Tøj i Orden? Gjør I det, I mine elskede Døttre? Ja, I ere mine Støtter! Jeg længes efter at høre lidt om Meta, og hvorledes I tumle Eder. — Saa, det var nu det!</p>
+        <p xml:id="idm140619160075328">Onsdag.</p>
+        <p xml:id="idm140619160074944">Fader skriver til Holmblad, og jeg underholder mig lidt med Eder, I elskede Børn! Fader og jeg har i Dag spadseret omkring i 4 Timer. Han er velsignet god og kjærlig og er som jeg henrykt og i høj Grad forbauset. Vi har været i Tuilleriernes yndige, storartede Have — ja, Børn, jeg forsikkrer <pb xml:id="idm140619160074064" n="28" facs="images/002086735_000/002086735_000_0036.jpg"/>Eder, det er ubeskriveligt, dette, gamle Slot og en Have i stiv gammel Stil, men saa dejlig! Dér skulde I see Blomster — naa! — rundt om kolossale Vaser med Verbener, Vaser overalt af Marmor. Hvor man seer hen, ser man store Statuer, den ene skjønnere end den anden. Ja, det er en Pragt, man ingen Idé kan gjøre sig om. Og saa disse prægtige Gardere, alvorlige, med Armene korslagte, gaaende frem og tilbage udenfor Slottet og rundt om i Haven. Vi fandt en Bænk — der er Bænke overalt af Marmor — ved et dejligt Springvand, omgivet af Statuer, Myrter og Laurbærtræer, hvis Kroner ere mindst 6 à 7 Alen i Omkreds — hva’, er det kjønt, sagde Du noget, Manse? Vjl den ha’ et saadant lille Træ og rode i? Ligesom vi sad der og frydede os, kom en gammel ærværdig Turteldue gravitetisk gaaende omkring os. Den stod lidt stille, saa mødte den en Ven. Den leverede nogle smaa Bøjninger med Halsen, fløj saa let hen til Kanten af den store Skaal, hvoraf Springvandet sprudlede. Efter at have tilfredsstillet Tørsten slog den stille og smukt Vingerne ud og fløj roligt hjem. Var det ikke et nydeligt Skue? —</p>
+        <p xml:id="idm140619160070944">Nu længes vi efter Brev fra Eder! Vi har kun hørt een Gang fra Eder. Vi komme virkelig til at forandre vor Bestemmelse. Vi maa høre fra hinanden to Gange om Ugen, ellers holde vi det ikke ud! — Nu skal vi hen og spise til Middag — udmærket godt — og en Opvartning! Ja, vent nu til <pb xml:id="idm140619160070096" n="29" facs="images/002086735_000/002086735_000_0037.jpg"/>jeg kommer hjem, saa skal I høre! I søde kjære Børn, Farvel for i Dag, jeg kysser og klapper Eder alle!</p>
+      </div>
+      <pb xml:id="idm140619160068816" n="29" facs="images/002086735_000/002086735_000_0037.jpg"/>
+      <div decls="bibL0020867350000009" n="9" xml:id="L0020867350000009" xml:lang="da-Dk">
+        <head xml:id="idm140619160066976">(Fra <persName xml:id="idm140619160066720" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619160066720">G. Sødring</persName>.)</head>
+        <p xml:id="idm140619160065968">Kjære, elskede <persName xml:id="idm140619160065712" type="recipient" key="Sødring, Christen" sameAs="#personidm140619160065712">Børn</persName>!</p>
+        <p xml:id="idm140619160064960">Nu for et Øjeblik siden var Poulsens Broder, Valdemar,<note xml:id="idm140619160064576" n="18" anchored="true">) Vandinspektør Vigfus Poulsens Broder, Dr. med. Valdemar P.</note>), hos os. Hils fra ham og os paa Vandværket. Han er rask og straalende fornøjet med Paris. Vi have iøvrigt i Dag været højt til Veirs, nemlig oppe paa Toppen af »Tour St. Jacques«. 361 Trappetrin og stadig i Sneglegang gaar det, indtil man kommer ovenpaa Platformen, og da har man et Syn, som man aldrig nogensinde vil glemme — nemlig hele Paris med sine lange og brede Boulevarder, sine Kirker og Masser af Bygninger til alle Sider, saa langt Øjet kan række. Invalidernes Hotel, Nôtre Dame, Panthéon, St. Sulpice — kort sagt alle disse Pragtbygninger, der dukke op af denne Vrimmel af Huse, møde Øjet. Moder havde nok sit Besvær med at komme op, men saa gik det desto glattere nedad; thi hun kom saaledes i Gang med at dreje sig — Trappen gaar nemlig i Sneglegang — at hun, da hun kom ned, havde faaet Dreiesyge og vedblev at dreie sig. Saa gik vi og drev omkring, indtil vi vare saa trætte, at vi, da vi kom ligeud for <pb xml:id="idm140619160061600" n="30" facs="images/002086735_000/002086735_000_0038.jpg"/>en Vinhandel, satte os ned paa Stolene, der overalt findes her paa Gaderne, og forlangte Vin. Eders Moder var altsaa nu kommen saa vidt, at hun sad paa Gaden og drak Vin ved hoj lys Dag. Den Vin, man faar her til 4 Mk. Flasken, er aldeles mageløs udmærket. Man kender virkelig aldeles ikke til Vin hjemme. Den skarpe, magre Smag, som den Vin, vi drikke hjemme, har, er her aldeles borte, og vi faa en Vin med en blød, fuld Smag i Stedet.</p>
+        <p xml:id="idm140619160059776">I Gaar Aftes vare vi i »Comédie Française«. Vi saa tre Stykker — Banville: »Gringoire«, Musset: »Fantasio«, Marivaux: »Le Legs« — og vi vare ganske overordentlig fornøjede med Spillet. Lafontaine spillede Ludvig XI, Coquelin — Gringoire, Delaunay — Fantasio og Mad. Favart — Elsbeth. Da jeg havde Stykkerne hos mig, forstod vi alt og havde en nydelsesrig Aften. Men anstrængende er det, kjære Børn, thi først Kl. 12½ var Forestillingen forbi, saa at vi kom hjem — efter Thedrikken paa Boulevarden — Kl. 1½. Vi kunne ikke udholde at gaa hver Aften i Theatret, men hveranden Aften.</p>
+        <p xml:id="idm140619160058736">Hr. Goldschmidt beder Eder hilse mange Gange. Vi fik en velkommen Hilsen fra Eder gjennem hans Kone, der nok havde seet Eders Char-à-banc paa Strandvejen i Søndags. Lev vel! Hils Meta, Fabritius, Holmblad</p>
+        <p xml:id="idm140619160057920">fra Eders hengivne Fader.</p>
+      </div>
+      <pb xml:id="idm140619160057408" n="31" facs="images/002086735_000/002086735_000_0039.jpg"/>
+      <div decls="bibL0020867350000010" n="10" xml:id="L0020867350000010" xml:lang="da-Dk">
+        <head xml:id="idm140619160055568">(Fra <persName xml:id="idm140619160055312" type="sender" key="Sødring, Julie Weber" sameAs="#personidm140619160055312">J. Sodring</persName>.)<lb xml:id="idm140619160054688"/>
+               <date xml:id="idm140619160054432" sameAs="idmdc2afc91-2373-49d6-a740-0b5799313dae">Lørdag d 16. September</date>
+            </head>
+        <p xml:id="idm140619160053984">Kjære, elskede <persName xml:id="idm140619160053728" type="recipient" key="Sødring, Christen" sameAs="#personidm140619160053728">Børn</persName>!</p>
+        <p xml:id="idm140619160052976">Tak for Eders velsignede rare Breve! Saaledes er det, jeg ønsker, at I skal skrive, meddele os alt! Enhver lille Begivenhed, som angaar Eder, har den største Betydning for os. Tak min egen Johanne for Dit moderlige Sindelag imod Din lille Broder! Tak Stine fra mig for hendes Kjærlighed mod Hjemmet og Eder.</p>
+        <p xml:id="idm140619160051952">Hvad siger Meta til min store Vase? Vil hun binde an med den? Min kjære Meta, hvis Du har Lyst til det, gjør Du mig en stor Glæde dermed. Skriv et Brev til os, saa er Du rigtig sød!</p>
+        <p xml:id="idm140619160051184">I Dag skal vi spise til Middag hos Goldschmidt. Jeg kan ikke sige Eder, hvor udmærket rar han har været, og til megen Nytte for os. Han er i højeste Grad tjenstagtig og meget beskeden. Hver Dag beder han mig hilse mine to søde Døttre. Det er hans Ord! Gaa op en Dag til Fru Goldschmidt og sig hende, at vi har været meget taknemmelige og glade for hendes rare Mand. — Fik I gjemt min Flaske med min ægte Eau de Cologne? Gjem den!</p>
+        <p xml:id="idm140619160050016">Her er aldeles mageløst! Først Danmark, saa Paris! Sig Fru Bierring<note xml:id="idm140619160049600" n="19" anchored="true">) Skolebestyrerinde Fru B. (fransk af Fødsel).</note>), bed Anna<note xml:id="idm140619160048624" n="20" anchored="true">) Datter af Admiral Bøcher.</note>) sige hende, at Sødring og jeg ere henrykte saavel over Byen som over Folket! Her er en Venlighed, en Artighed og Opmærksomhed, man ingen Idé gjør sig om. Opvarterne <pb xml:id="idm140619160047408" n="32" facs="images/002086735_000/002086735_000_0040.jpg"/>paa Restaurationerne og Caféerne læse os ud af Øjnene, hvad vi ønske.</p>
+        <p xml:id="idm140619160046320">Fader er mageløs!</p>
+        <p xml:id="idm140619160045936">
+          <caption xml:id="idm140619160045808">Monrose.<note xml:id="idm140619160045552" n="*)" anchored="true">Særlig ypperlig Fremstiller af Molièreske Figurer.</note> — Théâtre Français.</caption>
+        </p>
+        <p xml:id="idm140619160044368">Ja, det er rigtignok en stor Opmuntring for os. I kan tænke Eder min Glæde over, at han er saa henrykt. Uden det vilde jo min Reise være forspildt. Han er, som om han var tyve Aar. —</p>
+        <p xml:id="idm140619160043600"><pb xml:id="idm140619160043472" n="33" facs="images/002086735_000/002086735_000_0041.jpg"/>I maa endelig hilse Noach<note xml:id="idm140619160042672" n="21" anchored="true">) Kgl. Kapelmusikus N.</note>) saa meget fra os — og Bøchers! — Bed Marie om at hilse Georg og Mine<note xml:id="idm140619160041648" n="22" anchored="true">) Brevskriverindens Broder, Institutbestyrer G. Rosenkilde og Hustru.</note>) og husk at bringe en kjærlig Hilsenj til Hans og Caroline<note xml:id="idm140619160040640" n="23" anchored="true">) Brevskriverindens Svoger, cand. jur. H. Sødring og Hustru.</note>) — samt alle kjære Venner.</p>
+        <p xml:id="idm140619160039504">
+          <caption xml:id="idm140619160039376">Bressant. — Théâtre Français.</caption>
+        </p>
+        <p xml:id="idm140619160038992"><pb xml:id="idm140619160038864" n="34" facs="images/002086735_000/002086735_000_0042.jpg"/>Lille Johanne, vil Du tage Rose om Halsen og kysse hende fra mig, og Du, Rose, vil Du ikke nok kysse Johanne fra mig — og Du min søde Christen, tag Din lille Broder, kys ham fra mig, og Du, min søde Marius, tag Din Broder Christen og kys ham! Jeg kan jo ikke naa Eder for Øjeblikket — men bliv lidt! I Gaar kyssede jeg Eder saaledes, at jeg nær havde grædt af Glæde! Jeg syntes i Tankerne at være kommen hjem!</p>
+        <p xml:id="idm140619160037088">Lev vel! Gud være med Eder!<lb xml:id="idm140619160036832"/>
+Eders tro Moder.</p>
+      </div>
+      <pb xml:id="idm140619160036320" n="34" facs="images/002086735_000/002086735_000_0042.jpg"/>
+      <div decls="bibL0020867350000011" n="11" xml:id="L0020867350000011" xml:lang="da-Dk">
+        <head xml:id="idm140619160034480">(Fra <persName xml:id="idm140619160034224" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619160034224">C. Sødring</persName>.)<lb xml:id="idm140619160033600"/>
+               <geogName xml:id="idm140619160033344" type="sender" sameAs="idma4bbb110-6dde-428d-8486-170b7338936a">Paris</geogName>, <date xml:id="idm140619160032960" sameAs="idm7c0d115e-d21b-4586-87a0-21131f708b6c">d. 16. Septbr. 1866</date>.</head>
+        <p xml:id="idm140619160032448">Elskede, kjære <persName xml:id="idm140619160032192" type="recipient" key="Sødring, Christen" sameAs="#personidm140619160032192">Børn</persName>!</p>
+        <p xml:id="idm140619160031440">Tak for Eders velsignede Breve. I gjøre Eder intet Begreb om, hvor glade vi blive, naar vi komme hjem, og man siger: »Une lettre pour vous!« Vi tænker stadig og altid paa Eder, og hvad vi saa end se, saa sige vi altid: »Gid Børnene var her og kunde nyde med os alle disse Vidunderligheder, al denne Storhed, hvorom Ingen, der ikke har seet den, kan gjore sig et Begreb!« Vor Altandør staar aaben til Boulevarden, og Hundreder af Vogne og Mennesker fare forbi. Folk i denne By ere altid paa Færde, og jeg troer ikke, at der er andre hjemme end maaske Katten, og det hverken Dag eller Nat. Store og lange Vogne med Vindruer, Ferskner trækkes af Kjællinger, og Maver kunde let revne, dersom man <pb xml:id="idm140619160029680" n="35" facs="images/002086735_000/002086735_000_0043.jpg"/>ikke tog sig i Agt. Ak Marius og Christen! Gid jeg havde Eder her, saa skulde jeg bedække Eder med Druer, Pærer — de sidste saa store som de største, I have seet hos Bageren i Pilestrædet.</p>
+        <p xml:id="idm140619160028352">I Gaar Aftes vare vi i »Op. Comique« og saa »Sorte Domino« og et andet Stykke. Hen ad Morgenstunden blev vi færdige, og saa sad vi paa Boulevarden Kl. 1 omtrent og drak Masser af Thee. Moder er som sagt brillant! Hun er nu fuldkommen inde i Pariserlivet, lader sig bortføre af Drosker og farer omkring som et tørt Skind snart paa Restaurationer snart paa Caféer — ja, glem ikke »Dronehuset« (la Morgue) — kort, hun er knap til at styre!</p>
+        <p xml:id="idm140619160027312">I Formiddags — vi ere lige komne hjem — have vi været i Jardin des Plantes. Sikke Masser Dyr — Planter — Slanger og andet mere! En stor fed, lasket Karl med et Hoved saa bredt som Kristenbernikovstræde og med Respekt at melde en Bag saa bred som Christiansborg Slot — et Gab som Indkørselen til København ved Vesterport — præsenterede sig for os som Flodhesten! Elefanter, Tigre, Jaguarer, Krokodiller, Strudse, Bjørne, Kameler — kort alle mulige Slags Dyr i Mængde. Der var en Renlighed, som var udmærket. Dyrene havde det saa propert som Jøderne paa Strandvejen. Abekattene i store, store Bure, omgivne af jublende Parisere, der grinte og skar Ansigter ad dem, som om alle havde den Livsopgave at more Abekattene og selv at mores ved samme Lejlighed.</p>
+        <p xml:id="idm140619160025328">I Gaar vare vi i Louvre og saa Samlingerne. <pb xml:id="idm140619160025008" n="36" facs="images/002086735_000/002086735_000_0044.jpg"/>Hvilken Pragt! Gamle Ægyptere — mere end 4000 Aar gamle — i pæne Kasser (Mumier) stod ganske stille hen og nød godt af Civilisationen i Paris. Keiser Napoleons Kjole — Krone — Hat — Kaarde — o.s.v. Kort, I kjære Børn, jeg er nær ved at steile over alt dette. I Dag rørte jeg ved en Elefantsnabel — tænk Eder — en virkelig Elefantsnabel. Og det en Elefantsnabel, hvis Elefant nok nu — men ikke før — kunde komme ind ad Vesterport.</p>
+        <p xml:id="idm140619160023424">Da vi i Gaar kom fra Louvre, faldt vi ind i en Boutik, hvor der var den livligste Pariserinde, som jeg endnu har truffen paa. Bevares! hvor Munden gik paa hende! Da jeg fortalte hende, at Moder var »artiste et membre de la comédie danoise«, blev hun saa ilter, at hun røg hen i Manden og nær havde rystet det stakkels Been ud af Skindet. Saa satte hun sig ned og skrev en lang Liste op, med hvad vi skulde se. Hun vilde selv skrive til Præfekten over Paris, saa at vi kunde faa at se det indre af Hôtel de Ville. Tre Timer holdt hun paa os. Vi maatte se alt — og det forstaar sig, hun plukkede mig for omtrent 28 Rdlr. dansk. Siden den Tid er jeg bleven bange for at gaa ind til disse artige Pariserinder.</p>
+        <p xml:id="idm140619160022032">Fredag Aften vare vi i en Café, hvis Lokaler ere større end Casino. Nogle og halvtredsindstyve Billarder stod opstillede — Vandspring — Uhre, der spiller hele Melodier — Masser af Borde, allesammen Marmor — Speile, hele Vægge af Spejle — kort det var en Café, som der ingen Ende var paa. Blusemænd med deres Familier, Børn, gamle Kjællinger <pb xml:id="idm140619160021104" n="37" facs="images/002086735_000/002086735_000_0045.jpg"/>stod rundt om i dette prægtige Lokale. Man fristedes til at tro, at den hele Verden var kommen sammen for at drikke Kaffe. —</p>
+        <p xml:id="idm140619160019904">Hvorleds gaar det paa Fabrikken? Den første store Kasse underneden i Bogskabet kan afgive 25 Cigarer.</p>
+        <p xml:id="idm140619160019296">Lev vel, elskede Børn, jeg kysser Eder kjærligst! Lev vel!</p>
+        <p xml:id="idm140619160018768">Eders hengivne Fader<lb xml:id="idm140619160018512"/>
+Chr. Sødring.</p>
+      </div>
+      <pb xml:id="idm140619160018000" n="37" facs="images/002086735_000/002086735_000_0045.jpg"/>
+      <div decls="bibL0020867350000012" n="12" xml:id="L0020867350000012" xml:lang="da-Dk">
+        <head xml:id="idm140619160016160">(Fra <persName xml:id="idm140619160015904" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619160015904">C. Sødring</persName>.)<lb xml:id="idm140619160015280"/>
+               <date xml:id="idm140619160015024" sameAs="idm2b31af36-b098-4540-a154-cc32d8f4104c">Mandag, d. 17. September 1866</date>.</head>
+        <p xml:id="idm140619160014512">Elskede <persName xml:id="idm140619160014256" type="recipient" key="Sødring, Christen" sameAs="#personidm140619160014256">Børn</persName>!</p>
+        <p xml:id="idm140619160013504">Medens Moder sidder og slider i et Par nye Støvler, saa Haarene reise sig paa mit Hoved, og Hr. Petersen i St. Pederstræde<note xml:id="idm140619160012976" n="24" anchored="true">) Familiens Skomager.</note>) synes mine Fødder en Engel, tilføjer jeg vore Breve disse Linier. Desværre er det næsten hver Dag Regnvejr her i denne pæne lille By! I Gaar vare vi i St. Cloud — vi havde en 2 à 4 Timer Tørveir — og morede os deiligt i Parken, der er stor, og hvor man finder de skjønneste Udsigter og Anlæg. Navnlig er der et Sted med Udsigt ind over Paris og hele Seinedalen. Dette afgiver det mest storartede Skue, som kan tænkes. Det ligger omtrent for Paris som Fortunen for København. Til Højre har man en Række Skove med Landsteder <pb xml:id="idm140619160011472" n="38" facs="images/002086735_000/002086735_000_0046.jpg"/>ved Seinen, til Venstre Bois de Boulogne og lige foran sig Paris — dette Hav af Huse, hvorfra hæve sig Kirketaarnene — Invalidernes Hotel — Nôtre Dame — Tour St. Jacques — Vendômesøjlen — Julisøjlen — og mange, mange flere »Søjler«.</p>
+        <p xml:id="idm140619160010016">Saa kom Regnen i Strømme. Vi vare netop da paa en Plads, hvor der var en Dyrehavsforestilling — Abekatte, Theatre, Tyrolerferdinander i Massevis. Masser af levende og øverlivlige Franskmænd. Moder fik en splinterny Kjole aldeles spoleret, og i et øsende Veir kom vi til Paris — efter at jeg først havde været oppe at skændes med en Franskmand om en Vogn, som han dog magelig maatte lade mig faa.</p>
+        <p xml:id="idm140619160008976">Holmblad har vel faaet mit Brev? Tak ham hjerteligst for hans, som jeg til min Beroligelse og Glæde fik i Gaar.</p>
+        <p xml:id="idm140619160008352">Hils Andersen paa Fabrikken. Moder hilser. Vi kysser Eder alle i Tankerne! Vær forsigtige, naar I ere ude. Skift Fodtøj, naar I blive vaade. — Hils Meta!</p>
+        <p xml:id="idm140619160007632">Eders kjærlige Fader<lb xml:id="idm140619160007312"/>
+Christopher Sødring.</p>
+      </div>
+      <pb xml:id="idm140619160006736" n="38" facs="images/002086735_000/002086735_000_0046.jpg"/>
+      <div decls="bibL0020867350000013" n="13" xml:id="L0020867350000013" xml:lang="da-Dk">
+        <head xml:id="idm140619160004832">(Fra <persName xml:id="idm140619160004576" type="sender" key="Sødring, Julie Weber" sameAs="#personidm140619160004576">J. Sødring</persName>.)<lb xml:id="idm140619160003952"/>
+(Uden Datum.)</head>
+        <p xml:id="idm140619160003568">Mine elskede <persName xml:id="idm140619160003312" type="recipient" key="Sødring, Christen" sameAs="#personidm140619160003312">Børn</persName>!</p>
+        <p xml:id="idm140619160002560">Gud give jeg havde Eder hos mig i Dag! Der kan være Dage, hvor man længes saa usigeligt, hvor man trænger saa meget til hinanden! Ja, jeg føler rigtig dybt, hvor meget I ere for mig! — Søde Rose <pb xml:id="idm140619160001888" n="39" facs="images/002086735_000/002086735_000_0047.jpg"/>og Johanne — I to Qvinder, I mine Døttre, som kjender mig saa godt — jeg trænger til at tale med Eder! Jeg siger som I: Gud være lovet for hver Dag, der gaar — gaar godt — og som bringer os nærmere til hinanden. Ja, det er godt at reise! Man lærer først ved Adskillelsen, hvor meget man er for hinanden. Priset være den Følelse — den er ædel og lyksalig! Naar nogen spørger mig, om jeg har Børn, saa er det ogsaa med Glæde og Stolthed og inderlig Taknemmelighed, at jeg svarer: »Ja, fire levende Børn — to Døttre og to Sønner — og to yndige Drenge ere ikke mere her paa Jorden. Jeg har sex Børn!«</p>
+        <p xml:id="idm140619159999664">Jeg længes efter Brev! Pas godt paa hinanden. Vær forsigtige.</p>
+        <p xml:id="idm140619159999136">Paris har meget, som er stort og smukt og godt, men her er ogsaa en Masse Blændværk. Damerne ere i mere eller mindre Grad malede — hvidt Pudder, rød Sminke, Tusch under Øjnene og paa Øjenbrynene samt Skjønhedspletter. Naar det saa bliver sét i stærk Gasbelysning, og det er godt gjort, saa kan jo nok en saadan Dame tage sig ud i sin phantastiske Dragt — her spørges ikke om andet end, hvad der klæder bedst — dog ikke i nogen ædel Forstand! Naar man begynder at reflektere, saa gaar det galt. Man maa leve berusede i Rusen, saa kan man leve her — ined Lojøer og Latter. Men er man alvorlig, er man en Dag lidt vemodig stemt, saa er her rædsomt! Saa staar Paris som en Bolig for vanvittige. — Alt er meget kostbart her. Priserne paa alt er umaadelig opskruede. De Reisende maa skam punge godt ud! <pb xml:id="idm140619159997072" n="40" facs="images/002086735_000/002086735_000_0048.jpg"/>Vi har truffet den unge Poulsen — Lægen. Han er rigtig rar — saa beskeden og tjenstagtig og meget behagelig at være sammen med!</p>
+        <p xml:id="idm140619159995856">Nu faar I ikke mere i Dag, elskede Born. I Morgen atter et Par Ord!</p>
+        <p xml:id="idm140619159995472">
+          <caption xml:id="idm140619159995344">Mad. Madeleine Brohan.<note xml:id="idm140619159995088" n="*)" anchored="true">Mad. Brohan optraadte bl. a. som Elmire i „Tartuffe“ og — sammen med Bressant — i Octave Feuillets Proverbe „Le cheveu blanc“.</note> — Théâtre Français.</caption>
+        </p>
+        <p xml:id="idm140619159993744">Fredag Formiddag, d. 20.</p>
+        <p xml:id="idm140619159993360">Vi ere nu komne hjem fra en stor Vandring, saa mine arme Ben ere næsten ude af alle Ledene. Jeg <pb xml:id="idm140619159992896" n="41" facs="images/002086735_000/002086735_000_0049.jpg"/>maa hvile mig en Time før Middag. Men først disse Par Ord til Eder, I Kjære! Skriv endelig som vi et Par Gange om Ugen. Vi ere næstem syge af Længsel.</p>
+        <p xml:id="idm140619159991648">
+          <caption xml:id="idm140619159991520">Mad. Lafontaine. — Théâtre Français.</caption>
+        </p>
+        <p xml:id="idm140619159991136">I maa gjerne kjøbe ude hos Hansen<note xml:id="idm140619159990880" n="25" anchored="true">) Gartner H., hvis store Gartneri laa udenfor Voldene mellem Nørre Farimagsvei og Peblingesøen.</note>) en Klasse Druer og dele. Vi faa saa mange her. I skal ogsaa smage dem.</p>
+        <p xml:id="idm140619159989680"><pb xml:id="idm140619159989552" n="42" facs="images/002086735_000/002086735_000_0050.jpg"/>Hils Stine og Caroline og Julius<note xml:id="idm140619159988752" n="26" anchored="true">) Bydrengen.</note>). Sig Stine, at vi glæde os til Vælling og en stor Oxesteg.</p>
+        <p xml:id="idm140619159987616">Hils den kære Holmblad. Hans Breve glædede os meget. Marie, Wellmans, Bangs, Meta, Niels — alle hilses hjerteligst. I, mine fire højtelskede Born, slutter jeg i mine Arme!</p>
+        <p xml:id="idm140619159986864">Eders tro<lb xml:id="idm140619159986608"/>
+Moder.</p>
+      </div>
+      <pb xml:id="idm140619159986096" n="42" facs="images/002086735_000/002086735_000_0050.jpg"/>
+      <div decls="bibL0020867350000014" n="14" xml:id="L0020867350000014" xml:lang="da-Dk">
+        <head xml:id="idm140619159984256">(Fra <persName xml:id="idm140619159984000" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619159984000">C. Sødring</persName>.)<lb xml:id="idm140619159983376"/>
+               <geogName xml:id="idm140619159983120" type="sender" sameAs="idm058db334-66ff-4ab3-8a1b-566328cc1be0">Paris</geogName>, <date xml:id="idm140619159982736" sameAs="idmbb48e552-3bc2-43a7-abd0-6a84c3fe5de5">den 20. Septbr. 1866</date>.</head>
+        <p xml:id="idm140619159982224">Kjære <persName xml:id="idm140619159981968" type="recipient" key="Sødring, Christen" sameAs="#personidm140619159981968">Børn</persName>!</p>
+        <p xml:id="idm140619159981216">Vi længes meget betydeligt efter Brev fra Eder. Nu er det i Morgen otte Dage, siden vi hørte fra Eder. Gaa bare ikke hen og bliv dovne! Husk, at selv den allerubetydeligste Linie hjemmefra — fra Eder, elskede Børn, er os ikke alene kjærkommen, men nødvendig som Luft og Vand. Derfor skriv, Børnlille! Lad Duen, som staar over dette Brev, være Eder en Paamindelse om hurtig Brevbefordring. Skynd Dig, Du min Due, til mit kjære Hjem og bring snart Svar tilbage!</p>
+        <p xml:id="idm140619159980208">Siden mit sidste Brev til Eder have vi set en Del. Først og fremmest maa jeg nævne Comédie Française, som er og bliver det Theater, vi foretrække for alle andre. Forleden saa vi »Lærde Damer« og »Barberen«. Bressant spillede Greven i <pb xml:id="idm140619159979440" n="43" facs="images/002086735_000/002086735_000_0051.jpg"/>»Barberen« — udmærket. Han minder levende om Michael Wiehe. Jeg beundrer Udførelsen paa Théâtre Français, det er saa skjønt, hvad man ser dér, og saa er Scenearrangementet saa ganske fortræffeligt. I »lærde Damer« (»femmes savantes« — Molière) spillede jo, som I véd, Moder sidste Vinter — Belise nemlig. Det morede os begge at se, at man her i det Hele taget havde samme Udførelsesmethode og Opfatning som hjemme hos os af dette udmærkede Stykke, der til Skam for vort Publicum ikke stod sig. Efter min Mening overgik Moder langt den Dame, der her spillede Belise. Hun her var ganske morsom, men grel og — efter min ringe Mening — for skarp og kantet.</p>
+        <p xml:id="idm140619159977296">Det er en sand Nydelse at høre Fransk fra Théâtre Français’ Scene. Uagtet jeg jo er en Stymper i Sproget, saa forstaar jeg dog meget godt dette Sprog fra denne udmærkede Scene, hvor alle Skuespillere og do. -inder saa kjærligt kæle for Kunsten og for Sproget.</p>
+        <p xml:id="idm140619159976352">Beaumarchais’ »Barber« blev i det Hele mageløst udfort. Navnlig var Figaro — Got — og Greven uovertræffelige, og Rosina havde en udmærket talentfuld Fremstillerinde (Md. Lafontaine). —</p>
+        <p xml:id="idm140619159975552">I Gaar var vi i Panthéon ved Rousseaus og Voltaires Gravsteder. De ligge i Hvælvingerne under Panthéon i massive Granitkister. Moder havde nær opgivet Ævret, da hun sidenefter maatte fra Hvælvingerne stige højt op i Kuppelen, men dér nød vi et skjønt Syn udover Paris. — Palais Luxembourg besaa <pb xml:id="idm140619159974672" n="44" facs="images/002086735_000/002086735_000_0052.jpg"/>vi dernæst. En henrivende Have med Masser af legende Børn — ja, legende Arbejdere. Efter fem Timers stadige Væren paa Færde stavrede vi hjem med Værk i Bentøjet. Saa kom Dr. Poulsen, og vi spiste til Middag sammen i en Restauration — gik saa paa en Café af Kæmpestørrelse, drev omkring paa Boulevarden indtil Kl. 10. Nu maatte vi i Seng, thi vi kunde knap staa paa Benene af Træthed. —</p>
+        <p xml:id="idm140619159973120">Ak, mine elskede Børn, hvor ofte ønske vi ikke, at I vare her! Denne By er ubeskrivelig interessant. Alt bærer Præg af Skjønhed, Pragt og Overflod, men her findes vel ogsaa en tilsvarende Elendighed.</p>
+        <p xml:id="idm140619159972304">I Dag have vi været 2den Gang i Louvre og set en Venus, som er Deilighedernes Deilighed. Poulsen var med os, og vi nød tilsammen den Fryd at fortabe os i Antikkerne og i Malerier af Tizian, Rubens, Leonardo da Vinci m. fl., kort Herligheder, som ellers aldrig sés.</p>
+        <p xml:id="idm140619159971376">Vi ere altsaa, som I se, paa Farten og raske! Dersom det kan interessere Hans, Adolph eller andre, saa maa I gerne læse mine Breve for dem. — Hils Holmblad, Poulsen paa Vandværket, alle hjemme paa Fabrikken fra mig.</p>
+        <p xml:id="idm140619159970544">Jeg kysser Eder, kjære elskede Børn! Meta, skriv os til! Lev vel, I elskede!</p>
+        <p xml:id="idm140619159969984">. .Eders hengivne Fader<lb xml:id="idm140619159969728"/>
+Christopher Sødring.</p>
+      </div>
+      <pb xml:id="idm140619159969152" n="45" facs="images/002086735_000/002086735_000_0053.jpg"/>
+      <div decls="bibL0020867350000015" n="15" xml:id="L0020867350000015" xml:lang="da-Dk">
+        <head xml:id="idm140619159967312">(Fra <persName xml:id="idm140619159967056" type="sender" key="Sødring, Julie Weber" sameAs="#personidm140619159967056">J. Sødring</persName>.)<lb xml:id="idm140619159966432"/>
+               <date xml:id="idm140619159966176" sameAs="idm27de42e3-11a4-424e-8677-96db103a5fec">Lørdagformiddag, d. 22. September</date>,</head>
+        <p xml:id="idm140619158315376">Elskede <persName xml:id="idm140619158315120" type="recipient" key="Sødring, Christen" sameAs="#personidm140619158315120">Børn</persName>!</p>
+        <p xml:id="idm140619158314368">Tak for Brevet; igaar den 21. modtog vi det — Gud være takket, at I har det godt, lad mig see, at I bestandig tænker paa Eders Forældre — at I ere i høj Grad forsigtige. — Du min egen elskede Marius maa være rigtig sød, tag din Frakke paa, naar det er koldt, eller naar det regner — og Christen ligeledes, husk hvor farligt Efteraaret er — skift Strømper, naar I kommer hjem, tænk Eder, hvor elendige vi vilde være, om I bleve syge. — I erindre vel nok, at Bedstefaders<note xml:id="idm140619158313408" n="27" anchored="true">) C. N. Rosenkilde (død 1861).</note>) Frakke hænger imellem mit og Faders Skab, Christen kan selv gaa ud til Møller og aftale med ham, at han syer ham en god varm og kjøn Frakke, beed ham gemme, hvad han faar tilovers — søde Rose eller Johanne gaar nok med ham. I maa gjerne lade Anna Bøcher skaffe os lidt Frugt — I kan nok selv bestemme — tak hende den søde Pige for hendes Kærlighed — det er dog mageløst, hvor Folk er kjærlige imod Eder — hvor det var smukt af Lindes<note xml:id="idm140619158311904" n="28" anchored="true">) Daværende Kontorchef i Justitsminist., senere Overformynder Theodor Linde og Hustru Anna, f. Holten.</note>) — I maa endelig gjøre dem en Visit og takke dem saa hjerteligt fra os. — Jeg er glad over, at Meta maler min Skaal, spørg hende, om hun vil tage de to Kander med til Aalborg; hun kan decorere dem, som hun selv vil. Kjære, elskede Børn, naar <pb xml:id="idm140619159940080" n="46" facs="images/002086735_000/002086735_000_0054.jpg"/>mit Speilbord skal hen at poleres, saa glem ikke at tage alt ud af Skufferne. — Din stakkels lille Rose, som blev stukket saa slemt! —</p>
+        <p xml:id="idm140619159938864">Det er i denne Tid omtrent Regn hver Dag — det er jo kedeligt, men her er intet ved det at gjøre. — Vi gaar dog gode Strækninger hver Dag, saa kommer man hjem — klæder sig om — passiarer, tager imod Visitter eller skriver til Eder, I kjære — jeg har ogsaa nødig engang imellem at sy lidt paa mine Klæder; jo, jeg skal love for paa Reiser jasker man sit Tøj ganske rædsomt; saa gaar vi til vor Restauration og spiser en Mængde forskellige Retter, hvorimellem en Mængde Grøntsager — saa gaaer vi jo som oftest i Theatret. I Gaar hørte vi Jodinden i den store Opera — vi var ikke overstadig henrykte — den gaar i mange Henseender bedre hos os — her ere flere store Sangere — men i det hele seer jeg den hellere hos os — uagtet man tager Heste med i det store Optog — saa stor er Scenen!</p>
+        <p xml:id="idm140619159936736">Her er idag saa mildt, at jeg sidder og skriver for aabne Altandøre. — I Gaar havde vi Besøg af en dansk — Løjtnant Arendrup<note xml:id="idm140619159936208" n="29" anchored="true">) S. A. Arendrup, senere Oberst og Adjudant hos Khediven af Ægypten Ismail Pascha, falden i November 1875 paa en Ekspedition mod Abyssinien.</note>), som er gift med en Frøken Mourier — han er vist et meget rart Menneske — naar han reiser hjem, beder vi ham om at gaa op og hilse Eder fra os. — Blommermaa vi have! — Hils nu Alle. — Kys mine Drenge, kys <pb xml:id="idm140619159934592" n="47" facs="images/002086735_000/002086735_000_0055.jpg"/>hinanden som sædvanlig fra mig. — Lev vel I Elskede, Gud være med Eder.</p>
+        <p xml:id="idm140619159933504">Eders tro<lb xml:id="idm140619159933248"/>
+Moder.</p>
+      </div>
+      <pb xml:id="idm140619159932736" n="47" facs="images/002086735_000/002086735_000_0055.jpg"/>
+      <div decls="bibL0020867350000016" n="16" xml:id="L0020867350000016" xml:lang="da-Dk">
+        <head xml:id="idm140619159930896">(Fra <persName xml:id="idm140619159930640" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619159930640">C. Sodring</persName>.)<lb xml:id="idm140619159930016"/>
+               <geogName xml:id="idm140619159929760" type="sender" sameAs="idm9576643e-61bd-45fd-a935-54768fe5342b">Paris</geogName>, <date xml:id="idm140619159929376" sameAs="idmeb9e4890-5611-4394-8be7-f29e4b29b03d">d. 23. September 1866</date>.</head>
+        <p xml:id="idm140619159928864">Elskede, kjære <persName xml:id="idm140619159928608" type="recipient" key="Sødring, Christen" sameAs="#personidm140619159928608">Børn</persName>.</p>
+        <p xml:id="idm140619159927856">Det er idag — Søndag — et yndigt Regnveir. Pariserne have — de Fleste af dem da — trukket Støvlerne uden paa Bukserne. Boulevarderne svømmer — Ja det har regnet i Strømme siden igaar Morges. Godt var det, at Moder og jeg igaar — vi vare langt paa den anden Side af Seinen — da vi flygtede ind i en Port for dog ikke rent at drukne i Regnen, fravege vor Beslutning at blive i Porten, til Regnen var holdt op — vi vare ellers staaende i Porten endnu! Pokker tage det fordømte Regnvejr!</p>
+        <p xml:id="idm140619159926832">Altsaa — kjære Børn — det var Porten, som sagt. Sagen var den, at Moder og jeg, der i forgaars havde Besøg af en Artilleriofficer fra København, Arendrup, Admiral Mouriers Datters Mand (det forstaar sig, Admiralen er død og begravet), af ham havde hørt, at Legationen her havde Kort til Uddeling — Kort til saadanne Steder, der ellers er lukkede for Folk. Vi stavrede da afsted for at faa disse Kort. Legationen ligger langt fra Hotellet ude i en Gade, Rue de l’université, — Kl. 1 var der aaben, men vi kom Kl. 12 — gik hjem uden Kort i Regnveir. Imorgen — Mandag — vil jeg forsøge min Lykke. <pb xml:id="idm140619159925936" n="48" facs="images/002086735_000/002086735_000_0056.jpg"/>Snurrig nok var den danske Legation det eneste Sted her, hvor man — Portneren nemlig — talte Tysk til os, men jeg sagde højlydt paa dansk »Gaa til H... med det Tyske«, og saa talte jeg Fransk (saa godt jeg kunde nemlig).</p>
+        <p xml:id="idm140619159924544">
+          <caption xml:id="idm140619159924416">Delaunay. — Théâtre Français.</caption>
+        </p>
+        <p xml:id="idm140619159924032">Iforgaars vare vi i Operaen og hørte »Jødinden«. Storartet Scenearrangement! En heel Mængde virkelige Heste med Ryttere paa, store og mægtige <pb xml:id="idm140619159923456" n="49" facs="images/002086735_000/002086735_000_0057.jpg"/>Stemmer til et Kæmpeorkester; men Jødinden) gaaer lige saa smukt hjemme hos os. Derimod hørte vi »Joseph og hans Brødre« i »Comique« forleden Aften med Capoul som Joseph og den indtagende Mlle Roze som Benjamin. Det var den skjønneste Forestilling, jeg nogensinde har hørt. Igaaraftes vare vi saa trætte, at vi bleve hjemme og gik tidlig i Seng. Det er utroligt hvad disse Forestillinger, <pb xml:id="idm140619159922000" n="50" facs="images/002086735_000/002086735_000_0058.jpg"/>der begynde Kl. 7 à 7½ og ende Kl. 12 à 12½, trætte os. Sidste Akt af Jodinden maatte vi forlade, thi vi vare nærved at segne, og saa stinker der af Gas i Operaen, saa at man er nærved, at brække sig.</p>
+        <p xml:id="idm140619159920640">
+          <caption xml:id="idm140619159920512">Mad. Jouassin.<note xml:id="idm140619159920256" n="*)" anchored="true">Fremstillerinde af ældre Roller i den klassiske Komedie. En Pariserfærd i Efteraaret 1866.</note> — Théâtre Français.</caption>
+        </p>
+        <p xml:id="idm140619159918992">Damerne her ere alle meget smagfuldt og tildels kostbart klædte. Somme af dem see ud, som vare de brudte ud fra et Kunstberiderselskab. Navnlig om Aftenen, naar Boulevarden er oplyst af Millioner Gasblus, naar 1000 Vogne hver med 2 tændte Lygter jage hele den lange Strækning igjennem — naar Folket sidde i Masser udenfor Kaffehusene og brogetklædte Damer som Sommerfugle flagre omkring, medens de smaa, runde, transparente Huse, der findes paa begge Sider af Boulevarden, og hvori sælges Aviser, kaste et forunderligt magisk Lys rundt omkring og forøge Indtrykket — navnlig d a synes denne By at være et fortryllet magisk Opholdssted for Væsner der vel see ud som Mennesker med Næsen imellem Øjnene — men som synes at tilhore en heel anden Klode end vor. Pariserne og ditto -inder sove vist meget lidt, og Fanden er løs i denne By baade ved Dag og ved Nat. —</p>
+        <p xml:id="idm140619159916720">Idag — Mandag — modtog vi Dit Brev, min kjære Rose; at faa Brev hjemmefra er for os altid den største Glæde, der kan times os. Inden det er lukket op, beder jeg indvendig til Gud, at dog alt maa staa godt til, og at Brevet ikke maa indeholde slemme Efterretninger. Du er en udmærket flink lille Pige, Rose! Hvilken Dyst har Du dog ikke haft med den eller rettere med de to Tænder. Moder og <pb xml:id="idm140619159915840" n="51" facs="images/002086735_000/002086735_000_0059.jpg"/>jeg følte virkelig dine Smerter, mit elskede Barn, og vi »tod« begge to. Gud være lovet, fordi Du har overstaaet den slemme, slemme Tour. At Du saa villiestærk blev ved Dit Forsæt, — dette var isandhed heroisk af Dig. Du er ret min egen, kjære, lille Rose! Jeg kysser Dig mange, mange Gange paa Afstand. — Tak skal Du have kjære, gode Meta for Din Kjærlighed imod Børnene. Du kan tro, min egen Ven, at vi ere lykkelige og glade ved Tanken om at Du er hjemme hos os — det er en stor Beroligelse for os. —</p>
+        <p xml:id="idm140619159914288">Igaar, Sondag (det regnede naturligvis, idag er det mærkeligt nok Tørveir) vare vi tilvogns for at se Palais Luxembourg indvendig. Vi vandrede i store, helt og holdent forgyldte Sale. Vi saa Tronsalen — Keiser Napoleons Tronstol (den har været hans Onkels Tronstol) — Senatets Forsamlingssal — kort en Masse pragtfulde, forgyldte Sale — med de skjonneste Malerier — saavel i Væggene som i Loftet — forsynede Sale og Gemakker. Overalt har den nulevende Keiser forstaaet at indflette sin Person — overalt ser man ham afbildet sammen med Onkelen (den store Napoleon). — Vi besaa igaar en Mængde udmærkede Billedhuggerarbejder i Marmor og Bronce. Efter Middagen vare vi i Théâtre Français, hvor vi saa en Tragedie af Racine »Athalie«. Magelos dejlig, mere herom i næste Brev. — Hils Stine, Caroline, mine søde Smaadrenge, Meta, Hans, Niels, Fabritius. Kort alle!</p>
+        <p xml:id="idm140619159912000">Eders hengivne<lb xml:id="idm140619159911744"/>
+Fader Christopher.</p>
+      </div>
+      <pb xml:id="idm140619159911232" n="52" facs="images/002086735_000/002086735_000_0060.jpg"/>
+      <div decls="bibL0020867350000017" n="17" xml:id="L0020867350000017" xml:lang="da-Dk">
+        <head xml:id="idm140619159909392">(Fra <persName xml:id="idm140619159909136" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619159909136">C. Sødring</persName>.)<lb xml:id="idm140619159908512"/>
+               <geogName xml:id="idm140619159908256" type="sender" sameAs="idma17a1b0d-ff61-49e1-830e-b24c149aef63">Paris</geogName>, <date xml:id="idm140619159907872" sameAs="idm1bc030ea-9d35-47cd-bc8a-34ab33f9548a">d. 26. September 1866</date>.</head>
+        <p xml:id="idm140619159907360">Kjære, elskede <persName xml:id="idm140619159907104" type="recipient" key="Sødring, Christen" sameAs="#personidm140619159907104">Børn</persName>.</p>
+        <p xml:id="idm140619159906352">Smukt Veir idag! Folket er oppe. Boulevarden vrimler af Køretøjer og pyntede Mennesker! Man skriger, gestikulerer! Iaften, naar den magiske By ifører sig sit Belysningsklædebond eller rettere sit lysende Klædebond, vil det blive en vidunderlig Scene. Sagen er nemlig den, at Pariserne ere som Bierne, der krybe ud og sværme i tusindevis ved godt Veir. I ondt Veir dø de hen og lade Vingerne hænge. »Suttestolene« og »Suttekællingerne« <note xml:id="idm140619159905360" n="30" anchored="true">) Frit afledet af »sou« ᴐ: 5 Centimer, Prisen for en Stoleplads paa Boulevarden.</note>) faaer travlt i Aften; det er nærmest idag som en Sommerdag, og Pariservandrerne ville ganske sikkert i lange Rader optage de ledige Stole paa Boulevarden.</p>
+        <p xml:id="idm140619159903840">Mærkelige Folkefærd! Enhver er fyldt med Krudt og eksploderer ved mindste Foranledning! Vi kommer netop nu fra Børsen. Denne ligger paa en fri Plads — aabner Kl. 12 — og er en storartet Stenbygning. Udenfor holdt en Mængde elegante Kjøretøjer — det var de unge Handelsmænd, der vare i Forretninger inde i Børsen. En mægtig Stentrappe fører op til den. Moder og jeg stavrede op af den. Gid jeg nu ret kunde give Eder, elskede Børn, et anskueligt Billede af hvad vi saae og hørte. Forestil Eder, at Ridehuset hjemme var fuldt af Mennesker, der som gale Folk raabte og skrege i Munden paa <pb xml:id="idm140619159902352" n="53" facs="images/002086735_000/002086735_000_0061.jpg"/>hinanden. Oventil paa Galleriet, der gaar rundt om Salen, stode Moder og jeg. Vi saa under os 3000 Mennesker vel — som fægtede med Hænderne, skubbede hinanden — raabte og skrege som Besatte — reve sig i Haarene. Imellem disse vare høje Pulte, ved hvilke Ulykkelige sad og skreve op Priserne paa Statspapirerne. Allerede i Forhallen lød denne Skrigen ud til os, som om Tyvetusinde Tønder Vand blev kastede brusende ned ad Trapperne, eller som om Vesterhavet var der inde, brølende under en Storm. Blege udslidte Febermennesker raabte og skrege, som var Fanden løs — og midt imellem dem spadserede roligt og med et overlegent Smil en lang rødhaaret Djævel med lange rode Knebelsbarter. Han var Mefistofeles saa lig som muligt! Militairet var tilstede — ja, ofte kommer man op at slaas! Idag blev saaledes en lille gesvindt Franskmand kastet paa Døren i en Haandevending, fordi han røg i Haaret paa en anden. Jeg vilde hellere steges ved en langsom Ild end være med her. Det er Galenskab efter Penge — Guldet er det, som bringer disse Mennesker til at raabe saa højt, de formaar. Moder og jeg maatte for at høre hinanden skrige af fulde Lunger.</p>
+        <p xml:id="idm140619159899152">Vi havde netop forud været paa Toppen af Vendômesøjlen. I vide vel, at dette er en Søjle med Napoleon paa Spidsen, som han lavede af 1200 i Tyskland 1805 erobrede Kanoner. Det er altsaa et Hædersmonument for ham, og Franskmændene bringe ogsaa daglig friske Blomsterkrandse til denne <pb xml:id="idm140619159898304" n="54" facs="images/002086735_000/002086735_000_0062.jpg"/>Støtte. De hænge disse Krandse paa Rækværket omkring den. Det er smukt saaledes at hædre sine store Mænd, ikke sandt? Indeni denne Støtte gaar en snegleformig Trappe. Opgangen er smal — Støtten er højere end Fruekirkes Taarn — og den staar som en lang — lang, rund Ting vendt opad. Moder gjøs, da hun med mig skulde begynde Opstigningen af den simalle, mørke Trappe. Men kære Born, Eders Moder er her i Paris ikke til at styre. Hun løber paa Caféer om Natten og op ad taarnhøje Støtter om Dagen — er saa hurtig som en Katunge — raaber til Kusken paa de hundrede Vogne paa Boulevarden og forbavser Verden ved at danse dansk Polka imellem Vognene. Altsaa Moder vilde nu engang op og kysse Fligen af Napoleons Keiserkaabe. Invaliden — en pæn Mand med mange Ordner (om I ville vide det, slog han mig for 1 frc.) — gav mig en tændt Lygte med, og nu gik det da opad. Moder og jeg fik pludselig Drejesyge i den højeste Grad. Varmt var der — trang Plads. Vi stønnede og pustede. Pludselig lyder det ovenfor, som om en stor Blæsebælg blæste i Trompet. Tænk Eder, kjære Børn, vi mødte 3 Mandfolk her midt imellem Himmel og Jord! Næsten kommen op til Napolibum frister Eders stakkels Moder den Skæbne at maatte slippe 3 Franskmænd — Gud være lovet tynde Franskmænd — forbi sig. Hun trykker sig op imod Væggen og gjør sig flad og tynd. Et ømt tredobbelt knusende Favntag — en Pusten, som om store Hvalfiske blæste Sæbebobler — fire à sex Gange <pb xml:id="idm140619159895680" n="55" facs="images/002086735_000/002086735_000_0063.jpg"/>bleve Trinene til den yndede Dans »Zweitrit« gjentagne — og Moder efterlades sejrende paa Kamptrappen. Hun er rolig efter sin Seier — indigneret — og siger, at hun aldrig havde troet, at hun kunde staa sig saa godt mod Franskmænd. »Doucement, Madame! Doucement, Madame!« sagde den sidste Franskmand, der var — ikke tyk — men dog tykkere end det bor tillades Folk at være, naar Talen er om at stige op i Vendômesøjlen. Endelig vare vi da »oppe«. Jeg vil ellers sige Eder, at Moder var langt stærkere under denne Tour end jeg; thi jeg havde nær faaet Vapeurs paa Halvvejen. Man nyder en skjøn Udsigt udover Paris deroppe — men langt fra saa skjon som fra St. Jacques eller Panthéon. Nedad gik det bedre; en fransk — elskværdig — Dame fulgte med os, og alle tre dreiede vi os flere Gange rundt, da vi vare komne ned; thi vi vare ikke i Stand til straks at blive Dreiesygen kvit.</p>
+        <p xml:id="idm140619159892848">Som Modsætning til alt dette vil jeg fortælle Eder, elskede Børn, om vor Tour igaar til Boulogneskoven og Jardin d’acclimatation. Denne Have, hvis Navn antyder, at man i den forsøger sig i det franske Klima med alleslags Dyr og Planter — acclimatiserer dem — ligger i en Udkant af Boulogneskoven og er noget af det skjønneste og mest storartede, jeg nogensinde har seet (det forstaar sig, jeg har ikke seet meget, men stort er det!). Her findes Planter, fritvoksende, fra alle Verdens Kanter. Paa store indhegnede, smaragdgrønne Plæner — indhegnede med elegante Jernrækværker — græsse store Hjorde af <pb xml:id="idm140619159891312" n="56" facs="images/002086735_000/002086735_000_0064.jpg"/>Pukkeloxer — Zebraer — Æsler fra Alverdens Hjørner. Smaa Grupper af fremmede Træer give alt dette et landligt Præg. Her er reent overalt. Strax en Hest taber en Pære — man kan nemlig køre i Gangene — kommer der en Mand med et Messingskilt paa Panden og samler den op. Paa store med Gruus og Græs forsynede, med smaa Lunde beplantede Strækninger gaar kæmpestore Strudse og Casuarer saa store som Heste og med Been saa tykke som Laar. Tamme ere de og komme ganske tæt hen til de Besøgende. Denne store Have er gjennemskaaren af Kanaler og Søer med friskt, rindende Vand — hvori Ibisser fra Ægypten — Storke — Svaner — Ænder og Tusinde andre Vandfugle — somme med bittesmaa a Been, andre med lange Synaalebeen — boltre sig. Kameler og Giraffer række deres lange Halse op imod Træernes Kroner. — »Dér boer vist nok Bestyreren,« sagde jeg til Moder, da en Samling i en smagfuld Stil byggede Huse viste sig for os. Vi gik derhen, og vide I, kjære Børn, hvem der boede deri? En Flok fremmede Æsler og Oxer, kæmpestore og med Pukler (Uroxer troer jeg). Før vi gik ud af Haven, var vi først inde i et fladt Huus, hvor en heel Række af Aquarier — saa store som Huse — stode opstillede. I disse fandtes et stort Udvalg af det salte Havs Beboere — ligefra Polypperne til Svampene, fra Fiskene til Reierne og Hummerne. Ak, mine elskede, gid I havde været her, for at jeg dog kunde have vist Eder disse Undere. Værer flittige, mine Børn, og engang med Guds Hjælp skulle I komme til Paris — Vidundernes Hjem! <pb xml:id="idm140619159888656" n="57" facs="images/002086735_000/002086735_000_0065.jpg"/>Forestil Eder Ridehuset lavet om til et Drivhus — tænk Eder, at der igennem dette løb en lille Flod med Øer i — plant langs med Siderne Espaliers af Kæmpekamelier — plant paa Øerne Palmer, og nederst i den ene Ende af Huset taarnhøje Klippesteen med Grotter og smaa Vandfald. Gjor alt dette og <pb xml:id="idm140619159887232" n="58" facs="images/002086735_000/002086735_000_0066.jpg"/>vent saa, til de mangfoldige tropiske Planter blomstrer, saa have I noget, der ligner det Drivhuus, vi vare inde i. Store blomstrende Calaer — Masser af Orchideer, en berusende Duft af mexicanske Planter ville I fornemme. Ved Siden af maa I indrette et Hus halvt saa stort og fyldt med Masser af Pappe! gøjer og fremmede Fugle. Ja, kjære Børn — min Beskrivelse er mat og daarlig — denne Have er en Fehave !</p>
+        <p xml:id="idm140619159885456">
+          <caption xml:id="idm140619159885328">Mad. Bonval.<note xml:id="idm140619159885072" n="*)" anchored="true">Mad. Bonvals Rolletag var den klassiske Komedies forslagne Kammerpige Hun spillede bl. a. Dorine i „Tartuffe“. Et Træk af hendes Udførelse her naturligvis stemmende med Traditionen — havde særlig moret hendes danske Kunstfælle. Da Orgon i 2den Akt, 2den Scene hæver Haanden truende mod Dorine, lader denne, som om hun opdager, at han er støvet paa Frakken under Armen, og giver sig til med stor Omhu at viske Støvfnuggene bort.</note> — Théâtre Français.</caption>
+        </p>
+        <p xml:id="idm140619159883200">Boulogne skoven er henrivende — men dog langt fra saa smuk som vor Dyrehave eller en anden dansk Skov. Kunstige Indsøer og Vandfald — kunstige Øer — og den samme Omhu som før omtalt med Pærerne. — Igaar Aftes var vi i Th. des Varietés og saa et Stykke — »royaume des femmes«. Alt var simpelt og usselt — frivolt og uskjønt! Vi gik vor Vej, før Stykket var ude. — Læs dette Brev for hvem I ville. Glem ikke Hans og Tante Marie. Siig Hans, at jeg skal see ad, om jeg kan faa et Brev færdig til ham. Hils Niels og Holmblad — Meta — Onkel Adolph’s. Lev vel, kjære, elskede Børn.</p>
+        <p xml:id="idm140619159882144">Eders hengivne<lb xml:id="idm140619159881888"/>
+Fader Christ. Sødring.</p>
+      </div>
+      <pb xml:id="idm140619159881312" n="58" facs="images/002086735_000/002086735_000_0066.jpg"/>
+      <div decls="bibL0020867350000018" n="18" xml:id="L0020867350000018" xml:lang="da-Dk">
+        <head xml:id="idm140619159879472">(Fra <persName xml:id="idm140619159879216" type="sender" key="Sødring, Julie Weber" sameAs="#personidm140619159879216">J. Sodring</persName>.)<lb xml:id="idm140619159878592"/>
+               <date xml:id="idm140619159878336" sameAs="idmb822bd43-2918-4a0e-bd1f-59669e32d344">Lørdag d. 29. September</date>.</head>
+        <p xml:id="idm140619159877760">I Dag har vi modtaget Eders rare Brev, elskede Børn — Gud være lovet og takket for Eders Velbefindende — det er en Fryd for os uden lige, naar vi læser, at I har det godt. — Vi har i denne Tid et ganske mageløst Veir, aldeles varmt Sommervejr. <pb xml:id="idm140619159876976" n="59" facs="images/002086735_000/002086735_000_0067.jpg"/>Idag har vi været paa Kirkegaarden — den skriver Fader nok om — den er i høj Grad interessant. Vi vare ved Abailard og Heloises Grav — et stort Capel — bestandig smykket med friske Krandse. Man maa faa Taarer i Øjnene ved at se det rørende Syn og ved at tænke paa deres Historie. — Vi spiste i Gaar sammen med Løjtnant Arendrup og Bankier Harald Hoskjær, som boer i Paris. Vi havde det meget rart. I Dag har Sødring inviteret Arendrup med os. — Vi gaar ikke i Theatret i to Aftener, vi kan ikke holde det ud — det er saa sent forbi, vi kommer da forst i Seng Kl. 2.</p>
+        <p xml:id="idm140619159875408">Det er meget venligt, at Fru Miehaëli<note xml:id="idm140619159875152" n="31" anchored="true">) Fru Lovisa Michaëli, berømt svensk Sangerinde, optraadte paa det kgl. Teater 1864—66.</note>) vil besøge os. Naar kommer hun? — Vi har mødt Nyrop<note xml:id="idm140619159873968" n="32" anchored="true">) J. L. Nyrop, kgl. Operasanger, deb. 12. Februar 1862 som Masaniello i »Den Stumme«.</note>) paa Boulevarden; han har været hos os flere Gange uden at træffe os — hans Lærer<note xml:id="idm140619159872720" n="33" anchored="true">) Wartel.</note>) er henrykt over ham; dersom det gaar, som han spaar, saa tænker jeg ikke, at Nyrop kommer til Danmark mere. —</p>
+        <p xml:id="idm140619159871488">I kan tro, det er morsomt at see denne umaadelige Færdsel; hvert Øjeblik stopper det paa Boulevarden — saa er man kørt fast — saadan en 30 forskellige Vogne, hvorimellem en 6 à 8 Omnibusser. Kuskene paa disse Omnibusser see undertiden saa smukke ud, de er ofte unge og smykkede med Blomster <pb xml:id="idm140619159870624" n="60" facs="images/002086735_000/002086735_000_0068.jpg"/>i Hatten og Brystet, saa leer de, gestikulere med Pisken og seer betydelig skjelmske ud. Mange andre ere gamle og meget søvnige, men det gjør ikke noget, de sove og kjøre, og vaagner saa ved et eller andet — for Exempel, at en af Hestene styrter — eller saadan noget — det gaar som det bedst kan. — Nu farvel for i Dag; jeg skal klæde mig om og hvile mig for Middag.</p>
+        <p xml:id="idm140619159868928">Elskede Børn!<lb xml:id="idm140619159868672"/>
+Mandag Morgen.</p>
+        <p xml:id="idm140619159868288">Nu er da snart den halve Tid gaaet — imorgen, Tirsdag, otte Dage reiser vi, om Gud vil, fra Paris. — Jeg længes ubeskriveligt efter Eder og glæder mig mageløst til mit velsignede Hjem.— Lad endelig Sophie Hansen<note xml:id="idm140619159867568" n="34" anchored="true">) Syjomfru Nr. 1.</note>) efterse alle Stole og Sophaen i Faders Stue, at alt kan være ordentligt. — Sonne<note xml:id="idm140619159866512" n="35" anchored="true">) Syjomfru Nr. 2.</note>) maa gjeme hjælpe Eder, med hvad I behøver, lad hende efterse Vintertøjet til Eder Alle. — I glemmer da ikke at hilse Fru Schmidt og Døttrene og oppe hos Bangs? — I maa endelig gaa op til Bangs og bringe dem en hjertelig Hilsen fra os; — ligeledes huske Frøknerne Watt og alle kjære Venner. — Skriv mig til, om I spise præcist om Middagen, og om Drengene komme i rette Tid i Skole. — Hils Stine og Caroline. Lev nu vel, I elskede Børn! Gud være med Eder — bring en hjertelig Hilsen til Silfverberg og tak Tante for hendes Brev. Kys nu hinanden fra mig, ogsaa Meta.</p>
+        <p xml:id="idm140619159864880">Eders længselsfulde<lb xml:id="idm140619159864560"/>
+Moder.</p>
+      </div>
+      <pb xml:id="idm140619159864048" n="61" facs="images/002086735_000/002086735_000_0069.jpg"/>
+      <div decls="bibL0020867350000019" n="19" xml:id="L0020867350000019" xml:lang="da-Dk">
+        <head xml:id="idm140619159862208">(Fra <persName xml:id="idm140619159861952" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619159861952">C. Sødring</persName>.)<lb xml:id="idm140619159861328"/>
+               <geogName xml:id="idm140619159861072" type="sender" sameAs="idm2c34f197-1244-4948-b7eb-e21a50b5fecd">Paris</geogName>, <date xml:id="idm140619159860688" sameAs="idma60a2a2e-a3dc-4317-b3a1-314a0d8205d0">29. September 1866</date>.</head>
+        <p xml:id="idm140619159860176">Elskede, kjære <persName xml:id="idm140619159859920" type="recipient" key="Sødring, Christen" sameAs="#personidm140619159859920">Born</persName>!</p>
+        <p xml:id="idm140619159859168">Efter at jeg igaar havde brummet endel, fordi der ikke kom Brev — blev jeg idagmorgen — medens jeg endnu laa i Sengen) — belønnet for den Ulejlighed, det kostede mig at brumme. Eders Moder — der mere og mere glemmer sit Modersmaal før at slippe for de trættende Arbejder med Been og Hænder, der ere tildels nødvendige til Forstaaelse endnu — underholdt sig netop ved Døren med »Monsieur le Garçon«, og jeg var saa lykkelig at redde og forstaa nogle Ord af det Kaudervælsk, hvormed hun glædede samme Garçon, af hvilke Ord det fremgik, at der var »une lettre« og noget »eau chaude«, som betydelig laa dem Begge to paa Sinde.</p>
+        <p xml:id="idm140619159858032">Ak, kjære Børn — hvor det var en Fryd uden Lige at faa Brev fra Hjemmet. Meta og Marie! Hjertelig Tak for Eders venlige og kjærlige Linier. Og Du min rare Dreng — Du kan tro ,at vi vare forundrede over Din Drøm, og at vi tænkte, at den gode Gud havde været hos Dig og ladet Dig drømme om os. — Christen — min kjære, elskede Dreng — Du maa ogsaa smukt skrive os nogle Linier til. Hils Fabritius fra os, min Dreng — vi haabe, at det gaar godt i Skolen. Ikke sandt? Du er flittig?</p>
+        <p xml:id="idm140619159857024">Naada, kjære Børn — nu gaar det atter løs med Beskrivelser over nye Rariteter, som vi have seet. Hør nu vel efter!</p>
+        <p xml:id="idm140619159856384">Igaarformiddag dreve Moder og jeg ned ad Boulevarden <pb xml:id="idm140619159856064" n="62" facs="images/002086735_000/002086735_000_0070.jpg"/>forbi Madeleine Kirken. Vi havde bestemt os til Champs Elysées, hvor vi paa en »Suttestol« agtede at strække Been fra os og snøfte frisk Luft til os. Forst faldt vi dog ind til en »fin Konditor«. Moder drak Chokolade — jeg nød mig en Portion »Glace â la Citron«. Vi sade paa Gaden — altsaa dog udenfor den fine Konditor — medens man vrylede forbi os. Der findes ikke, min kjære Marius, Farver nok i Din Farvelade for at male, hvorledes disse Pariserinder see ud o: paa Klæderne. Deres Ansigter kan gjengives med tynd Kaffe — visne — udslidte — trætte ligge de henslængte, bedækkede af Silke og Flojel i deres elegante Eqvipager. Og saa dem, der tripper omkring paa Boulevarderne! Silke i alle Farver. Sorte, med sorte Perler og Smykker tæt besatte Kjoler, der slæbe henad Gaden. Blaa Ærmer til sorte Kjoler. Ganske ildrode Dragter. Yndige Kjoler, rigt besatte med farvede Silkebaand. Smaabitte Servietter lagte ovenpaa Hovedet med nedhængende Perler. Dersom der paa Kjøbenhavns Gader viste sig »saadan een« vilde hun faa en dygtig Hale efter sig. Ude i Champs Elvsées er der noget for Eder, Christen og Marius! I de lange Alleer kjøre op og ned, fyldte med de yndigste Born, virkelige Wienervogne med Kalescher Tjenersæde — Kuskesæde, saavelsom Char à bancs. Det mærkeligste var, at disse Vogne, der lej es ud til Born, alle vare forspændte med Gjedebukke og qvindelige Gjeder. Somme af Vognene havde 4, andre 2 Gjeder. Børnene kjøre sommetider <pb xml:id="idm140619159853216" n="63" facs="images/002086735_000/002086735_000_0071.jpg"/>selv, medens Kjællinger med Pidsken i Haanden marscherer ved Siden af for at passe paa, at alt gaar rigtig til. Gjederne trække i det yndigste Seletøj! Det var noget for Dig, Marius, og for Dig, Christen, at sidde tilvogns her og smelde over de 4 Gjedebukke.</p>
+        <p xml:id="idm140619159851744">Idag — Lørdag — have vi været paa Père Lachaise — en stor Kirkegaard, der ligger paa en Hoj udenfor Paris. — — I maa nu ikke (dette er skrevet Mandag den 1. Oktober) forestille Eder, at denne Kirkegaard har samme Udseende, som Kirkegaardene hjemme hos os. Nej — den ligner en heel By! Over hver Grav — Gravene ligger i Rader (som hos os) langs Gangene — er bygget formelige Huse af Steen — hele Værelser med støbte Jerndøre til Lukke opstaa herved. Vejene, som disse Bygninger begrænse, ligne hele Gader, og de ere brolagte som hjemme i vore Byer. De omtalte Værelser ere ofte indrettede med Altere og Alterlys — alt (paa Lysene nær) af Marmor. Sommesteder staar i Midten af Værelset en Statue — enten af den, der er begravet, eller en Statue af religiøs Betydning. Familien faar Nøglerne til disse Værelser og kommer der undertiden — sagde man mig — og holder Andagt. Vi saa ogsaa store Mausoleer med taarnhøje Tinder, byggede over Graven, f. Eks. over den russiske Fyrstinde Demidoff. Mindesmærket paa hendes Grav skal have kostet omtrent 100,000 Rbdlr. Kun een eneste Grav var som en dansk Grav. Det var Marchal Neys Grav. Et Jerngitter omgiver et lille <pb xml:id="idm140619159849648" n="64" facs="images/002086735_000/002086735_000_0072.jpg"/>med Roser og andre Blomster beplantet Sted. Ney blev, som I vide, skudt udenfor Palais Luxembourg, fordi han gik over til Napoleon, da han kom tilbage til Frankrige fra Elba. — Kjende I Historien om Heloise og Abailard? Hvis ikke, saa kan Broder Hans fortælle Eder den. Paa Père Lachaise sees endnu disse ulykkelige Elskendes Gravsted. Abailard lod endnu i levende Live indhugge i Steen en Figur af sin elskede Heloise saavelsom af sig selv. Under en gothisk Stenbygning sees Gravstedet, og endnu den Dag i Dag valfarter ulykkelig Elskende til deres Gravsted — hvorom utallige paa Gravens Rækværk ophængte Krandse vidnede. — Vi vare ved en Mængde berømte Folks Gravsteder — og det er saameget interessantere, som ethvert Gravsted i Reglen bærer dens Portrætbuste, som henstaar under det. Normas — Hvide Dames — Figaros Compositører hvile her, og vi vare ved deres Gravsteder. Da vi forlode Kirkegaarden, mødte vi flere Ligtog; det er Skik her altid at tage Hatten af for det afsjælede Legeme, der passerer forbi. Qvinder, behængte med lange Slør, følge tilfods de hensovede. — Denne Udvikling af »Ligene« kunde muligvis »more« Eder — men jeg vil dog nu vende tilbage til »det Levende«. —</p>
+        <p xml:id="idm140619159846192">I Gaar — Søndag — var det et henrivende Vejr (vi have i det Hele taget havt godt og smukt Veir i den sidste Tid). Det var meget varmt, og da Moder og jeg vandrede ud — saadan Kl. 11 — søgte vi Skyggesiden af Boulevarden. Egentlig — <pb xml:id="idm140619159845424" n="65" facs="images/002086735_000/002086735_000_0073.jpg"/>som salig Bredahl<note xml:id="idm140619159844624" n="36" anchored="true">) En snurrig gammel Pebersvend, Bekendt af den Rosenkildeske Familie.<lb xml:id="idm140619159843888"/>
+En Pariserfærd i Efteraaret 1866.</note>) vilde have sagt — havde vi ingen Bestemmelse. Efter at have drukket The udenfor en Café paa Boulevarden — dreve vi nedad mod Madeleinekirken. Paa Hjørnet — lige overfor denne — satte vi os ned udenfor en elegant Café <pb xml:id="idm140619159843024" n="66" facs="images/002086735_000/002086735_000_0074.jpg"/>og forlangte Chokolade og Isvand. En Masse elegant klædte Damer spadserede forbi os, og ude paa Gaden vrimlede det af Køretøjer, hvoraf de fleste dog vare Hyrevogne, thi endnu var det tidligt paa Dagen for Pariserne. Engang imellem foer et elegant med unge Herrer besat Kjøretøj os forbi. Een à to Timer kan man meget godt blive siddende paa et saadant Sted — der er Underholdning nok og altid Masser af brogetklædte Damer at se paa. Endelig havde vi faaet nok af det. Vi styrede over Boulevarden ud imod Champs Elysées. Paa to »Suttestole« sade vi nu altsaa dèr — og I kunne tro, elskede Børn, at der var Vogne at see paa. Blot og bare for at avertere kommer der en med fire Heste forspændt Vogn af en højst usædvanlig Form. Oppe — højt tilveirs — sidder under det paa en Stang opreiste Avertissement — en Neger pyntet med høje Fjer i Hatten. Han er meget broget paaklædt og har Forrider, der styrer Hestene. Bag paa sidder to smaa i Rodt klædte Slyngler, der grine og skjære Ansigter til de Forbigaaende. — Da vi nu havde siddet her næsten 3 Timer — hvilken Tid var gaaet i en frygtelig Fart — raabte jeg en Vogn an — tog den à l’heure (timevis) — og afsted gik det til Boulogneskoven. Hvilken Strøm af Vogne — hvilken Strøm af Mennesker! Den smukke Dag i Forbindelse med — hvad vi just nu fik at vide — et Hestevæddeløb havde lokket hele den elegante Pariserverden ud. Vor Kusk spurgte mig, om han skulde kjøre os ud til Væddeløbet, og da jeg efter eget og Moders Ønske <pb xml:id="idm140619159840192" n="67" facs="images/002086735_000/002086735_000_0075.jpg"/>fandt dette rart nok — saa kjørte vi tværs igjennem Boulogneskoven heelt ned til Seinen, og der saa vi da Væddeløbet paa fri Plads. Forestil Eder, at Veien fra Østerport til forbi Taarbæk heelt igjennem var besat med den ene elegante Eqvipage efter den anden — at pragtfuldt klædte Damer laa henslængt i disse — ofte med 4 Heste forspændte Vogne — forestil Eder, at Veien paa begge Sider — næsten overalt Skov — var besat med Damer og Herrer — dels liggende i Græsset, dels siddende paa Stole — saa kjære Born, have I et Billede af det, vi gloede og gloede paa. Rundt omkring holdt pragtfulde Parisergardere tilhest — medens — især nede ved Seinen — paa den fra Paris længst borte værende Deel af Boulogneskoven — hele lange Rækker af tomme Vogne holdt stille — idet deres elegante Ejermænd og ditto -inder tumlede sig — omgivne af de sødeste Unger — i Græsset. Foran os laa Skovene med St. Cloud og Seinen — omkring os var den elegante Pariserverden — bag os Boulogneskoven med de kunstige af den nuværende Kejser anlagte Cascader. Alt dette blev belyst af den nedgaaende Sol og forskønnet af den klareste, blaa Himmel. I kunne tro, at det var skjønt, kjære Born, og at Moder og jeg vare mere end forbausede. Hjemvejen lagde vi omkring »le Lac de bois de Boulogne« — og saa mødte vi nu den Strøm af elegante Eqvipager, der kjøre rundt omkring Indsøen. Moder rykkede mig i Etvæk i Frakken, for at jeg skulde see paa disse Skjønlieder — der paa Grund af Trængslen af Vogne <pb xml:id="idm140619159837488" n="68" facs="images/002086735_000/002086735_000_0076.jpg"/>næsten vare inde i vor Vogn. Det seer flot ud, at see en saadan Pariserdame i sin silkebroderede Kjole — der bedækker hele Vognen — med Rosenbouquetter smykket som — ja, som I aldrig have seet dem hjemme hos os — sidde ganske alene i. sin elegante Vogn (undertiden med en lille Hund, blød som Silke ved sin Side) og modtage den Hyldest, der ydes henide i Form af hundrede Blikke. Indsøen i Boulogneskoven var bedækket med Gondoler, der roedes af Gondolierer i pragtfulde Dragter. Imellem disse svømmede Masser af Vandfugle. Det hele saa ud, naar man stod ved Søens ene Ende, som et fortryllet Land. Søens Bredder var omgivne af først Vejen med de pragtfulde Eqvipager i Tusindvis — saa nede ved Bredden en Krands af pyntede brogede Parisere. Solen kastede sit Skin paa alt dette, og mine og Julies Øjne værke endnu i Dag af »at glo«.</p>
+        <p xml:id="idm140619159834832">
+          <caption xml:id="idm140619159834704">Mad. Carvalho. — Op. Lyrique.</caption>
+        </p>
+        <p xml:id="idm140619159834320">Kjære, elskede Børn — vi vente at forlade alle disse Herligheder, hvoraf man i Længden kan faa mere end tjenligt er, paa Tirsdag den 9. Oktober — altsaa imorgen otte Dage. Om Gud saa vil det, agte vi os til Schweiz, foreløbig til Lausanne ved Genfersøen. Der ville vi forhaabentlig være Onsdag den 10. Oktober. Vi gaa derfra over Bern—Luzern til Zürich—Schaffhausen — over Constanz til Friedrichshafen ved Bodensø. Eet Brev vil saaledes fra Eder endnu kunne træffe os her i Paris. Jeg skal i mit næste Brev angive Eder, hvorhen I kunne sende Eders Breve — vi vente som sagt endnu bestemt et Brev fra Eder her. Rimeligvis bede vi Eder <pb xml:id="idm140619159832736" n="69" facs="images/002086735_000/002086735_000_0077.jpg"/>skrive — enten til Constanz eller Friedrichshafen am Bodensee, poste restante. Otte Dage antage vi vil vor Reise i Schweiz tage — vi gaa da fra Friedrichshafen til Wien, hvor vi blive i 4 à 5 Dage. Fra Wien gaa vi direkte over Prag hjem. Jeg sagde, at vi gik fra Friedrichshafen direkte til Wien — men jeg troer dog nok, at vi gaa først til München og saa til Wien. Hils nu Holmblad (han har vel i alt faaet 2 Breve fra mig?), Broder Hans og hans Kreds. Siig Andersen paa Fabrikken, at jeg skal snarest skrive ham til. Hils Tante Marie — Onkel Adolph! — Lev nu vel, I mine elskede Børn. Skriv os et Par Ord til Christen — skriv elskede Marius. Tak for dit kjære Brev. Hils Niels. Lev vel!</p>
+        <p xml:id="idm140619159830368">Eders hengivne, trofaste<lb xml:id="idm140619159830112"/>
+Fader Christ. Sødring.</p>
+      </div>
+      <pb xml:id="idm140619159829536" n="69" facs="images/002086735_000/002086735_000_0077.jpg"/>
+      <div decls="bibL0020867350000020" n="20" xml:id="L0020867350000020" xml:lang="da-Dk">
+        <head xml:id="idm140619159827696">(Fra <persName xml:id="idm140619159827440" type="sender" key="Sødring, Julie Weber" sameAs="#personidm140619159827440">J. Sødring</persName>.) <date xml:id="idm140619159826816" sameAs="idm7ad726f6-b921-4bfe-b8a0-d3e14b11f85c">Onsdag d. 3. Oktober</date>.</head>
+        <p xml:id="idm140619159826304">Elskede <persName xml:id="idm140619159826048" type="recipient" key="Sødring, Christen" sameAs="#personidm140619159826048">Børn</persName>!</p>
+        <p xml:id="idm140619159825296">Igaar modtog vi Eders Brev — Du behøver aldrig, min elskede Johanne, at frygte for, at Dit Brev ikke skal interessere os — vi kan ikke høre noget bedre, end naar I fortæller os, at I har det godt — at alt staar vel til i vort kjære Hjem. — Fader længes saa meget efter at høre noget fra Fabrikken, det er ogsaa slemt, at han aldrig hører noget derfra, beed Niels Formand om at skrive Fader et Brev — <pb xml:id="idm140619159824368" n="70" facs="images/002086735_000/002086735_000_0078.jpg"/>men beed ham, at han endelig ikke maa ængste ham med noget — det maa I strax tale med ham om. I kan love ham at skrive udenpaa Brevet for ham. — Fortæl mig, am I have været ude at kjøre Tour — I maa gjærne kjøbe en Æske Sæbe, men spar paa den!</p>
+        <p xml:id="idm140619159822912">Vi ere nu komne hjem fra vor Morgenkaffe og fra en lille Tour til Hallerne — vi gaar engang imellem derned og kjøber Frugt — Pærer som ere saa store som smaa Kokosnødder — men de ere ikke meget billige, derimod kjøber vi saa mange blaa Druer for een Mark og 8 Rigsbankskilling, som vi i Kjøbenhavn giver 2 à 3 Rbdlr. for. —</p>
+        <p xml:id="idm140619159821840">Igaar havde Fader inviteret Nyrop til at spise til Middag med os. Vi havde en rigtig rar Dag — først spiste vi til Middag, derpaa bouleverserte vi — gik saa i en umaadelig stor Café og drak vor Caffe. Da det var gjort, var Klokken 9½, saa sagde vi hinanden farvel og gik hjem — til Ro. Nyrop er glad han var forleden Aften inviteret til en lille Soiré hos en fransk Familie; der var en Del Kunstnere af første Rang — de bidroge alle til Aftenens Underholdning; Touren kom da til Nyrop — han sang og accompagnerede sig selv — to danske Romancer — den ene »skjøn Jomfru, luk dit Vindue op« — da han havde sunget, applauderede Selskabet og udraabte, »a’ hvilken skjøn Stemme!«. Det var jo en stor Glæde for ham.</p>
+        <p xml:id="idm140619159820656">Nu skal vi ud at besé Gobelins Fabrikken — nu har vi snart seet Alt, hvad man i Almindelighed <pb xml:id="idm140619159820192" n="71" facs="images/002086735_000/002086735_000_0079.jpg"/>seer — og saa afsted! Nu nærmer Gensynet sig med Guds Hjælp! — —</p>
+        <p xml:id="idm140619159819104">Idag, Tirsdag, har vi faaet Brev fra vor kjære Holmblad, og Fader har faaet Brev fra Niels Formand; altsaa, elskede Born, behove I ikke at bede Niels om at skrive. Det var et rigtig rart lille Brev og glædede Fader meget; alt gaar vel. —</p>
+        <p xml:id="idm140619159818224">Vi vare igaar Aftes i Comédie Français — ak Gud, hvilken Nydelse — noget skjønnere og renere i Kunsten kan man ikke tænke sig! I kan tro, velsignede Børn, at naar jeg tænker paa Aftener i Vinter med Eder, hvor jeg skal fortælle Eder om alt, hvad jeg har seet, saa slaar mit Hjærte strax af Fryd og Glæde. — Jeg glæder mig til at høre Eder spille, hils endelig Noach — lad mig see, at I ere flittige. Hvorledes gaar det Drengene? Om en tre Uger haaber jeg at slutte Eder i mine Arme! Lev vel, hils Alle.</p>
+        <p xml:id="idm140619159817168">Eders hengivne Moder.</p>
+      </div>
+      <pb xml:id="idm140619159816656" n="71" facs="images/002086735_000/002086735_000_0079.jpg"/>
+      <div decls="bibL0020867350000021" n="21" xml:id="L0020867350000021" xml:lang="da-Dk">
+        <head xml:id="idm140619159814816">(Fra <persName xml:id="idm140619159814560" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619159814560">C. Sodring</persName>.)<lb xml:id="idm140619159813936"/>
+               <geogName xml:id="idm140619159813680" type="sender" sameAs="idm14955ede-f64a-4c15-a670-733de548d262">Paris</geogName>, <date xml:id="idm140619159813296" sameAs="idm66eb256d-e47c-44cd-9c8b-4c74028a6b7c">d. 4. Oktober 1866</date>.</head>
+        <p xml:id="idm140619159812784">Kjære, elskede <persName xml:id="idm140619159812528" type="recipient" key="Sødring, Christen" sameAs="#personidm140619159812528">Børn</persName>!</p>
+        <p xml:id="idm140619159811776">Saavidt jeg veed, sluttede Moder eet Brev forleden Dag med et fyldigt Haab om en rolig Nat! Kl. 12 forsøgte et Asen af en Tysker, der boede den Nat ved Siden af os, at bryde ind til os. Vorherre maa vide, hvad der stak ham — men pludselig <pb xml:id="idm140619159811024" n="72" facs="images/002086735_000/002086735_000_0080.jpg"/>falder der Lys ind til os — vi laa og sov sødelig i vor Alkove. Moder gav mig i sin Forskrækkelse et Nakkedrag — begyndte at skrige, og jeg foer i eet Spring ud i Værelset, brølende af fuld Hals: »Halløj! Plager Fanden Jer! Hvad vil Du her midt om Natten?« — Saa huskede jeg paa, at man ikke taler Dansk i dette Land, og jeg gav mig til at raabe af fuld Hals: »On n’entre pas ici!« Fyren blev saa forskrækket over mine cimbriske Hyl, at han skyndsomst stak af, gryntende Noget, jeg ikke forstod. — Senere fik vi at vide, at det var en gammel Tysker, der var gaaet fejl. Imidlertid var Klokken bleven over 1, saa at Natten nær var gaaet hen i dette Spektakel. —</p>
+        <p xml:id="idm140619159808656">Vi have nu snart seet Alt, hvad her kan sees — og jeg begynder at længes efter mit kjære Hjem. Igaar vare vi paa den keiserlige Gobelinsfabrik. Det var en interessant Tour. Man væver paa denne Fabrik hele store Malerier — og saa fortræffelig udfores dette Arbejde, at man ikke kan se Forskel paa et virkelig malet Billede og paa et saadant vævet. Keiserens og Keiserindens Portrætter i Legemsstørrelse vare nys blevne færdige. Det var mageløs smukt udført; men et saadant Portræt koster ogsaa 20,000 Rbdlr. — Idag have vi seet Napoleons Grav. Ved Invalidehoteilet har man nemlig indrettet et Gravkapel i den skjønneste og mest storartede Stil for ham. Alt er Marmor — hans Kiste staar (den er af Porfyr) i en Marmorfordybning under en mægtig, med Malerier smykket Kuppel. Det Hele har <pb xml:id="idm140619159806672" n="73" facs="images/002086735_000/002086735_000_0081.jpg"/>et pragtfuldt Alter til Baggrund. Mere herom, naar vi komme sammen — og naar Lampen skinner ved vort hyggelige Aftensbord.</p>
+        <p xml:id="idm140619159805472">Tirsdag eller maaske allerede Mandag- aften forlade vi Paris. Mit forrige Brev har givet Eder Meddelelse om Reiserouten. Vi bede Eder skrive os til og adressere Brevet til Friedrichshafen am Bodensee, poste restante. Kunne I ikke komme <pb xml:id="idm140619159804960" n="74" facs="images/002086735_000/002086735_000_0082.jpg"/>ud af Adressen, saa henvend Eder til vor kjære Holmblad — han kan nok hjælpe Eder. Tak Holmblad og Niels for Brevene. Det var en stor, stor Glæde for mig at modtage dem. —</p>
+        <p xml:id="idm140619159803664">
+          <caption xml:id="idm140619159803536">Capoul. — Op. Comique.</caption>
+        </p>
+        <p xml:id="idm140619159803088">Iforgaars vare vi i Théátre Français og saae »Don Juan d’Autriche« med Delaunay i Titelrollen), Febvre som Philip II og Mad. Favart i Elskerinderollen. Magelos deilig Udførelse! Det er den første Scene i Verden. Men uh, hvor der er hedt! Mine Klæder hænge heletiden fast paa min Ryg. Ofte er Forestillingerne ogsaa af en urimelig Længde. Som f. Ex. forleden Aften først »Tartuffe« og saa »Le malade imaginaire«! Og »Lærde Damer« gik sammen med »Barberen«! I alt 9 Akter paa én Aften! —</p>
+        <p xml:id="idm140619159802048">NB. Gaa ned til Direktør Hellmann<note xml:id="idm140619159801792" n="37" anchored="true">) Stifteren af »Bikuben« og Foreningen »Fremtiden«.</note>) paa Bikuben og spørg ham fra mig, om der er kommen ham rigtig i Hænde et Brev til Prof. Holten<note xml:id="idm140619159800592" n="38" anchored="true">) Prof. i Physik Carl Holten (Talen er om et Billede af Julie Sødring til »Fremtidens Nytaarsgave« — det samme Billede, som er gengivet foran disse Breve).</note>). Hils Alle — jeg kysser Eder alle, Meta med. Hils! Hils!</p>
+        <p xml:id="idm140619159799120">Eders hengivne Fader<lb xml:id="idm140619159798864"/>
+Chr. Sodring.</p>
+        <postscript xml:id="idm140619159798480">
+          <p xml:id="idm140619159798352">NB. Skulde Hellmann ikke have faaet omtalte Brev til Holten, saa siig ham, at Moder intet har imod, at det skeer, som Holten bad om.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619159797696" n="75" facs="images/002086735_000/002086735_000_0083.jpg"/>
+      <div decls="bibL0020867350000022" n="22" xml:id="L0020867350000022" xml:lang="da-Dk">
+        <head xml:id="idm140619159795856">(Fra <persName xml:id="idm140619159795600" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619159795600">C. Sødring</persName>.)<lb xml:id="idm140619159794976"/>
+               <geogName xml:id="idm140619159794720" type="sender" sameAs="idmb6210fd7-86fe-44bc-a544-890d537a99b3">Paris</geogName>, <date xml:id="idm140619159794336" sameAs="idm38b6736a-9a79-4910-b063-1ec1365215c2">d. 5. Oktober 1866</date>.</head>
+        <p xml:id="idm140619159793824">Elskede, kjære <persName xml:id="idm140619159793568" type="recipient" key="Sødring, Christen" sameAs="#personidm140619159793568">Børn</persName>!</p>
+        <p xml:id="idm140619159792816">Jeg skriver Eder til idag for at meddele, at vi have opgivet Reisen til Wien. Aviserne her, saavelsom Reisende, fortælle, at Cholera er meget stærk i Wien og i hele Bøhmen, ligesom ogsaa i Bayern. Det vilde jo ikke være til at forsvare, dersom vi for vor Fornøjelses Skyld vilde besøge disse Steder. Vi reise da altsaa til Schweiz — efter vor Bestemmelse Mandag Aften den 8. Oktober — til Lausanne ved Genfersøen, hvor vi haabe at være Tirsdag Middag. I Schweiz ere Sundhedsforholdene gode, og vi længes selv efter lidt Rolighed ovenpaa al denne Tummel. Jeg vil derfor nu bede Eder, kjære Børn, at skrive os til og, adressere Brevet til Bern in Schweiz, poste restante det første Brev. Det andet Brev til Constanz am Bodensee in Baden, poste restante. Vi agte nemlig nu at tilbringe de Dage, som vilde have medgaaet til Reisen til Wien, i Schweiz og saaledes i mere Ro og Mag at see de smukke Steder der. Moder har desvæne lidt Tandpine idag; men er ellers rask. Hun hilser Eder kjærligst Alle, I kjære, elskede Børn! —</p>
+        <p xml:id="idm140619159790144">Igaar saa jeg et Syn paa Boulevarden, som gjorde mig saa gal i Hovedet, at jeg gjerne kunde have skreget i højen Sky. Tænk Eder, kjære Børn, en stor Mængde Mennesker vare stimlede sammen omkring en Mand, der havde Noget i et Fuglebur, <pb xml:id="idm140619159789392" n="76" facs="images/002086735_000/002086735_000_0084.jpg"/>som han holdt en lang Passiar om. Da jeg skulde til at se, hvad dette »Noget« var — saa var det en Kylling, som det Bæst af en Franskmand havde plukket alle Fjerene af; den var aldeles nogen og trippede saa ynkelig omkring i Buret; den Slubbert af en Franskmand fortalte, at saadan ganske nøgen kom den Slags Fugle frem hos ham i Massevis, og selv om de bleve 100 Aar gamle, kom der hverken Haar eller Fjer paa dem! Jeg sagde paa Dansk »Det er Løgn i Din Hals, Din Tyveknægt — Du har ribbet den, har Du, og hvis jeg havde Dig hjemme, saa skulde jeg »ribbe« hvert Haar ud af Dit Hoved og hvert Haar ud af Dit store støvede Skæg! Du skulde hænges, fordi Du saadan piner en Stakkel af en Kylling!« —</p>
+        <p xml:id="idm140619159787712">Jeg maa skynde mig at faa disse Breve paa Posthuset. Glem ikke Direktør Hellmann paa Bikuben. Tusind Kys fra Moder og mig. Hils Silfverberg hjerteligt. Alle Andre ligesaa. Moder beder mig at sige, at hun inderlig glæder sig til Hjemmet. Gud være med Eder Alle!</p>
+        <p xml:id="idm140619159786784">Eders trofaste Fader<lb xml:id="idm140619159786528"/>
+Chr. Sødring.</p>
+      </div>
+      <pb xml:id="idm140619159786016" n="76" facs="images/002086735_000/002086735_000_0084.jpg"/>
+      <div decls="bibL0020867350000023" n="23" xml:id="L0020867350000023" xml:lang="da-Dk">
+        <head xml:id="idm140619159784176">(Fra <persName xml:id="idm140619159783920" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619159783920">C. Sødring</persName>.)<lb xml:id="idm140619159783296"/>
+               <geogName xml:id="idm140619159783040" type="sender" sameAs="idm8c2e955a-91e4-41d9-a7c5-043102a7620e">Paris</geogName>, <date xml:id="idm140619159782656" sameAs="idm749e7201-e083-4565-8d76-47bc007014c2">d. 6. Oktober 1866</date>.</head>
+        <p xml:id="idm140619159782144">Jeg underrettede Eder jo igaar om, at vi efter modent Overlæg havde opgivet Reisen til Wien. Det bliver altsaa derved, men denne Forandring har foraarsaget, at jeg har faaet nogen Vanskelighed ved <pb xml:id="idm140619159781472" n="77" facs="images/002086735_000/002086735_000_0085.jpg"/>at finde tilrette med Reiserouten. I det Hele antage vi at blive omtrent 14 Dage i Schweiz. Igaar angav jeg Bern og Constanz som Steder, hvor Breve kunde træffe os. Jeg gør heri den Forandring, at I ikke skal skrive os til Adr.: Gonstanz — dér kommer vi vistnok slet ikke. Foreløbig skriv os til under Adresse: Berner Hof in Bern. Altsaa Eders næste Brev, I kjære, elskede Børn — min Rigdom, min Lykke og min Glæde — skal have følgende Adresse: Bern in Schweiz eller fuldstændig Mr. Sødring — Bern in Schweiz, Adr.: Berner Hof, poste restante. Hvor det næste Brev kan træffe os skal blive Eder meddelt saa betids som muligt. —</p>
+        <p xml:id="idm140619159779616">Igaar vare vi i Ro. — Moder og jeg have haft slemme Attaquer af rheumatisk Gigt. — Moder i Fødder og Tænder — jeg i Ryg og Lænder.</p>
+        <p xml:id="idm140619159778944">Iaften have vi isinde at høre Patti i italiensk Opera (Dyr Fornøjelse — koster 18 Fr. ᴐ: imellem 6 og 7 Rb. dansk<note xml:id="idm140619159778432" n="39" anchored="true">) Patti optraadte den Aften i »La Sonnambula« (Bellini).</note>). Imorgen — Søndag — agte vi os til Versailles for at see Haven. Sidst saa vi kun Slottet, og imorgen springe alle Vandspringene i Haven. Iøvrigt længes vi nu efter at komme fra Paris. Moder har den sjældne Glæde, at jeg erkjender Rigtigheden af hendes Arrangement — sidst at tage til Schweiz. Lidt Ro ovenpaa al den Tummel her skal gjøre godt. Vi have i den sidste Tid moret os meget ved at sidde i Café de la rotonde nede i Palais royal — men, man bliver træt <pb xml:id="idm140619159776800" n="78" facs="images/002086735_000/002086735_000_0086.jpg"/>tilsidst. Mere imorgen eller maaske først paa Mandag! — —</p>
+        <p xml:id="idm140619159775728">Jeg vil nu, elskede Børn, idag Mandag, føje et Par Ord til Ovenstaaende. Travlt har jeg; thi da jeg var ude nu i Byen et Ærinde, saa blev jeg opholdt i Madeleine Kirken ved en fransk Generals storartede Begravelse! Og nu skal jeg pakke ind. — Igaar vare vi en deilig Tour i Versailles — det var et yndigt Veir, og flere end 100 store Vandspring sprang. Herom mere fra Schweiz. Lev vel, elskede Born — med Guds Hjælp sees vi nu snart glade og lykkelige. Tak for Dit Brev, min elskede Rose — Du skriver saa rart og kjærligt til os. Hils Alle fra Dine Forældre. Gud være med Eder!</p>
+        <p xml:id="idm140619159774688">Eders trofaste Fader<lb xml:id="idm140619159774432"/>
+Chr. Sodring.</p>
+      </div>
+      <pb xml:id="idm140619159773920" n="78" facs="images/002086735_000/002086735_000_0086.jpg"/>
+      <div decls="bibL0020867350000024" n="24" xml:id="L0020867350000024" xml:lang="da-Dk">
+        <head xml:id="idm140619159768016">(Fra <persName xml:id="idm140619159767760" type="sender" key="Sødring, Christopher Hansen" sameAs="#personidm140619159767760">C. Sodring</persName>.)<lb xml:id="idm140619159767136"/>
+Interlaken i <geogName xml:id="idm140619159766880" type="sender" sameAs="idm1603c5f3-7557-4901-bcaf-331dfa8b8a77">Schweiz</geogName>.<lb xml:id="idm140619159766496"/>
+               <date xml:id="idm140619159766240" sameAs="idm140ff96e-5343-4a26-9b86-7254a9d70506">Den 13. Oktober 1866</date>.</head>
+        <p xml:id="idm140619159765728">Kjære, elskede <persName xml:id="idm140619159765472" type="recipient" key="Sødring, Christen" sameAs="#personidm140619159765472">Børn</persName>!</p>
+        <p xml:id="idm140619159764720">Det har idag været en sand Festdag for os. Vi kom til Bern, og intet Brev var til os! Ak, hvor vi dog vare bedrøvede — saa reiste vi til Interlaken og tænk Eder, kjære Born — saa da vi kom tilbage til Hotellet her fra en Kjøretour i denne henrivende Egn, kom 2 Breve til os — Dit Brev, nemlig Johannes, og Anna Bøchers (den fortræffelige, velsignet rare Pige). Jeg skal snart skrive Eder til og fortælle om de Vidunderligheder, vi have seet her — <pb xml:id="idm140619159763824" n="79" facs="images/002086735_000/002086735_000_0087.jpg"/>aldrig ville vi glemme det. Kun saa meget her: Vi have i Bern taget en Forer og gaa imorgen til Berneroberland. Vi drage deromkring i 4 Dage, og der- med er Sagen forbi. Ligeoverfor vore Vinduer her hæver sig den himmelhøje »Jungfrau«. Iaftes glødede Sneen paa dens Top, medens her var Sommervarme og Roser i Dalen. Træer med Frugter — Vin — Oranger — staar her udenfor Hotellet. Her <pb xml:id="idm140619159762208" n="80" facs="images/002086735_000/002086735_000_0088.jpg"/>er mageløst deiligt. Kys Anna Bøcher fra Moder (og mig — dersom det gaar an) for hendes kjærlige rare Breve. I maa gjerne kjøbe — beskedent — lidt Frugt.</p>
+        <p xml:id="idm140619159760944">Mlle Adelina Patti. — Op. Italien.</p>
+      </div>
+      <pb xml:id="idm140619159760432" n="80" facs="images/002086735_000/002086735_000_0088.jpg"/>
+      <div decls="bibL0020867350000025" n="25" xml:id="L0020867350000025" xml:lang="da-Dk">
+        <head xml:id="idm140619159758592">(Fra <persName xml:id="idm140619159758336" type="sender" key="Sødring, Julie Weber" sameAs="#personidm140619159758336">J. Sødring</persName>.)</head>
+        <p xml:id="idm140619159757584">Elskede Børn! Jeg har det nu godt. At vi ikke kommer til Wien, bryder vi os ikke videre om — vi har seet saa meget stort og udmærket i Paris, at vi nok kan lade os nøje. Den Storhed i Natur, der møder os her i Schweiz, har jeg ikke Ord til at beskrive — men alligevel vil jeg forsøge en lille Skildring, naar vi mødes. Det bliver vist næppe før den 27de? Lev nu vel I Elskelige — hils vore kjære Venner, mange Hilsner til Meta! Gud være med Eder!</p>
+        <p xml:id="idm140619159756560">Eders hengivne Moder.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

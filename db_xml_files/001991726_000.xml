@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--shit-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="root" status="published">
+  <teiHeader xml:id="idm140619167119424">
+    <fileDesc xml:id="idm140619163571568">
+      <titleStmt xml:id="idm140619163580112">
+        <title xml:id="idm140619163414176">Breve fra Charlotte Schrøder</title>
+        <!-- OCR: Breve fra Charlotte Schrøder-->
+        <author n="1">Ludvig Schrøder, 1836-1908</author>
+        <!-- OCR: Charlotte Schrøder-->
+      </titleStmt>
+      <publicationStmt xml:id="idm140619163410960">
+        <publisher xml:id="idm140619163398224">Konrad Jørgensens Bogtrykkeri 1907</publisher>
+        <pubPlace xml:id="idm140619163362752">Kolding</pubPlace>
+        <date>1907</date>
+      </publicationStmt>
+      <idno>letter_books/001991726/001991726_000</idno>
+      <sourceDesc>
+        <bibl>
+          <!-- This is where we expect metadata for the analogue source in ADL -->
+        </bibl>
+        <listBibl>
+          <bibl xml:id="bibL0019917260000001" status="completed">
+            <date xml:id="idmc461273f-3602-4a27-a99a-db8cfd374dd2">1859-11-12</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf2fb5d14-da88-472f-9e78-ef0890c8e35c">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158826496" ref="99/31/5a/39/99315a39-d38c-49c1-92db-c6c37587a20c"><surname>Schrøder</surname>,
+      <forename>Charlotte</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm82f48d61-f4da-4ba7-9c26-14fd659d719a">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619149049888" ref="b5/47/7b/8b/b5477b8b-eafa-4adf-83a0-415364c0be37"><surname>Edelberg</surname>,
+      <forename>Marie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmbdec17eb-94e8-48f0-abcb-4818d9478e54">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917260000002" status="completed">
+            <date xml:id="idm05c2bf07-c857-4211-bb8d-51e9a79ecf1b">1878-02-12</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm91063979-eae4-4220-9383-af00bf4acf41">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158807696" ref="99/31/5a/39/99315a39-d38c-49c1-92db-c6c37587a20c"><surname>Schrøder</surname>,
+      <forename>Charlotte</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm7997b738-1570-455f-9a93-f2244065514f">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158822112" ref="90/72/18/41/90721841-a564-4a3d-8de4-3189eae34bc9"><surname>Fenger</surname>,
+      <forename>Rasmus</forename></name>
+              <name xml:id="personperson1c02c55c-f6b1-4efa-aea5-6fdec4170a5e" ref="e3/57/21/be/e35721be-37a5-4f4f-9127-3f339767f301"><surname>Fenger</surname>,
+      <forename>Elisabeth</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm6d3b6eee-650a-449b-880f-4cdbfd8ea10d">
+              <placeName>Askov</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917260000003" status="completed">
+            <date xml:id="idm950091c2-afe7-4376-92d3-427dd9b4b7e5">1885-10-29</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm2a3ec216-443c-4a96-a3ad-4cf9290d9155">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158787184" ref="http://viaf.org/viaf/68582408"><surname>Schrøder</surname>,
+      <forename>Ludvig</forename></name>
+              <name xml:id="personpersonc9e76222-cac7-442d-8ad2-6a3056174f0d" ref="99/31/5a/39/99315a39-d38c-49c1-92db-c6c37587a20c"><surname>Schrøder</surname>,
+      <forename>Charlotte</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmc2e2bfd2-840a-4576-bfdf-20fb0b8e82d4">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158795552" ref="90/72/18/41/90721841-a564-4a3d-8de4-3189eae34bc9"><surname>Fenger</surname>,
+      <forename>Rasmus</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmc1233429-1d77-490c-9340-76d0d8f7b594">
+              <placeName>Askov Højskole</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917260000004" status="completed">
+            <date xml:id="idmd1a3b92d-fe3d-4ae8-bf9f-ee70ae4e23b3">1887-10-11</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm2f2fe088-89c6-4d96-9c2d-18a6f07c7086">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158773376" ref="99/31/5a/39/99315a39-d38c-49c1-92db-c6c37587a20c"><surname>Schrøder</surname>,
+      <forename>Charlotte</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm675c4b89-a071-42d0-ba70-a3fe5b858027">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158784208" ref="b5/47/7b/8b/b5477b8b-eafa-4adf-83a0-415364c0be37"><surname>Edelberg</surname>,
+      <forename>Marie</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm14de4a08-40e4-4c40-beaa-55333ad58f2c">
+              <placeName>Askov Højskole</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917260000005" status="completed">
+            <date xml:id="idme8dda0fa-6f5c-423b-9505-605534eeb0fd">1888-08-16</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm68de7af6-3c02-48bb-bb99-aabc85a4716c">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158761280" ref="99/31/5a/39/99315a39-d38c-49c1-92db-c6c37587a20c"><surname>Schrøder</surname>,
+      <forename>Charlotte</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm0e512dc6-07a6-4eab-92ef-d90d60c8a9cc">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158768432" ref="90/72/18/41/90721841-a564-4a3d-8de4-3189eae34bc9"><surname>Fenger</surname>,
+      <forename>Rasmus</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm057117ac-349d-4f8b-b804-7320178334c1">
+              <placeName>Askov Højskole</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917260000006" status="completed">
+            <date xml:id="idm04f4784c-7cac-44b4-bd26-944960636ecd">1897-06-10</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmce71d34f-9ab2-44ce-8048-1f3b396e7eef">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158750912" ref="99/31/5a/39/99315a39-d38c-49c1-92db-c6c37587a20c"><surname>Schrøder</surname>,
+      <forename>Charlotte</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmede1f6b5-c4dd-41b0-94cb-0640072ef30b">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158758304" ref="dc/88/68/5c/dc88685c-4b09-4dc4-b354-99475375ab18"><surname>Fenger</surname>,
+      <forename>Louise</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm493f2a9a-d3e5-4361-af26-2806dfd2bc06">
+              <placeName>Askov Højskole</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917260000007" status="completed">
+            <date xml:id="idme05d5722-a6fe-45e1-a670-f4cd7c1b6b61">1898-05-14</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmfc5bb7e7-d8ca-44b3-baaf-d7dfed1e0701">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158737904" ref="99/31/5a/39/99315a39-d38c-49c1-92db-c6c37587a20c"><surname>Schrøder</surname>,
+      <forename>Charlotte</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm8d9e675a-3e6d-4a8b-981e-dc4f8651bcb6">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158747936" ref="90/72/18/41/90721841-a564-4a3d-8de4-3189eae34bc9"><surname>Fenger</surname>,
+      <forename>Rasmus</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm17bd37c8-3f9b-4e03-945a-a4c03c597aaf">
+              <placeName>Askov Højskole</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917260000008" status="completed">
+            <date xml:id="idmbecdaec7-71ad-4da5-95d7-4a9ffebada32">1899-01-11</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmbc751fcc-7987-4577-b453-a6902c7f582c">
+              <resp>sender</resp>
+              <name xml:id="personidm140619149068208" ref="99/31/5a/39/99315a39-d38c-49c1-92db-c6c37587a20c"><surname>Schrøder</surname>,
+      <forename>Charlotte</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmab72d8a1-086f-4b69-b3cb-3cf4c0f0d8d9">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158734608" ref="http://viaf.org/viaf/96151721"><surname>Fenger</surname>,
+      <forename>Ludvig Peter</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmea49173b-f0ff-4ef0-8099-447dc6a2587b">
+              <placeName>Askov Højskole</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917260000009" status="completed">
+            <date xml:id="idm8334ec24-b3c2-4721-9921-7b238ecedcb0">1899-04-26</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmdcbff469-e7e6-4556-b2e2-9d36ad473a96">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158694688" ref="99/31/5a/39/99315a39-d38c-49c1-92db-c6c37587a20c"><surname>Schrøder</surname>,
+      <forename>Charlotte</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmda369da4-af69-4b33-be33-33b5b29c7832">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158702400" ref="dc/88/68/5c/dc88685c-4b09-4dc4-b354-99475375ab18"><surname>Fenger</surname>,
+      <forename>Louise</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm8edd33b6-92bd-4f1c-8f30-326f70a191c2">
+              <placeName>Askov Højskole</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917260000010" status="completed">
+            <date xml:id="idma4377559-d08e-422d-aa54-3359ecee9f03">1901-04-02</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm66202ae7-e1f8-4429-b4d5-55cdd1e27db1">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158683920" ref="99/31/5a/39/99315a39-d38c-49c1-92db-c6c37587a20c"><surname>Schrøder</surname>,
+      <forename>Charlotte</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm232ad2ab-079c-462a-898c-0979eaf89e6f">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmc0ba91aa-f7f0-46d3-b27a-3cc02295f1b9">
+              <placeName/>
+            </location>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140619176557696">
+    <body xml:id="idm140619176693632">
+      <div xml:id="idm140619163582944">
+        <p xml:id="idm140619195088624"><pb xml:id="idm140619148814800" n="1" facs="images/001991726_000/001991726_000_0007.jpg"/>BREVE<lb xml:id="idm140619192357632"/>
+FRA<lb xml:id="idm140619168969728"/>
+CHARLOTTE SCHRØDER</p>
+        <p xml:id="idm140619164717328">TRYKTE SOM MANUSKRIPT</p>
+        <p xml:id="idm140619188595984">KOLDING<lb xml:id="idm140619168563904"/>
+KONRAD JØRGENSENS BOGTRYKKERI<lb xml:id="idm140619192190864"/>
+1907</p>
+        <p xml:id="idm140619177793920"><pb xml:id="idm140619177793792" n="2" facs="images/001991726_000/001991726_000_0008.jpg"/>Min afdøde Hustru havde i det meste af sin Levetid et skrøbeligt Helbred, og hun var optaget af en saare travl Virksomhed i sit Hjem og for Askov Højskole. Desuagtet fik hun Tid til at skrive en Mængde Breve til Slægt og Venner. Mange af disse Breve vil være en kær Læsning for Børn og Børnebørn og for hendes nærmeste Venner. Jeg har derfor Mod paa at lade el Udvalg af dem trykke. Nogle af vore Venner har overladt mig en Del af hendes Breve til Gennemlæsning og til udtogsvis at trykkes »som Manuskript«. Men det kan være, at andre vil gøre det samme. Derfor har jeg bestemt mig til foreløbig kun at lade en lille Samling trykke, som er skreven til Medlemmer af Familien Fenger, til hvem min Hustru fra Barn af var saa inderlig knyttet. De, som modtager dette Hefte med Breve af Charlotte Schrøder, f. Wagner, bedes modtage dem som en Julehilsen fra hendes efterladte.</p>
+        <p xml:id="idm140619178382928">Askov, i December 1907.</p>
+        <p xml:id="idm140619172820544">LUDVIG SCHRØDER.</p>
+      </div>
+      <pb xml:id="idm140619149064224" n="3" facs="images/001991726_000/001991726_000_0009.jpg"/>
+      <div decls="bibL0019917260000001" n="1" xml:id="L0019917260000001" xml:lang="da-Dk">
+        <head xml:id="idm140619149050144">Til Fru <persName xml:id="idm140619149049888" type="recipient" key="Edelberg, Marie" sameAs="#personidm140619149049888">Marie Edelberg</persName>, f. Fenger.<note xml:id="idm140619149049264" n="*)" anchored="true">Marie Fenger, der 1859 blev gift med den svenske Ritmester Edelberg, var af P. A. Fengers Døttre den, der i Alder var nærmest ved Charlotte Wagner og derfor vel den, der var mest knyttet til hende.</note>
+               <lb xml:id="idm140619149048112"/>
+               <geogName xml:id="idm140619149047856" type="sender" sameAs="idmbdec17eb-94e8-48f0-abcb-4818d9478e54">Christianshavn</geogName> [<date xml:id="idm140619149047472" sameAs="idmc461273f-3602-4a27-a99a-db8cfd374dd2">12. Nov. 1859</date>].</head>
+        <p xml:id="idm140619149046960">…Vi har haft saa megen Fornøjelse eller snarere Glæde ved at se paa glade Ansigter i denne Tid og ved at høre venlige Lykønskninger, at jeg ikke kan lade være at fortælle dig lidt om, hvad jeg har set og hørt. Kender du ikke nok lille Theologicum? Nogle Dage, efter at du var rejst, sad Schrøder, Ludvig [Wagner], Moder og jeg ved Kaffebordet. »Skal vi ikke have lille Theologicum herud?« spurgte Ludvig. »Jo, det skal vi vistnok,« svarede S. »Kommer der saa ingen af dem til Té?« sagde jeg [eller Moder], »for der er en Del af dem, som ikke har gratuleret mig.« »Ja«, sagde S., »de vil vistnok gærne komme allesammen.« Naa, som sagt, saa skét. Lille Theologicum var sjæleglad ved at komme herud og se os to mærkværdige Mennesker, som havde fundet hinanden. De var alle saa fornøjede og venlige, som man bare kunde forlange. Jeg tror nok, at de forundrede sig, i al Fald de, som tænker paa noget lignende, over, at den undselige Schrøder kunde komme ud af at frie; men man fortæller jo aldrig, hvordan det gik til, og jeg fortæller skam heller ikke lille Theologicum, hvorledes det er gaaet os. Jeg skænkede da Té til dem og blev udnævnt til »lille Theologicums Moder«, fordi Schrøder er lille Theologicums Fader. De havde mange Løjer <pb xml:id="idm140619149044128" n="4" facs="images/001991726_000/001991726_000_0010.jpg"/>over, at jeg var bleven i Familien, og [Julius] Schousboe spurgte, om han ikke kunde faa at vide, hvor mange Søstre lille Theologicum havde, for det var jo mageløst at kunne blive i Familien, saadan som S. var bleven i den.<note xml:id="idm140619149042864" n="*)" anchored="true">Julius Schousboe blev virkelig i Familien, idet han til Hustru fik et Næstsødskendebarn til Charlotte Wagner.</note> Da vi havde drukken Té, spurgte Moder [Otto] Jacobsen, om han troede, de havde Lyst til at drikke Skaaler, hun havde nemlig Punschextrakt i Kælderen. Det var jo fortræffeligt; Jacobsen vilde saa udbringe Skaalen. Imidlertid blev samme gode Fyr narret; thi ikke saa snart ser Schousboe Glassene, før han gaar ud til sin Frakkelomme og henter en yndig Sang, som alle mine smaa Theologer sang ganske fortræffeligt, og da den var sunget, udbragte han Skaalen, bedre end Jacobsen kunde have gjort det, om han saa havde staaet paa ét Ben hele Tiden. Jeg tror nok, at hvis du havde set ind til os den Aften, vilde du have sagt: Alvor og Gammen de kan godt sammen. Visen skal jeg skrive af til dig; jeg er næsten ligesaadan med den, som Nanna [Boisen] var med sin, saa du maa endelig synes godt om den.<note xml:id="idm140619149040096" n="**)" anchored="true">Nanna Boisen blev gift med Jensen, der sidst var Præst i Ebeltoft.</note>
+            </p>
+        <p xml:id="idm140619149039088">Et Kvad i Kvælden<lb xml:id="idm140619149038832"/>
+paa samme Tone som liden Gudruns Vise<lb xml:id="idm140619149038576"/>
+for<lb xml:id="idm140619149038320"/>
+Ludvig Schrøder og Charlotte Wagner,<lb xml:id="idm140619149038064"/>
+da de var bleven forlovede,<lb xml:id="idm140619149037808"/>
+af Julius Chr. Vilh. Schousboe.<lb xml:id="idm140619149037552"/>
+Den 3. November 1859.</p>
+        <p xml:id="idm140619149037168">En Yngling tavs og stille<lb xml:id="idm140619149036912"/>
+i søde Drømme gik.<lb xml:id="idm140619149036592"/>
+Hans Øjne blev saa milde<lb xml:id="idm140619149036272"/>
+og smilende hans Blik.<lb xml:id="idm140619149036016"/>
+Som Stjerner funkled Ynglingens straalende Blik.</p>
+        <p xml:id="idm140619149035568"><pb xml:id="idm140619149035440" n="5" facs="images/001991726_000/001991726_000_0011.jpg"/>Han havde set en Pige,<lb xml:id="idm140619158848448"/>
+saa yndig og saa ung,<lb xml:id="idm140619158848192"/>
+med Glæde, tør jeg sige,<lb xml:id="idm140619158847872"/>
+men dog med Længsel tung.<lb xml:id="idm140619158847552"/>
+Som blanke Sø i Solglans er Jomfruens Blik.</p>
+        <p xml:id="idm140619158847056">Hvor fagert var dog Livet,<lb xml:id="idm140619158846800"/>
+naar han var hende nær,<lb xml:id="idm140619158846480"/>
+som saligt nu ham givet<lb xml:id="idm140619158846224"/>
+i Glædens Straaleskær!<lb xml:id="idm140619158845904"/>
+Som Stjerner funkler Ynglingens straalende Blik.</p>
+        <p xml:id="idm140619158845456">Den Yngling venligt smiler<lb xml:id="idm140619158845200"/>
+ved hvert af hendes Ord,<lb xml:id="idm140619158844944"/>
+og al hans Tanke hviler<lb xml:id="idm140619158844688"/>
+hos hende, hvor hun gaar.<lb xml:id="idm140619158844432"/>
+Som blanke Sø i Solglans er Jomfruens Blik.</p>
+        <p xml:id="idm140619158843936">Han hjemme gaar og synger<lb xml:id="idm140619158843680"/>
+om al sin Fryd og Lyst,<lb xml:id="idm140619158843424"/>
+om Længselen, der tynger<lb xml:id="idm140619158843104"/>
+paa Hjertet dybt i Bryst.<lb xml:id="idm140619158842848"/>
+Som Stjerner funkler Ynglingens straalende Blik.</p>
+        <p xml:id="idm140619158842400">Hvor sælsomt Hjertet banker<lb xml:id="idm140619158842144"/>
+ved søde Minder smaa;<lb xml:id="idm140619158841824"/>
+hvor faar det mørke Tanker<lb xml:id="idm140619158841568"/>
+ved Tvivl, om mildt hun saa!<lb xml:id="idm140619158841312"/>
+Som blanke Sø i Solglans er Jomfruens Blik.</p>
+        <p xml:id="idm140619158840816">Den Yngling gaar og drømmer<lb xml:id="idm140619158840560"/>
+endog ved højlys Dag.<lb xml:id="idm140619158840240"/>
+I Angst og Tvivl dog svømmer<lb xml:id="idm140619158839984"/>
+dog om den hele Sag.<lb xml:id="idm140619158839728"/>
+Som Stjerner funkler Ynglingens straalende Blik.</p>
+        <p xml:id="idm140619158839280">Jo mere han dog tænker,<lb xml:id="idm140619158838960"/>
+jo mindre blier hans Mod,<lb xml:id="idm140619158838704"/>
+des tungere de Lænker,<lb xml:id="idm140619158838384"/>
+som nødig han forlod.<lb xml:id="idm140619158838064"/>
+Som blanke Sø i Solglans er Jomfruens Blik.</p>
+        <p xml:id="idm140619158837568"><pb xml:id="idm140619158837440" n="6" facs="images/001991726_000/001991726_000_0012.jpg"/>Og han tør intet sige<lb xml:id="idm140619158836576"/>
+om al sin Kærlighed;<lb xml:id="idm140619158836256"/>
+men Suk paa Suk opstige,<lb xml:id="idm140619158836000"/>
+og Kinden brænder hed.<lb xml:id="idm140619158835680"/>
+Som Stjerner funkler Ynglingens straalende Blik.</p>
+        <p xml:id="idm140619158835232">Hvad Møen stille tænkte,<lb xml:id="idm140619158834912"/>
+derom jeg intet ved.<lb xml:id="idm140619158834656"/>
+Men hvorfor mon hun sænkte<lb xml:id="idm140619158834400"/>
+med Rødme Blikket ned?<lb xml:id="idm140619158834080"/>
+Som blanke Sø i Solglans er Jomfruens Blik.</p>
+        <p xml:id="idm140619158833584">Nu Svendens Sorg er slukket<lb xml:id="idm140619158833328"/>
+og bange Længsel endt.<lb xml:id="idm140619158833008"/>
+Nu aldrig høres Sukket;<lb xml:id="idm140619158832688"/>
+thi Glædens Blus er tændt.<lb xml:id="idm140619158832432"/>
+Som Stjerner funkler Ynglingens straalende Blik.</p>
+        <p xml:id="idm140619158831984">Nu Møen glad sig klynger<lb xml:id="idm140619158831664"/>
+til ham, sin bedste Ven,<lb xml:id="idm140619158831408"/>
+og Haabet yndigt gynger<lb xml:id="idm140619158831152"/>
+til Paradis dem hen.<lb xml:id="idm140619158830896"/>
+Som blanke Sø i Solglans er Jomfruens Blik.</p>
+        <p xml:id="idm140619158830400">Igaaraftes var vi to (du véd da nok, at jeg mener mig og L. S., naar jeg siger vi to?) ude hos Triers. Vi har jo ikke gjort Visit der, overhovedet har vi næsten ingen Visitter gjort; men alligevel bød de os derud. Gid du havde været med; det havde været noget for dig. Det var mest lille Theologicum; men Emil Hartmann og Vinding var med. Hartmann spillede nogle yndige ny Salmemelodier, som han havde komponeret, og de sang saa dejligt allesammen. P. O. Boisen fra Møllen<note xml:id="idm140619158829472" n="*)" anchored="true">P. O. Boisen var Forstander for Enkedronning Caroline Amalies Asylskole, som da havde Lokale paa St. Kongens Mølle ved Vesterport.</note> var der ogsaa. Han var meget venlig. Vor Skaal blev drukken tre Gange, og en Vise var der ogsaa skreven om os af [Jens] <pb xml:id="idm140619158828192" n="7" facs="images/001991726_000/001991726_000_0013.jpg"/>Paludan-Müller; men den var ikke nær saa god som Schous- boes; derfor vil jeg ikke sende dig den. — Den Fru Reventberg, som Schrøder bor hos, er en yndig Kone; det er saa dejligt, at han bor hos hende; saa kan jeg bedre besøge ham, end hvis han boede paa Regentsen eller saadan et andet Sted. Han besøger os tit, men slet ikke for tit; jeg tror, at jeg lettere kunde krybe til Maanen end blive ked af at tale med ham…… Skriv snart til din hengivne<lb xml:id="idm140619158826752"/>
+               <persName xml:id="idm140619158826496" type="sender" key="Schrøder, Charlotte" sameAs="#personidm140619158826496">Charlotte</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158825616" n="7" facs="images/001991726_000/001991726_000_0013.jpg"/>
+      <div decls="bibL0019917260000002" n="2" xml:id="L0019917260000002" xml:lang="da-Dk">
+        <head xml:id="idm140619158823776">P. A. Fengers Død.<lb xml:id="idm140619158823520"/>
+               <geogName xml:id="idm140619158823264" type="sender" sameAs="idm6d3b6eee-650a-449b-880f-4cdbfd8ea10d">Askov</geogName>, <date xml:id="idm140619158822880" sameAs="idm05c2bf07-c857-4211-bb8d-51e9a79ecf1b">12.2.78</date>.</head>
+        <p xml:id="idm140619158822368">Kære <persName xml:id="idm140619158822112" type="recipient" key="Fenger, Rasmus" sameAs="#personidm140619158822112">Rasmus og Elisabeth</persName>!</p>
+        <p xml:id="idm140619158821360">I skal have hjertelig Tak, fordi I har husket paa mig i denne Tid, som den, der ogsaa hørte lidt med til eders Søsterflok, og som det kunde gøre godt at høre lidt nærmere om eders kære velsignede Faders Afsked herfra. — Mit Hjerte har mange Gange banket stærkt af Glæde, naar den trofaste gamle Mand har kaldt mig sin sjette Datter, og jeg har da inderlig ønsket, at jeg maatte blive værdig til det Hædersnavn, han gav mig, naar han nævnede mig saadan; det er underlig vemodigt at vide det, at vi ikke mere skal høre hans Læber sige saadan et kærligt Ord til os her i denne Verden. Gud give os i Naade, at vi maa mødes med ham igen dér, hvor der ingen Skilsmisse bliver mere. —</p>
+        <p xml:id="idm140619158820192">Ja, jeg vilde gerne være med ved min kære gamle Onkel Fengers Jordefærd; men uagtet jeg nu bedres hver Dag, vilde det dog være forvovent af mig at give mig paa saa lang en Rejse, saa jeg gør bedst i at blive hjemme hos mine mange smaa Børn; men det <pb xml:id="idm140619158819408" n="8" facs="images/001991726_000/001991726_000_0014.jpg"/>er en kær Tanke for mig, at Schrøder saa godt har forstaaet det Forhold, vi har staaet i til eders Fader, at han, uden den mindste Tilskyndelse fra min Side, har besluttet at rejse til Jordefærden, uagtet det, at vi har offentligt Møde paa Torsdag —; saa synes jeg, at jeg paa en Maade kommer allerbedst med, naar min egen kære Mand kommer i mit Sted. Ja selv om din Fader ikke havde været saa meget for min Slægt, som han har været, saa vilde Schrøder naturligvis gerne have været med, for din Faders sanddru Vidnesbyrd har jo ogsaa for ham haft sin store Betydning i den gærende Ungdomstid, da han søgte til Frelsers Kirke og Kandidatmøderne.<note xml:id="idm140619158817264" n="*)" anchored="true">Præsterne P. A. Fenger og N. G. Blædel samlede theologiske Kandidater til Møder i deres Hjem (skiftevis hos den ene og den anden).</note>
+            </p>
+        <p xml:id="idm140619158816112">Gamle Moder, som jo er hos os i Vinter, har i denne Tid stadig talt om, hvor meget hendes kære Svoger har været for hende, hvordan han blev brugt til at føre hende til Tro paa vor Frelser og derved ind i alt det bedste, hun har levet i; hun længes meget efter sin Søster og vil derfor følge med Schrøder, naar han paa Torsdag Middag rejser til København, og saa gøre et lille kort Besøg derinde, især for at se og tale med eders Moder; nu synes hun, de er de eneste gamle af hendes Slægt, for Onkel Nikolaj har hun altid regnet til den unge Slægt.</p>
+        <p xml:id="idm140619158814928">Hvor det dog er underlig dejligt at kende Guds kærlige Styrelse i, at eders Fader var rask, da Elisabeth havde den svære Tid med lille Kirsten, saa hun fik Lejlighed til at lære ham endnu bedre at kende end før, og han ogsaa til at se det lille Barn, som dog vist nu er ham meget nær, dér, hvor der er godt at være; og saa at du, kære Rasmus, kom til at sige ham Farvel paa den Maade og faa saa dejlig en Hilsen <pb xml:id="idm140619158813952" n="9" facs="images/001991726_000/001991726_000_0015.jpg"/>med til din kærlige, trofaste Hustru; ja Gud Fader styrer det underlig mildt for sine smaa, selv der, hvor der er megen Smerte. — Kunde vi blot lære at sige rigtig Tak for saadan et Liv, som det undtes eders Fader at føre til den Herres Ære, hvis trofaste Tjener han var, det vilde hjælpe os til, at den Velsignelse, hans Liv har bragt os, blev rigere for os; men vi er jo mere tilbøjelige til at sukke og grue end til at takke, naar de gamle trofaste Kæmper gaar bort, fordi det for os ser saa smaat ud med at faa Savnet af dem erstattet; den Følelse, at vi har staaet i Ly af de gamle Træer, som nu tages bort, et efter et, stiller jo ligesom Kravet til os, at nu skal vi til at danne Læbæltet for den unge Slægt; [den Opgave] er svær og bringer os til at bæve ved Tanken om, om vi nu ogsaa er saadan rodfæstede, at vi med Haab om at staa tro paa vor Plads kan vente de Storme, som visselig vil rase mod os. — Ja, naar de Tanker kommer op og vil bringe os til at grue, istedetfor at takke, saa gælder det om at holde fast paa det Vidnesbyrd, eders Fader altid gav, og vi dog ogsaa selv har erfaret, at Herren er trofast og har hjulpet hidtil, saa han vil ogsaa sørge for, at der skal blive ved at være trofaste Arbejdere i hans Vingaard, saa vi skal unde dem, der har arbejdet der, den Hvile, der gives dem, naar den sidste Fjende er overvundet.</p>
+        <p xml:id="idm140619158811152">Ja, vor trofaste Herre se i Naade til sin Menighed her i vort kære Fædreland og til os i den, og give den og os trofaste og kærlige Lærere og Præster som eders Fader var det, medens han var iblandt os!</p>
+        <p xml:id="idm140619158810336">Gid I nu maa se eders Børn blive raskere Dag for Dag; jeg har megen Glæde af at se paa det prægtige Billede, Elisabeth sendte mig af dem. Byens Koner var samlede hos os forleden Dag. Da de saa Billedet <pb xml:id="idm140619158809648" n="10" facs="images/001991726_000/001991726_000_0016.jpg"/>af eders Børn, fornøjede det dem meget, og de af dem, som kendte eder, sendte eder kærlige Hilsener, ingen dog mere end Ane Smeds, som aldrig kunde glemme, hvor meget I havde været for hendes lille Marie, som nu er blevet en stor og stærk Pige.</p>
+        <p xml:id="idm140619158808208">Lev nu vel! Endnu engang Tak for eders Venlighed mod eders<lb xml:id="idm140619158807952"/>
+               <persName xml:id="idm140619158807696" type="sender" key="Schrøder, Charlotte" sameAs="#personidm140619158807696">Charlotte Schrøder</persName>.</p>
+        <postscript xml:id="idm140619158806944">
+          <p xml:id="idm140619158806688">[Efterskrift]. Tag til Takke med dette daarlige Brev. Jeg duer ikke til at skrive —, det er silde, og jeg har haft meget om Haande idag.</p>
+          <p xml:id="idm140619158806016">Til Forstaaelse af dette Brev tjener følgende Uddrag af et Brev fra Basrnus Fenger af 10.2 78:</p>
+          <p xml:id="idm140619158805424">Den 10de Januar tilbragte jeg (paa en Gennemrejse fra Sverig, hvor jeg havde været for at købe Stude) ¾ Døgn i København, hvor jeg havde adskilligt at forrette og forskellige at tale med. Da jeg Kl. 8 om Aftenen kom hjem, siger min Broder Christian [Lægen] til mig: Vil du hjælpe mig at flytte Fader over i en anden Seng! Det skete; men derved viste det sig, hvor svage den gamle Mands Kræfter vare; thi Flytningen havde anstrengt ham i den Grad, at han blev betaget af den forfærdeligste Afmagt og ikke kunde faa Vejret, hvorfor han sagde: Jeg dør, og Christian, der iagttog hans Puls, sagde ogsaa : Det er snart forbi, — og alle vi Sødskende, som vare i København — Ludvig og hans Kone, Christine, Lovise, Christian og Ferdinand — samledes om hans Leje for at sige ham Farvel. Han kendte os alle, bad med os og var fuldkommen klar over sin Tilstand. Da han saa, vi var bedrøvede, sagde han: I skal ikke sørge for mig, Børn — jeg vil gerne dø — Vorherre har været saa <pb xml:id="idm140619158803040" n="11" facs="images/001991726_000/001991726_000_0017.jpg"/>god mod mig, at jeg ikke kunde tænke det — jeg lider egentlig ingen Smerte — jeg har nok lidt ondt ved at faa Vejret; men saadan er det altid, naar man skal dø — det er Kampen med den sidste Fjende. Henimod Midnat fik han nogen Lindring og bad os søge Ro, og jeg, som skulde rejse næste Morgen tidlig, fik nogle Timers Søvn. Om Morgenen den 11te Januar, da jeg sidste Gang saa ham, var han endnu meget svag, men fuldkommen klar. Han var, som jeg altid har kendt ham i hans lange Livstid, ganske jævn og sagde til mig: ..rejs du kun hjem til dine, men hils Elisabeth fra mig — hende holder jeg meget af! — og denne Hilsen til min Hustru blev saa de sidste Ord, jeg skulde høre af hans sanddru Læber, og det er mig saare kært at tænke paa, at hun ligesom du har vundet en Datters Plads i hans Hjerte. Dertil har sagtens ogsaa hendes temmelig lange Ophold i København med lille Kirstine bidraget. Det er saa mærkeligt at se de mange og underlige Veje, ad hvilke Herren, gennem Smil og Taarer, drager Hjerter — drager dem med Kærlighedens Snore.«</p>
+          <p xml:id="idm140619158800160">[Den nævnte »lille Kirstine« var født med en ikke fuldt udviklet Fod, og Moderen havde derfor været en 3 Maaneder i København med Barnet for at faa det opereret. Barnet døde siden.]</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619158799120" n="11" facs="images/001991726_000/001991726_000_0017.jpg"/>
+      <div decls="bibL0019917260000003" n="3" xml:id="L0019917260000003" xml:lang="da-Dk">
+        <head xml:id="idm140619158797280">Fru Augusta Fengers Død.<lb xml:id="idm140619158796960"/>
+               <geogName xml:id="idm140619158796704" type="sender" sameAs="idmc1233429-1d77-490c-9340-76d0d8f7b594">Askov Højskole</geogName>, <date xml:id="idm140619158796320" sameAs="idm950091c2-afe7-4376-92d3-427dd9b4b7e5">29.10.85</date>.</head>
+        <p xml:id="idm140619158795808">Kære <persName xml:id="idm140619158795552" type="recipient" key="Fenger, Rasmus" sameAs="#personidm140619158795552">Rasmus</persName>!</p>
+        <p xml:id="idm140619158794800">Mine Tanker maa søge ind til alle eder Sødskende iaften, og da især til dem af eder, som jeg har levet sammen med, og jeg synes, jeg trænger til at sige det <pb xml:id="idm140619158794208" n="12" facs="images/001991726_000/001991726_000_0018.jpg"/>til eder, at jeg er imellem dem, som velsigner eders fromme elskelige Moders Minde og vil gemme det dybt hos mig, — det er jo en af de store Velsignelser i mit Liv, at jeg fik Lov at færdes i hendes Børneflok som en, hun ogsaa gav Plads i sit store rige Hjerte. — For mig staar hun som et af de reneste og elskeligste Mennesker, jeg nogensinde har mødt, — ja jeg fristes til at sige »den« [reneste og elskeligste], — saa underlig skønt, som hun aldrig søgte sit eget, men havde givet sig saa helt hen til Guds Naade og ligesom ud af den havde det forunderlig rige Væld af Kærlighed at øse af; hvor var hun ikke mild og taalmodig og saa forunderlig ydmyg.</p>
+        <p xml:id="idm140619158792432">Grundtvigs dejlige Digt »Karen Bjørns Minde« trænger sig uvilkaarligt hele Tiden frem for mig iaften, og jeg synes, jeg ser din Moder som hende, omringet af den store Børneskare og prisende sin Frelser for Freden, og ser hende sove hen med Karen Bjørns Trøst:</p>
+        <p xml:id="idm140619158791504">Mine Børn i Dage haarde<lb xml:id="idm140619158791184"/>
+en retfærdig Slægt skal vorde!</p>
+        <p xml:id="idm140619158790800">Kære Rasmus, det er det, jeg gærne vil ønske dig, og bede Gudfader om, maa times for eder, at Peter Andreas Fengers og Augustas Slægt maa komme godt igennem de haarde Dage, som er komne nu, og faa Lov til at leve og dø i den Tro, som var deres dyreste Skat.</p>
+        <p xml:id="idm140619158789872">Saa maa jeg ved at tænke paa din Moders Livsførelse, hvor svag hun var i sine unge Dage og i mange, mange af sit Ægteskabs første Aar, tænke paa din Hustru; jeg haaber og tror, at den samme Herre, som bevarede eders Moders Liv underligt for eder, til I har staaet der mange med Graahaars Kroner om hendes Baare, han mægter ogsaa at bevare din Hustru <pb xml:id="idm140619158788960" n="13" facs="images/001991726_000/001991726_000_0019.jpg"/>for dig og dine Børn, trods al hendes Skrøbelighed! Ja gid det maa ske!</p>
+        <p xml:id="idm140619158787872">Nu blot en kærlig Hilsen til dig og Elisabeth og eders Børn fra din gamle Veninde<lb xml:id="idm140619158787440"/>
+               <persName xml:id="idm140619158787184" type="sender" key="Schrøder, Ludvig" sameAs="#personidm140619158787184">Charlotte Schrøder og Ludvig Schrøder</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158786304" n="13" facs="images/001991726_000/001991726_000_0019.jpg"/>
+      <div decls="bibL0019917260000004" n="4" xml:id="L0019917260000004" xml:lang="da-Dk">
+        <head xml:id="idm140619158784464">Til Fru <persName xml:id="idm140619158784208" type="recipient" key="Edelberg, Marie" sameAs="#personidm140619158784208">Marie Edelberg</persName>, f. Fenger.<lb xml:id="idm140619158783584"/>
+               <geogName xml:id="idm140619158783328" type="sender" sameAs="idm14de4a08-40e4-4c40-beaa-55333ad58f2c">Askov Højskole</geogName>, <date xml:id="idm140619158782944" sameAs="idmd1a3b92d-fe3d-4ae8-bf9f-ee70ae4e23b3">11.10.87</date>.</head>
+        <p xml:id="idm140619158782432">Kære Marie!</p>
+        <p xml:id="idm140619158782048">Du skal have en hjertelig Tak, fordi du tænkte saa kærlig paa os ved vort Sølvbryllup. Det er mageløs frydefuldt saadan en Dag at mærke, at gamle Venner, trods det, der kan skille, af Tid og Rum, dog mindes en i Kærlighed. — Vi er et lykkeligt Sølvbrudepar. Et saare rigt Liv har vi faaet Lov at dele med hinanden, og den store Børnekreds, som staar om os, tegner saa godt. Ja, Gud ske Lov og Tak for det altsammen! — Der er noget eget ved Sølvbrylluppet; det giver som en Glæde tilbage overfor de 25 Aars Samliv, og det giver Mod paa de kommende Dage, selv om man nu saa godt véd det, at Livet er ikke en Dans, men en Kamp, en Kamp, vi ikke kan udkæmpe ene, og saa bøjer man Hovedet ydmygt og stoler paa, at han, som har hjulpet hidindtil, han hjælper nok herefter, og saa haaber man paa at faa Lov til at følges ad endnu et Stykke af Vejen i Medgang og Modgang, i hvad Lykke Gud den Almægtigste vil tilføre en. Vi har en Herre, som alting mægter, som os ej glemmer, naar vi er graa. — Graa er vi <pb xml:id="idm140619158779808" n="14" facs="images/001991726_000/001991726_000_0020.jpg"/>blevet; men jeg synes dog ikke, vi er blevet gamle; det maatte vi ogsaa nødig, for vi har jo en helt lille toaars Dreng, som godt kan behøve, at Fa’r og Mo’r er nogenlunde ungdommelige, og de voksne Børn vil ogsaa gærne have en ung Fa’r og Mo’r, som har let ved at forstaa dem, nu de skal begynde at tage fat.</p>
+        <p xml:id="idm140619158778224">Kære Marie, hvor er det dog længe siden, jeg har set dig — jeg synes, det er seksten Aar siden; alle de, som ser dig, siger, at du altid er den samme gamle Marie og dog unge Marie, og det kan jeg saa godt forstaa, især fordi jeg dog ikke saa sjælden træffer Louise, og hun ligner altid sig selv. Rasmus besøgte os ogsaa for nylig; efter Sølvbrylluppet var han hos os en Time; han ligner ogsaa helt sig selv, med det samme trofaste, ærlige kærlige Sindelag. Det gør saa godt at mødes.</p>
+        <p xml:id="idm140619158777216">Hvis du nu kunde kigge ind i min Dagligstue, saa vilde du se en hyggelig Bjergby-Krog, med et skønt Fotografi efter Roeds Billede af din Fader og Moder og saa Kirken og Præstegaarden, den mageløse Præstegaard med Døren, som jeg gik ud af som en lille Pige paa Krykker og gik ind af uden Krykker, da Gud gav mig Naade til at lægge dem. Aa! det er saa dejligt! Paa Væggen, der danner Krogen, hænger der et stort dejligt Fotografi af den sixtinske Madonna med Englene og Englehæren, det har min Husbond bragt mig fra Dresden. Jeg synes, det passer saa kønt sammen med Bjergby-Minderne.</p>
+        <p xml:id="idm140619158776016">Jenses Fæstemø var syg paa vor Sølvbryllupsdag, og det gjorde, at vi maatte lade os fotografere, at hun kunde faa et Billede af os med Sølvsmykkerne, Børnene havde prydet os med, og saa fik jeg Lyst til, at vi ogsaa skulde gøre dig et lille Besøg, og derfor stiller vi nu saadan og siger Tak til dig og din Husbond, <pb xml:id="idm140619158775120" n="15" facs="images/001991726_000/001991726_000_0021.jpg"/>saa kan du jo se, at din Barndomsveninde nu er en rigtig Matrone. Gamle Bedstemoder sender dig hjertelige Hilsener; det gør min Husbond ogsaa.</p>
+        <p xml:id="idm140619158773888">Din gamle Ven<lb xml:id="idm140619158773632"/>
+               <persName xml:id="idm140619158773376" type="sender" key="Schrøder, Charlotte" sameAs="#personidm140619158773376">Charlotte Schrøder</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158772496" n="15" facs="images/001991726_000/001991726_000_0021.jpg"/>
+      <div decls="bibL0019917260000005" n="5" xml:id="L0019917260000005" xml:lang="da-Dk">
+        <head xml:id="idm140619158770656">Fru Elisabeth Fengers Død<persName xml:id="idm140619158770336" type="recipient">.</persName>
+               <lb xml:id="idm140619158769840"/>
+               <geogName xml:id="idm140619158769584" type="sender" sameAs="idm057117ac-349d-4f8b-b804-7320178334c1">Askov Højskole</geogName>, <date xml:id="idm140619158769200" sameAs="idme8dda0fa-6f5c-423b-9505-605534eeb0fd">16.8.88</date>.</head>
+        <p xml:id="idm140619158768688">Kære <persName xml:id="idm140619158768432" type="recipient" key="Fenger, Rasmus" sameAs="#personidm140619158768432">Fenger</persName>!</p>
+        <p xml:id="idm140619158767680">Med hjertelig Deltagelse har vi modtaget Budskabet om din kære Hustrus Død. Ja det er tungt, naar en Hustru og Moder tidlig bliver kaldt fra Hjem og Husbond og Børn, og det er, som du venter det, naar Mindet om de store Lidelser træder i Baggrunden og med det Glæden over den kære Afdødes Udfrielse af Lidelserne, saa kommer Savnet med de store Skygger og lægger sig ind i Huset, naar hun, som var Mægleren mellem alle Husets forskellige Viljer og Attraaer, ikke mere gør sin stille Gerning. Det vidner alle de, som har prøvet den Sorg. Det gør mig især saa ondt for dine store Børn, som staar i de vanskelige Overgangsaar, hvor, for mig at se, en kærlig og forstandig Moder har den største Indflydelse paa sine Børn og ikke kan erstattes. Sommetider ser man dog, — og Gudfader give dig Naade og Velsignelse til det —, at en Fader kan faa Lykke til at være baade Fader og Moder for sine smaa Børn. Appel i Rødding fik Lykke til det, saa Børnene har kunnet lægge sig helt ind til ham og betro ham alle deres Sorger og Forhaabninger.</p>
+        <p xml:id="idm140619158765248"><pb xml:id="idm140619158765120" n="16" facs="images/001991726_000/001991726_000_0022.jpg"/>Vorherre mildner jo Luften for de klippede Lam, maatte han ogsaa i alle Maader gøre det for dig og dine!</p>
+        <p xml:id="idm140619158763968">Hvor har Elisabeth dog lidt meget i sit Liv, — selv i de Tider, hvor hun var lykkeligst, har hun dog maattet sukke haardt over sin store legemlige Svaghed; men naar det saa lettede lidt for hende, hvor var hun saa dog ikke en mild og glad Barnemoder, jeg har saa mange kønne Minder om hende, især fra Glæden over Peter Andreas [den ældste Søn], Hun var saa ung og køn med ham ved Brystet, og hun tog saa flinkt paa ham baade som Plejerske og som Opdragerinde. — — — Ja vi har faaet os mangen god Formiddags-Samtale, naar hun smuttede over til mig, og jeg har saa rare Minder om den Tid.</p>
+        <p xml:id="idm140619158762880">Gud glæde nu hendes Sjæl i Himmerig! Han trøste selv alle eder, som græder ved hendes Baare!</p>
+        <p xml:id="idm140619158762288">Kærlig Hilsen fra os allesammen til dig og dine.</p>
+        <p xml:id="idm140619158761792">Din gamle Veninde<lb xml:id="idm140619158761536"/>
+               <persName xml:id="idm140619158761280" type="sender" key="Schrøder, Charlotte" sameAs="#personidm140619158761280">Charlotte Schrøder</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158760400" n="16" facs="images/001991726_000/001991726_000_0022.jpg"/>
+      <div decls="bibL0019917260000006" n="6" xml:id="L0019917260000006" xml:lang="da-Dk">
+        <head xml:id="idm140619158758560">Til <persName xml:id="idm140619158758304" type="recipient" key="Fenger, Louise" sameAs="#personidm140619158758304">Louise Fenger</persName>.<lb xml:id="idm140619158757680"/>
+               <geogName xml:id="idm140619158757424" type="sender" sameAs="idm493f2a9a-d3e5-4361-af26-2806dfd2bc06">Askov Højskole</geogName>, <date xml:id="idm140619158757040" sameAs="idm04f4784c-7cac-44b4-bd26-944960636ecd">10.6.97</date>.</head>
+        <p xml:id="idm140619158756528">Kære Louise!</p>
+        <p xml:id="idm140619158756144">Tak fordi du tænkte saa kærligt paa os, da Moder døde. Vi har været meget lykkelige i vort Forhold til vor søde, kærlige Moder, at hun kunde slaa sig til Ro i vort Hjem og finde sig tilrette i det og bøde paa mangen en Brøst i det. Hvad det har haft at betyde for vor store Børneflok, at Bedstemoders Stue kunde være et Tilflugtssted for dem, hvor <pb xml:id="idm140619158755248" n="17" facs="images/001991726_000/001991726_000_0023.jpg"/>Bedstemoder mild og myndig kunde tage imod dem og tage alle Barnesorgerne i sit trofaste Hjerte og ofte retlede os overfor dem, det kan vist slet ikke opredes eller udmaales, men kun føles i et Gud ske Lov og Tak for den Naade, at Moder fik Hjem hos os. — Jeg mindes undertiden en Samtale i et Familieselskab i dit Hjem. Gamle Tang<note xml:id="idm140619158753760" n="*)" anchored="true">fra N. Vosborg, Godsejer og Rigsdagsmand.</note> vilde gærne leve sit Liv om igen, akkurat som det var levet, nej det var Grosserer Meinert; andre i Selskabet mente, det vilde være et tvivlsomt Gode; mig slog det allerede dengang, at kunde man kun leve om igen, ikke bøde paa det, man havde brudt, saa var det næppe værdt at gaa om igen. — Det hører jo med til Livets tunge Byrder, at selv i de fineste, dyrebareste Forhold er der saa meget af det brudte, saa meget af det egenkærlige, det, der ikke kan gøres om. Allevegne trænger vi til Syndernes Forladelse. — Tak, fordi i allesammen har været saa kærlige imod os og mindes vor kære gamle Moder saa kønt.</p>
+        <p xml:id="idm140619158751424">Din hengivne<lb xml:id="idm140619158751168"/>
+               <persName xml:id="idm140619158750912" type="sender" key="Schrøder, Charlotte" sameAs="#personidm140619158750912">Charlotte Schrøder</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158750032" n="17" facs="images/001991726_000/001991726_000_0023.jpg"/>
+      <div decls="bibL0019917260000007" n="7" xml:id="L0019917260000007" xml:lang="da-Dk">
+        <head xml:id="idm140619158748192">Til <persName xml:id="idm140619158747936" type="recipient" key="Fenger, Rasmus" sameAs="#personidm140619158747936">Rasmus Fenger</persName>.<lb xml:id="idm140619158747312"/>
+               <geogName xml:id="idm140619158747056" type="sender" sameAs="idm17bd37c8-3f9b-4e03-945a-a4c03c597aaf">Askov Højskole</geogName>, <date xml:id="idm140619158746672" sameAs="idme05d5722-a6fe-45e1-a670-f4cd7c1b6b61">14.5.98</date>.</head>
+        <p xml:id="idm140619158746160">Kære Rasmus!</p>
+        <p xml:id="idm140619158745776">Det er dog dejligt, at du tænker paa at besøge os med din Karen; først i Juli, siger Schrøder, at det vil passe ham bedst; først i Juni er der noget Hedesags- Væsen, eller jeg ved ikke hvad, han har travlt med. Det er kedeligt, at vi ikke har vor Øjesten Julie <pb xml:id="idm140619158744960" n="18" facs="images/001991726_000/001991726_000_0024.jpg"/>hjemme. Det er, som hun har færre legemlige Kræfter, end hendes Søstre havde, saa vi har maattet se at faa hende i et roligere Hjem end vort. Det var en meget svær Beslutning at tage, at lade hende komme bort igen; at sende hende bort var omtrent som at lukke Solskin og Fuglekvidder ude fra sig. Nu er hun vel forvaret hos Baagøs i Testrup, har Lov at gaa paa Skole der, uden at have 100 Kammeraters Krav over sig at være lige gode Venner med dem, er saa under Baagøs og hans Hustrus kærlige Varetægt. — Det bøder jo paa en Moders Savn, naar hun véd, at Barnet har bedre Kaar, end det kan have ved at være hos hende. —</p>
+        <p xml:id="idm140619158743360">Jeg tror ikke, at jeg savner Moder mere, end jeg har Lov til. Jeg har ikke et eneste Øjeblik ønsket hende tilbage, men ser Vorherres Naade i, at han løste op for hende, da det blev trangt. Men naar man, til man blev over 54 Aar, har haft saa kærlig og klog en Moder som jeg, som altid var hos mig, som jeg talte med om smaat og stort, — saa er det jo ikke underligt, at der hører Tid til, før man vænner sig til at undvære det, og ligesom kan spørge sig selv om, hvad er det du mangler, for at blive færdig med din Beslutning om den eller den Ting, — ja det er Moders: Gør du kun det, lille Mo’er, — saa blev det saa underlig fast for mig. — Jeg forstod det først klart, da Olav skulde have Bryllup herhjemme, og Schrøder bad Margrethe om at tage ud at tale med Moder, og alting saa i en Haandevending klarede sig for mig, ved at tale med én, som baade var kærlig og klog og havde »Tid«. Dette fra den helt udvortes Verden er et lille Billede af, hvad der foregaar indvendig, naar man saalænge som jeg, med en travl Mand, i et travlt Hjem har haft sin egen Moder, der <pb xml:id="idm140619158740944" n="19" facs="images/001991726_000/001991726_000_0025.jpg"/>altid havde Tid i sin fredelige Stue, naar man trængte til at tale ud. Saadan og ikke mere er det for mig. Jeg sammenligner slet ikke Sorgen ved vor søde Bedstemoders Død med den Sorg, naar Døden river et dejligt Barn bort fra Forældre, eller Ægtefolk, som har deres Livsgerning, deres Liv sammen, brat, for Mennesker at se, i Utide bliver skilt ad, det voldsomme, som da kommer ind paa én, det er der jo slet ikke noget af paa den Maade, naar den trætte i Vorherres Jesu Navn lukker sine Øjne og linder Hvilen efter Dagens Strid og Møje den lange, lange Livsdag; men Savnet, nej det hører der alligevel Tid til at vænne sig til.</p>
+        <p xml:id="idm140619158739296">Ja saa velkommen, det skal være dejligt at se dig igen i Ro. Til den Tid skal vi jo forhaabentlig have det nye Hus, der i disse Dage skal begyndes paa, under Tag.</p>
+        <p xml:id="idm140619158738576">Med de bedste Hilsener og Velkommen fra Schrøder er jeg din gamle Ven<lb xml:id="idm140619158738160"/>
+               <persName xml:id="idm140619158737904" type="sender" key="Schrøder, Charlotte" sameAs="#personidm140619158737904">Charlotte Schrøder</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158737024" n="19" facs="images/001991726_000/001991726_000_0025.jpg"/>
+      <div decls="bibL0019917260000008" n="8" xml:id="L0019917260000008" xml:lang="da-Dk">
+        <head xml:id="idm140619158735184">Den Fenger’ske Mindefest.<lb xml:id="idm140619158734864"/>
+[Til <persName xml:id="idm140619158734608" type="recipient" key="Fenger, Ludvig Peter" sameAs="#personidm140619158734608">Arkitekt Professor Ludvig Fenger</persName>.]<lb xml:id="idm140619158733984"/>
+               <geogName xml:id="idm140619158733728" type="sender" sameAs="idmea49173b-f0ff-4ef0-8099-447dc6a2587b">Askov Højskole</geogName>, <date xml:id="idm140619158733344" sameAs="idmbecdaec7-71ad-4da5-95d7-4a9ffebada32">11.1 99</date>.</head>
+        <p xml:id="idm140619158732832">Kære Fætter Ludvig!</p>
+        <p xml:id="idm140619158732384">Du har glædet min Husbond og mig inderligt ved at ville have os med til eders Mindefest for eders Fader! Alt hvad han har været for os begge og for hele min Slægt, hører jo til de dyrebare Minder, man har saa usigelig godt af at fordybe sig i.</p>
+        <p xml:id="idm140619158731488"><pb xml:id="idm140619158731360" n="20" facs="images/001991726_000/001991726_000_0026.jpg"/>Efter Vennemødet i København i Efteraaret fulgte Schrøder mig paa en lille Pilgrimsfærd til Slotsbjergby, som jeg ikke havde set siden 1855 — i 43 Aar —; det var en underlig gribende Tur.</p>
+        <p xml:id="idm140619158730032">Vi har en Del Bekymring for Schrøders Helbred<note xml:id="idm140619158729664" n="*" anchored="true">Da jeg i 1898 kom hjem fra en Finlandsrejse, opdagedes det, at jeg havde Sukkersyge.</note>; han maa holde en streng Diæt, som dog lader til at hjælpe ham godt; men skør er han, udsat for heftig Hjertebanken o. s. v. Denne Skrøbelighed hindrer ham dog ikke i at gøre de Rejser, han som Meddirektør af Hedeselskabets Bestyrelse maa gøre; men det er næppe rimeligt, at han tør vove sig til København i Februar Maaned, hvis han da ikke bliver kaldt derind, hvad jo undertiden kan ske.</p>
+        <p xml:id="idm140619149070288">Hvad mig selv angaar, saa synes jeg, at jeg ikke kan modstaa din venlige Indbydelse, hvis Vind og Vejr og Schrøders Helbredstilstand eller min egen, som jo ikke hører til de paalideligste, [ikke] vil lægge uovervindelige Hindringer i Vejen for saadan en ungdommelig Færd af en gammel Bedstemoder…… Jeg vil derfor være meget glad ved, om du vil holde en lille Plads aaben til mig, — og maaske til Schrøder med. Kan vi ikke komme, skal jeg skrive eller telegrafere. Saa hjertelig Tak for denne store Venlighed.</p>
+        <p xml:id="idm140619149069072">Med venlige Hilsener til din Hustru og Datter og dine Sødskende og med Ønsket om, at Nytaaret ogsaa for eder maa blive godt og velsignet, er jeg din gamle Kousine<lb xml:id="idm140619149068464"/>
+               <persName xml:id="idm140619149068208" type="sender" key="Schrøder, Charlotte" sameAs="#personidm140619149068208">Charlotte Schrøder</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158704448" n="21" facs="images/001991726_000/001991726_000_0027.jpg"/>
+      <div decls="bibL0019917260000009" n="9" xml:id="L0019917260000009" xml:lang="da-Dk">
+        <head xml:id="idm140619158702720">Til Forstanderinde for Soldenfeldt Stiftelse, <persName xml:id="idm140619158702400" type="recipient" key="Fenger, Louise" sameAs="#personidm140619158702400">Louise Fenger</persName>.<lb xml:id="idm140619158701776"/>
+               <geogName xml:id="idm140619158701520" type="sender" sameAs="idm8edd33b6-92bd-4f1c-8f30-326f70a191c2">Askov Højskole</geogName>, <date xml:id="idm140619158701136" sameAs="idm8334ec24-b3c2-4721-9921-7b238ecedcb0">26.4.99</date>.</head>
+        <p xml:id="idm140619158700624">Kære Lovise!</p>
+        <p xml:id="idm140619158700240">Min gamle forslidte Hjernekiste, som trods al Forslidthed rummer mange, mange gode Minder, har ikke villet staa mig bi med at faa Rede paa, hvilken Dag i April der er din Aarsdag; der er ikke Mulighed for »Kommepaaelse« mere, og nu er April snart ved at løbe ud; endnu er der Mulighed for, at Fødselsdagen ikke har været; venter jeg til Maj, saa er det sikkert, at Hilsenen bliver som den Prosit, der kom for sent. Kære Lovise, jeg ønsker dig, at dit nye Leveaar maa blive rigtig lyst og godt for dig, rigt paa den ægte Fred og Glæde! Jeg synes, du er et af de lykkeligste Mennesker, jeg kender. Er der lidt Skikkelighed ved Koner, der har Mand og Børn til at bære sig paa Hænder, det er der egentlig ikke saadan noget særlig mærkeligt ved; men at blive saadan en Moder for gamle og unge, som du blev, uden at du giftede dig, det er forunderlig lykkeligt og kan godt holde en stor Prædiken for os andre, naar Surmuleriet og Utaknemligheden kommer op i os, naar Træthed og Slaphed vil overmande os. — Gud velsigne dig og øge den ægte Glæde, som lyser over dig, fra Dag til Dag, til du naaer til det Hjem, hvor Skyggerne aldrig dækker over Glæden. — Det var en noget streng Tid for os her paa mange Maader, med den Slags Saar, man dækker over og kæmper for at faa lægt, skænder paa sig selv, fordi de smerter, uagtet man ser, at der er meget mere at takke for end at hyle over, saa hvis en Vinter her, med aldeles fortræffelige Elever, kan <pb xml:id="idm140619158697344" n="22" facs="images/001991726_000/001991726_000_0028.jpg"/>være stræng, var denne det; saa kom den fengerske Indbydelse. Jeg kan nu slet ikke sige det godt nok, hvor den 16. Februar var en dejlig Dag for os, hvor Mindet om den har gjort godt, hvor det opmuntrer, hver Gang det tages frem. Mange Gange har jeg tænkt paa at skrive til dig og bede dig selv at tage og bringe dine Søskende en Tak endnu fra os, fordi vi maatte være med den dejlige Aften. Men Tiden gled fra mig; den ækle Hovedpine har saa ofte slaaet mig ned og taget Pippet fra mig, saa blev det ikke til noget, men tag nu imod den Tak, der kommer sent alligevel. — Glem os ikke, naar du engang har en lille Ferie og kan faa Lyst til en Mundfuld jysk Luft. Du skal være saadan en velkommen Gæst … Hils nu dine kære, og vær selv inderlig kærligt hilset fra din gamle Kousine<lb xml:id="idm140619158694944"/>
+               <persName xml:id="idm140619158694688" type="sender" key="Schrøder, Charlotte" sameAs="#personidm140619158694688">Charlotte Schrøder</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158693808" n="22" facs="images/001991726_000/001991726_000_0028.jpg"/>
+      <div decls="bibL0019917260000010" n="10" xml:id="L0019917260000010" xml:lang="da-Dk">
+        <head xml:id="idm140619158691968">Til <persName xml:id="idm140619158691712" type="recipient">Enkefrue Vilhelmine Momsen</persName>.<lb xml:id="idm140619158691088"/>
+               <date xml:id="idm140619158690832" sameAs="idma4377559-d08e-422d-aa54-3359ecee9f03">2.4.1901</date>.</head>
+        <p xml:id="idm140619158690320">Kære Fru Momsen!</p>
+        <p xml:id="idm140619158689936">Vi blev meget bedrøvede, da vi igaar hørte, at Deres Mand havde lukket sine kærlige Øjne i Døden. Det hører med til de store Glæder, vi har oplevet paa vore ældre Aar, at vi lærte at kende og skatte ham, fik Lov at regnes til det dejlige Hjems Venner. — Vi vil savne ham dybt. — Men hvad saa for Dem og Børnene. Gud velsigne Dem allesammen i Sorgens og Savnets Tid og lade Dem finde hans Fred. — De véd jo, saa godt som nogen, hvor jeg i de sidste Aar har lært Smerten ved at skilles fra mine kære at kende, <pb xml:id="idm140619158689024" n="23" facs="images/001991726_000/001991726_000_0029.jpg"/>saa De vil nok forstaa det, uden mange Ord, hvor min Husbond og jeg føler Deres og Deres Børns Smerte.</p>
+        <p xml:id="idm140619158687872">Jeg maa i disse Dage tænke saa meget paa en Drøm, jeg havde for fjorten Dage, tre Uger siden. Jeg drømte, gamle Karen Per Jørgens<note xml:id="idm140619158687328" n="*)" anchored="true">Gaardmand Peder Jørgensens Enke.</note> havde et Ærinde her paa Jorden, hun skulde udrette; jeg stod ved Siden af hende og var slet ikke uhyggelig til Mode; saa hørte jeg hende sige: Blot Schrøders vidste, hvor Julie er meget for os andre Døde, saa vilde de ikke sørge saa tungt for hende!<note xml:id="idm140619158685936" n="**)" anchored="true">Vor Datter Julie døde 30. Maj 1900.</note> Det var en Drøm, som gjorde mig godt, og jeg kan ikke lade være med vaagen at drømme videre og tænke mig Julie sige: velkommen hjem, Onkel. — Gud er Kærlighed, og han har banet Vej gennem Dødens Skygge. — Ja, naar vi, som knuges af Skilsmissens Smerte, trøstes og styrkes ved Haabet om, at Vorherre Jesus Kristus har sejret over Døden, og at vi i og med ham skal gaa Sejren i Møde, saa faar vi en glædelig Paaskefest trods alle vore Taarer. Med de hjerteligste Hilsener fra min Husbond til Anna og Frederik, men først og sidst til Dem, kære, kære Fru Momsen, er jeg Deres hengivne<lb xml:id="idm140619158684432"/>
+bedrøvede<lb xml:id="idm140619158684176"/>
+               <persName xml:id="idm140619158683920" type="sender" key="Schrøder, Charlotte" sameAs="#personidm140619158683920">Charlotte Schrøder</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

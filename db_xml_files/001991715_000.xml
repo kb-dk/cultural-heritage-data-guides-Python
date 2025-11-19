@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--shit-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="root" status="published">
+  <teiHeader xml:id="idm140619191745904">
+    <fileDesc xml:id="idm140619180647648">
+      <titleStmt xml:id="idm140619183782336">
+        <title xml:id="idm140619171695520">Breve fra Gammelmo'r i Vust til Præstefolkene Harriet og Georg Brahm i Seden ved Odense</title>
+        <!-- OCR: Breve fra Gammelmo’r i Vust-->
+        <author n="1">Margrethe Pedersen, 1811-1902</author>
+        <!-- OCR: Harriet og Georg Brahm-->
+      </titleStmt>
+      <publicationStmt xml:id="idm140619171556688">
+        <publisher xml:id="idm140619171553056">Trykt Som Manuskript</publisher>
+        <pubPlace xml:id="idm140619169858112"/>
+        <date>1914</date>
+      </publicationStmt>
+      <idno>letter_books/001991715/001991715_000</idno>
+      <sourceDesc>
+        <bibl>
+          <!-- This is where we expect metadata for the analogue source in ADL -->
+        </bibl>
+        <listBibl>
+          <bibl xml:id="bibL0019917150000001" status="completed">
+            <date xml:id="idmf28ad2f1-a381-405e-ae67-5bef8ba95426">1892-08-05</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmd6905ada-1349-493d-bb0d-87daab58948b">
+              <resp>sender</resp>
+              <name xml:id="personidm140619196802672" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4f326aeb-c51d-4ce5-86a0-dead6061157a">
+              <resp>recipient</resp>
+              <name xml:id="personperson2f2e16ed-f86d-456a-b038-36e8648ea824" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personpersona5ca60e3-740c-4de0-bd49-db6872928868" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm69caf4a3-de08-4bd0-8936-95135d124c54">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000002" status="completed">
+            <date xml:id="idm4c891229-27b1-412a-94e1-c17b407451e1">1893-06</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm17e0eecc-f25a-4eb0-96a4-a416971f985c">
+              <resp>sender</resp>
+              <name xml:id="personidm140619180424016" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm8e90a49a-e238-44e8-b5e1-cb207d6fc2d9">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619164921008" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+              <name xml:id="personperson7408825f-6309-4aaa-ac7d-a9c0afba69c0" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm47c3fa62-00ab-4fb8-b781-7ee0809996b8">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000003" status="completed">
+            <date xml:id="idm6bbcaed1-d78b-4955-9237-6fb786812e43">1893-11-21</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme4e930c3-2e82-4f2c-afaa-9afd724c9842">
+              <resp>sender</resp>
+              <name xml:id="personidm140619109983312" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm04adc8c7-202f-4d67-9377-165c065e9b34">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619109987808" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idma0ef6eba-74da-4e02-8309-a07a0c5bbe93">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000004" status="completed">
+            <date xml:id="idmb5be1bb8-d5a6-402c-a7f5-1347d61cfcb5">1894-03-12</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf4537d2d-98c1-404a-8774-f0ded8c55e3b">
+              <resp>sender</resp>
+              <name xml:id="personidm140619109968352" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmfc59966e-f54c-49b2-ad4f-2e99daac10a4">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619109978160" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personperson1034177a-9173-4e57-a54b-f3645db3e76e" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmc18754c4-7b90-4b41-8ff5-27a9bf39ba65">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000005" status="completed">
+            <date xml:id="idm61d6969a-425b-460e-8e6d-3644f8c48b02">1894-06-29</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm256c499b-fe18-4674-818b-fd47f1c9d6aa">
+              <resp>sender</resp>
+              <name xml:id="personidm140619109957760" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm6b7e1f04-dee2-411a-99af-1b9312f6752c">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619109964352" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personpersondc591831-2951-4bb9-8bd0-e68d22fda3ae" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm57b8662e-e177-46e8-8a58-ff23ddfd6a4f">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000006" status="completed">
+            <date xml:id="idm8c252e9a-4d9e-45e7-bce7-fb9c11721ede">1895-06</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm7c132b73-1f86-4d66-84c0-4462934c655e">
+              <resp>sender</resp>
+              <name xml:id="personidm140619112620080" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idma5937664-06d6-41d2-aada-15b769e2104b">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619112632592" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personperson836ca659-f850-4fb5-bf5b-ad9fb71c5f24" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm17760f34-e640-4553-abdc-845949210504">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000007" status="completed">
+            <date xml:id="idm9c4eddaa-adf9-4d36-a7bd-7943b79ebcf0">1895-11</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm975dc686-df20-44b0-838f-e96ad76d488f">
+              <resp>sender</resp>
+              <name xml:id="personidm140619112602976" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmec1f0615-e1ad-48da-ad29-bceba8ce0c44">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619112615312" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+              <name xml:id="personpersondd117fce-7bf2-4dbf-b62d-ca42af218b47" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm7af31b5c-2168-43cd-9b59-8101d3dc2cae">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000008" status="completed">
+            <date xml:id="idmb6099e99-8767-42a6-9eda-69cb18506571">1896-06-29</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm844ba33b-c88e-4a6a-bc72-210127c0e330">
+              <resp>sender</resp>
+              <name xml:id="personidm140619112589232" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm339176f0-40e2-44df-97fd-06061f8d6fd7">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619112597440" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personperson2f880d8a-4e28-4bd6-b448-5b2fb80c9ef7" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmd2f244f1-ac95-44bb-aad9-1e167e00671e">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000009" status="completed">
+            <date xml:id="idmd0849e1b-40a6-47d5-bfdf-fd3d9abedaf4">1896-11-19</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm44daf8f9-b8dc-485c-b44e-565f46dae440">
+              <resp>sender</resp>
+              <name xml:id="personidm140619111658720" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm9e1c9016-c47a-4036-8e95-354d972a5f2d">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619111664720" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm8870921b-6ca7-4065-b2c5-29b3172fa068">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000010" status="completed">
+            <date xml:id="idmf30dd829-b651-4fc9-9896-8387c7e33b68">1897-06-23</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm31a8f245-bd96-4327-857f-3fdff5dcaf52">
+              <resp>sender</resp>
+              <name xml:id="personidm140619111646224" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm58e821f2-2443-4669-be47-9677d00c4f5a">
+              <resp>recipient</resp>
+              <name xml:id="personpersonbb969d07-b520-47c0-afc9-c2300d3a8ec4" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personperson0df276d3-3f8c-41ba-87e8-2f7ca40ee189" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm59bc73f1-42a2-4686-b32a-20457a65e1e1">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000011" status="completed">
+            <date xml:id="idma1a66d7d-4142-4f36-a108-2aae277cb873">1897-08-21</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmd9ec3891-12be-43a3-b7e5-ebb69e5098d7">
+              <resp>sender</resp>
+              <name xml:id="personidm140619111632640" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm02f92363-e615-438c-a80b-b33c1d1e66b0">
+              <resp>recipient</resp>
+              <name xml:id="personpersone999c6ce-9be5-4547-9341-d95691f0f7c9" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personperson31acb219-ebca-449b-9bb0-5ade6522bff6" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm200acfd4-b37c-4450-8678-b5ce596d3d15">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000012" status="completed">
+            <date xml:id="idm431b6293-70c8-4a90-a0c5-fdffb72c2e48">1897-11-19</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm2340bab6-d724-4472-8716-94403735785b">
+              <resp>sender</resp>
+              <name xml:id="personidm140619111620800" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm62ff9e0e-4067-44ad-818c-00289a138a90">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619111628640" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm5a84f645-277a-4a06-b5da-8586cf7b6b21">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000013" status="completed">
+            <date xml:id="idm7a18f1fe-f4b9-46cc-a6fb-664edbfff300">1898-05-03</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmfa48b778-b70f-4473-8198-cb043752d4cd">
+              <resp>sender</resp>
+              <name xml:id="personidm140619111605712" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf33e10a2-a117-4d71-b73e-948111251e65">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619111616800" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personperson81f8306b-2572-45ae-b3f0-d60b0e5f5d09" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm882f0634-0952-4c18-93c9-4c51f0abba84">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000014" status="completed">
+            <date xml:id="idm84621e36-c084-43cc-9293-b30e7c826e56">1898-07-27</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm1e9dd57b-410d-4218-8626-3f23a52f3790">
+              <resp>sender</resp>
+              <name xml:id="personidm140619122625248" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm38726d67-1162-4f79-8b06-9adddfd0d34f">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619122629680" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personperson34823580-5be2-4086-bbe4-77b2c17b763b" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm8ad06224-6e02-46e6-874b-8ee4a0ed9cb0">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000015" status="completed">
+            <date xml:id="idm19b61c2f-4fd0-44f0-8bc0-e6a211d32a22">1898-11-19</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmc42576a7-1555-46b3-b630-d10c23789eb7">
+              <resp>sender</resp>
+              <name xml:id="personidm140619122609088" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm81562271-cf7d-4a09-b998-fcc921b039a8">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619122621248" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm9a3ca33e-b474-44f4-a3bc-2c07474bba4f">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000016" status="completed">
+            <date xml:id="idm1d879dc4-3a3a-489c-a163-e3fd9c3dfff8">1899-02-24</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme3d10061-3b2d-4a55-adc4-2d5d3d96a5f2">
+              <resp>sender</resp>
+              <name xml:id="personidm140619122593248" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb4a01902-e431-4f00-b28d-2a551abda83c">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619122604064" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personperson531574db-d1e2-453a-8e86-d4c4e8b7c252" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idma86f57fc-581a-4cbc-a8c0-5f717fb06912">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000017" status="completed">
+            <date xml:id="idmed1aab79-e755-4443-bcbe-9a0ac4ace002">1899-06-23</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm3a2277cc-a4fb-4604-aa0e-c52176878c49">
+              <resp>sender</resp>
+              <name xml:id="personidm140619122577920" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm19dd4fcf-9238-4ab1-af79-19000e0c3f08">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619122589248" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personpersoneefebeac-b143-4c6f-a81b-1ddb6b9ca868" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmdbc0bbde-316f-4f55-9ebb-8f7e0ca3cb01">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000018" status="completed">
+            <date xml:id="idm031e6a12-725b-4423-9c55-9be3d669298d">1899-11-19</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm5f3aa1fb-827f-4d94-967c-64024d065160">
+              <resp>sender</resp>
+              <name xml:id="personidm140619122564240" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm556306d3-c258-4340-bf6c-a637587846e5">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619122573536" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+              <name xml:id="personpersone1ea42a5-0a9f-4cc2-9a15-0af8e0222bd7" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm2778d868-68a1-4662-8254-5d86c7a395a0">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000019" status="completed">
+            <date xml:id="idm9733cb94-4940-4c7e-a76b-77b00f9aff7f">1900-06</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmff66967f-8429-4287-891a-efca54a1355f">
+              <resp>sender</resp>
+              <name xml:id="personidm140619122547152" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm59d98f28-2786-4484-9135-1045d3b1fa06">
+              <resp>recipient</resp>
+              <name xml:id="personperson4a2d828a-24ba-428c-827a-cb3fe7f9177d" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personpersondc454741-ed45-4e53-818e-f71d9d4c4624" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmc9b9bf9c-882a-4b4a-a41c-123afb970aef">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000020" status="completed">
+            <date xml:id="idma3d3646f-f2fd-492c-9039-1327cc5d2ae2">1900-11-18</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm067150db-0909-4f85-a74f-592162505fa4">
+              <resp>sender</resp>
+              <name xml:id="personidm140619122536560" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm9abec808-495d-40ad-af1a-bb834e46a992">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619122542768" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm251f502f-61fd-4df1-bd0d-965f55825b6b">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000021" status="completed">
+            <date xml:id="idmf6aabd45-70fc-4aa1-ad8a-6390f29022cc">1901-02-18</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm9bee1f45-917e-463b-884c-62c45a557358">
+              <resp>sender</resp>
+              <name xml:id="personidm140619122521280" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm60c698ea-f0f4-4685-83b3-7cc431f0b21e">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619122530768" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personperson4ec92b15-1acf-4952-b7ca-478d551aa7ef" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm4054db6d-b373-4728-90e8-6a174af13b42">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000022" status="completed">
+            <date xml:id="idm4fe2a5cf-625d-4614-b9fc-ade017e5c2c6">1901-03-21</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4613a419-b01f-4c76-9e45-f8df5e882528">
+              <resp>sender</resp>
+              <name xml:id="personidm140619122510496" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm7a344852-8ad9-4991-a97b-600df852bdf1">
+              <resp>recipient</resp>
+              <name xml:id="personperson7755f0bc-4e4c-48d3-88b7-95a100ec6cad" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personperson23e101fd-925f-4444-9f3c-e99c4e1431a2" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm95d2014d-721b-403e-86b3-615b4e04d753">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000023" status="completed">
+            <date xml:id="idm68839381-07df-4af0-8d8b-4a31ec21b4cc">1901-06-30</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm7fa44aa3-c43f-406d-bbd6-8dcb7f18ddfc">
+              <resp>sender</resp>
+              <name xml:id="personidm140619122494400" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmba485426-ae66-4788-98a2-818957a03f99">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619122504432" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personpersondfc03c74-1138-4c88-8b66-2c23be993a70" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idme136315b-e217-4dd0-9dc9-45f10de67a0f">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0019917150000024" status="completed">
+            <date xml:id="idmfa0b8426-c905-49ea-b1d9-a0c2f42eaf84">1901-11-19</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm806667ea-6fad-4327-84d6-471619fe4b26">
+              <resp>sender</resp>
+              <name xml:id="personidm140619122479584" ref="4f/d5/fe/96/4fd5fe96-df4f-4fd5-8746-ca569d59c724"><surname>Pedersen</surname>,
+      <forename>Margrethe</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme5638bc6-48d1-4ff4-9423-7b455007580a">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619122487888" ref="1f/bf/99/8e/1fbf998e-379f-4771-a3b9-b27e8e19af24"><surname>Brahm</surname>,
+      <forename>Peter Georg Emil</forename></name>
+              <name xml:id="personperson63c3e763-3c83-4a2f-8ca8-76f53aea002e" ref="d7/b1/5f/7a/d7b15f7a-b68c-4f75-89e9-8363f7cd262a"><surname>Brahm</surname>,
+      <forename>Harriet</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm09b2fc22-f03d-46fd-a029-1c86fb6f08f2">
+              <placeName>Vust</placeName>
+            </location>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140619165611232">
+    <body xml:id="idm140619188895360">
+      <div xml:id="idm140619185449408">
+        <p xml:id="idm140619188889824"><pb xml:id="idm140619187491360" n="1" facs="images/001991715_000/001991715_000_0002.jpg"/>BREVE<lb xml:id="idm140619185449728"/>
+FRA<lb xml:id="idm140619192067488"/>
+GAMMELMO’R I VUST</p>
+        <p xml:id="idm140619187849104">TIL<lb xml:id="idm140619165835664"/>
+PRÆSTEFOLKENE<lb xml:id="idm140619186856464"/>
+HARRIET OG GEORG BRAHM</p>
+        <p xml:id="idm140619170439728">I SEDEN VED ODENSE</p>
+        <p xml:id="idm140619167291248">TRYKT SOM MANUSKRIPT</p>
+        <p xml:id="idm140619167040704">
+          <pb xml:id="idm140619187425760" n="2" facs="images/001991715_000/001991715_000_0003.jpg"/>
+          <caption xml:id="idm140619168209712">Thisted Amts Tidendes Bogtrykkerl, Thisted</caption>
+        </p>
+        <p xml:id="idm140619173112592"><pb xml:id="idm140619168114096" n="3" facs="images/001991715_000/001991715_000_0004.jpg"/>Efterfølgende Breve fra min Moder til Præstefolkene i Seden ved Odense er af Fru Brahm overladt mig, og da jeg gerne vil, at Moders Minde maa blive bevaret blandt hendes talrige Efterkommere, der ved hendes Død var langt over 100, har jeg ladet Brevene trykke som Manuskript for Venner til Omdeling blandt Slægten.</p>
+        <p xml:id="idm140619187419536">Det fremgaar af Brevene, ligesom alle, der kom i personlig Forhold til Moder, erfarede, at hendes store Afkom stod hende usigelig nær, og at hun daglig i hendes Bøn og Tanker indesluttede sin store Slægt. Moder blev født i Vust den 6. Februar 1811. Da hun var 20 Aar giftede hun sig med Kristen Pedersen i Vust, der da var 36 Aar, han døde 1854, og i 20 Aar til 1874 bestyrede hun sin Gaard i Vust med sine Børns Hjælp. Hun levede derefter hos sin Datter og Svigersøn til sin Død, den 8. Maj 1902.</p>
+        <p xml:id="idm140619175721264">Hun havde mange Forbindelser med Folk af den grundtvigske Retning rundt omkring i Landet, og hun skrev Breve til mange. De, der her er samlet, er til én Familie og skrevet i hendes sidste Leveaar, hvor hun stadig var sengeliggende.</p>
+        <p xml:id="idm140619168123264">Nogen Tid efter Moders Død skrev Friskolelærer Lindstrøm, Klim, en Skildring af hende i „Baunen“, denne medtages her.</p>
+        <p xml:id="idm140619192737920"><pb xml:id="idm140619181024592" n="4" facs="images/001991715_000/001991715_000_0005.jpg"/>Paa Faders Gravsten paa Vust Kirkegaard staar:</p>
+        <p xml:id="idm140619167965104">GAARDEJER<lb xml:id="idm140619167966368"/>
+CHRISTEN PEDERSEN</p>
+        <p xml:id="idm140619165666256">FØDT I VUST 14 DECEMBER 1794<lb xml:id="idm140619174345520"/>
+DØD SMST. 21. SEPTBR. 1854<lb xml:id="idm140619173825280"/>
+GIFT 1831 MED</p>
+        <p xml:id="idm140619166955648">MARGRETHE JAKOBSDATTER</p>
+        <p xml:id="idm140619163482240">VED HENDE FADER TIL 7 BØRN</p>
+        <p xml:id="idm140619169041632">HUN SATTE HAM DETTE MINDE,<lb xml:id="idm140619165944128"/>
+MEN ET BEDRE LEVER I HENDES OG TAKNEMMELIGE<lb xml:id="idm140619163951904"/>
+BØRNS HJERTER</p>
+        <p xml:id="idm140619163400928">ET SOVEKAMMER ER MIN GRAV<lb xml:id="idm140619163689760"/>
+MIG KALDER HAN, SOM LIVET GAV</p>
+        <p xml:id="idm140619174606416">Vust. i November 1914.</p>
+        <p xml:id="idm140619167433312">J. P. Nørhave.</p>
+        <p xml:id="idm140619163621392"><pb xml:id="idm140619171074112" n="5" facs="images/001991715_000/001991715_000_0006.jpg"/>Gamle Margrethe.<lb xml:id="idm140619182131728"/>
+Et Virkelighedsbillede.</p>
+        <p xml:id="idm140619181405696">Hun boede i en Stue østerst i Raalingen. Stuen vendte mod Syd. Der var mange Billeder paa Væggen, navnlig Portrætter. I Værelsets østre Side stod Sengen.</p>
+        <p xml:id="idm140619179372832">Margrethe var i en Aarrække stadigt sengeliggende paa Grund af Benskade. Men da hun var gangfør, fartede hun om til kristelige og folkelige Møder i Kirke og Samlingshus. For hun havde stærk Trang til at høre, og hun var lydhør. Hun evnede at prøve Aander, at skelne mellem Kerne og Avne.</p>
+        <p xml:id="idm140619178105360">Tit, naar man aabnede Gangdøren og vilde ind at gæste hende, kunde det høres, at hun bad, eller at hun nynnede paa en Salmetone.</p>
+        <p xml:id="idm140619167977920">Et Velkommen fik man altid. Og det var der Hjerteklang i. Var man een Gang taget ind i hendes Vennelag, og det rakte vidt ud, saa blev man holdt fast. Det mærkedes paa mange Maader. Det kunde give sig Udtryk, naar hun greb Haanden til Velkomst og knugede den mellem sine gamle, magre Fingre, og naar hun til Afsked tog ens Haand mellem begge sine og modstræbende slap.</p>
+        <p xml:id="idm140619167562208">Naar Venner undertiden ynkede hende, at hun stadig skulde være bunden til Sygelejet, sagde hun: „Jeg har det saa godt. Gud er jo god imod mig.“</p>
+        <p xml:id="idm140619167786768">Margrethe havde en stærk Vilje, Hersketrang og Myndighedsfølelse. Hun maatte tit gennemgaa haarde Kampe for at naa frem til Sagtmodighed og blive stille for Gud. Og dette var hendes inderste Attraa. Hun bad om, at Gud vilde slukke den opblussende Heftighed og tænde Sagtmodighedens milde Lys i hendes Sjæl.</p>
+        <p xml:id="idm140619168097680"><pb xml:id="idm140619178081840" n="6" facs="images/001991715_000/001991715_000_0007.jpg"/>„Ørnen“ kaldtes hun af en af hendes mange Præstevenner. Det var nok særlig paa Grund af hendes stærkt krumme Næse. Men det passede ogsaa i overført Betydning. For hun kunde stige højt i Længsel og Glæde. Hun dalede ogsaa dybt til Tider, i Ydmyghed, naar hendes stærke Sind drev hende længere ud, end hun bag efter skønnede var Ret.</p>
+        <p xml:id="idm140619167730320">Margrethes gamle Farmor var Herrnhut som flere af Ætten. Og Farmoderens dybt rundne Hengivelse i Gud og hendes Hjertes Enfold kvaltes ikke under Rationalismens Vinterdække. Det blev til Lykke for Margrethe i hendes Barndom og første Ungdom. Farmoderen saaede med lykkelig Haand i et villigt Sind.</p>
+        <p xml:id="idm140619167520272">Saa blev hun gift, lykkelig gift, sagde hun selv. Manden døde 1854. Og Margrethe stod for Gaarden som Enke fra 1854 til 1874. Hun var en sjælden virksom og dygtig Kvinde til at passe sin Gaard, saavel Bedriften udenfor som Arbejdet inden Døre. I de 20 Aar, hun som Enke ejede Gaarden, blomstrede Velstanden for Hjemmet. Og Margrethe forstod sig godt paa økonomiske Værdier, paa Penges Brug. Hun var paaholdende, men ikke karrig. Egnens Smaafolk sander dette.</p>
+        <p xml:id="idm140619165052048">Man hun var samtidig en stærkt troende Kvinde, der stadigt formanede sine Børn til at holde sig nær til Gud. Hun opdrog, optugtede dem paa streng, gammeldags Maade. Men de agter hende alle for hendes umiskendelige Stræben efter at gøre Ret og sætte Skel. Daglig bad hun for sig selv og sin Æt, at Herren vilde holde sin Haand over dem og lede dem saaledes, at hun paa den store Dag kunde møde Herren og sige: „Herre, her er jeg og alle dem, du har givet mig.“</p>
+        <p xml:id="idm140619167787776">I disse 20 Aar tog hun adskillige haarde Tørn baade med Præst og Lærer. Forkyndelsen i Kirken var flad Rationalisme, Børneundervisningen saa forunderlig uforstaaende overfor Barnehjertets Tarv og Krav. Hun havde vel den Gang ikke den Klarhed, hun senere vandt frem til, men hun skønnede, at der blev taget alt for overfladisk paa disse for hende dybt alvorlige Spørgsmaal.</p>
+        <p xml:id="idm140619186768912"><pb xml:id="idm140619164682496" n="7" facs="images/001991715_000/001991715_000_0008.jpg"/>Selv om det ikke kan siges, at hendes Livssyn var udpræget pietistisk, var der dog i disse Tider noget strengt og haardt over hendes kristelige Begreber. Men det strenge og haarde løstes, da den grundtvigske Vækkelse ved Peter Rønne sidst i Tredserne naaede Egnen som et Vaarbud om aandelig Grøde. Da var det, som en Taage lettede sig for hende, og hun fik klarere Himmel over sig. Hun aabnede alle Porte for Livet og Lyset. Og til sin Død blev hun en trofast, utrættet Forkynder af den glade Kristendom. Hun elskede alle frie Udstrømninger af grundtvigsk Aandsliv.</p>
+        <p xml:id="idm140619193598048">Hendes Ætfølelse var dyb og stærk. Hun fulgte Ætten med varm Medhu. Hendes inderste Ønske var, at den, som hun, maatte faa i Eje en levende Folkefølelse og oprigtig Levevilje for Guds Aasyn.</p>
+        <p xml:id="idm140619193458624">Hun læste meget, skønt Øjnene var ikke stærke. Grundtvigs, Birkedals og Hoffs Prædikener var hendes det kæreste. Men hun fulgte tillige Tidsrørelserne, som de afspejledes i Pressen. Var et og andet dunkelt for hende, spurgte hun ud, til Sagen blev hende klar. Rundt om i Egnen gemmes paa Gammel-Margrethes Breve, smaa Lapper Papir, hvorpaa hun med Blyant skrev Opmuntringer og Formaninger i kristelig Aand og Tone til gode Venner. Indhold var der i disse Breve. God Form ligeledes.</p>
+        <p xml:id="idm140619173334016">Hun døde som 91-aarig, den kære, ivrige GammelMargrethe med det varme Hjerte og det lyse Syn. Med sine let iøjnefaldende Fejl, men med sin Trang til aandelig Kraft og Klarhed, med sin ærlige Vilje til at vandre Guds Veje. Hun har traadt gode Spor i Livsudviklingen paa sin Egn.</p>
+        <p xml:id="idm140619168157424">Havde man efter et Besøg sagt Farvel og var naaet Døren, lød det gerne med høj Røst fra Margrethe: „Tak, Tak!“ Denne Tak istemmer hendes Æt og hendes Venner. Hun gav dem af sit Aandseje, hun bar dem frem i sin Bøn.</p>
+        <p xml:id="idm140619167135200">En Gennembruds-Skikkelse. Rigt udrustet, dybt præget af grundtvigsk Aandsliv. Dog, hun kunde sige, som hun ofte gjorde: „Uforskyldt! Uforskyldt!“ —</p>
+        <p xml:id="idm140619164774048">Joh. Georg Lindstrøm.</p>
+        <p xml:id="idm140619168789808">Klim Friskole.</p>
+      </div>
+      <pb xml:id="idm140619170944096" n="8" facs="images/001991715_000/001991715_000_0009.jpg"/>
+      <div decls="bibL0019917150000001" n="1" xml:id="L0019917150000001" xml:lang="da-Dk">
+        <head xml:id="idm140619164870560"><geogName xml:id="idm140619176302016" type="sender" sameAs="idm69caf4a3-de08-4bd0-8936-95135d124c54">Vust</geogName>, <date xml:id="idm140619169371840" sameAs="idmf28ad2f1-a381-405e-ae67-5bef8ba95426">den 5. August 1892</date>.</head>
+        <p xml:id="idm140619200527824">Mine kære, uforglemmelige Præstefolk!</p>
+        <p xml:id="idm140619170106592">Jeg vil nu først fortælle jer, at jeg ingenlunde glemte jer paa Eders dobbelte Glædesdag den 2. Juli, om at ønske Eder hjertelig til Lykke, at Gudfaders Naade og Velsignelse maa være med Eder fremdeles. Jeg fik Influenza midt i December og holdt stadig Sengen i 2 Maaneder; men saa godt en Maaneds Tid efter faldt jeg og forslog mit ene Laar og holdt Sengen stadigt i 6 Uger. I Vinter begyndte jeg at gaa paa Krykke, men, Gud Fader være takket, nu kan jeg hjælpe mig ved en Stok, naar jeg gaar ud omkring Gaarden. Jeg har ikke besøgt mine Børn endnu, der bor her i Byen; men i Juli Maaned har jeg været i Frikirken 2 Gange. Jeg synes jo, det gaar smaat med Bedring, men jeg er jo et gammelt Skravl, og jeg kan aldrig fuldt takke Gud Fader; jeg har ingen Smerter og kan hvile i min Seng, og Tiden gaar saa underlig hastig for mig baade i Vinter og i Sommer, og om ogsaa vort udvortes Menneske fordærves, saa fornyes derimod det indvortes Dag for Dag. Kan vi ikke føle det, saa maa vi ved Guds Naade tro derpaa; vi er alle raske, Gud ske Tak; men Kristen Agesens Børn har i denne Tid ondartet Halssyge, og en lille Pige i 3die Aar fik Strubehoste, og Lægen tilraadte at køre Barnet til Thisted først i denne Uge, og saa snart hun blev opereret, døde hun og bliver begravet i Dag; det er drøjt for Mette Kirstine at miste den lille Pige, som var den første efter 8 Drenge. Min Søn Peder i Flegum har havt megen Sygdom i Huset i dette Aar. Deres ældste Søn har i mange Aar lidt af Hjertesygdom; den korteste Dag før Jul døde han. En Datter, 22 Aar, har været syg i lange Tider; jeg ved ikke om det er Tæring; saa en Søn, der er 20 Aar, han fik <pb xml:id="idm140619194322464" n="9" facs="images/001991715_000/001991715_000_0010.jpg"/>Lungebetændelse, som blev i saa stor Grad, at han for lang Tid siden kom til Aalborg og gennemgik en heldig Operation og fik en Del Materie taget ud mellem hans Ribben, og bliver der for det første. Nu i denne Tid har de mindre af Børnene ondartet Halssyge; men det kan jo overvindes ved Guds naadige Hjælp, ja, saa forunderligt, som han styrer det. Saa vil jeg fortælle, at Jens Andreas Thorhave har købt et lille Hus nord i Barkær; der kan godt holdes en Ko; det koster 2 Tusinde Kroner, dem faar han fra sit Hjem; han har selv samlet 800 Kroner. Han er 28 Aar, først i Maj blev han borgerlig viet med en ordentlig Pige; hun er 20 Aar, hendes Forældre bor i Gøttrup, de kan holde en Ko. Niels Thomsens er flyttet fra Flegum i disse Dage. Det er i Nærheden af Brænderiet, de nu boer. Else, det eneste Pigebarn, er hos Niels Torhave i Terp og gaar til Møller i Sommer. Jens Peter Nørhave skilte da Kristen Torhave ved Mosegaarden. Ja, kære Venner, I skal vide engang til, hvorfor Tiden gaar saa hurtig for mig. Der stod et Par Gange i Brevet, jeg fik til min Fødselsdag lige for et halvt Aar siden, at jeg havde en sjælden Naade i flere Henseender, og det kan jeg i al Ydmyghed sige Ja til, da jeg føler, det er Naade over Naade, jeg opholdes ved. O, Herre! Hvorledes skal jeg betale alle dine Velgerninger imod mig? Jeg vil optage dine mangfoldige Saligheds Kalk og paakalde Herrens Navn. Er det ikke en stor Naade i den Alder, at jeg kan læse flere Timer baade i Sengen og oppe. Jeg har ingen større Smerter, saa Tiden gaar hastig. Ja, Gud ske Tak, fordi han har lagt alt saa godt til Rette for mig, og saa haaber jeg af Guds Naade for Jesu Skyld, at det bedste er gemt til mig, saa uforskyldt, til sidst. Min gamle Veninde, Maren Brun, var hos mig i Paaske. Hun lovede, naar hun kom hjem, saa vilde hun skrive til Fyn og hilse jer fra mig og sige lidt om min Tilstand. Hils Bedstemoder fra mig; det bliver nok vanskelig at gaa uden Kæp, da Foden styrer fejl. Pastor Bak og hans Søster Hanne besøgte os i forrige Uge. Han har havt det meget trykkende flere Aar paa flere Maader, baade med smaa Kaar <pb xml:id="idm140619164787552" n="10" facs="images/001991715_000/001991715_000_0011.jpg"/>og frem for alt med hans svagelige Hustru. Hanne troede sikkert, han er bleven lykkelig gift igen; han har en lille Søn, 8 Aar, der gaar paa Krykker. Det skulde være godt for ham at komme til Vesterhavet; det var nok mest Baks Ærinde her. Jeg skal hilse fra Bolette. Jeg har lovet min Søster, Else Nørhave, at hilse, hver Gang jeg skriver til jer, kære Venner, og saa en kærlig Hilsen fra eders Margrethe.</p>
+        <p xml:id="idm140619166694784">Kære Venner! Der er noget forkert ved mit Skriveri, men skriver jeg ikke, faar jeg jo ingen Breve, og det er en stor Opmuntring for mig paa mine gamle Dage.</p>
+        <p xml:id="idm140619186524144">Eders <persName xml:id="idm140619196802672" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619196802672">Margrethe</persName>.</p>
+      </div>
+      <pb xml:id="idm140619172780448" n="10" facs="images/001991715_000/001991715_000_0011.jpg"/>
+      <div decls="bibL0019917150000002" n="2" xml:id="L0019917150000002" xml:lang="da-Dk">
+        <head xml:id="idm140619168641024"><date xml:id="idm140619186228432" sameAs="idm4c891229-27b1-412a-94e1-c17b407451e1">Juni 1893</date>.</head>
+        <p xml:id="idm140619171271024">Mine gamle, trofaste Venner!</p>
+        <p xml:id="idm140619194731056">Kære <persName xml:id="idm140619164921008" type="recipient" key="Brahm, Harriet" sameAs="#personidm140619164921008">Brahm</persName>! Nu ønsker jeg dig først hjertelig til Lykke, om jeg husker ret, paa din 55de Fødselsdag, og med samme Ønske for eder begge i Forening paa eders Bryllupsdag, som I vel fejrer for omtrent 30te Gang paa Søndag. Ja, Gud Fader give jer Naade til i Fremtiden at tage mod alt det gode, han giver sine Børn; vi nyder det alle saa uforskyldt, saa vi kan aldrig fuldt ud takke ham. Jeg ligger i Sengen og skriver disse Linjer og har ikke været paaklædt siden først i September; men, Gud ske Tak, trods de mange unyttige Bekymringer gaar Tiden saa hastig for mig. Jeg kan sige med Sandhed, at jeg er ikke syg, men saa mat helt igennem; alligevel hviler jeg saa godt og sover godt. Ja, kære Venner, min Bøn og mit Haab er, at enten jeg lever eller dør, saa hører jeg Herren til — vi er jo frelste i Haabet.</p>
+        <p xml:id="idm140619172670112">Det er en stor Guds Gave, at jeg kan ligge og læse meget af Tiden og kan sy lidt til at veksle med. Saa en kærlig Hilsen til eder med Lykønskning fra Else og de unge i Nørhave og vore unge Folk, men først og sidst de varmeste Hilsner til eder og alle eders Kære<lb xml:id="idm140619180284256"/>
+fra eders gamle Veninde <persName xml:id="idm140619180424016" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619180424016">Margrethe</persName>.</p>
+      </div>
+      <pb xml:id="idm140619180092752" n="11" facs="images/001991715_000/001991715_000_0012.jpg"/>
+      <div decls="bibL0019917150000003" n="3" xml:id="L0019917150000003" xml:lang="da-Dk">
+        <head xml:id="idm140619109989088"><geogName xml:id="idm140619109988960" type="sender" sameAs="idma0ef6eba-74da-4e02-8309-a07a0c5bbe93">Vust</geogName>, <date xml:id="idm140619109988576" sameAs="idm6bbcaed1-d78b-4955-9237-6fb786812e43">den 21. Novbr. 1893</date>.</head>
+        <p xml:id="idm140619109988064">Min trofaste Veninde <persName xml:id="idm140619109987808" type="recipient" key="Brahm, Harriet" sameAs="#personidm140619109987808">Harriet</persName>!</p>
+        <p xml:id="idm140619109987168">Først takker jeg for eders Brev, jeg modtog i Juli og saa for den varme Hilsen fra eder i denne Maaned med Margrethe<note xml:id="idm140619109986656" n="*)" anchored="true">Formodentlig Margrethe Godiksen.</note>, det gør saa godt at mindes af kære Venner, som vi kan dele det bedste med. Men nu, kære Harriet, Hovedindholdet med disse Linjer er mit Hjærtes Ønske, at Guds Fred og Velsignelse maa være med dig og give dig alt det gode, som du kan tage imod. Min Stilling er for saavidt som de sidste 15 Maaneder; jeg ligger stadig og har det godt. Tiden gaar saa hurtig for mig, saa det næsten er forunderligt, men det er Sandhed, jeg mærker jo, Kræfterne aftager mere og mere paa min gamle Hytte; men kan min gode Ven Brahms Ønske saa gaa i Opfyldelse for mig, om jeg maa erfare Sandheden af Pauli Ord: „Naar jeg er skrøbelig, saa er jeg stærk“ — og saa leve i Haabet, at det kan opnaas, som en ældre Ven engang skrev: Ja, vi bliver gamle, men intet, intet i Verden skal knække Modet paa Vorherres Venner, som har saa store Ting i Vente og saa sikkert. Ja, Gud ske Lov. Af mine Børnebørn er der mange, som holder Fødselsdage fra den 13. og til den 26. i denne Maaned, saa jeg har Ærinde mange Steder, ogsaa paa Fyn, men kun eet Sted at samle mine Ønsker for al min Begæring: Hos vor kære Fader i det Høje. — Ja, nu er der gaaet 20 Aar, siden vi blev kendt, og vi har mange dejlige Minder, som følger os baade her og hist. Saa maa jeg slutte. Mange Hilsner, især til dig, kære Harriet, og din Husbond og Moder samt Ane Marie. Jeg skal hilse fra Søster Else og Bolette Marie. Da jeg ved, du faar mange Breve paa din Fødselsdag, skriver jeg først i Dag.</p>
+        <p xml:id="idm140619109983824">Din gamle Veninde<lb xml:id="idm140619109983568"/>
+               <persName xml:id="idm140619109983312" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619109983312">Margrethe</persName>.</p>
+        <postscript xml:id="idm140619109982560">
+          <p xml:id="idm140619109982304">Gud i Vold!</p>
+          <p xml:id="idm140619109981920">Min Ven Brahm, jeg er født 1811.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619109981280" n="12" facs="images/001991715_000/001991715_000_0013.jpg"/>
+      <div decls="bibL0019917150000004" n="4" xml:id="L0019917150000004" xml:lang="da-Dk">
+        <head xml:id="idm140619109979440"><geogName xml:id="idm140619109979312" type="sender" sameAs="idmc18754c4-7b90-4b41-8ff5-27a9bf39ba65">Vust</geogName>, <date xml:id="idm140619109978928" sameAs="idmb5be1bb8-d5a6-402c-a7f5-1347d61cfcb5">den 12. Marts 1894</date>.</head>
+        <p xml:id="idm140619109978416">Mine kære, uforglemmelige Venner <persName xml:id="idm140619109978160" type="recipient" key="Brahm, Peter Georg Emil" sameAs="#personidm140619109978160">Brahm og Harriet</persName>!</p>
+        <p xml:id="idm140619109977408">Da vi nu er lige midt imellem den 21. November og den 2. Juli, saa vil jeg med disse Linier først svare paa Spørgsmaalet om min Alder. Der staar skrevet i min Faders Bibel: 1811 — den 6. Februar var vor lille Datter Margrethe født og samme Dag indlemmet i den hellige Daab. Det samme har jeg maaske tidligere skrevet; men det kan jo gaa andre som mig, i Anledning af mine Venners Sølvbryllup i Seden Præstegaard. Dernæst mange, mange Tak for Hilsen, baade i Møllers og lille Margrethes Breve, men en særlig Tak for Brevet til min Fødselsdag, som jeg var meget glad for, og i samme Anledning modtog jeg mange skriftlige Lykønskninger, baade fra ældre og yngre Venner, som aldrig før. Ja, jeg blev virkelig i Sandhed meget overrasket, men i Stedet for at fristes til Hovmod derved, saa vil jeg i Alvor føje mit eget Ønske med mine Venners og bede, at Gud Fader ved Helligaandens Naade vil bevare mig og os allesammen, at vi i Tro og barnlig Ydmyghed modtager alt det gode, han giver os, som hans Fredsgave til Kristne, som vi fremdeles af Guds Naade maa tage uforskyldt for Jesu Skyld og tro, at vi er hans, og han er vor baade i Liv og Død. Ja, Gud ske Lov! Tiden gaar hastig for mig, og det er en stor Guds Gave, jeg ikke er syg og ligger og hviler og er glad ved, jeg kan ligge og skrive til Venner og selv kan læse mine Breve, jeg faar. I Vinter har jeg laant 2 gode Bøger at læse: „Grundtvigs sidste Prædikener i Vartov Kirke“ og „Hoffs kristelige Læsestykker til hver Dag i Aaret“. Tidligere har jeg læst Grundtvigs Levnedsløb — af Brun. Hvad deri var over min Forstand, lod jeg ligge. Jeg har Part i „Højskolebladet“. Jeg synes tit, der er noget usundt deriblandt; men der er meget, som jeg er glad ved at læse. Der kan man da jævnligt træffe mange gamle Venner, om det kun er blot Navnet. Der er ogsaa morsomme Bøger, saa Alvor og Gammen kan godt sammen. Avisen læser jeg hver Dag. Der er tit noget alvorligt; saa ligger jeg <pb xml:id="idm140619109974960" n="13" facs="images/001991715_000/001991715_000_0014.jpg"/>og tænker paa, at Gud Fader har hjemkaldt mange i de sidste Par Aar, der var tro Arbejdere i hans store Vingaard. Men lad os nu, da det er alvorlige Tider, vi lever i, bede ham i deres Sted at sende Mænd, der staar paa Sandhedens Grund. Jeg tænker meget paa den unge Slægt, der vokser op, som skulde være vort Fremtidshaab. Ja, her trænges til sund og kraftig Næring for Livet. Men Vorherre har lige saa meget ugivet, som han har givet. Lige som jeg ligger og skriver disse Linjer, faar jeg en Hilsen fra Kristen Torhave, der melder: Nu kom den femte Datter. Det næstførste levede kun faa Timer; det sidste er 4 Aar. Det er noget trist i Tiden. Den gamle Pige, som skulde have Husleje i Gaarden, hun er død og ligger Lig i disse Dage i Huset hos den gamle Kone. Der dør mange, ogsaa i Aar. Paa samme Tid laa baade Jens Kristian Slagter og Aksel Lig. Gamle Godik i Holme blev 95 Aar. Hans Datter Karen er død siden Jul. Gamle Morten Vesgaard i Holme døde i forrige Maaned, 91 Aar gammel. Maaske det er overflødigt. Jeg skal altid hilse jer fra min Søster Else, naar jeg skriver. Hun kunde vist blive lidt opmuntret ved at faa et lille Brev; men da hun ikke kan læse eller skrive et Brev, modtager hun faa. Hun er født 1814, den 17. Oktober. Hun er næsten altid noget trykket. — Nu lyder det til, at Jens Peter vil stille sig til Rigsdagsmand. Det forstaar jeg ikke. Niels Jakobsen giver nu lidt paa, og Karen gaar stadig ved en Stok paa Grund af Gigt; men det sidste Aars Tid er hun meget plaget af Krampe om Natten, som der vel neppe er Raad for. Er Brevet nu ikke for langt, er det visselig heller ikke for kort. Kære Venner, I maa da vide, at det er gaaet i Opfyldelse, hvad en god Ven engang skrev til mig: „I skal nok komme til at leve godt sammen i Hjemmet, naar I har Kærligheden at tage til.“ Vi har det saa godt som aldrig før i de sidste mange Aar. Ja, Gud Fader være takket! Jeg maa hilse fra vore unge Folk. Hils Bedstemoder, Ane Marie. Eders kære Børn kan nu ikke huske mig, som jeg kan huske dem. Vær nu begge kærlig hilset og Gud i Vold! Naar jeg nu aldrig kan sidde op i Sengen, bliver <pb xml:id="idm140619109969904" n="14" facs="images/001991715_000/001991715_000_0015.jpg"/>Brevet saa daarligt. Men jeg er glad ved, som jeg har det og kan ogsaa udrette lidt Haandarbejde.</p>
+        <p xml:id="idm140619109968864">Eders gamle<lb xml:id="idm140619109968608"/>
+               <persName xml:id="idm140619109968352" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619109968352">Margrethe</persName>.</p>
+      </div>
+      <pb xml:id="idm140619109967472" n="14" facs="images/001991715_000/001991715_000_0015.jpg"/>
+      <div decls="bibL0019917150000005" n="5" xml:id="L0019917150000005" xml:lang="da-Dk">
+        <head xml:id="idm140619109965632"><geogName xml:id="idm140619109965504" type="sender" sameAs="idm57b8662e-e177-46e8-8a58-ff23ddfd6a4f">Vust</geogName>, <date xml:id="idm140619109965120" sameAs="idm61d6969a-425b-460e-8e6d-3644f8c48b02">29. Juni 1894</date>.</head>
+        <p xml:id="idm140619109964608">Mine gamle, trofaste Venner <persName xml:id="idm140619109964352" type="recipient" key="Brahm, Peter Georg Emil" sameAs="#personidm140619109964352">Brahm og Harriet</persName>!</p>
+        <p xml:id="idm140619109963600">Det er kun 3½ Maaned, siden jeg sidst skrev til jer, og i den korte Tid har alt gaaet som tidligere, min egen Stilling angaaende. Jeg er lige træt, men hviler godt, saa jeg daglig har nye Beviser paa Gud Faders store Naade imod mig, trods alt det usle, der jo hver Dag vil forstyrre Freden, men det er næsten forunderligt, saa hastig Tiden gaar for mig, ja, Gud ske Lov. Men vi føler godt, at hernede har vi det i Stykkevis, og derfor længes og haaber vi paa det fuldkomne af Naade for Jesu Skyld. Men nu mit Ærinde med disse Linjer er, kære Brahm, først hjertelig at ønske dig paa din Fødselsdag al den Lykke og Velsignelse i Fremtiden, som du kan tage imod, og samme Ønske for eder begge paa eders Bryllupsdag, at I fremdeles maa modtage alt i en barnlig Tro og Ydmyghed, hvad Gud Fader tiiskikker Eder og tro paa, han vil give hans Børn det, der tjener os bedst. Mange Tak for eders Hilsen med bitte Ole. Han var hos mig i denne Uge. Jeg blev glad ved at høre, at eders kære Søn i Amerika har det godt, og det er en usigelig stor Naade, at der kan leves i den ene sikre ydmyge Barnetro over alt i Verden. Min Søster Else skal jeg altid hilse fra, naar jeg skriver. Hun synes, hun svækkes meget; hun bliver 80 Aar den 17. Oktober, og i Løbet af det sidste Aar er der blevet en Vækst i den ene Side i hendes Mave, som hæver sig lidt efterhaanden, men ingen Smerter. Lægen siger ikke rigtig, hvad det er. Jeg er glad ved, hun tager det med nogenlunde Ro. Hun kommer ellers ikke let igennem, som jeg før har meldt om. Mariane Nørhave venter <pb xml:id="idm140619109961472" n="15" facs="images/001991715_000/001991715_000_0016.jpg"/>det tiende Barn i Sommer. Den 1. August gaar hun i sit 40. Aar. Jens Peter har nok stillet sig til Rigsdagsmand; men jeg vilde helst, han ikke skal blive valgt. Jeg er bange, det er usundt at leve derinde og være sig selv uskadt. I Avgust bliver han 40 Aar. Ja, kære Venner, jeg har saamænd mange unyttige Bekymringer, der er syndige, men jeg vil bede Gud Fader opholde mig i en barnlig Tro paa, at han baade vil og kan vende alt til det bedste for os. I kan da forstaa, jeg har stor Grund til i al Ydmyghed at takke ogsaa for den Gave, at jeg kan ligge fladt ned i Sengen og foruden eder veksle Breve med mine Venner, baade Rønne og Dam i Thisted, men med ingen saa mange som Brahm og Hustru. Derfra kommer 2 paa samme Tid. Om jeg nu tager det fra den store Ende, kan ethvert lille Vennebrev alligevel opmuntre mig og minde om Fællesskabet, vi lever sammen. Jeg ved ikke, om I har hørt det haarde Tryk, der er lagt paa Jens Kristian, Jens Nielsens Søn: Den 4. Maj gik Jakob Bak i Tømmerby pludselig i Døden ved Hængning. Enken stod tilbage med 12 Børn. 6-Ugersdagen gik den ældste Søn, 19 Aar gl., samme Vej — ja, Gud Fader trøste den sorrigfulde Enke og Moder. Der kan ingen menneskelig Trøst tages imod, der kan lette den Sorg. Hun fødte det 14. Barn i Vinter. 2 er døde forud. Jens Kristians Forlovede er meget sorrigfuld. Hele Elendigheden er Pengemangel. Han handlede som en stor Mand til det sidste. Det er mærkeligt, det siges næsten af alle, at Hjemmet var saa fredeligt og skønt, at enhver befandt sig vel, som kom der i Huset i Fortiden. Saa er det vel nok for denne Gang. Jeg bliver ved at skrive, saa længe jeg kan, og Vorherre vil give mig Evne til at meddele og modtage. Jeg kan nok mærke, det gaar i forkert Retning, ogsaa med dette Brev; men I maa undskylde. Nu mener jeg, I har disse Linier paa Søndag, da jeg vil helst, ingen fremmede skal se det! Modtag saa i Forening begge en kærlig og hjertelig Hilsen fra eders gamle Veninde<lb xml:id="idm140619109958016"/>
+               <persName xml:id="idm140619109957760" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619109957760">Margrethe</persName>.</p>
+        <postscript xml:id="idm140619109957008">
+          <p xml:id="idm140619109956752">Jeg maa hilse fra Bolette Maria. Hils Bedstemoder <pb xml:id="idm140619109956432" n="16" facs="images/001991715_000/001991715_000_0017.jpg"/>og særlig Kamille Brahm ved Lejlighed. Hun besøger jer vist engang imellem. Hun maa gerne skrive til mig. Jeg mindes med Glæde den Tid, I boede i Thorup, naar om Sommeren B.s Søstre og især min gamle, kære Veninde, Fru Brahm, var med. Vi to Mødre havde meget at dele sammen i Anledning af vore Børn, som Vorherre havde givet os, at han vilde bevare baade os og alle vore kære til det sidste, Ja,</p>
+          <p xml:id="idm140619109954880">„Gud, lad os leve af dit Ord<lb xml:id="idm140619109954624"/>
+hver Dag vi ser paa denne Jord!<lb xml:id="idm140619109954368"/>
+Og før dermed fra Støvets Dal<lb xml:id="idm140619109954112"/>
+os hjem til Himlens Frydesal“.</p>
+          <p xml:id="idm140619112636592">Gud i Vold!</p>
+          <p xml:id="idm140619112636208">O! Gud ske Lov, jeg er glad for i Dag, men træt.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619112635456" n="16" facs="images/001991715_000/001991715_000_0017.jpg"/>
+      <div decls="bibL0019917150000006" n="6" xml:id="L0019917150000006" xml:lang="da-Dk">
+        <head xml:id="idm140619112633616">Sidst i <date xml:id="idm140619112633360" sameAs="idm8c252e9a-4d9e-45e7-bce7-fb9c11721ede">Juni 1895</date>.</head>
+        <p xml:id="idm140619112632848">Mine trofaste Venner <persName xml:id="idm140619112632592" type="recipient" key="Brahm, Peter Georg Emil" sameAs="#personidm140619112632592">Brahm og Harriet</persName>!</p>
+        <p xml:id="idm140619112631840">Nu vil jeg allerførst takke for eders Hilsen med Maren Myrup, som hun mundtlig selv har bragt mig. Nu har I nok set i det sidste Højskoleblad, at min Søster Else er rejst over det smalle Bælt til det ukendte Land hinsides. Jeg havde ikke ventet, at hun skulde gaaet før mig. Det sidste Halvaar blev hun meget afkræftet. Hun har ikke besøgt mig siden Jul. Hun blev først stadig sengeliggende i April, og efterhaanden forværredes Sygdommen, som var Mavekræft. De sidste otte Dage blev det haardere af og til, men hun kunde jævnlig sige Gud ske Lov og blev sig fuldt bevidst til det sidste. Hun sov stille hen Kl. 7 Torsdag Morgen den 13. Juni. Nu maa I vide lidt om Begravelsen. Den 20. var der samlet en halvanden Hundrede til Ligfølge. Den halve Del fulgte tilbage og spiste Middag. Møller talte ude vest for Gaarden. Der kunde Gæsterne samles i Læ for Vinden.</p>
+        <p xml:id="idm140619112629648">Da vor Gaard er bygget omkring, bor jeg paa faa Favne nær tæt ved Landevejen, og den fulgte Ligfølget.</p>
+        <p xml:id="idm140619112629040"><pb xml:id="idm140619112628912" n="17" facs="images/001991715_000/001991715_000_0018.jpg"/>Saa bestemte jeg mig til, ved Hjælp, at sidde paa en lille Forhøjning ved Vinduet med mine Briller paa. Kl. 7 kom Ligfølget, 5 Vogne, de øvrige gik i det dejlige Solskin. Til min store Glæde standser min Søn Jens Peter Ligvognen og naturligvis hele Følget, og saa istemtes det dejlige Vers: „Saa rejser vi til vort Fædreland“. Det var en velsignet Overraskelse for mig, der næsten i 3 Aar stadig har været bunden til Sengen og ikke set eller hørt lignende i den Tid. Men Gud Fader være takket og priset ogsaa for den Tid, der er gaaet forunderlig hastig for mig trods alt det syndige, der hænger ved os, har Else og mig og I 2 kære Venner delt meget godt sammen hernede og haaber af Naade for Jesu Skyld at samles om at synge det evige Halleluja hisset. Den Dag, Else døde, følte jeg mig saa inderlig glad for Salmen Nr. 438 i Festsalmebogen: „Kimer, Himmelklokker“.</p>
+        <p xml:id="idm140619112626128">Kære Venner! Det er da i god Tid at sende eder Lykønskning i Anledning baade af Fødselsdag og Bryllupsfest den 2. Juli; men nu skulde det gaa. Saa vil jeg da hjertelig ønske eder begge, at I fremdeles i barnlig Tro og Ydmyghed kan modtage alt, hvad Gud Fader tiiskikker eder, men for alting, at Guds Fred og Guds Kraft maa følge eder baade i Livet og i Døden. Ja, kære Venner, det er næsten forunderligt, saa kærligt som Gud Fader lægger alt til Rette for mig med Hensyn til Legemet. Jeg ligger bestandig og hviler godt; men saa er der alligevel daglig saa meget, der kommer og forstyrrer Freden for os. Ja, det kan til Tider være tvivlsomt, om vi fornyes i det indvortes Menneske. „Men har vi til nu paa det store Ord som Børnene smaa kun stammet, af Himmelens Ild, som kom til Jord, vi har dog en Gnist annammet. Den Gnist den ulmer hos os endnu, opblusser og i Guds Time. Saa glædelig det os rinder i Hu, at Himmerigs Klokker kime“.</p>
+        <p xml:id="idm140619112623920">Kære Harriet, af dit Brev til min Fødselsdag erfarede jeg, du var meget trykket, men det hjælper ikke at se alene paa vor egen Usselhed, men daglig ved Helligaandens Kraft forsage og tro paa Syndernes Forladelse i vor Daab, uforskyldt for Jesu Skyld. Ja, Gud Fader give os Naade <pb xml:id="idm140619112623088" n="18" facs="images/001991715_000/001991715_000_0019.jpg"/>til mere barnlig at stole paa hans Trofasthed og Kærlighed. Saa skal jeg hilse fra min Søn Jens Peter; han ønsker eder til Lykke. I denne Maaned har alle deres otte Børn haft Mæslinger og er nu raske allesammen. Ja, Gud ske Tak! — Jeg skal ogsaa hilse fra Margrethe Godiksen. I Dag, Torsdag, rejser hun til Mors at besøge Abel Poulsen i Lødderup. Hun glæder sig til at besøge Fynboerne til Efteraaret, naar Karlene skal rejse til Nyborg. Jeg ligger og tænker paa, saa mange Koner, især i Thorup, der i de sidste Aar er rejst bort. Alle var de yngre end mig. Det var godt, Inger Tværgaard fik Hjemlov. Else og Jørgen Svendsens Kone i Odde døde samme Dag. Jeg maa hilse fra vore unge Folk. Saa vil jeg til Slut sende en kærlig Hilsen til eder. Jeg tænker, det er maaske sidste Gang, jeg skriver til eder. Jeg kan næsten ikke styre Pennen.</p>
+        <p xml:id="idm140619112620336">Eders gamle <persName xml:id="idm140619112620080" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619112620080">Margrethe</persName>.</p>
+        <postscript xml:id="idm140619112619328">
+          <p xml:id="idm140619112619072">Gud i Vold!</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619112618432" n="18" facs="images/001991715_000/001991715_000_0019.jpg"/>
+      <div decls="bibL0019917150000007" n="7" xml:id="L0019917150000007" xml:lang="da-Dk">
+        <head xml:id="idm140619112616592"><geogName xml:id="idm140619112616464" type="sender" sameAs="idm7af31b5c-2168-43cd-9b59-8101d3dc2cae">Vust</geogName>, i <date xml:id="idm140619112616080" sameAs="idm9c4eddaa-adf9-4d36-a7bd-7943b79ebcf0">November 1895</date>.</head>
+        <p xml:id="idm140619112615568">Mine kære, trofaste Venner <persName xml:id="idm140619112615312" type="recipient" key="Brahm, Harriet" sameAs="#personidm140619112615312">Harriet og Brahm</persName>!</p>
+        <p xml:id="idm140619112614560">Mange Tak for de Hilsener, jeg har modtaget fra jer i Løbet af Sommeren med flere Jyder, der besøgte jer, men en særlig Tak til min Ven, der sendte mig den store Pære, som jeg aldrig har set Mage til, som jeg tit har vist til Skue og været glad for ligesom andre Børn; og den var lige saa sød som stor. Den var bestemt til at spises den 21. Novbr. (men er spist; den kunde ikke gemmes) til Minde om de mange skønne Sammenkomster i Thorup Præstegaard baade den Dag og mange flere lignende, som vi har delt meget godt sammen med kære, baade gamle og unge Venner. Jeg er glad ved at tage Fortidsminder op: men, kære Harriet, Hovedsagen med disse Linier er, at jeg hjertelig ønsker dig til Lykke paa din 56. Fødselsdag og fremdeles, at Guds Fred og Guds Kraft maa styrke dig i en barnlig Tro til at modtage, hvad der møder hernede, <pb xml:id="idm140619112612496" n="19" facs="images/001991715_000/001991715_000_0020.jpg"/>i Haab og Bøn, at det maa ske Gud Fader til Ære og hans Børn til Salighed for Jesu Skyld. Gud Fader være takket, jeg har det godt og ligger næsten i samme Stilling nu paa 4. Aar og hviler mine trætte Lemmer saa mageløs sødt til denne Tid. Alligevel møder de daglige, unyttige Bekymringer, der saa let forstyrrer, saa der altid er noget at kæmpe med, men vi maa føle, at vi slet intet selv formaar. Men kunde vi af Naade i Ydmyghed bede og tro, bede, at Guds Aand vil føre vor Sag vel igennem. Gud lad os leve og dø i det Haab trods al vor Usselhed. Kære Brahm, sidst i Februar, du skrev til mig, var dit Ønske, at jeg maatte faa Naade til at takke for alle de Dage, der endnu var bestemt for mig. Vist er det meget fattigt med min Tak. Alligevel tør jeg sige, det er kosteligt at takke Herren og synge den allerhøjestes Pris. Ja, spørge med David: „Herre, hvorledes skal jeg betale dig alle dine mange Velgerninger imod mig. Jeg vil optage din mangfoldige Saligheds Kalk og paakalde i Herrens Navn.« Men det er mest og bedst for mig i Lønkamret. Det er en stor Guds Naade, at vi Syndere maa haabe og tro, sikre paa, vor Arv og Løn er med Guds enbaarne Søn. Af Guds Naade til Guds Ære, evig glade vi skal være i Vorherres Jesu Navn. Saa en Tak til min gode Ven Brahm, fordi du ønskede mig Velbekomme med den Fornøjelse, at min Søn blev Rigsdagsmand. Om jeg nu ikke glæder mig ved Valget, vil jeg heller ikke gøre mig unyttige Bekymringer derover, naar det gik, som han og mange helst vilde det. Jeg haaber han vil arbejde ærligt til Samfundets Bedste, saavidt han kender. Saa vil jeg befale ham og alle dem, jeg har kær, i Gud Faders almægtige Haand og bede, at han vil være med dem paa deres lovlige Veje og bevare dem, naar Fristelser møder paa de utallige Maader hernede. Saa vil jeg hjertelig bede, at Jens Peter maa komme uskadt derfra og ikke tabe sig selv i Rigsdagens Farer. Han var hjemme 2 Gange i Oktober, første Gang 6, anden Gang 8 Dage; der var Ferie i de Dage. Mariane finder sig da nogenlunde tilfreds til at begynde med. De har 2 voksne Tjenestefolk, <pb xml:id="idm140619112607392" n="20" facs="images/001991715_000/001991715_000_0021.jpg"/>Karlen Kristen Nesager fra Sylt og Margrethe Godiksen og nogle flinke Børn. 2 Drenge og een Pige er konfirmeret Gud Fader være takket, fordi han hjemkaldte Else, da hun blev svag. Hun kunde sige: Gud ske Lov! og han gav hende Taalmodighed til det sidste. Hun haabede vist sikkert paa en salig Ende af Naade for Jesu Skyld. Nu er vor lille 17-Aars Dreng Kristen kommen i Urmagerlære i Thisted. Han er ikke kraftig til strengt Arbejde. Han skal staa i Lære i 4 Aar. Det er lang Tid i den Alder at være hos fremmede. De er skikkelige Folk, har et lille Barn; jeg er glad ved, at Kristen er eneste Lærling der. Han befinder sig rigtig godt til at begynde med; han blev tidlig kendt med at færdes mellem fremmede. 5 Gange har han været paa Sygeanstalten for Kirtelsygdom, som vi haaber er overstaaet. Men han har en Hjertesygdom, der næsten daglig trykker ham ved Overanstrengelse. 3 Aftener om Ugen gaar han i Skole at regne og skrive og mere, jeg kender ikke. Det glæder mig at høre, eders kære Børn vokser godt op af Jorden og kan blive kraftige og virksomme Mennesker i Samfundet. Er de nu allesammen konfirmeret? De fire yngste saa jeg fra spæde af. Jeg mindes den lille Olav som spæd med et langt sort Haar, mens du, kære Harriet, laa i Barselseng. Nu hører jeg, han er en dejlig kraftig Karl. Gud Fader bevare ham, dem allesammen paa deres lovlige Veje. Kære Veninde! Det er vistnok 10. Gang, jeg skriver til din Fødselsdag paa Fyn, om det er den sidste, ved Gud alene, og i hans Haand vil vi befale os baade i Liv og Død. Ja, hvor godt han end lægger alt til Rette for mig, længes jeg alligevel saa stille efter noget meget bedre. O, Gud ske Tak! Saa en hjertelig Hilsen til Forældre og Børn i Seden Præstegaard. Jeg mindes godt Brahms Søstre. Hils dem venligt. Min Veninde Kamilla Brahm kan glæde mig med Brev; men jeg kan ikke godt gengælde. Hun kan spørge, naar hun besøger jer. En venlig Hilsen fra mine Døtre Ane og Bolette Marie og Lars. Hils Ane Marie, jeres Husbestyrerinde i Odense.</p>
+        <p xml:id="idm140619112604368"><pb xml:id="idm140619112604240" n="21" facs="images/001991715_000/001991715_000_0022.jpg"/>Nu kan i først stave her og læse bagefter. Det er trist at ligge og skrive. Eders gamle Veninde</p>
+        <p xml:id="idm140619112603104"><persName xml:id="idm140619112602976" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619112602976">Margrethe</persName>.</p>
+        <postscript xml:id="idm140619112602224">
+          <p xml:id="idm140619112601968">Gud i Vold!</p>
+          <p xml:id="idm140619112601584">Ingen Brudevielser i Vust Kirke de sidste 2½ Aar. 2 er døde i 95. — Fra Margrethe Godiksen og Otto Torhauge en dobbelt hjertelig Lykønskning paa Fru Brahms og Ottos Fødselsdag.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619112600560" n="21" facs="images/001991715_000/001991715_000_0022.jpg"/>
+      <div decls="bibL0019917150000008" n="8" xml:id="L0019917150000008" xml:lang="da-Dk">
+        <head xml:id="idm140619112598720"><geogName xml:id="idm140619112598592" type="sender" sameAs="idmd2f244f1-ac95-44bb-aad9-1e167e00671e">Vust</geogName>, <date xml:id="idm140619112598208" sameAs="idmb6099e99-8767-42a6-9eda-69cb18506571">29.—6.—1896</date>.</head>
+        <p xml:id="idm140619112597696">Mine gamle, trofaste Venner, <persName xml:id="idm140619112597440" type="recipient" key="Brahm, Peter Georg Emil" sameAs="#personidm140619112597440">Brahm og Harriet</persName>!</p>
+        <p xml:id="idm140619112596688">Jeg siger Gud ske Tak, at jeg maatte endnu opleve at være med paa din Fødsels- og eders Bryllupsdag at ønske jer, Guds Fred og Guds Kraft maa styrke jer i Fremtiden i en barnlig Tro og Ydmyghed til at modtage alt, hvad Gud Fader tiiskikker jer her i denne Prøvetid hernede, kære Harriet. Jeg siger mange Tak for Billedet, Jeg modtog med min Søn, J. P. Det er rigtig godt, ja næsten livagtigt. Nu maa I vide, at paa Onsdag den 1. Juli skal Anders Torhauge og Stine Vestergaard borgerlig vies og i samme Uge modtage en Købmandsforretning ovre i Ranum, han har købt. Han er den sidste og yngste af Elses levende Børn. Han har været i Butiken i Vust siden November. Jeg vil savne ham, da han besøgte mig flittig. Otto og Margrethe er ogsaa rejst, men er glade i deres lille Hjem til at begynde med. Jens Peter Godiksen har nylig besøgt dem. Nu har Niels Torhauge og Else allerede 30 Børnebørn. Margrethe og de tre yngste Sønner har ingen Børn. Hvad mig selv angaar, har jeg det godt. Gud Fader ske Tak for hans store Naade imod mig. Det meste af Tiden skrider hastig for mig. Det er en stor Guds Gave, jeg kan ligge med Tankerne nogenlunde samlet og læse baade til Trøst og Advarsel. Men jeg længes saa stille, at vi ved Helligaandens Hjælp maa faa Naade til at fornyes i det indvortes Menneske efterhaanden. <pb xml:id="idm140619112594400" n="22" facs="images/001991715_000/001991715_000_0023.jpg"/>Jeg længes meget efter vor kære, hensovede Ven Pastor Dam. Han var en god Støtte for vor lille Kristen, der er i Urmagerlære i Thisted. I Vinter tog de den Bestemmelse, da Dam selv havde baade Hest og Vogn, skulde Kristen køre med Præsten og hans Kone ud at besøge mig i Foraaret, som jeg glædede mig meget til; men Gud Fader vilde det anderledes. Dams trofaste Vidnesbyrd om Kærlighed til Syndere var en stor Velsignelse for mange her; de vil savne ham. Han var elsket af mange. Han haabede en Tid at optage sin Præstegerning igen, men hans Sygdom blev langvarig og pinefuld. Da han skulde føres fra Hjemmet til Sygehuset, prisede han Gud Fader for hans Kærlighed mod sit Barn i et langt Liv. De sidste Dage paa Sygehuset var han ikke klar; men han kunde bekende og bede. Han talte til Konfirmanderne, holdt Skrifttale. Sygeplejerne prisede sig lykkelige ved at være Vidne dertil. „O, Gud ske Lov for Naadens Ord“, benyttede han idelig, og det var ham altid klart. Da Tiden kom, sov han stille og rolig hen uden at være kommet til Bevidsthed.</p>
+        <p xml:id="idm140619112591632">Der var et talrigt Følge til hans Jordefærd, deriblandt 23 Præster. Det var baade vemodigt og højtideligt at se saa mange i Præstedragt paa samme Tid og Sted. Maaske det er overflødigt, hvad jeg skriver, da I kan have Begivenheden fra samme paalidelige Kilde som jeg. Nu vil jeg give eller laane jer et lille Kort; det var sidste Gang, Dam skrev til mig om, at han vilde besøge mig, men det lykkedes ikke for os. Kære Brahm, husker du, mens du boede i Thorup, du og Dam kom gaaende over at besøge mig gamle, som jeg var meget glad for. „Herrens Venner, ingensinde, mødes skal for sidste Gang“. Dam maatte ogsaa tage imod mit „du“. Der er 7 Maaneder til Februar. For at I kan være med til Anders Torhauges og Stines Bryllup, skulde I modtage Brevet 1. Juli. Hvor mon min Veninde Kamilla Brahm boer? Hils hende ved Lejlighed og flere, som kan huske mig gamle. Men særlig være I selv hilset kærligt.<lb xml:id="idm140619112589488"/>
+Eders <persName xml:id="idm140619112589232" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619112589232">Margrethe</persName>.</p>
+        <p xml:id="idm140619112588480">Jeg maa hilse fra mine Børn.</p>
+      </div>
+      <pb xml:id="idm140619112587968" n="23" facs="images/001991715_000/001991715_000_0024.jpg"/>
+      <div decls="bibL0019917150000009" n="9" xml:id="L0019917150000009" xml:lang="da-Dk">
+        <head xml:id="idm140619111665872"><geogName xml:id="idm140619111665744" type="sender" sameAs="idm8870921b-6ca7-4065-b2c5-29b3172fa068">Vust</geogName>, <date xml:id="idm140619111665360" sameAs="idmd0849e1b-40a6-47d5-bfdf-fd3d9abedaf4">19.—11.—96</date></head>
+        <p xml:id="idm140619111664976">Min kære, trofaste Veninde <persName xml:id="idm140619111664720" type="recipient" key="Brahm, Harriet" sameAs="#personidm140619111664720">Harriet</persName>!</p>
+        <p xml:id="idm140619111663968">Saa kan jeg da, Gud ske Tak, atter i Aar skrive et lille Brev til dig til din 57. Aarsdag. Ja, maaske det er sidste Gang, og det tænker jeg tit paa, men jeg vil skrive, saa længe jeg kan. Det er en stor Guds Gave, at jeg kan ligge i Sengen og læse og skrive lidt. Jeg har Brevveksling baade med unge og gamle, er meget glad for særlig at modtage Breve. Kære Harriet! Mit hjertelige Ønske og Bøn paa din Fødselsdag og fremdeles er, at du af Guds Naade i barnlig Tro og Ydmyghed kan modtage alt, hvad han beskikker, sikker paa, han giver det, der tjener os bedst. Det kniber tit haardt for mig trøstig at befale mig og alle mine i Guds Faderhaand. Vi har de mange unyttige Bekymringer at plages med, men saa vil vi af Guds Naade tilegne os Pauli Ord: „Værer ikke bekymrede for noget, men i alle Ting lader eders Begæringer fremføres for Gud i Paakaldelse og Bøn med Taksigelse“ osv. Ja, nu maa Jens Peter fortsætte paany at befale alle hans mange kære, store og smaa, i Guds Haand. Forrige Vinter, trods det daglige Savn, gik det meget godt, Gud ske Lov. Det er en stor Hjælp for Mariane, at de 2 store 18- og 19-Aars Drenge enes saa særdeles godt om, hvad der skal udrettes, baade smaat og stort i det hele. Foruden en Daglejer til at tærske, er Mariane ene med deres 8 Børn; hen paa Vinteren har hun det 11. Barn i Vente. Ja, der er meget for hende at komme over; men „han, som har hjulpet hidindtil, han hjælper nok herefter.“ Gud ske Lov, min Søster Else fik Hjemlov. Hun havde en farlig Sygdom, der tiltog. Jeg længes alligevel efter hende. Vi kunde saa fortrolig dele alt; men saa vil jeg bie paa Herren og vente stille paa den bedste Tid. Jeg ligger stadig, paa 5. Aar, næsten i samme Stilling, meget træt og afmægtig hele Tiden, men hviler godt og sover godt, og det meste af Tiden gaar saa forunderlig godt. Gud Fader være takket for al hans Naade imod os Syndere, saa uforskyldt. Ja, nu kommer den velsignede Advent, skrev vor Ven Pastor <pb xml:id="idm140619111661376" n="24" facs="images/001991715_000/001991715_000_0025.jpg"/>Dam, saa vi kan synge: „Op, thi Dagen nu frembryder osv. Ja, Gud hjælpe os ved sin gode Helligaand, saa smaat, men i Alvor at. takke for det glædelige Budskab. „Os er en Frelser født“, indtil vi maa synge det evige Halleluja for hans Trone. Saa en hjertelig Hilsen til jer begge, mine kære, uforglemmelige Venner. Bitte Ole var hos os i Søndags og hilsede os. Han fortalte mig, at Fanny var i København, og 5 er i Odense. Om ogsaa Børnene kommer jævnligt hjem, er det stadig at mødes og skilles, saa er I 2 ene igen. Niels Torhauge har ikke været i Vust, siden han kom fra Fyn. Han er ikke rask. Hils jeres kære Børn, Olav, og hvem, som kender mig; Ane Marie ej at forglemme. Jeg skal hilse fra Bolette og bitte Ole. Gud i Vold! Eders gamle Veninde</p>
+        <p xml:id="idm140619111658848"><persName xml:id="idm140619111658720" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619111658720">Margrethe</persName>.</p>
+      </div>
+      <pb xml:id="idm140619111657840" n="24" facs="images/001991715_000/001991715_000_0025.jpg"/>
+      <div decls="bibL0019917150000010" n="10" xml:id="L0019917150000010" xml:lang="da-Dk">
+        <head xml:id="idm140619111656000"><geogName xml:id="idm140619111655872" type="sender" sameAs="idm59bc73f1-42a2-4686-b32a-20457a65e1e1">Vust</geogName>, <date xml:id="idm140619111655488" sameAs="idmf30dd829-b651-4fc9-9896-8387c7e33b68">23.—6.—97</date>.</head>
+        <p xml:id="idm140619111654976">Mine kære, uforglemmelige, trofaste Venner!</p>
+        <p xml:id="idm140619111654480">Allerførst maa I vide, at min kære Broder Niels hensov Fredag den 18. ds. I ved jo fra Nørhaves, som besøgte jer, at hans udvortes Menneske Dag for Dag kendelig aftog, men af Guds Naade maa vi haabe, og bede, at vort indvortes Menneske maa fornyes, mens det gamle hentæres. Fredag Formiddag bad han dem om at bekende Troen, og han fulgte med. De spurgte, om de skulde synge. Ja, syng: Tak for al din Fødselsglæde. Lidt efter bestemte han, hvad der skulde gives til Løventhals og Børresens Mission og til Kirkeblokken. „Glem ikke de fattige.“ Saa bad han dem i Alvor at søge den treenige Gud og paaminde andre om det samme. Lidt efter betegnede han sig med det hellige Kors, men rørte Munden uhørligt. Lidt over Middag hensov han stille og næsten ubemærket. O, Gud ske Lov! Dernæst, kære Venner, Brahm og Harriet i Forening: Hjertelig til Lykke paa baade Fødsels- og Bryllupsdagen, og fremdeles, at Guds Fred og <pb xml:id="idm140619111652384" n="25" facs="images/001991715_000/001991715_000_0026.jpg"/>Guds Kraft maa styrke jer, saa I kan i en barnlig Tro tage imod, hvad Gud Fader giver hans Børn hernede. Tak for Brevene, baade sidst i December og til min Fødselsdag fra Brahm og Konen, der bagede Klejner. I December blev jeg overrasket med lange og rare Breve, baade fra min trofaste Veninde Kamilla Brahm og Rønne. Jeg blev glad for at høre Kamilla er godt tilfreds, hvor hun er. Jeg har ikke skrevet til hende, da hun mente, hun kunde have Lyst til at komme her, naar Banen blev aabnet; det vilde glæde mig gamle. Ja, Gud Fader være priset, det meste af Tiden gaar hastig. Det er næsten 5 Aar, jeg stadig har ligget, er ikke syg, men træt og mat; men jeg hviler bestandig godt; ja, det er en stor Guds Gave, saa jeg kan aldrig fuldt takke ham ligesom for alt godt. Kære Venner, I kan tro, det er en stor Opmuntring for mig gamle, at her kommer tit Venner at besøge mig. Trefoldighedssøndag prædikede Missionær Løventhai i Frikirken. Dagen efter kørte Møller til Bulbjerg med ham og gamle Laura Lund og flere af Møllers Børn. Paa Hjemvejen blev jeg glædelig overrasket et Par Timer, især da jeg har fulgt Løventhal i hans Gerning fra Begyndelsen og til denne Tid, med de mange Skuffelser, han har mødt. Paa Grund af, at jeg har læst hans mange Breve, kunde jeg tale med ham som med en kær gammel Ven. Den lille Samtale hjalp Møller mig til. Ja, jeg har, næst Gud Fader, mange Venner at takke, som baade mundtlig og skriftlig er mig til Opbyggelse og Glæde paa mine gamle Dage. Men saa er det om at gøre, om jeg kan taale det og ikke bliver hovmodig deraf, da alt er en Guds Gave uforskyldt, men modtage alt fra ham i Ydmyghed og med Tak. Ja, nu i 3 Aar tillige er 3 af mine kære Søskende hjemkaldt, og dem længes jeg meget efter; vi kunde dele meget godt sammen. 13. Juni er det 2 Aar, da Søster Else rejste, 80 Aar. I Marts for et Aar siden Broder Jens i Hingelbjerg, 79 Aar, og nu Broder Niels, 78 Aar. Saa tænker jeg, I har disse Linjer paa Fredag den 25. Den Dag er hans Jordfæstelse bestemt, saa I ogsaa kan være med os i Følget. Men det kan ikke staa stille udenfor mit Vindue og <pb xml:id="idm140619111649392" n="26" facs="images/001991715_000/001991715_000_0027.jpg"/>synge som for 2 Aar siden den 20. Juni: „Saa rejser vi til vort Fædreland“. Men saa kan jeg hjælpes hen til Vinduet, og naar jeg faar Briller paa, kan jeg godt se og følge med. Men jeg faar ingen Sang at høre. Jeg opsatte med at skrive til 2. Juli, da jeg blev saa glad, da Anton kom og sagde, at min Broder var hensovet. Den kære, kære Karen er meget legemlig svag, men taalmodig. Pastor Dam kom da ikke og besøgte mig, men paa Palmesøndag kom hans Enke her paa Rejsen fra Sverrig til Thisted. Der skulde i Paasken rejses en Mindestøtte paa Dams Grav. Hun kom med Toget fra Aalborg, kom i Frikirken i Klim Kl. 10, og om Eftermiddagen kørte Møller hende hertil, og hun blev her om Natten, som jeg blev meget glad for. Posten kommer her forbi Kl. 10½; hun kunde køre med til Thisted om Mandagen den 12. Hun havde skrevet til mig gamle, naar hun vilde komme her. Jeg har maaske flere gamle Venner end de unge; men er jeg ikke Vorherres og han min allerbedste Ven, saa var jeg ulykkelig; nu føler jeg mig det meste af Tiden lykkelig og kan takke Gud Fader, ja, spørger tit med David: Herre, hvorledes skal jeg betale dig alle dine Velgerninger imod mig. Jeg vil optage den mangfoldige Saligheds Kalk og paakalde i Herrens Navn. Saa en hjertelig Hilsen og Tak for Hilsen og Blomster med Mariane. Jeg maa hilse fra Bolette Maria og Nørhayes. Er der nogen til Stede paa eders Festdag den 2. Juli, der kender mig, da hils dem venligt.</p>
+        <p xml:id="idm140619111646480">Eders gamle <persName xml:id="idm140619111646224" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619111646224">Margrethe</persName>.</p>
+      </div>
+      <pb xml:id="idm140619111645344" n="26" facs="images/001991715_000/001991715_000_0027.jpg"/>
+      <div decls="bibL0019917150000011" n="11" xml:id="L0019917150000011" xml:lang="da-Dk">
+        <head xml:id="idm140619111643504"><date xml:id="idm140619111643376" sameAs="idma1a66d7d-4142-4f36-a108-2aae277cb873">21.—8. 1897</date>.</head>
+        <p xml:id="idm140619111642864">Mine uforglemmelige, trofaste, ikke troløse Venner!</p>
+        <p xml:id="idm140619111642352">Kære Venner! Sidst jeg skrev til jer, var til vor kære Olaf Brahms Fødselsdag, 29. Juli. Jeg skrev ikke til eders Dobbeltfestdag den 2. Juli, grundet paa jeg var saa mat; men saa hørte jeg baade fra Niels Røgild og Møller, at I havde ventet at høre fra mig; saa skrev jeg til nævnte <pb xml:id="idm140619111641504" n="27" facs="images/001991715_000/001991715_000_0028.jpg"/>Tid og har siden saa stille ventet at høre fra jer engang, da jeg længes efter at vide, om vor kære Ven Harriet kender nogen Bedring af hendes Bad i Silkeborg i Sommer. Saa kan jeg fortælle jer, at den 2. Septbr. hensov min Søn Peder i Flegum stille og rolig efter flere Aars tiltagende Svaghed, som endte med Kræft i hans Mave. Den 2. Oktober blev hans 63. Aarsdag; Gud Fader være takket, Døden kom ikke uventet til ham. Hen imod det sidste kaldte han et Par Mænd til Hjælp med at beskikke sit Hus. Af Guds Naade var han fuldt forvisset om at fare herfra i Fred for Jesu Skyld. 2 af deres ældste Børn, en Søn og en Datter, døde begge imellem 20 og 30 Aar. Datteren var lykkelig gift i 10 Maaneder, og en Pige døde som 15-aarig og den enes førstefødte, faa Dage gammel. Jeg haaber, ved Guds Naade, at det er en Dragelse til det Høje her oven til saadanne Alvorstider i et Hjem, og jeg er sikker paa, at Vorherre har styrket dem ved at se de 3 kære Børns Bortgang nu paa faa Aar. Ja, Gud Fader være takket. Elisabeth holder jeg meget af. Nu har hun 3 Sønner og 2 Døtre. Det 9. og yngste er 15 Aar. Den ældste Søn er ikke rask. Saa lad os befale alle vore kære til Gud Faders Varetægt og bede, han vil vejlede dem til Maalet. Den 7. Septbr. hjemkaldte Vorherre Niels Torhauge. De sidste Par Aar har Alderen taget haardt paa ham, især i Sommer har han været meget stille, har talt saa lidt, enten om det bedste eller om det mindre. Dagen før han døde, var de 8 Børn, der er i Nærheden, samlet i Hjemmet om ham. Møller meddelte ham og alle Børnene den hellige Nadver. Den 13. Septbr. blev han jordfæstet paa Vust Kirkegaard lidt efter Solnedgang. 44 Vogne drog med Ligfølget fra Klim til Vust i et rigtig godt Vejr. Saa skiltes de paa Kirkegaarden næsten hver til sit. Alligevel var hos mig om Aftenen ved Lys samlet over 30 Venner, som var mig til stor Opmuntring. Jeg kender næsten ingen Forandring mig selv angaaende. Gud Fader ske Tak for al hans Naade mod mig Synder. Jeg undrer tit over, at det meste af Tiden gaar saa forunderlig hastig, og det samme ønsker jeg for Fremtiden, om Vorherre ser, det er mig tjenligt.</p>
+        <p xml:id="idm140619111636048"><pb xml:id="idm140619111635920" n="28" facs="images/001991715_000/001991715_000_0029.jpg"/>Nu i Dag den 21. Septbr. er det lige 44 Aar siden, Vorherre hjemkaldte min kære Mand fra denne Verden. Kære Harriet! Nu er der lige 2 Maaneder til din Fødselsdag; om jeg saa kan skrive, det ved jeg ikke. De 2 Mænd, som nu er gaaet bort, har ikke været sengeliggende uden paa enkelte Dage, naar den forfærdelige Opkastning kom fra Saar i Maven af den slemme Kræft, som de 2 led af; men saa var det strengt. Johanne kom ikke hjem nu, hun var hjemme en Uges Tid midt i Juni; men Hans Frederik kom. Begravelsen var lige 4 Ugers Dagen efter Ane Kirstines Nedkomst med det 13. Barn, en lille Søn. Kære Venner! Dersom I ikke har modtaget mit Brev til Olafs Fødselsdag, saa er jeg i stor Brevgæld til jer; det ved jeg. Dermed vil jeg slutte disse Linjer. Jeg skal hilse fra Mand og Kone i Nørhave, Kristen Torhauge og vore unge Folk. Men først og sidst: Modtag mit bedste Ønske, at Guds Fred og Velsignelse maa være med eder og alle eders Børn. Gud i Vold!</p>
+        <p xml:id="idm140619111632896">Eders gamle <persName xml:id="idm140619111632640" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619111632640">Margrethe</persName>.</p>
+      </div>
+      <pb xml:id="idm140619111631760" n="28" facs="images/001991715_000/001991715_000_0029.jpg"/>
+      <div decls="bibL0019917150000012" n="12" xml:id="L0019917150000012" xml:lang="da-Dk">
+        <head xml:id="idm140619111629920"><geogName xml:id="idm140619111629792" type="sender" sameAs="idm5a84f645-277a-4a06-b5da-8586cf7b6b21">Vust</geogName>, <date xml:id="idm140619111629408" sameAs="idm431b6293-70c8-4a90-a0c5-fdffb72c2e48">den 19. Novbr. 1897</date>.</head>
+        <p xml:id="idm140619111628896">Min trofaste Veninde <persName xml:id="idm140619111628640" type="recipient" key="Brahm, Harriet" sameAs="#personidm140619111628640">Harriet</persName>!</p>
+        <p xml:id="idm140619111627888">Ja, nu er over 24 Aar gaaet, siden jeg første Gang besøgte jer i Thorup Præstegaard og var meget glad for det Indtryk, jeg fik dengang, at vi med Guds Hjælp kunde dele det bedste, og jeg er ikke bleven skuffet i de mange Aar. Kære Harriet, da min gode Ven Brahm besøgte mig i Sommer, den 20. August, da var det i samme Fortrolighed, som naar min kære Broder Niels kom her i de Aar, jeg har holdt Sengen stadigt. Det havde glædet mig, om I var kommet begge to; men Tiden var saa kort, ligesom at mødes og skilles, og min gamle Veninde Fru Lund har fortalt mig, at du ikke heller var rask, da I rejste sammen paa Mors. Det glædede mig i Sandhed at erfare af mine Børn, at det virkelig var en Højtidsdag i Thorup Kirke <pb xml:id="idm140619111626080" n="29" facs="images/001991715_000/001991715_000_0030.jpg"/>Søndag den 22. August. Der er noget godt og glædeligt fra Fortiden, der ikke brister. O, Gud ske Lov! Angaaende mig selv er jeg i den samme Stilling, meget træt, men hviler godt, og Gud Fader være takket for al hans Naade imod mig Synder. Ja, Gud give, at vi ved Helligaandens Hjælp daglig i en barnlig Tro af Hjertet kan synge: Jeg gaar med Jesus, hvor jeg gaar, han har mig ved sin Side. I Kamp og Strid han hos mig staar og hjælper mig at stride. Kære Harriet! Saa vil jeg af hele mit Hjerte ønske dig til Lykke paa din 58. Aarsdag og fremdeles, at du maa blive modtagelig og taknemlig i Forening for, hvad Gud Fader tiiskikker os hernede sikker paa, han giver det, der tjener os bedst. Mariane Nørhave har nylig besøgt mig; jeg skulde endelig hilse jer og ønske dig til Lykke fra Bolette Marie ogsaa; og bitte Ole, som er her i disse Dage, bad mig endelig hilse dig. Nu er det noget bart i Nørhave igen. Jens Peter kan nok jævnlig komme hjem, men i Vinter er det stadig at mødes og skilles. Jens Kristian er paa Frederiksborg Højskole. Han blev udskreven paa Sessionen i Efteraaret til Dragon, Sidste Mandag, den 15., var Jakob 19 Aar. Han skal saa være Bestyrer i Hjemmet, det er ikke saa let for ham, som da de var 2; de var altid i Sandhed særdeles enige. Naar Mariane daglig færdes imellem 8 stærke Børn, saa kan Tiden med Guds Hjælp nok gaa. Det er næsten forunderligt, saa hastig som Tiden skrider. Naar I modtager disse Linjer, har vi knap 5 Uger til den velsignede Julefest og kan paany mindes vor kære Frelsers Fødsel, den, der ikke glemmes. Kære Georg! Jeg vil hjertelig ønske dig til Lykke, at du maa faa Naade til at fortsætte og i en barnlig Tro forkynde det glædelige Budskab for Syndere: Os er i Dag en Frelser født og Fred paa Jorden og med Mennesker. Saa vil jeg slutte. En venlig Hilsen fra Jens Peter Godiksens med Tak for sidst. Hils Ane Marie og jeres kære Børn. De 4 sidste husker jeg godt fra smaa af, især Tvillingerne, da jeg havde en lignende Glæde, ogsaa 7 Børn, Gud ske Lov! Til Slut være I kære Venner hjertelig hilset fra eders altid heng.<lb xml:id="idm140619111621056"/>
+gamle <persName xml:id="idm140619111620800" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619111620800">Margrethe</persName>.</p>
+      </div>
+      <pb xml:id="idm140619111619920" n="30" facs="images/001991715_000/001991715_000_0031.jpg"/>
+      <div decls="bibL0019917150000013" n="13" xml:id="L0019917150000013" xml:lang="da-Dk">
+        <head xml:id="idm140619111618080"><geogName xml:id="idm140619111617952" type="sender" sameAs="idm882f0634-0952-4c18-93c9-4c51f0abba84">Vust</geogName>, <date xml:id="idm140619111617568" sameAs="idm7a18f1fe-f4b9-46cc-a6fb-664edbfff300">3. Maj 1898</date>.</head>
+        <p xml:id="idm140619111617056">Mine trofaste Venner <persName xml:id="idm140619111616800" type="recipient" key="Brahm, Peter Georg Emil" sameAs="#personidm140619111616800">Brahm og Harriet</persName>!</p>
+        <p xml:id="idm140619111616048">Da jeg modtog Brev paa Juledag, som glædede mig meget, saa vil jeg først takke for de gode Ønsker om en glædelig Jul og et lyksaligt Nytaar i Jesu Navn, som Brahm skrev, og jeg vil gengælde med mine hjertelige Ønsker og bede, at Gud Fader vil styre og lede os og alle vore i Fremtiden paa den rette Vej til Hjemmet her oven til. De to sidste Aar har jeg jo modtaget Breve fra jer baade til Jul og til min Fødselsdag, hvorfor I takkes. Paa Julekortet og siden i Februarbrevet ser jeg, at min kære Olaf, som du kalder min Dreng, er bleven forlovet. Det glæder mig at vide, at det er til jeres Tilfredshed, saa han med Guds Hjælp har gjort et godt Valg. Hils ham. Jeg ønsker dem hjertelig til Lykke. Paa Julekortet stod til sidst en Tegning paa Bagsiden: Hvad er den? Kære Brahm! Du skriver, at „den er egenhændig tegnet af en af os. Hvem tror I saa det er?“ Kære Harriet! Er det ikke dig? Nu siger Folk, at Emmanuel vil giftes, og den gamle Pebermø Ane Maria rejser til Hovedstaden. Hun maa da have et godt Helbred, som er en stor Guds Gave. — Da jeg har modtaget to Breve, siden jeg skrev, er jeg jo i Gæld; og atter en Tak for dit korte, men venlige Besøg den 20. Avgust, som jeg tit mindes og er glad for. Det er mig til en stor Opmuntring, at her kommer mange, baade gamle og unge Venner at tale med mig. Ogsaa har jeg jævnlig en lille Brevveksling med flere af mine mange kære Børnebørn, som paa en eller anden Maade færdes blandt fremmede og som jeg længes efter at høre fra. Otto og Margrethe har en rigtig sød lille Else. Helene har og en god lille Pige. Niels Torhaves Ane Kirstine venter det 14de Barn hen paa Sommeren, Jens Andreas Torhave det 5te. Niels Pedersen har to smaa Piger med sin anden Kone, saa med de tidligere fødte, som kalder mig Oldemor, kan Tallet snart gaa lige op med mine 45 Børnebørn. Saa maa vi glæde os i Haabet, som ikke beskæmmer, at vi <pb xml:id="idm140619111613824" n="31" facs="images/001991715_000/001991715_000_0032.jpg"/>har en hovedrig Fader, om end fattige Børn, saa dog rige i ham. „Guds Ord det er vort Arvegods, det skal vort Afkoms være. Gud giv os i vor Grav den Ros, vi holdt det højt i Ære. Det er vor Hjælp i Nød, vor Trøst i Liv og Død. O, Gud, ihvor det gaar, lad dog, mens Verden staar, det i vor Æt nedarves.“ — Kære Harriet! Nu haaber jeg, du har det lidt bedre med dit Helbred, saa at Tiden kan gaa lidt lettere for jer begge, ja, for hele Familien, men det er nu falden i din Lod; i de mange Aar, jeg har kendt dig, har du af og til været meget syg, maaske sjældent rigtig rask af Helbred. Alligevel klynkede du ikke, men troede og haabede, at Guds Miskundhed og Naade er hver Morgen ny over os. Jeg har stadig været sengeliggende næsten i 6 Aar, aldrig været paaklædt eller gaaet paa Gulvet uden Støtte; er ikke syg, men mere og mere afmægtig og siger tit: Mig bæres for, som ret snart i Kvæld at Gitterværket vil briste, thi kvidre vil jeg et glad Farvel. Maaske det bliver det sidste. — Jeg er den ældste i Sognet. Siden Juli er kun én død, Søren Mikkelsens Enke ved Kirken. Der har været 2 Bryllupper i de sidste 2 Aar i Vust. — Naar jeg nu vil fortælle lidt, tænker jeg paa de 13 henfarne Aar, I var i Thorup, da vi tit kunde dele baade stort og smaat i fortroligt Venskab, der aldrig brister. Gud ske Tak, at vi har trofaste Venner, vi baade skriftlig og mundtlig kan dele med. Men Hovedsagen er: Vor Herre og Frelser er vor bedste Ven, som aldrig slipper os i Liv eller Død. — Min Søn Jens Peter vil da fortsætte; han havde ingen Modkandidat i Aar. Saa vil jeg nu og fremdeles befale ham og os allesammen til Gud Faders Varetægt. Før jeg slutter, sidder Hanne Gravesen hos mig. Hun sender jer en venlig Hilsen. Hun siger, de mindes jer tit med Glæde fra den Tid de var unge. Nu har de 10 raske Børn, 8 Sønner og 2 Døtre. Anders Gravesen er meget sygelig, saa det kniber for dem som for flere der Nord i Barkær. Men, han, som har hjulpet hidindtil, han hjælper og herefter. Sidste Fredag var Præsten Niels Dael, nu fra Høve, i Klim og talte i Samlingshuset. Det var <pb xml:id="idm140619111608528" n="32" facs="images/001991715_000/001991715_000_0033.jpg"/>saa jævnt og fatteligt om det dagligdags i Livet: Tro og Tvivl, der kan volde Fortræd, som han saa klarede for dem. 8 Dage før talte Højskolelærer Bredsdorff fra Frederiksborg. Han er en Mand, Eleverne elsker højt, i Lighed med Begtrup. De 2 sidste Aar har 5 af mine Børnebørn været paa hans Skole. Jens Kristian Nørhave mødte den 8. Marts i Randers som Dragon (1½ Aar). Kære Venner! Dersom I ikke hører fra mig paa jeres dobbelte Festdag om 2 Maaneder, saa kan I, om I vil, læse dette Brev, som ikke er skrevet paa én Dag. Jeg maa hilse venligst fra mine Børn. Modtag nu mit hjertelige Ønske og Bøn, at Guds Velsignelse og Fred maa være med eder alle.</p>
+        <p xml:id="idm140619111606224">Eders heng.<lb xml:id="idm140619111605968"/>
+               <persName xml:id="idm140619111605712" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619111605712">Margrethe</persName>.</p>
+        <postscript xml:id="idm140619111604960">
+          <p xml:id="idm140619111604704">Den 2. Maj 98 (igaar) døde Anders Mølbæks Kone. Han er ene. Gud trøste ham. Hun har været sygelig, men laa kun 3 Dage, næsten sig selv ubevidst.</p>
+          <p xml:id="idm140619111604000">Alligevel, hvor godt Vorherre lægger alt tilrette for os. Dog snart i Sorrig snart i Glæde, snart i Fald og snart i Sæde, altid fuld af stor Uro, ofte glad i Jesu Tro! Men o Jesus naar vi græder, hjælp du saa, at Troens Glæde, over Synd og Sorrig maa, altid Overvægten faa.</p>
+          <p xml:id="idm140619122633440">Gud i Vold!</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619122632800" n="32" facs="images/001991715_000/001991715_000_0033.jpg"/>
+      <div decls="bibL0019917150000014" n="14" xml:id="L0019917150000014" xml:lang="da-Dk">
+        <head xml:id="idm140619122630960"><geogName xml:id="idm140619122630832" type="sender" sameAs="idm8ad06224-6e02-46e6-874b-8ee4a0ed9cb0">Vust</geogName>, <date xml:id="idm140619122630448" sameAs="idm84621e36-c084-43cc-9293-b30e7c826e56">27.—7. 1898</date>.</head>
+        <p xml:id="idm140619122629936">Mine uforglemmelige Venner <persName xml:id="idm140619122629680" type="recipient" key="Brahm, Peter Georg Emil" sameAs="#personidm140619122629680">Brahm og Harriet</persName>!</p>
+        <p xml:id="idm140619122628928">Da I ikke hørte fra mig paa eders dobbelte Festdag 2den Juli, som I maaske havde ventet, saa vil jeg nu sidst i samme Maaned, da det er vor kære Olaf Brahms 22de Aarsdag, paa denne ønske ham hjertelig den Lykke, at han maa faa Naade til i en barnlig Tro og Ydmyghed at modtage alt, hvad Gud Fader tiiskikker ham. Han er en fremmelig ung Mand paa flere Maader, har vel næsten sin Militærtjeneste udtjent; og saa vil jeg atter hjerteligt ønske, at Valget, han har gjort, ogsaa til eders Tilfredshed, <pb xml:id="idm140619122628032" n="33" facs="images/001991715_000/001991715_000_0034.jpg"/>med Guds Hjælp maa blive ham til Støtte og Velsignelse paa Livets Vej, Gud til Ære og dem til Glæde. Jeg har hørt efter et Brev, skrevet d. 5. Juli til Niels Røgilds Fødselsdag, at vor kære Harriet i længere Tid har opholdt sig i Silkeborg for hendes Helbred, som stadig vedbliver at trykke eder. Gud Fader styrke eder begge i Haabet og i en fast Tro paa, at alle Ting skal tjene Guds Børn til gode. O, Gud ske Lov! — Fra Pastor Rønne modtog jeg et Brev lige til Pinsedag, som var hans 25-aarige Jubilæumsdag, da han kaldedes til Sønderup 29. Maj 1873 og tillige hans Afskedsdag der. Han skrev: Denne Dag vil blive en vemodig dobbelt Mærkedag for mig. Men, vil Gud, agter jeg selv at styre Embedet her til Efteraaret, konfirmere Børnene, tage dem til Guds Bord og holde Afskedsprædiken samme Dag. I et Brev, jeg modtog midt i Juli, skriver han: Ved Novembertid flytter vi fra Sønderup til Roskilde. Jeg har faaet en meget anstændig Pension, 2425 Kroner. Giver Gud Helbred, ville vi nok kunne være tilfredse der. Den er da ikke saa lille. Sidste Mandag den 25de var Niels Gertsens og Hustrus Sølvbryllupsdag. Vennerne samledes i Frikirken Kl. 3; der var mange til Alters. Møller talte til Opbyggelse for dem, der var samlet. Marie Møller har forfattet en rigtig køn Sang paa 13 Vers i Dagens Anledning. Gæsterne skiltes ved Midnatstid med Tak til Gud. — Gud ske Lov, det meste af Tiden gaar hastig; jeg ligger i samme Stilling, som jeg skrev til jer 2. Maj. I hilses venligt fra mine Børn i Vust. Modtag saa min hjertelige Hilsen. Lad os i fælles Bøn befale os og vore Kære i Gud Faders Haand. Vor Jesus gaar i Kampen ved vor Side. Han hjælper os den gode Strid at stride. Gud i Vold.</p>
+        <p xml:id="idm140619111603616">Eders gamle <persName xml:id="idm140619122625248" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619122625248">Margrethe</persName>.</p>
+      </div>
+      <pb xml:id="idm140619122624368" n="33" facs="images/001991715_000/001991715_000_0034.jpg"/>
+      <div decls="bibL0019917150000015" n="15" xml:id="L0019917150000015" xml:lang="da-Dk">
+        <head xml:id="idm140619122622528"><geogName xml:id="idm140619122622400" type="sender" sameAs="idm9a3ca33e-b474-44f4-a3bc-2c07474bba4f">Vust</geogName>, <date xml:id="idm140619122622016" sameAs="idm19b61c2f-4fd0-44f0-8bc0-e6a211d32a22">19.—11. 1898</date>.</head>
+        <p xml:id="idm140619122621504">Min kære Veninde <persName xml:id="idm140619122621248" type="recipient" key="Brahm, Harriet" sameAs="#personidm140619122621248">Harriet</persName>!</p>
+        <p xml:id="idm140619122620496">Da du nu den 21de Novbr. gaar i dit vist 60de Aar, <pb xml:id="idm140619122620176" n="34" facs="images/001991715_000/001991715_000_0035.jpg"/>saa vil jeg hjertelig ønske, at du fremdeles i en barnlig Tro kan modtage, hvad Gud Fader tiiskikker eder hernede, sikker paa, han giver sine Børn det, der er dem bedst tjenligt, da alle Ting skal tjene dem til Gode, som elsker Gud, og dertil vil han hjælpe os ved Helligaandens Bistand i Jesu Navn. Olav Gertsen, Klim, var hos os sidst i Oktober. Han fortalte mig, at han havde seet Brahm og dig i Aalborg i Anledning af Kamillas Begravelse; men han vidste ikke, hvor den fandt Sted, da I ikke talte sammen. Men det glædede mig at høre, du var saa rask, du kunde rejse med din Mand saa lang en Vej paa den Aarstid. — Kamilla og jeg har delt meget godt sammen, fra vi kom sammen i Thorup Præstegaard med jer og flere Venner, ja, særlig min kære gamle Fru Brahm fra Aalborg, som saa gerne vilde tale om Vorherre og hans Kærlighed til os og vore kære Børn, som vi vilde befale til hans Varetægt med Tak og Bøn. „Gud, lad os leve af dit Ord, hver Dag vi ser paa denne Jord. Og før dermed fra Grædens Dal os hjem til Himlens Frydesal.“ Ja, det ske i Jesu Navn. — Kære Venner! Jeg har ikke stort at meddele jer, da det er 4de Gang i denne Sommer, jeg har malet lidt op til jer; naar det kom i mine Tanker, jeg var i Gæld, saa vil jeg skrive, saa længe jeg kan, da Venskabet ikke saa let brister, naar vi hører fra hinanden. Det er mig til en stor Opmuntring og Hjælp næst Guds Hjælp, at det meste af min Tid gaar saa hastig for mig. Gud Fader være takket og priset for al hans Naade, ja, ogsaa for, at han hele mit Liv har lagt alt saa kærlig til rette for mig, trods al min Usselhed, saa jeg maa udbryde med David: Herre, hvormed skal jeg betale dig alle dine Velgerninger imod mig. Jeg vil optage den mangfoldige Saligheds Kalk og paakalde i Herrens Navn. Ham ske Tak!</p>
+        <p xml:id="idm140619122617344">Min gode Ven Brahm! Tak for Brevet, jeg modtog. Der er næppe den Tant, der jo er Alvor iblandt, saa jeg er glad for Udbyttet, jeg fik af Brevet med dets Smiger og Dadel. Alt optager jeg i bedste Mening. Jeg kan tit fristes til Hovmod i Stedet for Ydmyghed; saa mindes <pb xml:id="idm140619122616528" n="35" facs="images/001991715_000/001991715_000_0036.jpg"/>jeg: „Men hvad har du Menneske, som du ikke har modtaget“ osv. Det er et stort Gode for mig at have Venners Fortrolighed. Men Hovedsagen er Vorherre. Ham, der er Kærlighed, er vor bedste Ven.</p>
+        <p xml:id="idm140619122615184">Ja, om faa Dage kommer atter den dejlige Advent, som paany bebuder os det glædelige Budskab: Os er en Frelser født! Saa vi med vor lille Tro maa være med i Toget at synge Hosianna og Halleluja i Herrens Indtog i dette ny Kirkeaar, vi nu gaar i Møde. O, Gud ske Tak! — Saa vil jeg slutte med mit hjertelige Ønske om en glædelig Jul og et lyksaligt Nytaar i Jesu Navn. Modtag saa min bedste Hilsen, baade gamle og Børn. — Jeg kan hilse fra Karen i Holme. Hun savner stadig Niels, da hun er ene i Lejligheden, undtagen naar de unge hjælper hende. Hun gaar stadig ved en Stok. Det er godt, at hun er mere taalmodig end Niels og gamle Margrethe. Den 29de Decbr. bliver hun 80. Tiden er gaaet godt hidtil, men hun modtager sjældnere et Brev, siden Niels døde. Jeg ved ikke om hun skriver. Men jeg ved, at næst Guds Hjælp forkorter Brevveksling Tiden for mig, som jeg er meget glad for.</p>
+        <p xml:id="idm140619122612832">Jeg skal hilse fra mine omværende og Mariane Nørhave. Hun var hos mig, før jeg sluttede Brevet. Hun tager det meget jævnt og fornuftigt med at gaa ene blandt 8 Børn. Jens Kristian, den ældste, ligger i Randers som Dragon fra Marts 98. til Oktbr. 99. Det er længe, da han ligner Pladsen der ved en Røverkule. Men han takker Gud, for han var paa Frederiksborg Højskole først. Baade han og Jens Peter skriver stadig Breve, som vi er glade for at læse, da intet har trykket hidtil. Gud ske Tak!</p>
+        <p xml:id="idm140619122611776">Jeg skal hilse fra Jens Peter Godiksens og Jens Nielsens; de har det godt og er alle raske; men vor lille Kristen Pedersen, der var 20 Aar sidste Onsdag, den 16de, han har aldrig været rask. Alligevel har han været i Urmagerlære i Thisted, men ligger nu her hjemme og er meget syg, og nærmest for os at se, kan der snart komme Vandrebudskab til ham. Han har i den sidste Tid været <pb xml:id="idm140619122610736" n="36" facs="images/001991715_000/001991715_000_0037.jpg"/>ringe af Helbred og tit sagt: Min Tid bliver vist ikke lang. Han er godt tilfreds, hvis saa skal være. O! Gud være takket! — Mon det ikke er det sidste Brev, jeg maler; jeg kan næsten ikke blive færdig. Gud i Vold!</p>
+        <p xml:id="idm140619122609344">Eders gamle <persName xml:id="idm140619122609088" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619122609088">Margrethe</persName>.</p>
+        <postscript xml:id="idm140619122608336">
+          <p xml:id="idm140619122608080">Hils jeres Pebermø, Ane Marie. En lang Tjeneste vidner om Troskab og Ærlighed. — Brevet er opslidt, og jeg er træt.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619122607184" n="36" facs="images/001991715_000/001991715_000_0037.jpg"/>
+      <div decls="bibL0019917150000016" n="16" xml:id="L0019917150000016" xml:lang="da-Dk">
+        <head xml:id="idm140619122605344"><geogName xml:id="idm140619122605216" type="sender" sameAs="idma86f57fc-581a-4cbc-a8c0-5f717fb06912">Vust</geogName>, <date xml:id="idm140619122604832" sameAs="idm1d879dc4-3a3a-489c-a163-e3fd9c3dfff8">24.—2.—1899</date>.</head>
+        <p xml:id="idm140619122604320">Mine kære Venner <persName xml:id="idm140619122604064" type="recipient" key="Brahm, Peter Georg Emil" sameAs="#personidm140619122604064">Brahm og Harriet</persName>!</p>
+        <p xml:id="idm140619122603312">Jeg ved næsten ikke, om der er stort at meddele, siden I modtog Brev til 21de Novbr. fra mig. Men saa lige den 22de hensov vor kære Kristen. Fra hans Fødselsdag den 16de Novbr. til den følgende Tirsdag var han meget syg, men var sig fuldt bevidst til det sidste. Da jeg hørte, at hans Timeglas var snart udrundet, bad jeg om at komme ned i Kammeret, hvor han laa. Han har staaet mig særdeles nær fra hans første Tid. Saa bad jeg ham at tage imod mig paa den anden Side det smalle Belt. Han sagde: „Ja“, og han tilføjede: „Jeg er godt tilpas, men meget syg.“ Jeg var hos ham lige en halv Time og saa, han hensov, til sidst rolig og stille. Ja, Gud ske Tak! Jeg har stadig fra den Tid baade vemodige og glædelige Minder, som jeg tit gentager i Tak og Bøn. Kære Venner! Jeg undres meget over, saa hastig som Tiden skrider for mig trods mange mørke Timer. Men saa tager jeg til Vorherre, som altid vil være hos os. Han siger selv: „Se, jeg staar for Døren og banker, om nogen oplader; til ham vil jeg gaa ind og holde Nadvere med ham og han med mig“. Kan vi smaa saa ønske os bedre. Men det er mig til en stor Opmuntring og Glæde, baade mundtlig og skriftlig, at dele Ord og Tanker med Venner. Siden St. Mikkelsdag har jeres trofaste Pige Ane Marie besøgt mig ligesom jeg i Avgust <pb xml:id="idm140619122601200" n="37" facs="images/001991715_000/001991715_000_0038.jpg"/>1897 kavde et kort, men meget kærkomment Besøg af min trofaste Ven og Præst Brahm. Og saa ved I begge, jeg bor mod Syd, paa Solsiden, som jeg er meget taknemlig for. Endvidere takker jeg dig for de 3 sidste Breve, jeg modtog; det første dateret 19de Oktober, det andet lige til den velsignede Juleaften, da I ventede Børnene fra København og forestillede mig i Tankerne sammen med jer den Aften som saa tit i Thorup Præstegaard. Nu, den 6te Februar, blev jeg atter glædelig overrasket med et fra Afsenderen i Seden Præstegaard imellem 7 andre Breve med Posten; og Brevene indeholder mange gode Ønsker, som jeg med Tak og i Ydmyghed vil bede Gud Fader af Naade vil fuldføre i mig og os allesammen. — Ham til Ære og os til Gavn, det ske! Vi kan ønske, Gud kan og vil give hans Børn det bedste, naar vi i en barnlig Tro søger ham, saa skal det øvrige fornødne vorde os tillagt, som vi kan tage imod, som Nr. 2. — Kære Venner! Som den 2den Juli for jer har en dobbelt Betydning, saa har 6te Februar for mig. Det er min Fødsels- og Daabsdag samtidig. I Aar den Dag modtog jeg den hellige Nadver til Stadfæstelse i Troen paa Syndernes Forladelse for Jesu Skyld. Ham ske evig Tak her og hist. Her var samlet om mig over 30 ældre Venner, som, næst Vorherre, var mig til stor Glæde og Oplivelse. Ved Kr. Pedersens Begravelse Mandag den 28de Novbr. havde jeg en lignende Højtidsdag, da mange af vor store Familie var samlet her. Jeg længes meget efter Else og Niels, som var i Nærheden, og som jeg bedst kunde dele baade stort og smaat med; saa vil vi, mens vi kan, benytte Tiden. (Der siges et Sted, at der er 4 Maaneder til Højtid); nu har vi godt 4 Maaneder til 2den Juli, saa kunde jeg ikke tøve længere med at skrive. Bitte Ole var hos os forrige Mandag, kom med Toget lige fra Fyn til Hanherred. — Nu maa jeg nok helst snart slutte Maleriet og trøste mig ved, at det ikke skal læses paa en Fødselsdag. Men jeg haaber nok I kan fatte Meningen deraf, som i al inderlig Fortrolighed er skrevet. Jeg mindes tit i Tankerne min kære Svigerinde Karen i Holme.</p>
+        <p xml:id="idm140619122595888"><pb xml:id="idm140619122595760" n="38" facs="images/001991715_000/001991715_000_0039.jpg"/>Vi 2 er de eneste i Sognet, som ikke kan komme i Kirke; men naar vi kalder efter Møller, kommer han kørende eller gaaende. Karen længes meget efter Niels, saa Tiden tit bliver noget trist for hende. Ingen Brevveksling forkorter dér Tiden som i min Broders Tid. Karen kan det meste af Tiden lave sin Mad selv. Jeg er særdeles vel tilfreds med min Stilling. Gud Fader være takket! Kære Harriet! Det glædede mig, du ikke var syg i Jul, men gik snart i den gamle Stilling. Guds Barmhjertighed er hver Morgen ny. Modtag saa min bedste Hilsen med Ønsket om, at Guds Fred og Velsignelse maa være med eder allenstund.</p>
+        <p xml:id="idm140619122594048">Forrige Efteraar skrev jeg Pebermø til min Veninde Ane Marie. Hils hende.</p>
+        <p xml:id="idm140619122593504">Eders gamle <persName xml:id="idm140619122593248" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619122593248">Margrethe</persName>.</p>
+      </div>
+      <pb xml:id="idm140619122592368" n="38" facs="images/001991715_000/001991715_000_0039.jpg"/>
+      <div decls="bibL0019917150000017" n="17" xml:id="L0019917150000017" xml:lang="da-Dk">
+        <head xml:id="idm140619122590528"><geogName xml:id="idm140619122590400" type="sender" sameAs="idmdbc0bbde-316f-4f55-9ebb-8f7e0ca3cb01">Vust</geogName>, <date xml:id="idm140619122590016" sameAs="idmed1aab79-e755-4443-bcbe-9a0ac4ace002">23.—6.—1899</date>.</head>
+        <p xml:id="idm140619122589504">Mine kære uforglemmelige Venner <persName xml:id="idm140619122589248" type="recipient" key="Brahm, Peter Georg Emil" sameAs="#personidm140619122589248">Brahm og Harriet</persName>!</p>
+        <p xml:id="idm140619122588496">Saa vil jeg atter, i Anledning af eders Dobbeltfestdag, ønske jer hjertelig, at I kan faa Naade til med Tak at modtage, hvad Gud Fader tiiskikker, sikker paa, han vil give, hvad der tjener hans Børn bedst. Kære Venner! Lad os saa i Fællesskab daglig samles med hele Guds Menighed og bede med og for hverandre, at Helligaanden vil styrke os efterhaanden, mere og mere i en barnlig Tro og Ydmyghed, at bede Abba til Vor Fader med Bønnen i Jesu Navn. Jeg har i længere Tid daglig sluttet Troesbekendelsen med Nadverordet, som Vorherre selv slutter saa vidunderlig kærlig til Syndere: „Gører dette til min Ihukommelse!“ — O, Gud ske Lov for hans Naade. — Det meste af min Tid gaar saa hastig. Ja, nu begynder Dagene atter at aftage for dette Aar. Kunde nu vore mange usle Bekymringer efterhaanden ogsaa aftage. Paulus skriver til Menigheden: Herren er nær. Værer ikke bekymrede for noget, men i alle Ting lader eders Begæringer <pb xml:id="idm140619122586224" n="39" facs="images/001991715_000/001991715_000_0040.jpg"/>fremføres for Gud i Paakaldelse og Bøn med Taksigelse. Kære Venner! Jeg ved næsten ikke, om jeg kan meddele mine fraværende Præstefolk paa Fyen noget, der kan glæde eder. Hvad mig selv legemlig angaar, er der næsten ingen kendelig Forandring, naar Blyant nu kan bruges til at male med. Jeg er glad og takker Gud Fader for hans Naade, som er hver Morgen ny. Jeg kan selv, saa stille, dreje mig af Sengen og komme de Par Trin hen til Vinduet; naar jeg saa sætter Briller paa, kan jeg godt se i Frastand, men ikke høre den dejlige Lærkesang, da mit ene baade Øje og Øre er helt svækket. — Men jeg læser lige godt, Gud ske Tak! Siden forrige November, da vor kære lille Kristen døde, er ingen død i Vust før nu en lille halvaarig Pige af Jens Andr. Torhauges nord i Barkær. Efter dette Ligfølge kom Møller her og meddelte mig og Kristen Agesen og Kone den hellige Nadvere. Hun har været syg i længere Tid, kan ikke komme i Kirke, men hun er i Bedring. Det var en god Dag for os. Fra Ligfølget samledes her en Del af vor Familie og flere Venner, som var mig til stor Glæde og Oplivelse. Gud Fader være takket og priset, trods min Hørelse er meget svækket, kan jeg godt høre, naar én taler til mig. Nu maa I da vide, at Otto Torhauge og Margrethe, der bor i Haverslev, blev glædelig overrasket. Paa St. Hansdag maatte Otto hente 2 Par Fynboer i Aggersund. Det ene Par tjente han hos i 2 Aar, mens han opholdt sig paa Fyn. De kom lige fra Mødet paa Mors den 21. Juni. Paa Søndag Formiddag kørte de til Klim og var i Frikirken, og om Eftermiddagen paa Bulbjerg. Paa Tilbagevejen vilde Otto og Margrethe fornøje særlig mig gamle og overraske mig et Par Timer med de venlige Fynboer; det glædede mig. Alle 3 Par blev hos Jens Peter Godiksens om Natten. Fra Ane Godiksen skal I hilses venligt; men paa egen Vis, uden Anmodning, vil jeg fortælle jer, at forrige Sommer blev den tredie af Døtrene forlovet med Husmd. Jens Nielsens Søn i Vust, et anstændigt og forstandigt Menneske. Hans Farbror er Peter Nielsen, vor Nabo for Østen. Han er Enkemand <pb xml:id="idm140619122581216" n="40" facs="images/001991715_000/001991715_000_0041.jpg"/>og barnløs. Han har i denne Maaned afstaaet hans hele Ejendom til Else Godiksens Forlovede. Peter er Ejer af Huset; der holdes 2 smaa Heste, 5 Høveder. Bygningerne er gode og ligger næsten midt i Ejendommen. Der er knap 1 Td. Hartkorn. For et Par Maaneder siden blev Peter Nielsen angreben af en stærk Hjernerystelse, der ikke er forbi. Else Godiksens Forlovede er allerede flyttet til Peter Nielsen, da han ikke selv kan ordne eller udføre noget af stor Betydning. Saa vil de unge giftes til Efteraaret, om intet forhindrer dem. De er begge i 24- Aars Alderen. Anes yngste 20-aarige Pigebarn er paa Ry Højskole. Hun har nylig skrevet hjem og beder om Lov til at tage en Tjeneste, hun er tilbudt. Det krymper Ane sig ved at tillade. Der er flere Piger, der ønsker at færdes paa fremmede Steder. Anna Nørhave er, fra Novbr. af, fæstet til en Enkekone paa Fyn i Nærheden af Ryslinge Højskole og Valgmenighed. — I Forgaars modtog jeg et langt Brev fra Rønne. Han er særdeles godt tilfreds med at bo i Roskilde; det er vist den roligste By i Landet, skriver han — men den store Domkirke kan han ikke bruge. Han føler sig bedre hjemme i det adelige Jomfruklosters Kirke, som Præsten i Himmelev holder Gudstjeneste i hveranden Søndag. Modtag nu tilsidst en venlig Hilsen paa eders Højtidsdag med det Ønske fra mig og mine 4 Børn og Karen i Holme, at Guds Fred og Velsignelse maa følge eder fremdeles. Karen i Holme beder hilse jer. Hun længes meget efter Niels. Hun skriver ikke Breve, siden han døde. Hils Ane Marie. Børnene husker mig vist ikke. Gud i Vold!</p>
+        <p xml:id="idm140619122578432">Eders hengivne gamle<lb xml:id="idm140619122578176"/>
+               <persName xml:id="idm140619122577920" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619122577920">Margrethe</persName>.</p>
+      </div>
+      <pb xml:id="idm140619122577040" n="41" facs="images/001991715_000/001991715_000_0042.jpg"/>
+      <div decls="bibL0019917150000018" n="18" xml:id="L0019917150000018" xml:lang="da-Dk">
+        <head xml:id="idm140619122575200"><geogName xml:id="idm140619122575072" type="sender" sameAs="idm2778d868-68a1-4662-8254-5d86c7a395a0">Vust</geogName>, <date xml:id="idm140619122574688" sameAs="idm031e6a12-725b-4423-9c55-9be3d669298d">19.—11.—99</date>.</head>
+        <p xml:id="idm140619122574176">Mine trofaste, uforglemmelige Venner!</p>
+        <p xml:id="idm140619122573792">Kære <persName xml:id="idm140619122573536" type="recipient" key="Brahm, Harriet" sameAs="#personidm140619122573536">Harriet</persName>! Ja, Gud Fader være takket, at vi har oplevet den Dag, at jeg kan skrive til din 60-Aars Fødselsdag. Det glædede mig og flere Venner, da I besøgte os i Sommer, at du var saa ungdommelig i den Alder, trods de mange og lange Sygelejer, du har gaaet gennem i de 26 Aar, jeg har kendt dig, saa jeg haaber, og vil ønske, om det er Guds Vilje, at vi maa beholde dig imellem os hernede i længere Tid til en Støtte for din kære Mand og Børn. Næst Vorherre, der aldrig slipper os. Saa vil jeg hjertelig bede og ønske for eders Fremtid og alle eders Kære, at Guds Velsignelse og Fred maa være i Hjem og Hjerte. Det ske i Jesu Navn. Den 30. Oktober var her Sølvbryllup. Her var samlet henved 80 Venner, næsten alle gifte Folk. De fik dem en rask Svingom til noget over Midnat. De gamle dansede, da her var ingen unge i Vejen. Det var mig gamle til stor Opmuntring, da de fleste var Venner, jeg havde besøgt, mens jeg fartede om. Jeg ligger i samme Stilling og følger saa smaat med i et og andet. Ja, Guds Barmhjertighed er hver Morgen ny. Trods alt det, vi daglig har at kæmpe med, saa har han til denne Tid saa faderlig lagt alt til Rette for mig Synder, saa uforskyldt, af Naade for Jesu Skyld, og jeg haaber og tror, vi har det bedste i Vente hisset.</p>
+        <p xml:id="idm140619122570896">Kære Venner! Jeg ved ikke, om I har Brevveksling med andre her i Sognet, siden Bror Niels fik Hjemlov. Karen savner ham næsten daglig. Hun vilde vist glæde sig meget ved at faa et lille Brev fra eder, mens Timeglasset rinder. Hun er født 29. December 1818. — Nu lige til Novbr. flyttede J. P. Godiksens Datter Else til vor Nabo, hvad jeg jo før har fortalt jer. Saa har de Elisabeth og Kr. Pedersen tilbage hos dem. Han og Søren Gravesens yngste Datter har i længere Tid været forlovet. Ane Marie har i flere Aar gaaet med en Vækst i Brystet, der stadig voksede. Saa først i Oktober bestemte de, hun skulde til København at opereres, saa skulde J. <pb xml:id="idm140619122569296" n="42" facs="images/001991715_000/001991715_000_0043.jpg"/>P. Nørhave gøre Spørgsmaal paa et Hospital for hende. Operationen gik meget heldig. 3-Ugers Dagen blev hun udskreven.</p>
+        <p xml:id="idm140619122568112">Kristen Brun og Maren med deres 2 smaa Piger er flyttet til Thisted. Maaske I har hørt det, før jeg skriver. Han var her sidst i Oktober og fortalte mig, de havde solgt det hele, baade indvendigt og udvendigt, til et Par enlige Folk, der er kommet fra Amerika. Kr. Brun med Familie bor foreløbig i Thisted hos en Familie, de staar i Venneforhold til. Men det er ikke det ny, som glæder Kr. Brun. Jeg har læst i Avisen, at Anders Søndergaards lille Kristen i Lund døde Torsdag den 9. Novbr., 11 Maaneder gammel, og blev jordet den 17. Samme Dag læste jeg, at Frederik Grundtvig vil til Sommeren med Familie komme hjem til København. Det glæder mig, det er ikke Uenighed, der er Aarsag i Skilsmissen. — En venlig Hilsen fra Mariane Nørhave. Den ældste Søn, Jens Kristian, styrer Hjemmet i Vinter. Først i Oktober kom han fra Randers som Dragon efter 19 Maaneders Ophold der. Næste Marts 1900 skal hans Broder Jakob møde i Randers efter 4 Maaneders Ophold paa Vestbirk Højskole, som Jens Kristian 1898 paa Frederiksborg Højskole. Men saa lad os gamle i en barnlig Tro og Ydmyghed bede for alle de unge som for os selv, at han, som har begyndt den gode Gerning, vil fuldføre den indtil Jesu Kristi Dag. Det ske!</p>
+        <p xml:id="idm140619122565584">Jeg er allerede Stammoder til henved 100 Sjæle. Guds Ord det er vort Arvegods, det skal vor Adkomst være. — Ja, nu er det 5te Vinter, Jens Peter Nørhave er fraværende. Det er jo et dagligt Savn, mest for Mariane; men han kommer tit hjem, desuden mange Breve. Hun er en fornuftig Kone, og hun kommer godt til Rette med Børnene. Han, som har hjulpet hidindtil, han hjælper og herefter. Og i det Haab vil jeg slutte med en venlig og hjertelig Hilsen til eder og eders kære Børn, om de kan huske mig, Ane Marie ikke at forglemme. — Atter en venlig Hilsen fra mine Børn her i Byen, som I besøgte i Sommer.</p>
+        <p xml:id="idm140619122564496">Eders altid heng. <persName xml:id="idm140619122564240" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619122564240">Margrethe</persName>.</p>
+        <postscript xml:id="idm140619122563488">
+          <p xml:id="idm140619122563232"><pb xml:id="idm140619122563104" n="43" facs="images/001991715_000/001991715_000_0044.jpg"/>„I Jesu Navn, hvordan det gaar,<lb xml:id="idm140619122562304"/>
+bøj dine Knæ for Tronen<lb xml:id="idm140619122561984"/>
+og bed saa stille Fadervor;<lb xml:id="idm140619122561728"/>
+Gud giver Barnetonen.<lb xml:id="idm140619122561472"/>
+Og med et Suk usigelig<lb xml:id="idm140619122561216"/>
+Guds Aand da gaar i Bøn for dig;<lb xml:id="idm140619122560960"/>
+da faar dit Hjerte Hvile.“</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619122560320" n="43" facs="images/001991715_000/001991715_000_0044.jpg"/>
+      <div decls="bibL0019917150000019" n="19" xml:id="L0019917150000019" xml:lang="da-Dk">
+        <head xml:id="idm140619122558480"><geogName xml:id="idm140619122558352" type="sender" sameAs="idmc9b9bf9c-882a-4b4a-a41c-123afb970aef">Vust</geogName> — sidst i <date xml:id="idm140619122557968" sameAs="idm9733cb94-4940-4c7e-a76b-77b00f9aff7f">Juni 1900</date>.</head>
+        <p xml:id="idm140619122557456">Mine kære uforglemmelige Venner!</p>
+        <p xml:id="idm140619122557072">Da det nu atter er eders Dobbelt-Festdag, baade Fødsels- og Bryllupsdag, vil jeg hjertelig ønske for eder, at Guds Naade fremdeles maa styrke eder til i en barnlig Tro og Ydmyghed at modtage, hvad Gud Fader tilskikker jer hernede, i det Haab, at han giver det, der er os bedst tjenligt.</p>
+        <p xml:id="idm140619122556096">Jeg ligger stadig i samme Stilling og vil, saa smaat jeg nu kan det, takke Gud Fader for hans store Naade og Barmhjertighed, som er hver Morgen ny, trods al vor Synd og Usselhed, der daglig trykker. Ja, Gud Fader være takket, det meste af Tiden gaar saa forunderlig hastig, især naar jeg læser, hvad der er baade til Trøst og Advarsel mod det onde. Kære Venner, Brahm og Harriet! Tak for Brevene, som jeg modtog til min Fødselsdag, det glædede mig, og Tak for eders personlige Besøg, Brahms 20. Avgust 1897, og da særlig at se og tale lidt med jer, mine Venner den 25. Juni 1899, som jeg tit mindes med Glæde, i Haabet om, vi hisset samles om det evige Halleluja for aldrig mere at skilles</p>
+        <p xml:id="idm140619122554672">Kære Venner! Jeg ved næsten ikke noget at fortælle, der kan fornøje jer, dersom I har Brevveksling med flere her i Sognet. I de sidste Par Aar er her i Sognet død ialt 5 foruden 2 dødfødte Børn. I samme Tid er født 5 levende Børn i hele Sognet, og der er holdt 3 bitte Bryllupper; det ene en borgerlig Vielse. Onsdag den 30. Maj blev Ane Kirstine Torhauge og Niels Thomsens 22- <pb xml:id="idm140619122553792" n="44" facs="images/001991715_000/001991715_000_0045.jpg"/>aarige Datter Else borgerlig viet til en Søn af afdøde Husmand Anders Smed i Klim. Den 1. Juni rejste hun med ham til Nyborg paa Fyn, hvor han boer og har Sysselsættelse ved Banen i Forening med flere. Else er den førstefødte af det 3die Led i den Flok, jeg er Stammoder til. Gud Fader, tag os alle, dine dyrekøbte Børn, baade fjern og nær, i din almægtige Varetægt. Det ske i Jesu Navn.</p>
+        <p xml:id="idm140619122552160">Lørdag den 21. April besøgte min Søn Jens Peter Rønne paa hans Fødselsdag. Fruen var rask og munter. Kort Tid efter kunde han kundgøre i „Thisted Amtstidende“ og „Højskolebladet“: Igaar hjemkaldte Gud min prægtige Hustru. Det er et stort Savn saa uventet at blive Enkemand og ingen Børn have at glædes ved næst Vorherre til at erstatte et foreløbigt Savn. Men vor Fader i det Høje han lever! — Forfatteren Johan Skjoldborg blev, som I vist ved, ogsaa hastig og uventet Enkemand, da han i Sommer vilde gøre en Rundrejse i Danmark. Vor kære Veninde Dorthea var en god Støtte for sin Mand. Han vil savne hende, trods hun var den gamle. For en Tid siden besøgte hun mig, som jeg var glad for. Vi kom i venligt Forhold til hinanden og med eder i Thorup Præstegaard, Venskab, som aldrig brister. Sidst I fik Brev fra mig, var til din Fødselsdag, kære Harriet. Da skrev jeg, at Jakob Nørhave ligesom hans ældste Broder Jens Kristian, skulde være Dragon i Randers i 19 Maaneder. Grundet paa et højt Nummer fik Jakob Pas til at møde i Aalborg den 17. April som Soldat. Den 17. Juni mødte han helt uventet i Nørhave og er færdig med Tjenesten paa Grund af hans høje Nummer. I Juni fødte Mariane Nørhave lidt for tidligt et dødfødt Pigebarn det 12. i Flokken. Moderen er, Gud ske Tak, rask som hele Familien. Den 20-aarige Datter Anna tjener paa Højvang i Ryslinge paa Fyn. Saa har de 2 prægtige Piger, Margrethe 15 Aar, og Else, 14 Aar. Saa har de en lille Maren, knapt 6 Aar. De har dernæst en Søn, Nikolaj; han kan more dem lidt ved sin barnlige Færd. Han var 3 Aar i Januar. Nu blev han da Spædbarn for det første. En 17-Aars Søn, <pb xml:id="idm140619122550080" n="45" facs="images/001991715_000/001991715_000_0046.jpg"/>Kristen Pedersen, tjener paa Himmerland, og en knap 10- aarig Albert har de tillige. 2 Sønner, Valdemar og Johannes, er forud hjemkaldt. — Kære Venner! Modtag saa mit hjertelige Ønske for eder og alle eders Kære, at Guds Velsignelse og Guds Fred i Hjem og Hjerte maa følge eder, baade gamle og unge.</p>
+        <p xml:id="idm140619122548528">J. P. Nørhave kom her, mens jeg malede disse Linjer. Han bad mig venligt hilse jer. Og fra vor egne unge Folk skal jeg hilse. Vi har nu ingen Tjenestefolk til Stadighed. Vi har 2 Sønner hjemme og tager Daglejere, naar det behøves.</p>
+        <p xml:id="idm140619122547664">Hermed en kærlig Hilsen fra<lb xml:id="idm140619122547408"/>
+eders gamle <persName xml:id="idm140619122547152" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619122547152">Margrethe</persName>.</p>
+      </div>
+      <pb xml:id="idm140619122546272" n="45" facs="images/001991715_000/001991715_000_0046.jpg"/>
+      <div decls="bibL0019917150000020" n="20" xml:id="L0019917150000020" xml:lang="da-Dk">
+        <head xml:id="idm140619122544432"><geogName xml:id="idm140619122544304" type="sender" sameAs="idm251f502f-61fd-4df1-bd0d-965f55825b6b">Vust</geogName>, <date xml:id="idm140619122543920" sameAs="idma3d3646f-f2fd-492c-9039-1327cc5d2ae2">18.—11.—1900</date>.</head>
+        <p xml:id="idm140619122543408">Mine uforglemmelige Venner!</p>
+        <p xml:id="idm140619122543024">Kære <persName xml:id="idm140619122542768" type="recipient" key="Brahm, Harriet" sameAs="#personidm140619122542768">Harriet</persName>! Saa kan jeg atter inden Hundredaarets Slutning paa din 62de Aarsdag og fremdeles hjertelig ønske, at du kan, med Tak og i barnlig Tro, modtage, hvad Gud Fader tiiskikker eder, sikker paa, han vil give det, der tjener os bedst. Men fremfor alt ønsker jeg eder alle Guds Velsignelse og Guds Fred i Hjem og Hjerte — i Jesu Navn. Gud Fader være takket. Hans Barmhjertighed er hver Morgen ny over os Syndere. Kære Venner! Siden jeg sidst i Juni skrev til vor Ven Brahms Fødselsdag og eders Dobbelt-Højtidsfest den 2. Juli har jeg ikke stort at meddele. Det sidste Aar døde kun 2 her i Sognet. 4 fødtes foruden det lille dødfødte Barn i Nørhave i Juni. I over 1 Aar har der kun været et Bryllup, forrige Aar i Oktober hos J. P. Godiksen. Saa flyttede Else til vor Nabo. Nu sidst i Oktober blev deres lille Søn døbt og hedder Helge Marius. — I forrige Uge var Jens Peter i Roskilde og besøgte Rønne. Han sagde, at Rønnes Kone var blevet pludselig syg og var sig ubevidst hele Tiden, saa de fik ikke talt et Ord sammen de sidste 8 Dage.</p>
+        <p xml:id="idm140619122539824"><pb xml:id="idm140619122539696" n="46" facs="images/001991715_000/001991715_000_0047.jpg"/>Kære Venner! Jeg har ikke hørt fra eder i Sommer, men jeg har læst Brahms Indlæg i „Højekolebladet“ vedrørende Friskolerne; har ogsaa seet, at du har faaet over Fingrene derfor. Maaske I har Ret begge. Friskolens Kaar er smaa; men den staar nok, med Guds Hjælp og lidt Støtte.</p>
+        <p xml:id="idm140619122538176">Gud være takket, at jeg ligger og har det godt. — Ja, Tiden gaar hastig for det meste. Nu er der kun godt 1 Maaned til Jul, da det atter lyder: Eder er en Frelser født! Gid vi Syndere kan i barnlig Tro tilegne os den store Naade! Det ske i Jesu Navn!</p>
+        <p xml:id="idm140619122537264">Modtag min bedste Hilsen, gamle og unge. Gud i Vold!</p>
+        <p xml:id="idm140619122536816">Eders gamle <persName xml:id="idm140619122536560" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619122536560">Margrethe</persName>.</p>
+        <postscript xml:id="idm140619122535808">
+          <p xml:id="idm140619122535552">„Klokken slaar, Tiden gaar.<lb xml:id="idm140619122535296"/>
+Ene Guds Naade urokket staar;<lb xml:id="idm140619122535040"/>
+den os fører saa tryggelig frem,<lb xml:id="idm140619122534784"/>
+bygger os hisset og her et Hjem,<lb xml:id="idm140619122534528"/>
+fyldt med den sejrrige Fred.“</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619122533888" n="46" facs="images/001991715_000/001991715_000_0047.jpg"/>
+      <div decls="bibL0019917150000021" n="21" xml:id="L0019917150000021" xml:lang="da-Dk">
+        <head xml:id="idm140619122532048"><geogName xml:id="idm140619122531920" type="sender" sameAs="idm4054db6d-b373-4728-90e8-6a174af13b42">Vust</geogName>, <date xml:id="idm140619122531536" sameAs="idmf6aabd45-70fc-4aa1-ad8a-6390f29022cc">18.—2.—1901</date>.</head>
+        <p xml:id="idm140619122531024">Mine uforglemmelige Venner, <persName xml:id="idm140619122530768" type="recipient" key="Brahm, Peter Georg Emil" sameAs="#personidm140619122530768">Brahm og Harriet</persName>.</p>
+        <p xml:id="idm140619122530016">Jeg vil først takke for eders Brev, jeg modtog til min Fødselsdag imellem 10 Breve samme Dag med Posten. Ja, Gud Fader være takket for trofaste Venner, der hjertelig beder og ønsker, at et gammelt Barn kan faa Naade til at modtage med Tak, hvad han tiiskikker mig den korte Tid hernede. Det ske ved Helligaandens Bistand i Jesu Navn. Jeg er sikker paa, at en troendes Bøn formaar meget, naar den er alvorlig, skriver Jakob. Gud ske Lov og Tak, jeg ligger og har det særdeles godt, trods alt det usle, der vil forstyrre os; jeg er meget mat, men hviler godt. Det meste af Tiden gaar saa forunderlig hastig. Det er en stor Guds Gave, jeg kan læse det meste af Tiden i Bøger og flere Blade. Jeg blev meget glad ved at læse i „Højskolebladet“, hvad mine 2 kære <pb xml:id="idm140619122528176" n="47" facs="images/001991715_000/001991715_000_0048.jpg"/>gamle, uforglemmelige Præster har skrevet dér; det læste jeg rigtignok 2 Gange.</p>
+        <p xml:id="idm140619122527072">Kære Venner! Jeg kender ikke Forholdene hos Anders Søndergaard i Lund, men Inger Marie Thorhauge i Klim har nylig sagt os, at Konen, Kristine, er som sædvanlig. De andre Folk har været meget syge. Det mindste Barn har Skarlagensfeber. Der er Fare for Hørelsen. Gud Fader, ophold dine Børn i Haabet og Tro paa, at vi ved Helligaandens Hjælp for Jesu Skyld kan overvinde alt. „Det er en liden Stund, saa har jeg vunden, saa er den ganske Strid med ét forsvunden. Saa kan vi fryde os i Himlens Sale og uafladelig med Jesus tale“. Kære Harriet! De sidste næsten 30 Aar, jeg har kendt dig, har du tit været meget syg; men nu vor Ven, Georg Brahm! Han er jo en stærk Mand, Gud ske Tak! Hils vor kære Olaf Brahm fra mig. Jeg beder hjertelig og ønsker ham befalet til Gud Faders Varetægt og Englevagt, hvor han saa færdes. Undskyld min Nysgerrighed: Jeg ser i dit sidste Brev, at der er kommet en lille Dreng til Huse hos jer; det har jeg ikke hørt før. Hvor stammer han fra? Naar kom han? Hvad hedder han? Hvor gammel er han? Kære Venner! Det skal ikke være let at være i Gæld, men for mig gamle glæder jeg mig i Stedet for at harmes, og saa længe jeg kan vil jeg skrive. Saa kommer der tilbage om ikke mere end et lille Brevkort, kan det opmuntre et gammelt Barn. Jeg har nok før spurgt, om du havde Brevveksling med andre i Holme, siden Broder Niels i Holme døde. Tiden er meget lang for Karen. Hendes Øjne smerter, hun er meget tunghør, kan ikke gaa uden Stok. Der er ingen, hun har Brevveksling med, faa besøger hende, den stille, taalmodige Kone. Jeg vil i Ydmyghed takke Vorherre, der gaar næsten ingen Dag, uden der kommer en eller anden, jeg kan tale med, af vore Venner. Karen er født 23. Decbr. 1818; er eneste Barn. Kære Brahm, du kan sikkert glæde hende med Brev. — I Efteraaret døde den gamle Peder Jakobsen i Holme; i Januar døde Kristen Norre her i Vust, 83 Aar begge. — Modtag nu min bedste Hilsen med min hjertelige <pb xml:id="idm140619122522848" n="48" facs="images/001991715_000/001991715_000_0049.jpg"/>Bøn og Ønsker for eder, gamle og unge, at Guds Velsignelse og Guds Fred maa være i Hjerter og Hjem. Den Guds Fred, som bevarer Hjerter og Tanker i Jesus Kristus, vor Herre. Gud i Vold!</p>
+        <p xml:id="idm140619122521536">Eders gamle <persName xml:id="idm140619122521280" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619122521280">Margrethe</persName>.</p>
+        <postscript xml:id="idm140619122520528">
+          <p xml:id="idm140619122520272">En venlig Hilsen fra Bolette og Lars. Ane Marie! Modtag en venlig Hilsen fra mig. Kunde du engang skrive et Brev til din gamle Madmoder i Holme.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619122519472" n="48" facs="images/001991715_000/001991715_000_0049.jpg"/>
+      <div decls="bibL0019917150000022" n="22" xml:id="L0019917150000022" xml:lang="da-Dk">
+        <head xml:id="idm140619122517632"><geogName xml:id="idm140619122517504" type="sender" sameAs="idm95d2014d-721b-403e-86b3-615b4e04d753">Vust</geogName>, <date xml:id="idm140619122517120" sameAs="idm4fe2a5cf-625d-4614-b9fc-ade017e5c2c6">21.—3.—1901</date>.</head>
+        <p xml:id="idm140619122516608">Mine kære uforglemmelige Venner!</p>
+        <p xml:id="idm140619122516224">Allerførst Tak for Kortet, jeg modtog til Jul; men særlig takkes I hjerteligt for de gode Ønsker for mig i Brevet, jeg modtog til min Fødselsdag. Ja, vi kan ønske, Gud Fader kan og vil give sine Børn alt, hvad der er os tjenligt. Det ske i Jesu Navn, ham til Ære, os til Gavn. Jeg modtog flere gode Ønsker den Dag, baade skriftligt og mundtligt; det glæder mig meget. Gud Fader ske Tak. Jeg ligger og har det godt; det meste af Tiden gaar saa forunderlig hastig, især naar jeg læser. Det er ikke saa let at skrive, da den venstre Haand skal holde „Skrivebordet“, mens jeg maler op. Men jeg føler, baade i Alvor og med Tak, at det er et Mærkeaar i mit Liv, 1901, i dobbelt Betydning. Først, at det er nu Hundredaarsskiftet og saa min egen 90. Aarsdag; og nu et nyt Navn som Tipoldemor til en lille Dreng, født midt i Marts. Niels Thomsens og Ane Kirstine Torhaves førstefødte Datter Else, født 11. Marts 1878, som Brahm har døbt, er Moderen. Hun er den førstefødte af 50 Børn, som jeg allerede er Oldemoder til. Den 30. Maj forrige Aar blev hun og en ung Mand fra Klim borgerlig viet paa Herredskontoret, men har siden den Tid boet i Nyborg paa Fyn. Han er en Søn af Anders Smed i Klim, Otto Kristian hedder han, han har et godt Rygte paa sig og har Forretning ved Statsbanen der i Fællesskab med flere om <pb xml:id="idm140619122514128" n="49" facs="images/001991715_000/001991715_000_0050.jpg"/>Arbejdet. Kære Venner! Jeg taler tidt, men tænker oftere paa det store Afkom, Gud Fader har velsignet os med. Først vore egne 7 Børn. Derefter 46, som jeg er Bedstemoder til. Maaske det andet Led er færdigt. Ja, lad os bede med og for hverandre i hjerteligt Fællesskab ved Helligaandens Bistand, at Vorherre Jesus vil af Naade samle alle Guds Børn, fjern og nær, der, hvor vi aldrig, aldrig adskilles mere.</p>
+        <p xml:id="idm140619122512560">Jeg ligger i samme Stilling, hviler godt og kan sove godt, men kan nok mærke, at min Hukommelse svækkes. Men lad os takke Gud Fader for, hvad vi har, og i barnlig Tro og Ydmyghed bede ham: Mens det gamle tæres hen, da blomstrer op der nyt igjen, som vinde kan og vare. Og saa vil vi synge som David: Min Sjæl, lov Herren og glem ikke alle hans Velgerninger imod dig; han er den, som forlader dig alle dine Synder osv. O, Gud ske Tak!</p>
+        <p xml:id="idm140619122511408">Modtag saa min bedste Hilsen med et hjerteligt Ønske for jer alle om Guds Velsignelse og Guds Fred i Hjerter og Hjem. Gud i Vold!</p>
+        <p xml:id="idm140619122510752">Eders gamle <persName xml:id="idm140619122510496" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619122510496">Margrethe</persName>.</p>
+        <postscript xml:id="idm140619122509744">
+          <p xml:id="idm140619122509488">Efterskrift. Min Dreng, Jens Peter, vil nok fortsætte som Rigsdagsmand, om han bliver valgt. De 5 Aar er overstaaet. — Gud ske Tak, at han, som har hjulpet hidindtil, han hjælper og herefter.</p>
+          <p xml:id="idm140619122508704">Idag for 9 Aar siden faldt jeg og har siden stadig ligget i Sengen.</p>
+          <p xml:id="idm140619122508320">Min Tid forkortes meget ved Brevveksling, jeg modtog 8 Breve til min Fødselsdag og lige saa mange til Jul, jeg vil ikke være hovmodig, men saa stille takke. Jeg har allerede malet 7 til Gengæld. Kære Venner! I kan nok forstaa et gammelt Barn.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619122507168" n="49" facs="images/001991715_000/001991715_000_0050.jpg"/>
+      <div decls="bibL0019917150000023" n="23" xml:id="L0019917150000023" xml:lang="da-Dk">
+        <head xml:id="idm140619122505328"><date xml:id="idm140619122505200" sameAs="idm68839381-07df-4af0-8d8b-4a31ec21b4cc">30. Juni 1901</date>.</head>
+        <p xml:id="idm140619122504688">Kære <persName xml:id="idm140619122504432" type="recipient" key="Brahm, Peter Georg Emil" sameAs="#personidm140619122504432">Brahm og Hustru</persName>, ja, uforglemmelige Venner!</p>
+        <p xml:id="idm140619122503680">Gud Fader være takket, jeg atter har oplevet og kan <pb xml:id="idm140619122503296" n="50" facs="images/001991715_000/001991715_000_0051.jpg"/>være med til baade en Fødselsdag og eders Bryllupsfest den 2. Juli. Saa vil jeg hjertelig bede og ønske, at I fremdeles kan modtage med Tak, hvad Gud Fader vi! tilskikke eder i den korte Tid, men fremfor alt: Guds Velsignelse og Guds Fred i Hjerter og Hjem. Det ske i Jesu Navn!</p>
+        <p xml:id="idm140619122501792">Gud ske Lov, at jeg har oplevet at se og kysse en lille sød Dreng fra Fyn, 3 Maaneder gammel, født i 4de Led paa vort store Stamtræ, der allerede tæller over 100 Sjæle. Gud Fader hjælp os, at vi alle maa i Himlen om din Trone staa. Med hele Guds Menighed.</p>
+        <p xml:id="idm140619122500864">Jeg ligger og har det godt; det meste af Tiden skrider hastigt. Det er en stor Guds Gave, at jeg kan læse, ja, uden Briller, da gaar Tiden saa forunderlig hastig, og her kommer saa mange, baade gamle og unge Venner at besøge mig gamle Margrethe. Men Hovedsagen er, at vor Herre Jesus aldrig slipper os Syndere, trods alt det usle, der daglig kan forstyrre Freden for os, Saa er Guds Naade hver Morgen ny. Jeg ligger og glæder mig over, at Gud Fader har sendt os en elskelig og troende Mand, Biskop Nielsen i Aalborg. Sidst i denne Maaned har han i Vester-Hanherred gæstet Kirker og Skoler til stor Tilfredshed. Gud ske Tak! Saa vil jeg bede Gud Fader for Biskoppen og eder alle, som er meddelagtige i Embedet, at Kraften fra det Høje maa styrke eder. Jeg har haft Glæde af at læse i „Højskolebladet“ og en Bog, Biskoppen tidligere har forfattet; det har forkortet min Tid.</p>
+        <p xml:id="idm140619122498496">Kære Venner! Knapt nok om 4 Maaneder, den 26. Oktober og 10. Novbr., fejrer mine to yngste Drenge deres Sølvbryllup — om de lever, som vi haaber.</p>
+        <p xml:id="idm140619122497792">Siden jeg sidst skrev, er intet særlig i Nyt at meddele. I ved vist, at Jens Simonsen i Holme er død og jordet den 25. Juni. Niels Kristen Lassen i Holme døde Paaskedag, og Fredag i denne Uge er vore Folk rejst ud at besøge flere Familier i Hjørring Amt, hvor der boer flere af mine mange Børnebørn, derefter til et Møde i Trængstrup paa Himmerland, hvor de er indbudt. Saa lever jeg saa stille i Fortidsminder og Fremtidshaabet i Troen paa, at <pb xml:id="idm140619122496848" n="51" facs="images/001991715_000/001991715_000_0052.jpg"/>det bedste ligger gemt til mig hos den gamle af Dage — af Naade for Jesu Skyld. Det ske, Gud til Ære, os til Gavn.</p>
+        <p xml:id="idm140619122495664">Saa kom vore Folk hjem, godt tilfreds med Turen. — Modtag saa min bedste Hilsen, Forældre og Børn og Ane Marie, og er nogle af Brahms Søstre i Live, som jeg oftere i Thorup var samlet med, saa hils dem venligt. Gud i Vold! En venlig Hilsen fra mine Børn, der har det godt, Gud Fader være takket!</p>
+        <p xml:id="idm140619122494656">Eders gamle <persName xml:id="idm140619122494400" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619122494400">Margrethe</persName>.</p>
+        <postscript xml:id="idm140619122493648">
+          <p xml:id="idm140619122493392">„Glæden ved Guds grønne Jord,<lb xml:id="idm140619122493136"/>
+Glæden ved Guds Naadebord<lb xml:id="idm140619122492816"/>
+de vil ikke kriges.<lb xml:id="idm140619122492560"/>
+Lærkesang og Klokkeklang<lb xml:id="idm140619122492240"/>
+de kan godt forliges.“</p>
+          <p xml:id="idm140619122491792">Jeg bliver gammel. Kære Venner! Undskyld de mange Skrivefejl.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619122491008" n="51" facs="images/001991715_000/001991715_000_0052.jpg"/>
+      <div decls="bibL0019917150000024" n="24" xml:id="L0019917150000024" xml:lang="da-Dk">
+        <head xml:id="idm140619122489168"><geogName xml:id="idm140619122489040" type="sender" sameAs="idm09b2fc22-f03d-46fd-a029-1c86fb6f08f2">Vust</geogName>, <date xml:id="idm140619122488656" sameAs="idmfa0b8426-c905-49ea-b1d9-a0c2f42eaf84">19.—11.—1901</date>.</head>
+        <p xml:id="idm140619122488144">Mine kære uforglemmelige Venner, <persName xml:id="idm140619122487888" type="recipient" key="Brahm, Peter Georg Emil" sameAs="#personidm140619122487888">Brahm og Harriet</persName>!</p>
+        <p xml:id="idm140619122487136">Først takker jeg for eders Hilsen med Jens Nielsen først i September. Da var lille Harriet syg. Med Guds Hjælp er hun nok bedre. Kære Harriet! Da vi nu har oplevet din 62de Aarsdag, saa vil jeg hjertelig ønske, at du fremdeles kan i barnlig Tro med Tak modtage, hvad Gud Fader tiiskikker eder. Men frem for alt ønsker jeg eder Guds Fred i Hjerter og Hjem. Gud Fader være takket, jeg ligger og har det godt, og Tiden gaar forunderlig hastig for det meste. Det er en stor Guds Gave, at jeg kan se med det ene Øje og læse uden Briller. Jeg kan godt mærke, at Kræfterne svinder, særlig min Hukommelse; men jeg maa ikke klage. „Han, som har hjulpet hidindtil, han hjælper og herefter.“ Ja, Gud Faders Naade er hver Morgen ny over os Syndere.</p>
+        <p xml:id="idm140619122485232">I den sidste Tid har begge mine yngste Sønner haft <pb xml:id="idm140619122484848" n="52" facs="images/001991715_000/001991715_000_0053.jpg"/>Sølvbryllup, som du, kære Brahm, i Septbr. 1876 lyste til Ægteskab for samme Dag i Vust-Thorup Kirker. Den 26. Oktbr. holdt Niels Kristian og Martha Sølvbryllup. Ikke saa faa Venner var samlet i den Anledning. Men Søndag den 10. Novbr., var Jens Peter og Mariane først i Frikirken og var til Alters sammen med 6 konfirmerede Børn. Det var stor Altergang, og det var meget hyggeligt. Det var 18-Aarsdagen for Frikirkens Indviels. Efter Gudstjenesten kom Pastor Møller og tog mig til Alters. Det var en stor Glæde for os. Gud Fader være takket og priset. Hen paa Eftermiddagen samledes saa mange, der taltes henved 150 i alt. Der kom en stor Sølvske til flere Kroners Værdi, 14 Telegrammer, 25 Breve og Kort, en lille Vise og en Sang i samme Anledning.</p>
+        <p xml:id="idm140619122482368">Saa vil jeg fortælle lidt om min nærmeste Familie. Min Datter Ane Godiksens yngste Datter Elisabeth, som du Brahm har døbt, var i Aalborg den 12. Oktober med Kristen Agesens næstældste Søn Jakob og fik Ring paa Fingeren. — Det sidste Aar har Jakob Nørhave tjent paa Dons Mølle i Kolding, er bleven forlovet med en Pige der, fik Ring paa Rejsen til Sølvbryllup. Hun er rejst tilbage. Han bliver i Hjemmet og styrer det. Jens Kristian, den ældste, rejser nu Sønder ud og skal styre en lille Gaard et Sted for en Enke. Anna har været ude i 3 Aar og har kun været hjemme en Gang før nu til Sølvbrylluppet. Det er næsten Mode nu at komme langt omkring.</p>
+        <p xml:id="idm140619122480608">Modtag min bedste Hilsen og vær alle Gud Fader befalet.</p>
+        <p xml:id="idm140619122480096">Eders gamle Veninde<lb xml:id="idm140619122479840"/>
+               <persName xml:id="idm140619122479584" type="sender" key="Pedersen, Margrethe" sameAs="#personidm140619122479584">Margrethe</persName>.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

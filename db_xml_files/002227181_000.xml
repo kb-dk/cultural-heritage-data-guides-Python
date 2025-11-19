@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--shit-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="root" status="published">
+  <teiHeader xml:id="idm140619166967888">
+    <fileDesc xml:id="idm140619167333344">
+      <titleStmt xml:id="idm140619181814096">
+        <title xml:id="idm140619185273968">Copier af Breve fra Dronning Caroline Amalie</title>
+        <!-- OCR: COPIER AF BREVE FRA DRONNING CAROLINE AMALIE-->
+        <author n="1">Elisabeth Boisen, 1850-1919</author>
+        <!-- OCR: CAROLINE AMALIE-->
+      </titleStmt>
+      <publicationStmt xml:id="idm140619174259104">
+        <publisher xml:id="idm140619168515840">KJØBENHAVN</publisher>
+        <pubPlace xml:id="idm140619148125616">**</pubPlace>
+        <date>1918</date>
+      </publicationStmt>
+      <idno>letter_books/002227181/002227181_000</idno>
+      <sourceDesc>
+        <bibl>
+          <!-- This is where we expect metadata for the analogue source in ADL -->
+        </bibl>
+        <listBibl>
+          <bibl xml:id="bibL0022271810000001" status="completed">
+            <date xml:id="idm4c7a55f3-8e38-4764-825e-1aa3847db463"/>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme0392d3b-eb67-4bc6-a14a-54a9b6275d8b">
+              <resp>sender</resp>
+              <name xml:id="personidm140619164981712" ref="c8/f4/c1/f9/c8f4c1f9-91dc-4eb6-92f6-50b67eef9b42"><surname>Boisen</surname>,
+      <forename>Elisabeth</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmbf87aa15-484b-4066-952b-c110d4cc4594">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619164245728" ref="16/c5/85/6d/16c5856d-5af7-44fa-912e-ab3362aed87d"><surname>Dronning Caroline Amalies Asyl</surname>,
+      <forename/></name>
+            </respStmt>
+            <location type="sender" xml:id="idm2900e4d4-431d-4b8d-8d3f-33ad04b4a5ca">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000002" status="completed">
+            <date xml:id="idme156866c-d3b3-42e6-ba7d-252a8c191e0d">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm24f25dbc-db07-476e-9736-9eed4737603f">
+              <resp>sender</resp>
+              <name xml:id="personidm140619171826880" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm020133a4-2c11-4f17-9c69-98448ed16934">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619171678192" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm17a67c78-e5b0-4adc-9048-28b37acbeba1">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000003" status="completed">
+            <date xml:id="idm2a7d97f3-8afe-4b61-b49f-84b8b9f72bba">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm91b1780a-4419-4122-aedc-15e436fcfa06">
+              <resp>sender</resp>
+              <name xml:id="personidm140619155957744" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb06bfb67-2449-4480-8249-e8b8ab12b10c">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619163640160" ref="9e/91/8a/33/9e918a33-7a8e-48ab-ab1c-aa6f99a7346d"><surname>Komite for de af asylet i Sølvgade udgangne børn</surname>,
+      <forename/></name>
+            </respStmt>
+            <location type="sender" xml:id="idm55019bfc-5fda-48b3-8f23-f2f14e582714">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000004" status="completed">
+            <date xml:id="idm6f6cc89d-36ea-41fc-b086-4b7381b05d6e">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmea421b9d-5253-4974-84db-62931e99a49a">
+              <resp>sender</resp>
+              <name xml:id="personidm140619155952480" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm896bb2f2-7a22-4093-854d-37c7ac51f760">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619155954768" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmc687f571-1ded-444e-80a5-4781a0a00de5">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000005" status="completed">
+            <date xml:id="idm04073746-7752-44ed-8ffb-554d6e46f0cf">184u-10-02</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm115d3750-83a7-442a-89b1-cb913df16dcd">
+              <resp>sender</resp>
+              <name xml:id="personidm140619155756064" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm5042b263-1b02-40d0-9140-847315c3d098">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619155759744" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm4598f170-d88f-4f2f-aebc-36188e1447c5">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000006" status="completed">
+            <date xml:id="idm66d994a1-7a55-4e3d-9b50-ec0cb7e995ba">184u-09-30</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb6c822d5-196b-4c21-86e5-50dbb81226a6">
+              <resp>sender</resp>
+              <name xml:id="personidm140619155750160" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmfce007a3-645f-4678-a73c-af5b3bb7d438">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619155753088" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm13dfa719-a481-42c1-b8e9-4a6410f437d7">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000007" status="completed">
+            <date xml:id="idm9a4572bc-b82b-47b9-8a83-385dc4ef40fe">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb3d82b9a-f346-43e6-aab5-a10bc03b00b2">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158452512" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmcb85f57d-2a16-452a-9ad6-295dbd15f18f">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158458496" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmebcf6d98-d58a-455d-aaeb-a4e42a3f444f">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000008" status="completed">
+            <date xml:id="idm65248c65-2a4a-4baf-8321-14b85d83a7a9">1847-01-30</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmc652156e-fde8-4180-aed8-c1cc872bfd65">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158444864" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmdc1d8b72-2d63-443b-a0d3-741f259bdc64">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158449536" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmdd7fb5bf-84c4-425b-b02e-7a008184caaf">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000009" status="completed">
+            <date xml:id="idm53317bae-9007-454b-b39c-2410351219ce">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm96307b22-e6b8-40c2-8f9a-5f63cb6982df">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158438144" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmacb88d98-70c9-40f6-a9f9-d0dfa2689112">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158441888" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm355d2823-741f-485e-bc06-c6fc147f9123">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000010" status="completed">
+            <date xml:id="idm39451b60-c5f2-4101-8efe-48f9c1509715">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm09b2fd36-2793-4281-ac92-b0796880743f">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158433264" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmc661444e-83c5-4628-b260-80248c1d01f6">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158435168" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmd9b01795-958f-49df-bc13-35c1d02be529">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000011" status="completed">
+            <date xml:id="idm702cb4ee-c5cd-461f-bed3-7ae2494ac6f3">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4d90848a-4b59-4f13-abd1-0888960d07c8">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158425168" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmacd66272-aacb-47fd-9c6e-3f0a8d92e98c">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158429648" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm201dc539-35da-4607-b501-3b4a4da3e296">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000012" status="completed">
+            <date xml:id="idmbb71c9a7-6eb0-45d7-a8e2-f07651099e20">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm49b14213-a656-4229-aeb0-14336749a3ad">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158418704" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm854c9b88-2d8d-4d80-9a4e-822fd09c11ac">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158422192" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmfbe969ee-790b-42ec-b8a6-adf4d3357506">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000013" status="completed">
+            <date xml:id="idm190f543b-2b81-4ba7-ac2f-15f6dbd1031b">1850-08-03</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm979c9889-dbe1-47cd-91d1-eb7f8b895432">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160341696" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmcf5ebdad-7b1e-43a6-bb45-bba9d6a1f355">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160346288" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm6b4a23c2-1713-4145-b121-90a16dd5416b">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000014" status="completed">
+            <date xml:id="idm37b323d4-13fd-46b0-85ed-fa1762951bd6">1852-05-18</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf9fbce02-8442-47c2-b1d5-b3da5c362f74">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160329904" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4bb9aead-f511-4050-894c-5fbeeac66515">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160338720" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmae4c00fe-16fb-4224-8a37-c1ca2f85ad9b">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000015" status="completed">
+            <date xml:id="idm164183fa-2394-4994-af5b-2d822221a926">185u-09-28</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4fad4dc5-9e83-4610-9133-4ec6d509ad03">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160318592" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm2d0b29e5-c960-4204-8976-0fd249bd82be">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160326928" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmd2994af5-0ca9-478a-98d6-2c20bacad2a7">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000016" status="completed">
+            <date xml:id="idm79604e22-f2a9-4d0e-bb92-17a8e16f78c7">185u-06-14</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm44ab61b6-47ef-45aa-b74d-db6db0624799">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160308400" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm5ae89038-3502-4168-bff5-dbc257417198">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160314784" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm7f858ae2-7013-4487-ab78-3cb692a704be">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000017" status="completed">
+            <date xml:id="idmb5c37005-6e55-4351-a75b-0300f2dffa26">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm45f76512-0344-412c-8d6e-23b374a002b3">
+              <resp>sender</resp>
+              <name xml:id="personperson450ce105-fc99-427e-a0f1-3b557aae8f22" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm01c5940e-f813-4f59-be8e-5dcc357e0163">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmdc83053f-3df1-4a2c-8843-a560f1385c72">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000018" status="completed">
+            <date xml:id="idm07ec2aa0-1891-486c-800d-f04c634f7d26">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm9c3b657b-5853-4a84-b2b0-2d5709e10aa5">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160297568" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm9e3f22ac-8cf8-44b6-ae88-296772d8f054">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160299280" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm5e92e68a-19d8-48b0-980b-58dfc7cd6c2a">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000019" status="completed">
+            <date xml:id="idme95078b6-2116-409f-8320-7b2f0df30ac6">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm624ffbee-7f83-4ba3-b9a0-caa2ec2034d9">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160290160" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm0106beae-d9cd-42ff-b7a3-091c9bfd95a3">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160293824" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm54359b22-f44b-450c-95c0-fa32032b819b">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000020" status="completed">
+            <date xml:id="idm7a48cb78-e379-4160-b15a-4ed71c9c3ba4">1856-08-25</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmec8eb47c-d2fd-49e9-b812-97e7f5ae3eb5">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160282496" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm3b7d1c3f-7351-4089-a78b-73a7384fd32a">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160286544" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmdf5c6199-c91a-4b10-b2fe-82cd57952a5a">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000021" status="completed">
+            <date xml:id="idm6644aee2-e8e6-4ae2-8496-e03f4333eccf">1857-12-05</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm9a59ba74-7aa4-4dba-b451-4e87033511a1">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160273408" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb352573d-055a-403d-a1f3-82eb08a91b2b">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160278640" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmbe2dea12-7a10-4d12-be3b-a5ba3ba637bc">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000022" status="completed">
+            <date xml:id="idm5fcafcbc-7977-4802-9b94-5411f632cd17">1858-04-30</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm5f4f3948-5b15-4bea-a02f-e2aa46155bea">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160266560" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm435ba57c-69c5-4d93-a0ed-794400fa39f5">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160270432" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm1539f3ad-f698-4ff0-8c0f-6303dc4f2434">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000023" status="completed">
+            <date xml:id="idm0500d862-a2a3-41f4-be2d-57c8f3df9ef4">185u-07-14</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmc25125ee-9fa0-4893-a8c8-e8346635738e">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160258176" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmba46ebb7-3d6c-4613-9f89-5ec4d02cbef8">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160263584" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmecb476ec-5323-4db0-8a9d-b3d752449acb">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000024" status="completed">
+            <date xml:id="idmc5e31793-7da9-47cd-9230-577fc7719d77">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm60a9b2a4-136d-420b-95d0-689dc296e979">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160250864" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm31aff66d-1e92-449c-9fc8-624069e3d76c">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160255200" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm8c038351-e789-4f88-97f5-457fcfa95219">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000025" status="completed">
+            <date xml:id="idm26d39d32-dcfe-4266-b190-728797bc4d10">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm6b5a07f4-b9b7-4fec-adc6-6b5a2950575b">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160244992" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm0c4fef86-f5d1-4e1e-be79-1907ea8c2808">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160247888" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm5ba354f1-6232-4ef1-80aa-a4d6ad0169f0">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000026" status="completed">
+            <date xml:id="idmdb935183-3177-4624-9a2f-32a81b17cc2c">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm94f90672-ec02-49cc-8f54-71d40452d7ea">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160236192" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm76a716b1-c28f-44d1-9c0a-2629b2191f5f">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160241376" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm11a5dc58-a686-43e5-90c6-388baa6aa022">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000027" status="completed">
+            <date xml:id="idmeab10828-4f95-4878-a875-baca9a8476bb">1858-11-22</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm48cc2c03-e4c0-43ac-8f54-59da94e9a2fe">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160226160" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf63990f3-75eb-46fc-9b34-813656236459">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160231536" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm7197e666-4c50-4235-97be-3ad0a27cbdc9">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000028" status="completed">
+            <date xml:id="idma0f98c42-620b-4472-8273-7bed1e44e957">1796-06-28/1881-03-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm23394541-640e-44b9-82c4-379a8fd7deaf">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160220288" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm174daf20-18e3-4396-a386-21e3d8de2d23">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160222544" ref="e2/55/61/c1/e25561c1-1b77-46aa-8988-70b100ba30d9"><surname>Boisen</surname>,
+      <forename>Peter Outzen</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm221b47cc-ff09-43e9-b169-f1d997ba0646">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000029" status="completed">
+            <date xml:id="idm4b523712-4d03-4a4e-8de0-4177ef57846b">1868-12-31</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmaab81d09-44c6-49d3-b086-e95b6793f9f6">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160214416" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm8b52bd2a-bc1b-4a06-a310-222b2d85ec8a">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160217312" ref="26/04/62/f4/260462f4-081d-46ca-937c-4c1ade07607f"><surname>Grundtvig</surname>,
+      <forename>Meta Cathrine Marie Bang</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm0938ec18-8c69-4da1-9ace-7e5bec44f180">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000030" status="completed">
+            <date xml:id="idmed9e939f-e89b-4d14-a261-d7370502e014">1875-06-08</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb50cef60-7971-4f06-bacd-907c221659fe">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160206912" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme57d861b-f7d2-4919-8325-a27c689bc622">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160210800" ref="c8/f4/c1/f9/c8f4c1f9-91dc-4eb6-92f6-50b67eef9b42"><surname>Boisen</surname>,
+      <forename>Elisabeth</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm4a1883fc-9c77-4baf-9275-2a85c08c8105">
+              <placeName/>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022271810000031" status="completed">
+            <date xml:id="idm53abb8f0-4cbf-4f43-8d9b-b1979e3d6d8a">1879-05-10</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme785531d-1000-42d2-a7c8-c5517169b5d4">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160200256" ref="http://viaf.org/viaf/77428936"><surname/>,
+      <forename>Caroline Amalie </forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf37e89e1-31b8-40c4-bd17-e6f84c0f91b9">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160203296" ref="26/04/62/f4/260462f4-081d-46ca-937c-4c1ade07607f"><surname>Grundtvig</surname>,
+      <forename>Meta Cathrine Marie Bang</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm87d1d82f-7669-4d59-b118-df3964d72bc3">
+              <placeName/>
+            </location>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140619187623040">
+    <body xml:id="idm140619169200944">
+      <div xml:id="idm140619186699888">
+        <p xml:id="idm140619167121088">Copier af Breve<lb xml:id="idm140619168631680"/>fra<lb xml:id="idm140619168797824"/>Dronning Caroline Amalie</p>
+        <p xml:id="idm140619202244192">COPIER AF BREVE<lb xml:id="idm140619170191424"/>FRA<lb xml:id="idm140619169283920"/>DRONNING CAROLINE AMALIE</p>
+        <p xml:id="idm140619168503088">TRYKT SOM MANUSKRIPT</p>
+        <p xml:id="idm140619168483488">KJØBENHAVN MDCCCCXVIII</p>
+      </div>
+      <pb xml:id="idm140619167902240" n="1" facs="images/002227181_000/002227181_000_0008.jpg"/>
+      <div decls="bibL0022271810000001" n="1" xml:id="L0022271810000001" xml:lang="da-Dk">
+        <p xml:id="idm140619177486000">Til</p>
+        <p xml:id="idm140619198472288">Dronning <persName xml:id="idm140619164245728" type="recipient" key="Dronning Caroline Amalies Asyl, " sameAs="#personidm140619164245728">Caroline Amalies</persName>
+               <lb xml:id="idm140619168312096"/>Asyl og Asylskole.</p>
+        <p xml:id="idm140619172141952">Idet jeg takker hjærteligt for al den Venlighed, der af Alle er viist mig igjennem de mange Aar jeg har havt den store Glæde at være i Asylets Tjeneste, føler jeg Trang til at give denne lille Samling Breve — et tro Billede — blandt mange andre — af vor herlige og elskelige Dronning Caroline Amalie i hendes varme, kjærlige Hjærtelag for de Smaa herinde.</p>
+        <p xml:id="idm140619164981840"><persName xml:id="idm140619164981712" type="sender" key="Boisen, Elisabeth" sameAs="#personidm140619164981712">Elisabeth Boisen</persName>.<pb xml:id="idm140619150392048" n="2" facs="images/002227181_000/002227181_000_0009.jpg"/><pb xml:id="idm140619170073776" n="3" facs="images/002227181_000/002227181_000_0010.jpg"/><pb xml:id="idm140619187628544" n="4" facs="images/002227181_000/002227181_000_0011.jpg"/></p>
+      </div>
+      <pb xml:id="idm140619166331168" n="5" facs="images/002227181_000/002227181_000_0012.jpg"/>
+      <div decls="bibL0022271810000002" n="2" xml:id="L0022271810000002" xml:lang="da-Dk">
+        <p xml:id="idm140619171678448">HERR CANDIDAT <persName xml:id="idm140619171678192" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619171678192">BOISEN</persName>.</p>
+        <p xml:id="idm140619165408288">Jeg har ladet Quade underrette om min Hensigt at leje Vester-Volds Mølle for en Tid, til en Skole, og lovet at indestaa for, at Børnene ikke beskadiger noget paa Volden. (Det er al den Formalitet, som behøves.) Nu kan De indgaa Kontrakten med Mølleren.</p>
+        <p xml:id="idm140619171827392">Velvilligst</p>
+        <p xml:id="idm140619171827008"><persName xml:id="idm140619171826880" type="sender" key=", Caroline Amalie " sameAs="#personidm140619171826880">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619171876912" n="5" facs="images/002227181_000/002227181_000_0012.jpg"/>
+      <div decls="bibL0022271810000003" n="3" xml:id="L0022271810000003" xml:lang="da-Dk">
+        <p xml:id="idm140619163640416">TIL <persName xml:id="idm140619163640160" type="recipient" key="Komite for de af asylet i Sølvgade udgangne børn, " sameAs="#personidm140619163640160">DEN HÆDREDE COMITÉ</persName> FOR DE AF ASYLET</p>
+        <p xml:id="idm140619163649232">I <address xml:id="idm140619163648976"><addrLine xml:id="idm140619163648848">SØLVGADEN UDGANGNE BØRN</addrLine></address>.</p>
+        <p xml:id="idm140619163656592">Den Iver og Kjærlighed, hvormed Comiteen antager sig mine af Asylet udgangne Børn, gjør mig det til en kjær Pligt at underrette Samme om min Hensigt næstkommende Efteraar at oprette en Skole for de for Fremtiden af Asylet i Sølvgaden udgaaende Børn. Jeg har til den Ende bedt Hr. Candidat Rørdam at paatage sig Indretningen af Skolen og overdraget ham Overopsynet med samme. Hvad Lærernes Valg angaar, kan jeg følgeligen være aldeles tryg og forvisset om, at Aanden i Skolen bliver christelig; men Lærerindens Valg har Candidat Rørdam aldeles frasagt sig, dette paahviler mig <pb xml:id="idm140619156048192" n="6" facs="images/002227181_000/002227181_000_0013.jpg"/>selv, og i den Anledning henvender jeg mig til Dem, mine ærede Damer, og udbeder mig Deres Hjælp derved. Ved Deres udbredte Bekjendtskab kan det ej fejle, at De vil kunne finde en Person at foreslaa mig til denne Post. Jeg vil nu skildre Dem mit Ønske i saa Henseende:</p>
+        <p xml:id="idm140619156047008">En saadan Lærerinde bør være ordentlig og renlig til den yderste Grad, og strengt vaage over disse Dyder hos Børnene; hun bør være ferm til Syning, Strikning, Spindning og Stopning og lære Børnene dette til Gavns, med sand Alvor. At hun bør være af strenge Sæder, retskaffen i alle Maader, forstaar sig af sig selv; hvis hun tillige var from, havde et religiøst Gemyt, om saa bedre; men da hele Skolen ledes af en Christen, altsaa Pigerne under den øvrige Undervisning lever i en christelig Atmosphære, saa bør hermed Øjemærket henvendes paa Lærerindens Dygtighed.</p>
+        <p xml:id="idm140619156045984">Jeg har tænkt mig, at den første af Lærerne burde bo i Skole-Bygningen, og Lærerinden ligesom de øvrige Lærere blot opholde sig i Skolen, saalænge de underviser. For 6 Timers Undervisning daglig, troer jeg, at Lærerinden kan gjøre Regning paa 200 Rbd. om Aaret. Alt dette staar imidlertid endnu ikke fast hos mig, trænger til en endnu modnere Drøftning, og det vilde være mig kjært, hvis denne Gjenstand maatte glæde sig ved Comiteens Deliberation, og den da senere vilde gøre mig For slag desangaaende. —</p>
+        <p xml:id="idm140619156044960">Idet jeg her gjentager mit Hjertes varmeste Tak for Deres mig saa saare glædende Virken for mine Børn, tilønsker jeg den hædrede og kjære Comité fremdeles Herrens Velsignelse og tegner</p>
+        <p xml:id="idm140619156044176">velvilligst og taknemligst</p>
+        <p xml:id="idm140619155957872"><persName xml:id="idm140619155957744" type="sender" key=", Caroline Amalie " sameAs="#personidm140619155957744">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619155956864" n="7" facs="images/002227181_000/002227181_000_0014.jpg"/>
+      <div decls="bibL0022271810000004" n="4" xml:id="L0022271810000004" xml:lang="da-Dk">
+        <p xml:id="idm140619155955024">HERR CANDIDAT <persName xml:id="idm140619155954768" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619155954768">PETER BOISEN</persName>.</p>
+        <p xml:id="idm140619155954016">Tilgiv at jeg først saa sent sender Dem det første Kvartal. Lad mig benytte denne Lejlighed for atter at takke for al Deres Troskab, for mine Unge og Gamle, og for atter at udtale min Velsignelse over Dem. Maatte Herren ret synligen være med Dem og Deres kjære Brødre i dette Aar! Maatte Han først og fremmest være med mig, saa jeg maatte kunne fejre en nye Opstandelse i kraftig Daad i Hans Tjeneste! Deres Broder Carl er ankommet. Gud velsigne hans Indgang i sit nye besværlige Kald! Hvis han ønsker at tale med mig, da bed ham komme paa Onsdag Kl. 1, hvis han kan det.</p>
+        <p xml:id="idm140619155952992">Guds Fred!</p>
+        <p xml:id="idm140619155952608"><persName xml:id="idm140619155952480" type="sender" key=", Caroline Amalie " sameAs="#personidm140619155952480">CAROLINE AMALIE</persName>.</p>
+        <postscript xml:id="idm140619155951728">
+          <p xml:id="idm140619155951472">Vil De give Pengene til den lille Schmidth til Deres yngste Broder; han besørger dem jo til Reedtz.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619155950608" n="7" facs="images/002227181_000/002227181_000_0014.jpg"/>
+      <div decls="bibL0022271810000005" n="5" xml:id="L0022271810000005" xml:lang="da-Dk">
+        <p xml:id="idm140619155948768"><date xml:id="idm140619155948640" sameAs="idm04073746-7752-44ed-8ffb-554d6e46f0cf">Mandag d. 2den Oktober</date>.</p>
+        <p xml:id="idm140619155760000">HERR CANDIDAT <persName xml:id="idm140619155759744" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619155759744">BOISEN</persName>.</p>
+        <p xml:id="idm140619155758992">Kan De komme herud i Morgen Formiddag Kl. 1. Da beder jeg ogsaa Frøken Andresen, og vi vil foreløbig da tale med Frøken Sieveking om, hvad der lader sig gjøre for vore Fattige. De tager Dem da nok en Vogn hos Dahl og kjører maaske senere til Søllerød og forretter et Fattig-Besøg for mig i Nærum. Disse Papirer angaaer en ulykkelig Familie i Nærum; jeg tog Frøken <pb xml:id="idm140619155757984" n="8" facs="images/002227181_000/002227181_000_0015.jpg"/>Sieveking paa Raad. Hun talte med Konen og troede at kunne raade mig anvende 20 eller 30 Rbd. paa denne Familie for at købe nyt Værktøj, da Konen foregiver at kjende nogle Svende, der i Mandens Sygdomstilstand vil paatage sig Arbejdet. Til Konen selv vilde jeg paa ingen Maade give en saadan Sum, og først ønsker jeg at have Vished og Sikkerhed for, at de omtalte Svende kan og vil paatage sig Arbejdet, i den Tid Manden endnu er udygtig til Arbejde. Jeg fortæller Dem alt dette, for at De i Forvejen er underrettet og kan forberede den mest hensigtsmæssige Maade til at udføre denne Hjælp. Altsaa i Morgen Kl. 1. Hils venligst Deres Broder og Jomfru Jakobsen og alle Børnene.</p>
+        <p xml:id="idm140619155756192"><persName xml:id="idm140619155756064" type="sender" key=", Caroline Amalie " sameAs="#personidm140619155756064">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619155755184" n="8" facs="images/002227181_000/002227181_000_0015.jpg"/>
+      <div decls="bibL0022271810000006" n="6" xml:id="L0022271810000006" xml:lang="da-Dk">
+        <p xml:id="idm140619155753344">HR. CANDIDAT <persName xml:id="idm140619155753088" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619155753088">BOISEN</persName>.</p>
+        <p xml:id="idm140619155752336">Maa jeg som sædvanlig tilligemed Deres Kvartal sende Udlægget for lille Schmidth i Horsens, som Deres Svoger Reedtz er saa god at besørge. Naar Frøken Sieveking er hos mig i næste Uge, var det vel, De kom en Dag for at fortælle os om de Damer, De skrev mig om, som De troede skikkede sig til at deltage i en »Frauen Verein«. Vi vil blot saa ganske smaat forberede Sligt, for at en saadan Indretning kan blive i christelige Hænder, i det mindste under christelig Bestyrelse, og Verdens Forfængelighed ej kommer til at smitte dem; Vi vil slet ikke tale derom. — Jeg haaber, Deres Broder og Børnene har det godt!</p>
+        <p xml:id="idm140619155751312"><date xml:id="idm140619155751184" sameAs="idm66d994a1-7a55-4e3d-9b50-ec0cb7e995ba">d. 30. September</date>.</p>
+        <p xml:id="idm140619155750672">Velvilligst</p>
+        <p xml:id="idm140619155750288"><persName xml:id="idm140619155750160" type="sender" key=", Caroline Amalie " sameAs="#personidm140619155750160">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158460480" n="9" facs="images/002227181_000/002227181_000_0016.jpg"/>
+      <div decls="bibL0022271810000007" n="7" xml:id="L0022271810000007" xml:lang="da-Dk">
+        <p xml:id="idm140619158458752">HR. CANDIDAT <persName xml:id="idm140619158458496" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619158458496">BOISEN</persName>.</p>
+        <p xml:id="idm140619158457744">Jeg bifalder ganske, hvad De har gjort i Henseende til den tvetydige Person, der gaar under et falsk Navn. — Gud være lovet, at Deres Broder kommer sig! Hvilken ængstelig Tid for Dem og Deres Broder Harald, imedens Sygdommen stod paa. — Hvor meget end De og jeg kunne ønske, at Deres Forslag angaaende Grundtvig lod sig udføre, vil De selv ved modnere Overlæg indse, at dette Ønske for Tiden hører til de uopfyldelige.</p>
+        <p xml:id="idm140619158456528">Mig synes, De bør anmode de af Søndagsbørnene, der hører til vor Asylskole, at besøge Vartov hver Søndag, imedens der ingen Søndags-Samling er i Asylet, medens Ferien er. Naar da een eller anden af disse Børn kunde tegne noget op af det, de har hørt Grundtvig præke over, vilde det med det Samme være en god Øvelse i Opmærksomhed. — De af Børnene, der ikke gaar i Asylskolen, bør ogsaa anmodes om at gaa i Kirke, under Deres Fraværelse. Vil De ikke være saa god at tale med Jomfru Brandts Læge om at bestille hende en Lænestol; den maa være meget hensigtsmæssig til at understøtte det syge Knæ og skjænke hende en velgjørende Hvile. Om en saadan Stol ogsaa koster nok saa meget, saa vil jeg gjerne spandere dette paa hende, for at hun kan faa det rigtig godt. Om saadan en bekvem Stol skulde koste 50 Rbd., vilde jeg give det derfor.</p>
+        <p xml:id="idm140619158454368">God Bedring tilønsker jeg Deres Broder; og Dem og Deres yngste Broder en glad Ferie.</p>
+        <p xml:id="idm140619158453792">Før <date xml:id="idm140619158453536" sameAs="idm9a4572bc-b82b-47b9-8a83-385dc4ef40fe">Mandag</date> kommer jeg ikke til Byen.</p>
+        <p xml:id="idm140619158453024">Guds Fred!</p>
+        <p xml:id="idm140619158452640"><persName xml:id="idm140619158452512" type="sender" key=", Caroline Amalie " sameAs="#personidm140619158452512">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158451632" n="10" facs="images/002227181_000/002227181_000_0017.jpg"/>
+      <div decls="bibL0022271810000008" n="8" xml:id="L0022271810000008" xml:lang="da-Dk">
+        <p xml:id="idm140619158449792">HERR CANDIDAT <persName xml:id="idm140619158449536" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619158449536">BOISEN</persName>.</p>
+        <p xml:id="idm140619158448784">Her sender jeg Dem 50 Rbd. til Herr Levinsen for at anskaffe nyttige Bøger til Tugthusfangerne i Viborg. Vor Herre velsigne Valget og Læsningen! — Berendsens Anbefaling er ret god; men det undrer mig, at hun søger denne Plads, hun, der har et Institut paa tredive Elever, hvor hun gavner meget. Det vil være rigtigst, at Jomfru Jakobsens Anbefaling vejleder mig ved Valget af hendes Eftermand. Jeg haaber paa Tirsdag at indhente det, jeg forsømte forrige Tirsdag, Besøget i Skolen, og da taler jeg med Jakobsen. — Grundtvig fik mit fulde Samtykke til en Lærerfamilie boende i Skolen. Om Skolen vil have Gavn heraf eller ej, vil jo først Frugterne vise; men begge var vi enige i, at hvis det forandrede i Lærerens Stilling skulde svække hans Interesse for Skolen, da kjendte vi jo begge Læreren nok til at vide, at en Erindring herom af een af os vilde være tilstrækkelig, for at han selv rettede dette.</p>
+        <p xml:id="idm140619158446400">Nu Gud befalet Læreren og Børnene.</p>
+        <p xml:id="idm140619158446016"><date xml:id="idm140619158445888" sameAs="idm65248c65-2a4a-4baf-8321-14b85d83a7a9">30. Januar 1847</date>.</p>
+        <p xml:id="idm140619158445376">Velvilligst</p>
+        <p xml:id="idm140619158444992"><persName xml:id="idm140619158444864" type="sender" key=", Caroline Amalie " sameAs="#personidm140619158444864">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158443984" n="10" facs="images/002227181_000/002227181_000_0017.jpg"/>
+      <div decls="bibL0022271810000009" n="9" xml:id="L0022271810000009" xml:lang="da-Dk">
+        <p xml:id="idm140619158442144">HR. CANDIDAT <persName xml:id="idm140619158441888" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619158441888">BOISEN</persName>.</p>
+        <p xml:id="idm140619158441136">Først mine bedste Ønsker til det nye Aar. Gud velsigne Skolen og lade der opvokse en fast Stab til Hans Ære. Gud velsigne ogsaa Deres Gjerning hos de fattige. Mine varme Ønsker for Dem og Deres Børn, for Deres Broder og Svigermor. Herren holde sin beskjærmende Haand over Møllen. Her sender jeg Dem de forskjellige <pb xml:id="idm140619158440256" n="11" facs="images/002227181_000/002227181_000_0018.jpg"/>Summer, enhver betegnet. Til Lindberg hvert Kvartal 125 i 4 Kvartaler. En af Dagene ser jeg Dem nok. Her er Skaaruppernes Adresse og en anden Ansøgning, jeg har modtaget. Dernæst ønskede jeg at tale med Dem om en Bog, jeg har modtaget af Jørgensen-Jomtaug; salig Kongen protegerede den Mand, hans Hensigter ere mest gode.</p>
+        <p xml:id="idm140619158438656">Velvilligst</p>
+        <p xml:id="idm140619158438272"><persName xml:id="idm140619158438144" type="sender" key=", Caroline Amalie " sameAs="#personidm140619158438144">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158437264" n="11" facs="images/002227181_000/002227181_000_0018.jpg"/>
+      <div decls="bibL0022271810000010" n="10" xml:id="L0022271810000010" xml:lang="da-Dk">
+        <p xml:id="idm140619158435424">HR. CANDIDAT <persName xml:id="idm140619158435168" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619158435168">BOISEN</persName>.</p>
+        <p xml:id="idm140619158434416">Det er nødvendigt at forklare Dem Grunden, hvorfor jeg faldt paa ingen Æbler og Kager at ville have paa Juletræet; det var, fordi Børnene i Aften blev saa graadige ved Fordelingen af de afklippede Æbler og Kager, og jeg frygter, at somme af dem paastod Intet at have faaet, for at faa des mere; der var een af Drengene, der havde hele 5 Kager af dem paa Træet. Men vi have jo langt færre Børn og behøver da kun ordentlig at kontrollere dem, hvilket det indskrænkede Rum og den større Mængde Børn i Aften gjorde umuligt. Lad Dem derfor ej forstyrre med Træets Pynten efter den første Bestemmelse.</p>
+        <p xml:id="idm140619158433392"><persName xml:id="idm140619158433264" type="sender" key=", Caroline Amalie " sameAs="#personidm140619158433264">CAROLINE AMALIE</persName>.</p>
+        <p xml:id="idm140619158432512"><date xml:id="idm140619158432384" sameAs="idm39451b60-c5f2-4101-8efe-48f9c1509715">Torsdag Aften</date>.</p>
+      </div>
+      <pb xml:id="idm140619158431744" n="12" facs="images/002227181_000/002227181_000_0019.jpg"/>
+      <div decls="bibL0022271810000011" n="11" xml:id="L0022271810000011" xml:lang="da-Dk">
+        <p xml:id="idm140619158429904">Hjertelig Tak, Herr Candidat <persName xml:id="idm140619158429648" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619158429648">Boisen</persName>, for Deres mange gode og kjærlige Ønsker baade fra Dem selv og Deres hele Kreds, Børnene alle iberegnede. Gud velsigne Dem alle for Deres Kjærlighed, som jeg beder Gud stedse at ville bevare mig. Usigelig glæder det mig ogsaa, at Grundtvig har villet fejre d. 28nde Juni. Jeg skal selv takke ham derfor. Des værre tillader mit Ben mig ikke at komme til Byen næste Onsdag, hvor jeg da mundtlig havde kunnet takke, men maa bede Dem at ville gjøre det i mit Sted til Alle. — En uhyre Glæde var mig det Brev fra de syge og saarede Soldater, Gud lønne disse taalmodige Helte for slig Paaskjønnelse. Vil De bede Pastor Holsteen i mit Navn at udtale til dem alle min varme Tak for Deres gode Ønsker, som jeg saa inderlig havde paaskjønnet. — Hver Gang jeg kunde gjøre dem en Glæde, takkede jeg Gud derfor, og bad ham lade mig være dem til saa megen Nytte, som Han ønskede det, —</p>
+        <p xml:id="idm140619158427024">Schjern vil De sende 10 Rbd,, den stakkels Mand har mistet meget med Kongens Bortgang. —</p>
+        <p xml:id="idm140619158426448">Her ere Pengene til de fattige og til Lindberg og til den lille Schmidth.</p>
+        <p xml:id="idm140619158426064">Mine hjerteligste Hilsner til Deres Kone, Broder og Svigerinde.</p>
+        <p xml:id="idm140619158425680">Velvilligst</p>
+        <p xml:id="idm140619158425296"><persName xml:id="idm140619158425168" type="sender" key=", Caroline Amalie " sameAs="#personidm140619158425168">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158424288" n="13" facs="images/002227181_000/002227181_000_0020.jpg"/>
+      <div decls="bibL0022271810000012" n="12" xml:id="L0022271810000012" xml:lang="da-Dk">
+        <p xml:id="idm140619158422448">HERR CANDIDAT <persName xml:id="idm140619158422192" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619158422192">BOISEN</persName>!</p>
+        <p xml:id="idm140619158421440">Gud være lovet, der holdt sin Haand over Deres Svogre. Sig til Deres kjære Meta, hvor inderlig jeg glæder mig herover. Gud beskytte og beskjærme dem fremdeles! Det var mig en kjær Tanke, at De besøger de Saarede, og at De endog vil se til dem i Schleswig ved at rejse til Flensborg med Roepstorf. Maatte De ret som et Herrens Sendebud kunne bringe Lindring og Trøst blandt alle disse Lidende. Jeg sænder Dem her de tilgodehavende 300 Rbd. og beder Dem benytte deraf, hvad der kan afses fra de Fattige, til de Saarede. Maaske De endnu skriver mig nogle Ord, inden De rejser, for at underrette mig om, hvad man mest trænger til i Lazaretterne i Kjøbenhavn. Jomfrue Krause kommer nu nok snart hjem. Hvilket sørgeligt Hverv for Dem og Meta at maatte melde Fru Dalgas og Datter een Søns Død og den andens farlige Saaring. Stakkels Svend, der begræder sin bedste Ven: Lt. Blom! Hvor mange, mange ere sønderknuste af Smerte; stakkels Læssøe! hvor mon det gaar ham! Gud velsigne Dem og Deres fremdeles.</p>
+        <p xml:id="idm140619158419216">Velvilligst</p>
+        <p xml:id="idm140619158418832"><persName xml:id="idm140619158418704" type="sender" key=", Caroline Amalie " sameAs="#personidm140619158418704">CAROLINE AMALIE</persName>.</p>
+        <postscript xml:id="idm140619158417952">
+          <p xml:id="idm140619158417696">Skulde Stuerne i Asylet ikke blive rigtig tørre til næste Mandag, da er det bedre at lade Ferien vedblive endnu i næste Uge.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619160348912" n="14" facs="images/002227181_000/002227181_000_0021.jpg"/>
+      <div decls="bibL0022271810000013" n="13" xml:id="L0022271810000013" xml:lang="da-Dk">
+        <p xml:id="idm140619160347184"><date xml:id="idm140619160347056" sameAs="idm190f543b-2b81-4ba7-ac2f-15f6dbd1031b">Den 3die August 1850</date>.</p>
+        <p xml:id="idm140619160346544">HR. CANDIDAT <persName xml:id="idm140619160346288" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160346288">BOISEN</persName>.</p>
+        <p xml:id="idm140619160345536">Her sender jeg Dem 24 Flasker tynd Hindbærsaft og 17 Flasker tynd Ribssaft til at blande i Vand til de Saarede. Gud velsigne nu denne Drik, saa den ret maa kvæge de stakkels Saarede. Da jeg modtog Deres Brev i dette Øjeblik først, ser Rønne sig ikke i Stand til at faa pillet Stikkelsbær og Ribs, men paa Tirsdag vil han atter sende en Transport under medfølgende Adresse, som De vil underrette Vedkommende om. Det glæder mig, at De selv kan omdele Saften. Hils nu de mange ulykkelige Saarede paa det kjærligste fra mig. Gud give, jeg ret kunde lindre dem. Gud være lovet, at den unge Dalgas kun er saaret. Gud holde sin Haand over ham.</p>
+        <p xml:id="idm140619160344448">Velvilligst</p>
+        <p xml:id="idm140619160344064">CAROLINE AMALIE.</p>
+        <p xml:id="idm140619160343680">P. S. Jeg formodede, at De havde benyttet til eget Brug de 100 med min første Contingent af 300 Rbd., hvorfor jeg lod det andet af 300 gaa under et. De har da modtaget ialt 500 til de fattige og 100 til Dem selv, altsaa 600 Rbd. Mine øvrige Penge modtager jeg paa Mandag og skal da Tirsdag sænde de manglende 200 Rbd. til Grundtvig til Skolen.</p>
+        <p xml:id="idm140619160342592">Nu Gud befalet.</p>
+        <p xml:id="idm140619160342208">Velvilligst</p>
+        <p xml:id="idm140619160341824"><persName xml:id="idm140619160341696" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160341696">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160340816" n="15" facs="images/002227181_000/002227181_000_0022.jpg"/>
+      <div decls="bibL0022271810000014" n="14" xml:id="L0022271810000014" xml:lang="da-Dk">
+        <p xml:id="idm140619160338976">HERR CANDIDAT <persName xml:id="idm140619160338720" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160338720">BOISEN</persName>.</p>
+        <p xml:id="idm140619160337968">Tak, hjertelig Tak for Deres og Metas kjærlige Ønsker for mig i Anledning af min Flytten til mit yndige Sorgenfri, som er klædt i Foraarets skønneste Pragt. Man kan ordentlig se det Grønne vokse og udvikle sig Time for Time, og Hjertet udbryder ofte om Dagen: »Hvor god, hvor Glæde beredende er dog Vorherre!« Jeg skjønner saa uendelig paa, hvor godt jeg har det; nu bare jeg ret var taknemlig efter Guds Villie, gjennemtrængt af Kjærlighed til Ham, den kjære Fader i Himlen, og til Næsten, men se, det sidste, der kniber det. Hvor ere vore Hjerter dog onde og kolde! og hvor burde de være smeltede ved Guds Godhed mod os! — Jeg ser lille Elisabeth sidde ganske alvorlig og synge Dukken i Søvn, som om det var den vigtigste Sag af Verden. Gud velsigne det kjære Barn og lad hende vokse, hendes kjærlige Forældre til Glæde og Velsignelse. — Fru Holmers Børns Optagelse i Asylet vil vi drøfte i næste Comité, dog synes mig ej om at lade Moderen hente Børnene, til hvad Tid og hvor længe hun vil, det forstyrrer Principperne. Vel have vi tidligere, i Sygdoms Tilfælde, haft Børn i Pleje, men naar Moderen kom sig, eller kom tilbage fra sin Rejse, saa gik de helt ud, men aldrig lod vi Børnene afhente fra Asylet og bringe derhen igjen, eftersom Forældrene syntes. Vel er dette Tilfældet i Paris og andre større Byer, men hvis alle Forældrene gjorde det hos os, vilde der ikke kunne sørges for den tilbørlige Orden i Tid og Undervisning. Vore Asyler ere grundede efter andre Regler. Gjerne giver jeg Lovise Meidel den af Olympia ikke benyttede Plads, naar Maribo vil være saa artig at tage Olympia gratis, hvis hun kommer sig. Vil De udrette det? Der kan gjerne tages et Barn mer i Asylet, da de indskrevne aldrig ere fuldtallige. Hvis jeg ser Kud, skal jeg bede ham om at tænke paa Reparationerne i Asylet; jeg skrev ham netop til i Morges, førend Deres Brev kom. Men Algreen, har jeg glemt ham? Kan han bie til Jul? Da skal han <pb xml:id="idm140619160333520" n="16" facs="images/002227181_000/002227181_000_0023.jpg"/>hjælpes til Gavns! Husk mig bare paa ham og paa de forskjellige Udgifter, som bør udredes til Studenterforeningen etc. etc.</p>
+        <p xml:id="idm140619160332320">I Søndags havde jeg et Besøg af Blædel; han tilbød at præke en Gang herude i Lyngby, hvortil jeg ret glæder mig. Han er inspireret. Gid vi alle maatte gjøre os rede til at modtage Aanden, den Hellige, hvis Han vilde gjæste os. —</p>
+        <p xml:id="idm140619160331440">Nu Gud være med Dem og Deres.</p>
+        <p xml:id="idm140619160331056"><date xml:id="idm140619160330928" sameAs="idm37b323d4-13fd-46b0-85ed-fa1762951bd6">18. Maj 1852</date>.</p>
+        <p xml:id="idm140619160330416">Velvilligst</p>
+        <p xml:id="idm140619160330032"><persName xml:id="idm140619160329904" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160329904">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160329024" n="16" facs="images/002227181_000/002227181_000_0023.jpg"/>
+      <div decls="bibL0022271810000015" n="15" xml:id="L0022271810000015" xml:lang="da-Dk">
+        <p xml:id="idm140619160327184">HR. CANDIDAT <persName xml:id="idm140619160326928" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160326928">BOISEN</persName>.</p>
+        <p xml:id="idm140619160326176">Jeg har det ubehagelige Hverv at skulle meddele Dem Fredrik Ferdinand Petersens forestaaende Udgang af Elevskolen for Underofficerer i Artilleriet formedelst Uduelighed i Lærefagene. De bør jo før jo heller se at faa ham ud fra Skolen førend Maanedens Udgang, hvilket De vil se af Fensmarks Brev til Frøken Andresen, der er fra d. 13de og altsaa har ventet paa hendes Ankomst her i over 8te Dage. Jeg har ladet hende svare Fensmark, takke for hans hafte Ulejlighed og beklaget Uhældet. — I Gaar har jeg ladet Væveren sætte et Stykke Lærred i Arbejde af 100 Alen, og naar det er vævet, skal atter et Stykke af samme Størrelse forfærdiges, saa jeg haaber, der skal ej mangle Lærred til de fornødne Stykker Linned; Mavebælterne og Benklæderne og Strømperne, vil De lade de fornødne Stykker, som ikke haves i vor Fabrik, tage paa Regning. Det er vel, at de formanes til Renlighed og frisk Luft. Jeg haaber til Gud med Dem, at vi ingen Kolera faar, men fik vi <pb xml:id="idm140619160323600" n="17" facs="images/002227181_000/002227181_000_0024.jpg"/>den, vilde god varm Føde i den Tid være et kraftigt Beskyttelsesmiddel, næst Guds Bistand! og mig synes, at vi burde være beredt paa i saa Tilfælde straks at aabne en Bespisnings-Anstalt for vore store og smaa Børn, der kun nøjes med tør og kold Kost. Et Lokale burde haves i saa Tilfælde, en ærlig Kok eller Koge-Kone, en christelig Kontrol vaage over det hele, og Dronningens Navn helst slet ikke komme i Betragt, jeg troer virkelig, at Sagen fremmes mere ved at jeg holder mig udenfor, eller rettere, mit Navn slet ikke kommer til at paradere ved den Lejlighed. Mine Penge kommer fra Gud og dernæst fra Staten; jeg har ej erhvervet min Formue i mit Ansigts Sved og forstaar godt Andres Misnøje mod dem, der saa nemt kommer dertil. Ofte skade vore Venner os mest ved af altfor stor Kjærlighed at udbasunere vore Fortjenester. 400 Rbd. at begynde med kan jeg nok skaffe til den Bespisningsanstalt, og da vil Gud nok hjælpe vidre.</p>
+        <p xml:id="idm140619160320768">Her er endnu flere Ansøgninger. Jeg skal se at faa Lange i Tale angaaende Vaskerhuset for Fattige. De seks Piger, som skal confirmeres, maa De ønske Guds Velsignelse til det vigtige Skridt, de foretager. Gud lede de kjære Børn paa Sine Veje, som De siger. Mange Hilsner til Meta og Elisabeth og Grundtvigs.</p>
+        <p xml:id="idm140619160319744"><date xml:id="idm140619160319616" sameAs="idm164183fa-2394-4994-af5b-2d822221a926">28. September</date>.</p>
+        <p xml:id="idm140619160319104">Velvilligst</p>
+        <p xml:id="idm140619160318720"><persName xml:id="idm140619160318592" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160318592">CAROLINE AMALIE</persName>.</p>
+        <postscript xml:id="idm140619160317840">
+          <p xml:id="idm140619160317584">Gjerne talte jeg med Dem om alle disse Ting.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619160316880" n="18" facs="images/002227181_000/002227181_000_0025.jpg"/>
+      <div decls="bibL0022271810000016" n="16" xml:id="L0022271810000016" xml:lang="da-Dk">
+        <p xml:id="idm140619160315040">HR. CANDIDAT <persName xml:id="idm140619160314784" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160314784">BOISEN</persName>.</p>
+        <p xml:id="idm140619160314032">Ansøgningen fra Madame Poeske i Kjøge er straks sendt til Slagelse. Jeg er meget tilfreds med alt, hvad De foreslaaer i Henseende til Madame Spiegel i Holte, og jeg giver Dem carte blanche til at anskaffe de fornødne Bøger; ogsaa sender jeg her de 10 Rbd. hun skylder sin Vært; den gamle Kone bør have Sindet roligt til vel at forrette sit værdige Foretagende. Skjønt var det, hvis Deres Ven Høgh kunde bringe christeligt Liv i dette lille Asyl.</p>
+        <p xml:id="idm140619160313024">Angaaende Carstens bad jeg Kongen i Søndags drive paa Afgørelsen, jeg ved ej, om det er skeet til Mandens Tilfredshed? Jeg skriver nu 2 Ord til Kongen, der er i Byen, og skal atter spørge derom! Tildragelsen med Ludvig Johansen har meget bekymret mig, for Barnet selv, og tillige for den Miscredit, Skolen let ved slige Uheld faaer blandt Publikum. Jeg har saa mange, mange Modstandere, og det er saa tungt, naar der virkelig gives Anledning til Dadel, i det mindste i Verdens Øjne. Ellers har det rørt og glædet mig at see, med hvilken Frimodighed Deres Broder anklager sin egen Uforsigtighed ved at have ladet den af Hængslerne løsgaaede Laage staa lænet mod Muren. Dette vil være en Advarsel for Fremtiden, ikke mere at lade noget staa, som Børnene kan vælte over sig. Dog vil Ludvig Johansens Uheld i det mindste i den første Tid være den kraftigste Paamindelse om, hvad Ulydighed fører til. Her maa jeg anklage mig selv ved ikke nok at paasee Lydighedens strenge Overholdelse i Asylet. Vore smaa Børn ere virkelig meget ulydige! Naar man kunde bringe dem til Lydighed af Kjærlighed hellere end af Frygt, dog troer jeg, at Lydighed af Frygt er at foretrække for aldeles Ulydighed. — Hvorledes er det gaaet med Prækenen i Søndags? Det er vel, at De har brudt Isen! Det var godt, at De engang kom herud en Søndag, hvis Spür vilde læse i Asylet, da faar De Kongen bedst i Tale, dog næste Søndag er han her ikke. Vi <pb xml:id="idm140619160310800" n="19" facs="images/002227181_000/002227181_000_0026.jpg"/>taler nok nærmere paa Fredag, naar jeg kommer til Skolen. Tak fordi De spørger til mit Helbred; jeg er meget bedre, men ganske rask er jeg endnu ikke.</p>
+        <p xml:id="idm140619160309552">Guds Fred!</p>
+        <p xml:id="idm140619160309168"><date xml:id="idm140619160309040" sameAs="idm79604e22-f2a9-4d0e-bb92-17a8e16f78c7">d. 14. Juni</date>.</p>
+        <p xml:id="idm140619160308528"><persName xml:id="idm140619160308400" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160308400">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160307520" n="19" facs="images/002227181_000/002227181_000_0026.jpg"/>
+      <div decls="bibL0022271810000017" n="17" xml:id="L0022271810000017" xml:lang="da-Dk">
+        <p xml:id="idm140619160305680">Angaaende den omtalte Sjælesorg for mine Fattige, mener jeg, at der bør gjøres et Udvalg af de mest modtagelige for Guds Ord, især alle dem, der længes efter Trøst og noget fast at holde sig til. Et lille indskrænket Udvalg! Lad os begynde saa smaat. Man virker ogsaa kraftigere og til mere Velsignelse paa et lille Antal, end som paa et større. — Da jeg kjender og til fulde paaskjønner Deres store Samvittighedsfuldhed, troer jeg, at det her er paa sit rette Sted at advare Dem: ikke at paatage Dem mere i denne Sjælesorg, end som De ved Siden af Deres øvrige forskjellige Forretninger med fuldkommen Sindsro kan overkomme. Jeg har tænkt mig Deres nye Virksomhed omtrent saaledes: De besøger daglig flere af disse Familier, stræber ved denne hyppige Omgang stedse at blive mere og mere fortrolig med disse Mennesker og alle deres Forhold, søger at bringe Guds Ord til dem ved Samtale og ved at læse for Dem i Biblen, lære dem at bede i Aand og Sandhed ved stundom især i begejstrede Øjeblikke selv at bede højt for dem og med dem. Det Maal, De stræber til, bør være, at sand Gudsfrygt tager blivende Sted blandt disse Familier! Om dette vil opnaas hos nogle, endsige hos alle, derfor vil vi lade Herren raade! Kun at De i Hans Navn arbejder trolig hver Dag i denne Hans Vingaard. Jo mere De selv som Ranke holder Dem tæt til Ham, der er Vintræet, og stræber at rense Dem selv, saa De kan bære ret megen <pb xml:id="idm140619160303504" n="20" facs="images/002227181_000/002227181_000_0027.jpg"/>Frugt, jo mere Magt vil De faa af Vingaardsmanden til at skaffe gode Omvendelsesfrugter blandt de andre Ranker, der da vil bøje sig efter Deres Eksempel og ogsaa tragte efter at ranke sig op ad Vintræet.</p>
+      </div>
+      <pb xml:id="idm140619160302016" n="20" facs="images/002227181_000/002227181_000_0027.jpg"/>
+      <div decls="bibL0022271810000018" n="18" xml:id="L0022271810000018" xml:lang="da-Dk">
+        <p xml:id="idm140619160300176"><date xml:id="idm140619160300048" sameAs="idm07ec2aa0-1891-486c-800d-f04c634f7d26">Kl. 8½</date>.</p>
+        <p xml:id="idm140619160299536">HERR PASTOR <persName xml:id="idm140619160299280" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160299280">BOISEN</persName>.</p>
+        <p xml:id="idm140619160298528">De vil undskylde, ifald jeg kommer lidt senere.</p>
+        <p xml:id="idm140619160298080">Velvilligst</p>
+        <p xml:id="idm140619160297696"><persName xml:id="idm140619160297568" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160297568">CAROLINE AMALIE</persName>.</p>
+        <postscript xml:id="idm140619160296816">
+          <p xml:id="idm140619160296560">De venter jo ingenlunde paa mig.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619160295920" n="20" facs="images/002227181_000/002227181_000_0027.jpg"/>
+      <div decls="bibL0022271810000019" n="19" xml:id="L0022271810000019" xml:lang="da-Dk">
+        <p xml:id="idm140619160294080">HERR PASTOR <persName xml:id="idm140619160293824" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160293824">BOISEN</persName>.</p>
+        <p xml:id="idm140619160293072">Vilde De ikke i Morgen tidlig sende Gier ud til Østerfælled, hvor han hos Detaille-Handleren kunde erfare, hvor, i hvilket af Husene: Thora Nielsen boer. Vi mødte i Gaar en nydelig 12—13 Aars Pige med en stor Sæk Høvlspaaner. Hun slæbte paa dem, og Byrden lod til at trykke hende; hvor det undrede mig, da hun kom forbi en Bænk, hun ej gav sig Tid til Hvile. Jeg spurgte hende hvorfor. Hun svarede: »Jeg tør ej spilde Tiden, min Moder er saa syg af Slimfeber, og vi have hverken Varme eller Mad; jeg bør skynde mig, for at der kan komme lidt i Kakkelovnen.« Jeg gav hende 1 Rbd. De skulde da have set, hvor den yndige Pige blev glad, <pb xml:id="idm140619160292096" n="21" facs="images/002227181_000/002227181_000_0028.jpg"/>hun tog min Haand, og kyssede den og sagde: »Nu skal Mutter faa Mad; oh! tusind, tusind Tak, lille Madame.« Nu længes jeg efter at høre fra denne Moder og denne Datter, om det er Mennesker, man burde have Omsorg for. Hils Meta og de Smaa,</p>
+        <p xml:id="idm140619160290672">Velvilligst</p>
+        <p xml:id="idm140619160290288"><persName xml:id="idm140619160290160" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160290160">C. A</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160289280" n="21" facs="images/002227181_000/002227181_000_0028.jpg"/>
+      <div decls="bibL0022271810000020" n="20" xml:id="L0022271810000020" xml:lang="da-Dk">
+        <p xml:id="idm140619160287440"><date xml:id="idm140619160287312" sameAs="idm7a48cb78-e379-4160-b15a-4ed71c9c3ba4">Mandag Aften 25 August 1856</date>.</p>
+        <p xml:id="idm140619160286800">HERR PASTOR <persName xml:id="idm140619160286544" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160286544">BOISEN</persName>!</p>
+        <p xml:id="idm140619160285792">Jeg sender Dem her en Ansøgning af Utberg, som ofte har digtet til mig; han er forlegen for at indløse noget Tøj, Linned, paa Assistenshuset, som han des mindre kan undvære, da han har været syg. Jeg sender her 4 Rbd. og ønsker, at De vil love ham 6 til efter første September. I Dag er Rørdams rejst til gl. Kjøge og kommer først igjen Fredag. Jeg vilde ønske, De kunde høre Rørdam imellem præke. Disse Prækner er mig en sand Vederkvægelse. Rørdam kjender det fordærvede Hjerte til Bunds. Man bliver betænkelig ved saaledes at ransages, bedrøvet at være saa langt fra den smalle Vej, men glad ved at vide at kunne altid have en Ledsager til at føre os paa den rette Vej, naar vi selv kun blot vil. O, hvor styrkes og vederkvæges vi ved at vide, Guds Kraft er mægtig i den svage!</p>
+        <p xml:id="idm140619160283728">Vil De bestemme en Dag i næste Uge for at møde her med hele Skolen! Da skal vi ogsaa tale om Madame Regnevold. Jeg ønsker at give hende en lille Pension.</p>
+        <p xml:id="idm140619160283008">Velvilligst</p>
+        <p xml:id="idm140619160282624"><persName xml:id="idm140619160282496" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160282496">CAROLINE AMALIE</persName>.</p>
+        <postscript xml:id="idm140619160281744">
+          <p xml:id="idm140619160281488">Mine hjerteligste Hilsner til Meta og Børnene.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619160280736" n="22" facs="images/002227181_000/002227181_000_0029.jpg"/>
+      <div decls="bibL0022271810000021" n="21" xml:id="L0022271810000021" xml:lang="da-Dk">
+        <p xml:id="idm140619160278896">HERR PASTOR <persName xml:id="idm140619160278640" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160278640">BOISEN</persName>.</p>
+        <p xml:id="idm140619160277888">Her er 17 Pengebreve. Til Algreen og de andre skal jeg give Dem efter Nytaar. Jeg ønskede nok at have et sandt Indtryk af Skolen og vil derfor i næste Uge og Ugen derefter komme der en Gang paa hver Ugedag, saa at jeg næste Uge kom Tirsdag, Torsdag og Lørdag fra 9—12 og Ugen derpaa Mandag, Onsdag og Fredag ligeledes fra 9—12. Da efter Nytaar fra 12—3 maa jeg tillige faa at se, hvorledes Pigerne gjøre rent. Nu synes mig, De burde slet intet sige herom, hverken til Lærerne eller Lærerinderne, thi jeg ønsker netop at se Skolen i sine Hverdagsklæder, hvilket dog egentlig ikke kan være Tilfældet, naar jeg kun kommer et Par Gange om Vinteren, og da falder midt ind i en Time, hvilket stedse bringer mere eller mindre Forstyrrelse med. Lad mig nu altsaa komme præcis Kl. 9 paa Tirsdag Morgen til Morgenbønnen. Og saa vil jeg bede Dem ikke forstyrre Dem selv, men lade mig rolig gaa ind, naar en Time tager sin Begyndelse og gaa til en anden Time, naar denne er ude og Frikvarteret med; heller ikke behøver jeg Højsædet bragt ind; thi det forstyrrer uvilkaarlig; en lille Stol er nok og en Skammel; i Frikvarteret kan disse Ting sættes ind paa det Sted, hvor jeg skal høre Undervisningen. Har De en Timeseddel, da gad jeg nok bede Dem om at maatte faa den at se inden Tirsdag.</p>
+        <p xml:id="idm140619160275360">Nu Levvel, kære Pastor Boisen; jeg haaber ikke, at De misforstaar min Bøn, at De ikke bør ulejlige Dem mere end nødvendigt ved at komme ind mellem Timerne. Hils hjertelig Meta og de Smaa fra mig.</p>
+        <p xml:id="idm140619160274560">Velvilligst</p>
+        <p xml:id="idm140619160274176"><date xml:id="idm140619160274048" sameAs="idm6644aee2-e8e6-4ae2-8496-e03f4333eccf">5. December 1857</date>.</p>
+        <p xml:id="idm140619160273536"><persName xml:id="idm140619160273408" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160273408">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160272528" n="23" facs="images/002227181_000/002227181_000_0030.jpg"/>
+      <div decls="bibL0022271810000022" n="22" xml:id="L0022271810000022" xml:lang="da-Dk">
+        <p xml:id="idm140619160270688">HR. <persName xml:id="idm140619160270432" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160270432">PASTOR BOISEN</persName>.</p>
+        <p xml:id="idm140619160269680">Vilde De i Morgen sende et Par af de store Drenge op til Asylet og lade hente de smaa Trillebøre, der burde repareres paa Værkstedet hos Poeske, Der er kun 4 eller 5, det var rigtigt at complettere indtil 6. Dernæst synes mig, kunde der forfærdiges et Dusin Skufler ligeledes til Asylbørnene; mig synes, det kunde more de Smaa at køre Sand og at holde Pladsen ren; tillige var det en nyttig Leg! River ønsker jeg ikke, da de derved let kunne komme til Skade. —</p>
+        <p xml:id="idm140619160268496">Ligeledes ønskede jeg, at alle de største Drenge i Asylet fik smaa Trægeværer og en Fane, en Tromme og Pibe. Hvad synes De derom? Pladsen er saa stor og saa indbydende til Evolutioner.</p>
+        <p xml:id="idm140619160267712"><date xml:id="idm140619160267584" sameAs="idm5fcafcbc-7977-4802-9b94-5411f632cd17">d. 30. April 1858</date>.</p>
+        <p xml:id="idm140619160267072">Velvillig</p>
+        <p xml:id="idm140619160266688"><persName xml:id="idm140619160266560" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160266560">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160265680" n="23" facs="images/002227181_000/002227181_000_0030.jpg"/>
+      <div decls="bibL0022271810000023" n="23" xml:id="L0022271810000023" xml:lang="da-Dk">
+        <p xml:id="idm140619160263840">HERR <persName xml:id="idm140619160263584" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160263584">PASTOR BOISEN</persName>.</p>
+        <p xml:id="idm140619160262832">Det glæder mig at erfare, den hele Skole er lykkelig hjemkommet i Torsdags Aftes. Rørdam var ganske rørt over Deres faderlig kjærlige Maade at tage Dem af alle Børnene. Gud velsigne Dem for al Deres Kjærlighed i Deres hele Gjerning! Maatte Sorgenfri stedse blive Dem et: »Op under de grønne Linde!« Maatte Deres kjære Broder snart blive rask igen og De finde ham fuldkommen vel, naar De kommer til ham i hans nye Kald. Jeg haaber endnu een Gang at hilse paa Skolen inden d. 21de muligen paa Onsdag. Jeg spiser saa hos Ferdinands og besøger Grundtvigs om Eftermiddagen. — Til Mandag <pb xml:id="idm140619160261952" n="24" facs="images/002227181_000/002227181_000_0031.jpg"/>Aften glæder jeg mig! I Aftes vare vi med Nielsens og Rørdams indtil Kl. 10½ i Blomsterhuset, det var yndigt. Nielsen og Rørdam komme godt ud af det. Rørdam forudsaa, at der vilde komme en Tid, hvor Rigsdagen fik indsat Bønder og Lægfolk til Præster og lutter danske Jurister til Embedsmænd. (Jeg kan og-saa godt tænke mig en saadan Tid som en Overgang til noget bedre), men den vil være drøj at igjennemgaa men meget nyttig til at ydmyge det hele, dannede og sprænglærde Aristocrati. Nielsen mente, at enhver, der forudsaa, at en saadan Tid kunde komme, burde af alle Kræfter arbejde alvorlig, for sig, og andre, og det hele Samfund, for at forebygge, at den ikke kom. De ser heraf, at Rørdam og jeg ere mere radikale end Nielsen. Her sender jeg de 30 Rbd. til Børnene i Fyen. Lev vel og hils Deres Meta og de Smaa.</p>
+        <p xml:id="idm140619160259328">Velvilligst</p>
+        <p xml:id="idm140619160258944"><date xml:id="idm140619160258816" sameAs="idm0500d862-a2a3-41f4-be2d-57c8f3df9ef4">d. 14. Juli</date>.</p>
+        <p xml:id="idm140619160258304"><persName xml:id="idm140619160258176" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160258176">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160257296" n="24" facs="images/002227181_000/002227181_000_0031.jpg"/>
+      <div decls="bibL0022271810000024" n="24" xml:id="L0022271810000024" xml:lang="da-Dk">
+        <p xml:id="idm140619160255456">HR. PASTOR <persName xml:id="idm140619160255200" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160255200">BOISEN</persName>.</p>
+        <p xml:id="idm140619160254448">Jeg hørte i Dag, at en Kone vilde have sit udøbte Barn optaget i Asylet. Jeg var nemlig hos Grevinde Holsteen og talte der med Frøken Hvid. Det er en Skomager Tis’s Barn, og et ældre Barn er i Asylet. Moderen syntes forundret, da Frøken Hvid sagde, at vi ikke optog udøbte Børn. Familien bor i Prinsensgade og i det berygtede Hus Tordenskyen. Vilde De maaske tale med denne Kone og forklare hende, hvad Daaben har at betyde; det er mig umuligt at tage et Barn i mit Asyl, som ikke er døbt; thi uden Naadens Port er aabnet for Bar-<pb xml:id="idm140619160253568" n="25" facs="images/002227181_000/002227181_000_0032.jpg"/>net, kan jo Troen ej faa Indgang i Hjertet; og at bidrage til at Troen kommer ind i de Smaas Hjerter, er Hovedformaalet med mit Asyl. — Hvor jeg har glædet mig over Frøken Kempels Brev. Jeg haaber, hun vil kunne virke i den sande Aand, naar hun først har en Skole at styre. Des værre fik vi intet om Syndsforladelsen ved Communionen. Jeg frygter, at Hammerich kjedede sig og ikke vil møde en anden Gang. Ventelig taler De om denne vigtige Gjenstand Tirsdag otte Dage hos Blædel, Hvor skulde det da glæde mig, hvis De Fredag 8te Dage fortsatte Samtalen hos mig. Disse Aftener er ret aandige Forfriskninger for min Sjæl.</p>
+        <p xml:id="idm140619160251760">Hjertelig hilses de alle fra mig: Meta, De selv, Elisabeth og Fredrik.</p>
+        <p xml:id="idm140619160251376">Velvilligst</p>
+        <p xml:id="idm140619160250992"><persName xml:id="idm140619160250864" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160250864">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160249984" n="25" facs="images/002227181_000/002227181_000_0032.jpg"/>
+      <div decls="bibL0022271810000025" n="25" xml:id="L0022271810000025" xml:lang="da-Dk">
+        <p xml:id="idm140619160248144">HERR PASTOR <persName xml:id="idm140619160247888" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160247888">BOISEN</persName>!</p>
+        <p xml:id="idm140619160247136">Overbringeren af disse Linier er en Kone fra det Slesvigske, som jeg tidligere har understøttet. Hun lider meget i sit Ben og tror, at det bliver hendes Død, hvorfor hun ønsker, at De vilde forberede hende, tage hende til Skrifte og give hende Sakramentet. Gud velsigne Dem til den Gjerning.</p>
+        <p xml:id="idm140619160246144">Velvilligst</p>
+        <p xml:id="idm140619160245760"><date xml:id="idm140619160245632" sameAs="idm26d39d32-dcfe-4266-b190-728797bc4d10">d. 26. Oktober</date>.</p>
+        <p xml:id="idm140619160245120"><persName xml:id="idm140619160244992" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160244992">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160244112" n="26" facs="images/002227181_000/002227181_000_0033.jpg"/>
+      <div decls="bibL0022271810000026" n="26" xml:id="L0022271810000026" xml:lang="da-Dk">
+        <p xml:id="idm140619160242272"><date xml:id="idm140619160242144" sameAs="idmdb935183-3177-4624-9a2f-32a81b17cc2c">Den 16. April</date>.</p>
+        <p xml:id="idm140619160241632">HR. <persName xml:id="idm140619160241376" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160241376">PASTOR BOISEN</persName>!</p>
+        <p xml:id="idm140619160240624">Deres kjære Brev fra 10de modtog jeg i Gaar og vil nu allerførst besvare Deres Spørgsmaal.</p>
+        <p xml:id="idm140619160240032">Selv havde jeg i Sinde at bede mit kjære Asyls Comité om at ville udsætte den aarlige Fest af 7 Mai indtil min Hjemkomst. Dagen kan jeg ikke saa nøje bestemme. Jeg agter at forlade Nizza i Morgen 8te Dage, den 24 April, gaa over Genua og Mailand og Turin og over Mont Cénis til Genf, hvor jeg agter at blive en Dag over med de kjære Raffards. Jeg formoder den 10ende eller 12te at komme hjem og at kunne inderlig takke Vorherre for den vel overstaaede Rejse. Gud give sin Velsignelse dertil! —</p>
+        <p xml:id="idm140619160238960">Det vilde jo være velsignet at faa Fru Maribo til Lærerinde ved Skolen, og tillige for Dem og Meta en sand Vinding; saa saare vi ses, skal vi tale derom. Altsaa Grundtvig bifalder ogsaa dette Valg? Hvor gjerne havde jeg hørt Grundtvigs Præken første Paaskedag. Vorherres Kjærlighed for Sine Børn er mageløs. — Hils Grundtvig hjerteligen fra mig og sig ham, Vorherre vilde heller ikke beskæmme mit Haab om Holger Danskes Komme til Danmarks Frelse. Jeg kan slet ikke læse i Deres Brev hvis prægtige Ridehest De har redet, jeg vilde saa gjerne læse: een fra min Stald, og ønsker, at De oftere kunde benytte dem i min Fraværelse. Ogsaa Meta skulde i mildt Vejr kjøre Toure. Mine hjerteligste Hilsner til hende og til Børnene og til alle, som erindrer mig, Lærere og Lærerinder og alle Børnene paa Skolen ikke at forglemme. Tak Deres kjære Broder og hans Kone for deres Erindring; maatte han faa det ønskede Kald paa Lolland.</p>
+        <p xml:id="idm140619160236704">Velvilligst</p>
+        <p xml:id="idm140619160236320"><persName xml:id="idm140619160236192" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160236192">C. A</persName>.</p>
+        <postscript xml:id="idm140619160235440">
+          <p xml:id="idm140619160235184">Fra min hele Omgivelse de bedste og hjerteligste Hilsner. Frøken Poulsen har det godt. De vil hjerteligen hilse hele Comiteen.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619160234272" n="27" facs="images/002227181_000/002227181_000_0034.jpg"/>
+      <div decls="bibL0022271810000027" n="27" xml:id="L0022271810000027" xml:lang="da-Dk">
+        <p xml:id="idm140619160232432"><date xml:id="idm140619160232304" sameAs="idmeab10828-4f95-4878-a875-baca9a8476bb">D. 22. November 1858</date>.</p>
+        <p xml:id="idm140619160231792">HR. <persName xml:id="idm140619160231536" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160231536">PASTOR BOISEN</persName>!</p>
+        <p xml:id="idm140619160230784">Lige kommer jeg fra en stor Dinér paa 30 Personer, hvoriblandt 12 Fyrsteligheder, hos mig selv, i Anledning af Dagen; men jeg fejrer den ogsaa paa Torsdag med mit sædvanlige store Aftenselskab, hvortil jeg nu indbyder Dem. I Aften ønskede Landgrevinden at give et Bal.</p>
+        <p xml:id="idm140619160229840">Jeg skrev til Jomfru Hass i Morges, at jeg vilde besøge Skolen enten Fredag eller Lørdag, og Onsdag henimod Kl. 3 skal jeg være rede til at modtage Dem.</p>
+        <p xml:id="idm140619160229136">Gud ske Lov, at det er bedre med Meta og at hun taaler at spise Kjød og drikke Vin, hvilket vil styrke hende. Skal jeg ej forsyne hende med Rhinskvin? Sig mig det kun ligefrem! og hjertelig glæder jeg mig, at Børnene ingen Skarlagensfeber fik! — Hvor gjerne var jeg til Stede ved Præsteconventet i Søllerød og hørte Præsterne diskutere. Hils alle de gode Mænd fra mig; Gud velsigne deres Sammenkomst, lad den blive levende og ikke uden Frugter! — Hvor det er dejligt at leve i denne Tid; i en Tid, hvor man hører saadanne Prækner som af Grundtvig i Gaar. Jeg var Kl. 2 hos Blædel og glædede mig ogsaa over ham. Man føler, hvor inderligt det ligger ham paa Hjertet, at vi ikke spilde vort Liv; hvor uendelig meget kunde vi virke, hver i sit, naar man rigtig kom til Erkendelse af sin egentlige Virkekreds; af den, Gud har sat én til! Sædvanlig drives Livet hen, og først mod Enden erkender vi den lange Omvej, vi gjorde, i Steden for at øse straks af den sande Kilde, der ene giver Liv og Kraft og Lyst! Hvor jeg takker Gud for den langt større Klarhed, Han gav mig i de seneste Aar, over min Sjæls Tilstand, men jeg haaber stedse en endnu langt større, og en langt større Trosfylde end hidtil. Hvor gjerne fortsatte jeg vore Samtaler om Tirsdagen, naar disse stundom er Dem belejlige. Hjertelige Hilsner til Rørdam.</p>
+        <p xml:id="idm140619160226672">Velvilligst</p>
+        <p xml:id="idm140619160226288"><persName xml:id="idm140619160226160" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160226160">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160225280" n="28" facs="images/002227181_000/002227181_000_0035.jpg"/>
+      <div decls="bibL0022271810000028" n="28" xml:id="L0022271810000028" xml:lang="da-Dk">
+        <p xml:id="idm140619160223440"><date xml:id="idm140619160223312" sameAs="idma0f98c42-620b-4472-8273-7bed1e44e957">D. 27. Maj</date>.</p>
+        <p xml:id="idm140619160222800">HR. <persName xml:id="idm140619160222544" type="recipient" key="Boisen, Peter Outzen" sameAs="#personidm140619160222544">PASTOR BOISEN</persName>.</p>
+        <p xml:id="idm140619160221792">Her sender jeg Dem Brevet til Ingemann og 2 Flasker meget sjelden Vin: Johannisberger Cabinets Vin. Jeg ejer kun disse to Flasker, men Værdien er den: at min elskede Konge i Aaret 1838 selv har medbragt disse Flasker fra Johannisberg; og det er derfor ham, som første Gang fylder dette Guldhorn.</p>
+        <p xml:id="idm140619160220800">Velvilligst</p>
+        <p xml:id="idm140619160220416"><persName xml:id="idm140619160220288" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160220288">CAROLINE AMALIE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160219408" n="28" facs="images/002227181_000/002227181_000_0035.jpg"/>
+      <div decls="bibL0022271810000029" n="29" xml:id="L0022271810000029" xml:lang="da-Dk">
+        <p xml:id="idm140619160217568">KJÆRE <persName xml:id="idm140619160217312" type="recipient" key="Grundtvig, Meta Cathrine Marie Bang" sameAs="#personidm140619160217312">META</persName>!</p>
+        <p xml:id="idm140619160216560">Jeg sender Dem Kvartalet ledsaget af de hjerteligste Ønsker for Dem og Deres Børn! Maatte det nye Aar bringe Dem Lindring og en bedre Sundhed.</p>
+        <p xml:id="idm140619160215872">Jeg bør sige Dem, hvor kjært det er mig, at Elisabeth synes at holde af de kjære smaa Asylbørn, og at hun forstaar godt at styre dem, hvilket ikke er saa let ved et saa stort Antal. Jeg glædede mig ogsaa ved at se Deres kjære Sønner. Gud velsigne Dem og Børnene!</p>
+        <p xml:id="idm140619160214928">Velvilligst</p>
+        <p xml:id="idm140619160214544"><persName xml:id="idm140619160214416" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160214416">CAROLINE AMALIE</persName>.</p>
+        <p xml:id="idm140619160213664"><date xml:id="idm140619160213536" sameAs="idm4b523712-4d03-4a4e-8de0-4177ef57846b">31. December 1868</date>.</p>
+      </div>
+      <pb xml:id="idm140619160212896" n="29" facs="images/002227181_000/002227181_000_0036.jpg"/>
+      <div decls="bibL0022271810000030" n="30" xml:id="L0022271810000030" xml:lang="da-Dk">
+        <p xml:id="idm140619160211056">KJÆRE <persName xml:id="idm140619160210800" type="recipient" key="Boisen, Elisabeth" sameAs="#personidm140619160210800">ELISABETH</persName>.</p>
+        <p xml:id="idm140619160210048">Hvor det glæder mig, at du er glad og glæder dig over Naturen. Ems er i den Henseende tiltalende i skjønt Solskin. Ved bedækket Himmel har dette Sted noget trist, nedstemmende ved den snævre Indskrænkning af høje Klipper. Jeg var der sidst for 19 Aar siden; det er sandsynligt, at i denne lange Tid er der gjort meget til Stedets Forskjønnelse. Maatte nu Badene og Brønden ret tiltale dig, og du høste Velsignelse af dit Ophold. Dette ønsker jeg ogsaa for den kjærlige Grevinde Schmettau, som du kjærligst vil hilse fra mig! — Modtagelsen her i Onsdags var virkelig yndig! Jeg siger, at virkelig sand Kjærlighed er en Livseleksir; den gaar lige til Hjertet. Jeg var usigelig bevæget!! Rørdams Tale og de smukke Sange bidroge ej lidt dertil; 75 unge Piger, hvidklædte med lyserøde Flors Echarps toge sig nydelig ud ved Opkjørselen til Slottet, hvor de strøede Blomster og kastede Buketter. Tak, kjære Elisabeth, for den kjærlige Del, du tager i dette de kjære Lyngbyeres Kjærligheds Bevis. Gud velsigne dig derfor.</p>
+        <p xml:id="idm140619160207808">Din</p>
+        <p xml:id="idm140619160207424">ret hengivne</p>
+        <p xml:id="idm140619160207040"><persName xml:id="idm140619160206912" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160206912">CAROLINE AMALIE</persName>.</p>
+        <p xml:id="idm140619160206160"><date xml:id="idm140619160206032" sameAs="idmed9e939f-e89b-4d14-a261-d7370502e014">d. 8. Juni 1875</date>.</p>
+      </div>
+      <pb xml:id="idm140619160205392" n="30" facs="images/002227181_000/002227181_000_0037.jpg"/>
+      <div decls="bibL0022271810000031" n="31" xml:id="L0022271810000031" xml:lang="da-Dk">
+        <p xml:id="idm140619160203552">KJÆRE <persName xml:id="idm140619160203296" type="recipient" key="Grundtvig, Meta Cathrine Marie Bang" sameAs="#personidm140619160203296">META</persName>!</p>
+        <p xml:id="idm140619160202544">Med Glæde opfylder jeg Deres Ønske og haaber, den kjære Elisabeth ret grundig maa have godt af den foreslaaede Kur. Det er mig ogsaa en rigtig Tilfredsstillelse, at hun følger med sin kjære Moder; thi i Fjor beklagede jeg inderlig, at De saa ene maatte foretage den besværlige Rejse, Gud være lovet, at Badet i Norge har været Dem saa gavnligt, at De i Vinter har haft det langt bedre end ellers. Elisabeth vil have fortalt Dem om den glade Fest, vi havde i Asylet paa den 50 aarige Stiftelses Dag. De kan tænke Dem, med hvilke Taknemmeligheds Følelser mod Vorherre, jeg fejrede denne Dag.</p>
+        <p xml:id="idm140619160201536">Nu ønsker jeg Dem, kjære Meta, og Elisabeth den bedste Virkning af Rejsen til Norge og haaber, at Elisabeth imellem skriver mig derfra. Gud holde sin beskjærmende Haand over Dem begge.</p>
+        <p xml:id="idm140619160200768">Deres inderlig hengivne</p>
+        <p xml:id="idm140619160200384"><persName xml:id="idm140619160200256" type="sender" key=", Caroline Amalie " sameAs="#personidm140619160200256">CAROLINE AMALIE</persName>.</p>
+        <p xml:id="idm140619160199504"><date xml:id="idm140619160199376" sameAs="idm53abb8f0-4cbf-4f43-8d9b-b1979e3d6d8a">d. 10 Maj 1879</date>.</p>
+      </div>
+      <div xml:id="idm140619160198736">
+        <p xml:id="idm140619160198480"><pb xml:id="idm140619160198352" n="31" facs="images/002227181_000/002227181_000_0038.jpg"/><pb xml:id="idm140619160197552" n="32" facs="images/002227181_000/002227181_000_0039.jpg"/><pb xml:id="idm140619160196752" n="33" facs="images/002227181_000/002227181_000_0040.jpg"/><pb xml:id="idm140619160195952" n="34" facs="images/002227181_000/002227181_000_0041.jpg"/>AXELHOLM, KØBENHAVN.
+<pb xml:id="idm140619160195088" n="35" facs="images/002227181_000/002227181_000_0042.jpg"/>
+               <pb xml:id="idm140619160194288" n="36" facs="images/002227181_000/002227181_000_0043.jpg"/>
+               <pb xml:id="idm140619160193488" n="37" facs="images/002227181_000/002227181_000_0044.jpg"/>
+               <pb xml:id="idm140619160192688" n="38" facs="images/002227181_000/002227181_000_0045.jpg"/>
+            </p>
+      </div>
+    </body>
+  </text>
+</TEI>

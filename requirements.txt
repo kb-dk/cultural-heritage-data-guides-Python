@@ -1,0 +1,15 @@
+jupyter-book
+matplotlib
+numpy
+pandas
+beautifulsoup4
+lxml
+nltk
+requests
+plotly
+Pillow
+openpyxl
+warnings
+networkx
+sklearn
+TfidfVectorizer

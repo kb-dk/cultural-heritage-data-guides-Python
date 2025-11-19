@@ -1,0 +1,36 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+
+parts:
+  - caption: Archive for Danish Literature (Arkiv for Dansk Litteratur)
+    chapters:
+    - file: Explore the ADL dataset
+      title: Explore the ADL dataset
+  
+  - caption: Flora Danica
+    chapters:
+    - file: Clean the Flora Danica dataset
+      title: Clean the Flora Danica dataset
+    - file: Visualise the Flora Danicas metadata
+      title: Visualise the Flora Danica metadata
+    - file: Change size on tiff files of Flora Danica
+      title: Resize Flora Danica TIFF images
+  
+  - caption: Copenhagen Diplomatarium (Københavns Diplomatarium)
+    chapters:
+    - file: Explore the kd dataset
+      title: Explore medieval and early modern documents from the Copenhagen Diplomatarium
+  
+  - caption: Freedom of the Press (Trykkefrihedens Skrifter)
+    chapters:
+    - file: TextMining_Freedom_Press_Writings
+      title: Text Mining Freedom of Press Writings
+    - file: Bigrams_Freedom_Press_Writings
+      title: Bigram Analysis of Freedom of Press
+  
+  - caption: Denmarks Letters (Danmarks Breve)
+    chapters:
+    - file: Explore Denmarks Letters 

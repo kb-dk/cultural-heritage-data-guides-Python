@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--shit-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="root" status="published">
+  <teiHeader xml:id="idm140619202290336">
+    <fileDesc xml:id="idm140619171090448">
+      <titleStmt xml:id="idm140619168049024">
+        <title xml:id="idm140619168081776">Oplysninger om hvorledes Hr. M. A. Goldschmidt har handlet med "Rabbien og Ridderen"</title>
+        <!-- OCR: Oplysninger om hvorledes Hr. M.A. Goldschmidt-->
+        <author n="1">Otto B. Wroblewsky, 1827-1907</author>
+        <!-- OCR: Rabbien og Ridderen-->
+      </titleStmt>
+      <publicationStmt xml:id="idm140619192082672">
+        <publisher xml:id="idm140619172148784">Otto B. Wroblewsky</publisher>
+        <pubPlace xml:id="idm140619197963792">KØBENHAVN</pubPlace>
+        <date>1869</date>
+      </publicationStmt>
+      <idno>letter_books/002143206/002143206_000</idno>
+      <sourceDesc>
+        <bibl>
+          <!-- This is where we expect metadata for the analogue source in ADL -->
+        </bibl>
+        <listBibl>
+          <bibl xml:id="bibL0021432060000001" status="completed">
+            <date xml:id="idm484cbc49-617f-41da-89e8-e1c677d7992e">1867-11-07</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm5c3bf3a4-1172-483c-ab18-b1688c2e6797">
+              <resp>sender</resp>
+              <name xml:id="personidm140619156353504" ref="11/0b/0f/ec/110b0fec-969d-42a1-896e-8c686a5b4c27"><surname>Goldschmidt</surname>,
+      <forename>Meïr Aron</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm6e93a7d0-77ad-402d-8b8f-0bca3fb66c6f">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619156510480" ref="72/f7/05/7d/72f7057d-904a-4f55-bd8c-096e5b4bdb11"><surname>Wroblewsky</surname>,
+      <forename>Otto B.</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm87cc5378-19c8-4a85-8b9b-9b8e7727cca9">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0021432060000002" status="completed">
+            <date xml:id="idma23b96b7-1580-4a60-aee9-010f7bfad98f">1867-11-11</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm62671c14-82d0-4275-8830-308f2ab188a4">
+              <resp>sender</resp>
+              <name xml:id="personidm140619156222800" ref="11/0b/0f/ec/110b0fec-969d-42a1-896e-8c686a5b4c27"><surname>Goldschmidt</surname>,
+      <forename>Meïr Aron</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm1138d192-fbb2-4385-90a7-ede7f4ed6331">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619156231280" ref="72/f7/05/7d/72f7057d-904a-4f55-bd8c-096e5b4bdb11"><surname>Wroblewsky</surname>,
+      <forename>Otto B.</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm96973c28-f137-4a50-b79b-e6f346f68fe9">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0021432060000003" status="completed">
+            <date xml:id="idm331615be-aaf4-401e-948a-0de91e8b6ed9">1867-11-12</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm7fc87879-c1d4-40de-ab3f-703dde334dfd">
+              <resp>sender</resp>
+              <name xml:id="personperson212132aa-8008-43c6-8299-9d25c9c87655" ref="11/0b/0f/ec/110b0fec-969d-42a1-896e-8c686a5b4c27"><surname>Goldschmidt</surname>,
+      <forename>Meïr Aron</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmec642136-c251-4930-bac2-eda29048f07a">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158443344" ref="72/f7/05/7d/72f7057d-904a-4f55-bd8c-096e5b4bdb11"><surname>Wroblewsky</surname>,
+      <forename>Otto B.</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm59730921-3a06-402a-9bc1-e49294e7d6ec">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0021432060000004" status="completed">
+            <date xml:id="idmf3f1bdae-827c-4915-9d97-02850ec39f53">1868-01-18</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmea4b7db5-fb82-48da-8ec3-8ee0585cc3bf">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158433344" ref="11/0b/0f/ec/110b0fec-969d-42a1-896e-8c686a5b4c27"><surname>Goldschmidt</surname>,
+      <forename>Meïr Aron</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb727dbf3-ab03-4b2f-977f-e6ebe49199c2">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158435376" ref="72/f7/05/7d/72f7057d-904a-4f55-bd8c-096e5b4bdb11"><surname>Wroblewsky</surname>,
+      <forename>Otto B.</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm8a10a0d1-15ce-47c9-8098-76117cac0681">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0021432060000005" status="completed">
+            <date xml:id="idmb9463cf5-8326-4d26-a259-ad1450880c2f">1868-02-04</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmc5ae57f0-a4bf-4b91-ae18-d9ac6da45b26">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160339968" ref="11/0b/0f/ec/110b0fec-969d-42a1-896e-8c686a5b4c27"><surname>Goldschmidt</surname>,
+      <forename>Meïr Aron</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmc7eaf4ae-ebdc-40c2-be78-8e8f960b46e2">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619158422816" ref="72/f7/05/7d/72f7057d-904a-4f55-bd8c-096e5b4bdb11"><surname>Wroblewsky</surname>,
+      <forename>Otto B.</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmf59479e8-17c7-47b0-b545-dfd03a94f978">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0021432060000006" status="completed">
+            <date xml:id="idm61007706-cecc-48c1-afde-0f49b69fb7b3">1868-02-11</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm31ec7c50-0adc-4afd-83ef-091f844b06ea">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160322864" ref="11/0b/0f/ec/110b0fec-969d-42a1-896e-8c686a5b4c27"><surname>Goldschmidt</surname>,
+      <forename>Meïr Aron</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme8f8db6f-4649-4367-96e3-6df93b223ce0">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160331696" ref="72/f7/05/7d/72f7057d-904a-4f55-bd8c-096e5b4bdb11"><surname>Wroblewsky</surname>,
+      <forename>Otto B.</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idma3e7d239-0181-4a7f-88f8-0df51c0454b9">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0021432060000007" status="completed">
+            <date xml:id="idm65fe814b-f559-47b4-8968-071a9a10e662">1868-02-14</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4ef6dbe1-5e3a-4798-b25c-2467a054ccac">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160312064" ref="11/0b/0f/ec/110b0fec-969d-42a1-896e-8c686a5b4c27"><surname>Goldschmidt</surname>,
+      <forename>Meïr Aron</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmd4aa207e-9363-40a7-85d8-5a74b05d05df">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160316512" ref="72/f7/05/7d/72f7057d-904a-4f55-bd8c-096e5b4bdb11"><surname>Wroblewsky</surname>,
+      <forename>Otto B.</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm61de38d0-ca27-476f-aa9c-356f5fac3f03">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0021432060000008" status="completed">
+            <date xml:id="idm801bd537-9d3d-4243-9188-c1886d36ca5f">1868-02-16</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf39aee41-c272-4905-ab6d-728de5e75b17">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160286272" ref="11/0b/0f/ec/110b0fec-969d-42a1-896e-8c686a5b4c27"><surname>Goldschmidt</surname>,
+      <forename>Meïr Aron</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm1d8fe71d-e6be-4428-aefb-94a665bd53f2">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160300752" ref="72/f7/05/7d/72f7057d-904a-4f55-bd8c-096e5b4bdb11"><surname>Wroblewsky</surname>,
+      <forename>Otto B.</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm32010f08-7e7b-455e-9f8a-eff48bf1d54f">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0021432060000009" status="completed">
+            <date xml:id="idm8aebfbc7-4842-4343-8711-6f398b6290e3">1868-08-27</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm6561e0d0-838f-406e-9927-7db75d2ccaac">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160254160" ref="11/0b/0f/ec/110b0fec-969d-42a1-896e-8c686a5b4c27"><surname>Goldschmidt</surname>,
+      <forename>Meïr Aron</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmedcec810-0c83-47e1-bb50-ada6e395d03e">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160266608" ref="72/f7/05/7d/72f7057d-904a-4f55-bd8c-096e5b4bdb11"><surname>Wroblewsky</surname>,
+      <forename>Otto B.</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm4c4be228-8c03-44de-afe9-20c254a57b47">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0021432060000010" status="completed">
+            <date xml:id="idm9372951e-3781-4b91-8a95-9c78390f3478">1868-08-29</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm5aed6878-0981-4003-ba57-709514409d13">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160235536" ref="72/f7/05/7d/72f7057d-904a-4f55-bd8c-096e5b4bdb11"><surname>Wroblewsky</surname>,
+      <forename>Otto B.</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm912e4671-5f59-4a1b-a39b-390fc933a017">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160248944" ref="11/0b/0f/ec/110b0fec-969d-42a1-896e-8c686a5b4c27"><surname>Goldschmidt</surname>,
+      <forename>Meïr Aron</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm954bdcd9-ea4a-4314-a2cb-ae6d3ee305b2">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0021432060000011" status="completed">
+            <date xml:id="idme515cc43-bc60-46e8-8aad-8f61c742a33b">1868-09-02</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf8454810-de18-4e1f-af24-b6818da3cd23">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160222320" ref="11/0b/0f/ec/110b0fec-969d-42a1-896e-8c686a5b4c27"><surname>Goldschmidt</surname>,
+      <forename>Meïr Aron</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmcf9a7784-58c7-4e34-94df-d7ef766a2c51">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160231280" ref="72/f7/05/7d/72f7057d-904a-4f55-bd8c-096e5b4bdb11"><surname>Wroblewsky</surname>,
+      <forename>Otto B.</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm842a4d01-0869-4b15-a5e1-2b8dc3797a35">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0021432060000012" status="completed">
+            <date xml:id="idmc8d3b499-7ce5-4f12-bde3-ba5d8149488e">1868-03-28</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm2a50d258-aeef-49f0-b734-c81b5b7143f6">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160205648" ref="11/0b/0f/ec/110b0fec-969d-42a1-896e-8c686a5b4c27"><surname>Goldschmidt</surname>,
+      <forename>Meïr Aron</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb7102a31-a9ab-4d19-9ad9-a5865c8b94c7">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160210992" ref="72/f7/05/7d/72f7057d-904a-4f55-bd8c-096e5b4bdb11"><surname>Wroblewsky</surname>,
+      <forename>Otto B.</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm5c1c6e5f-ee57-4a9c-aa22-46a5603f4c64">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140619168614464">
+    <body xml:id="idm140619164020208">
+      <div xml:id="idm140619170032960">
+        <p xml:id="idm140619200155456"><pb xml:id="idm140619200153376" n="1" facs="images/002143206_000/002143206_000_0005.jpg"/>Oplysninger</p>
+        <p xml:id="idm140619200126784">om hvorledes</p>
+        <p xml:id="idm140619170106000">Hr. M.A. Goldschmidt</p>
+        <p xml:id="idm140619168433616">har handlet med</p>
+        <p xml:id="idm140619169760304">,,Rabbien og Ridderen.“</p>
+        <p xml:id="idm140619165417088">En Brevvexling.</p>
+        <p xml:id="idm140619165234736">Udgivet af Otto B. Wroblewsky.</p>
+        <p xml:id="idm140619165234352">Kjøbenhavn 1869.</p>
+        <p xml:id="idm140619168729600"><pb xml:id="idm140619168729472" n="2" facs="images/002143206_000/002143206_000_0006.jpg"/>G. S. Wibes Bogtrykkeri</p>
+      </div>
+      <div xml:id="idm140619170002672">
+        <p xml:id="idm140619170002416"><pb xml:id="idm140619170002288" n="3" facs="images/002143206_000/002143206_000_0007.jpg"/>paa en Tid, da Digteren Bjørnstjerne Bjørnsons Konflikt med den tidligere Forlægger af hans Arbejder netop har henledet Opmærksomheden paa Forholdet mellem Forfattere og Forlæggere, er det let forklarligt, at den ved Udgivelsen af „Rabbien og Ridderen" foranledigede usædvanlige Prisnedsættelse paa „Rabbi Eliezer" har kunnet gjøre større Opsigt, end et sligt Arrangement plejer, og da Motiverne til denne Nedsættelse ere nbekjendte for Publicum, er det ikke saa forunderligt, at flere Uindviede deri have troet at see Chikane mod Forfatteren. Da jeg imidlertid nødig vil være Gjenstand for en saa uberettiget Mistanke, og da Hr. Goldschmidt selv har ønsket at hans Forhold i denne Sag maatte komme til at „staae klart", tillader jeg mig hermed at forelægge Publicum den Correspondance, jeg som Forlægger af den dramatiske Digtning „Rabbi Eliezer" har havt den Ære at føre med Forfatteren af Dramaet „Rabbien og Ridderen" eller rettere sagt med Omarbejderen af førstnævnte <pb xml:id="idm140619166886752" n="4" facs="images/002143206_000/002143206_000_0008.jpg"/>Digt. Den vil godtgjøre det vistnok for de fleste overraskende Faktum, at Hr. Goldschmidt, der i 1861 havde solgt mig Forlagsretten til „Rabbi Eliezer", nu, efter at have foretaget nogle Forandringer i dette Digt, har anset sig for berettiget til paany at sælge det —- dennegang til en anden Forlægger — og det uagtet det var ham bekjendt, at der kun er solgt en ringe Deel af det første Oplag, og uagtet han i 1½ Aar har afholdt mig fra at sælge Exemplarer af denne min Forlagsartikel!</p>
+        <p xml:id="idm140619171677664">1*</p>
+        <p xml:id="idm140619163595824">Som Indledning til denne vistnok i sit Slags hertillands enestaaende Correspondance der forhaabenlig vil levere et interessant Bidrag til Forfatterens Karakteristik tjener Følgende.</p>
+        <p xml:id="idm140619171826880">I en Samtale jeg havde med Herr M. Goldschmidt i Slutningen af October 1867 i hans Hjem, spurgte han mig bl. A. hvorledes jeg vilde stille mig til en for Scenen bestemt Omarbejdelse af „Rabbi Eliezer", en dramatisk Digtning, forfattet af Hr. G., og udkommet paa mit Forlag i 1861, hvorfor jeg i Honorar havde betalt 200 Rdl. — eller 25 Rdl. pr. Ark. Da dette Forlagsforetagende forholdsmæssigt havde voldet mig et stort Tab, yttrede jeg efter lidt Betænkning, at det forekom mig nemmest, at jeg blev Forlægger ogsaa for Omarbejdelsen, saafremt denne blev antagen til Opførelse paa det Kgl. Theater, mod Erlæggelse af et <pb xml:id="idm140619165408416" n="5" facs="images/002143206_000/002143206_000_0009.jpg"/>billigt Honorar — med særligt Hensyn til det Tab jeg havde lidt paa „Rabbi Eliezer", saa kunde Restoplaget af dette sidstnævnte, hvis Oplag oprindelig var 1000 Expl., og hvoraf der da endnu var tilbage c. 720 Expl. — blive gjort til Maculatur.</p>
+        <p xml:id="idm140619156077584">Dette Forslag fandt Herr G. rimeligt, og det blev da vedtaget, at jeg lejlighedsvis skulde gjøre Forslag om hvad jeg vilde give i Honorar for Omarbejdelsen. I Samtalens Løb yttrede Hr. Goldschmidt endvidere Ønsket om at jeg vilde standse Salget af „Rabbi Eliezer" indtil det ny Stykke var opført paa det Kgl. Theater, da det ikke vilde to være heldigt for Omarbejdelsen, om det originale Stykke blev yderligere bekjendt i Publicum. Da dette Ønske — skjøndt stridende mod min pecuniaire Interesse — forekom mig naturligt, og kunde have Betydning for mig, som eventuel Forlægger af Omarbejdelsen, gav jeg villig Hr. G. dette Løfte, under Forudsætning, at Stykket kom til Opførelse i Saisonen 1867—68 og selvfølgelig under den Forudsætning, at Resultatet af vore Forhandlinger førte til, at jeg blev det nye Stykkes Forlægger. Slutteligt bad Hr. G. mig bevare den gjorte Meddelelse om hans Hensigt, at ville omarbejde „Rabbi Eliezer" til Brug for Scenen, som en dyb Hemmelighed. Da jeg imidlertid faa Dage efter i min egen Stue blev spurgt af en Fremmed, om det var sandt at „R. E." skulde opføres, <pb xml:id="idm140619165407616" n="6" facs="images/002143206_000/002143206_000_0010.jpg"/>hvorpaa jeg i Henhold til mit Løfte gav et undvigende Svar — fandt jeg mig dog foranlediget til skriftligt at gjøre Hr. G. opmærksom paa at Hemmeligheden ikke syntes at være hans og min alene, men at jeg ingen Skyld havde i at den var røbet.</p>
+        <p xml:id="idm140619155855952">Kjøbenhavn, den 12te April 1869</p>
+        <p xml:id="idm140619155855568">Udgiveren.</p>
+      </div>
+      <pb xml:id="idm140619155855056" n="7" facs="images/002143206_000/002143206_000_0011.jpg"/>
+      <div decls="bibL0021432060000001" n="1" xml:id="L0021432060000001" xml:lang="da-Dk">
+        <head xml:id="idm140619156511760"><geogName xml:id="idm140619156511632" type="sender" sameAs="idm87cc5378-19c8-4a85-8b9b-9b8e7727cca9">43. Vesterbrogade</geogName>. <date xml:id="idm140619156511248" sameAs="idm484cbc49-617f-41da-89e8-e1c677d7992e">Novbr. 7. 1867</date>.</head>
+        <p xml:id="idm140619156510736">S. T. Hr. <persName xml:id="idm140619156510480" type="recipient" key="Wroblewsky, Otto B." sameAs="#personidm140619156510480">Boghandler Wroblemsky</persName>!</p>
+        <p xml:id="idm140619156509728">Tak for Deres Brev, og</p>
+        <p xml:id="idm140619156509344">Med Hensyn til „Rabbi Eliezer", da kan jeg ikke nægte, at jeg har maattet henvende mig til en Skuespiller<note xml:id="idm140619156508848" n="*)" anchored="true">Om denne Bemærkning see Indledningen.<lb xml:id="idm140619156508112"/>
+Udgiv</note> og spørge, om han var villig til at spille en vis Rolle, og da jeg ikke har kunnet paalægge ham ubetinget Discretion, forklarer jeg heraf det unge Menneskes Yttringer til Dem.</p>
+        <p xml:id="idm140619156357008">Men nu kommer Noget, som Ingen veed. Stykket er færdigt i fuldstændig Omarbeidelse og bliver om et Par Dage indleveret til Theatret. Saa maa der — I Henhold til hvad vi sidst aftalte — ikke sælges flere Exemplarer af den første Udgave.</p>
+        <p xml:id="idm140619156356128">Jeg er beredt til, som jeg sagde Dem, at lade Dem faae Erstatning herfor. De bedes at have den Godhed, selv at beregne det ved at opgive mig, hvilket Honorar De troer at kunne betale for 1000 (eller 1500) Expl. Steen betaler mig fortiden 30 Rdl. pr.</p>
+        <p xml:id="idm140619156355472"><pb xml:id="idm140619156355344" n="8" facs="images/002143206_000/002143206_000_0012.jpg"/>Ark for 1250 Expl., men det er en Selvfølge, at denne Maalestok ikke skal anvendes paa Dem for „Rabbi Eliezer", forudsat, at De fra nu af betragter det gamle Oplag som ikke existerende.</p>
+        <p xml:id="idm140619156354016">Ærb. og venskabeligst<lb xml:id="idm140619156353760"/>
+               <persName xml:id="idm140619156353504" type="sender" key="Goldschmidt, Meïr Aron" sameAs="#personidm140619156353504">M. Goldschmidt</persName>.</p>
+        <postscript xml:id="idm140619156352752">
+          <p xml:id="idm140619156352496">D. 9. Novbr. 1867 tilmeldte jeg Herr M. Goldschmidt, at „Rabbi Eliezer" har paaført mig et Tab af 225 Rdl.; Oplaget var 1000 Expl., Honoraret — for 8 Ark — 200 Rdl., Beholdning nu: 725 Expl.; af de solgte er selvfølgelig en stor Deel solgt til den (da gjældende) nedsatte Priis: 24 Sk. pr Expl. Dette Brev slutter saaledes:</p>
+          <p xml:id="idm140619156351424">. . . „at en Omarbejdelse af dette Drama, som i Forvejen har saa store Skjønheder, og som opføres paa vort kgl. Theater, har gode Chancer for sig, navnlig naar Bogen ikke kommer til at hedde „Rabbi Eliezer", — thi det maa den rigtignok ikke — skal jeg villig indrømme, men holde mig skadesløs for 225 Rdl. og saaledes dække Tabet paa 1ste Oplag, kan den dog neppe, naar jeg skal give et Honorar, der om end kun tilnærmelsesvis ligner hint for 1ste Oplag eller Herr Steens (30 Rdl. for 1250 Expl.)</p>
+          <p xml:id="idm140619156350416">For en Omarbejdelse af Rabbi Eliezer — som dog ikke gjerne maa hedde R. E. — antaget til Opførelse paa det kgl. Theater hersteds, af Størrelse ikke under 7 Ark, trykt som „En Skavank", i et Oplag af 1000 Expl. — vil jeg give 10 Rdl. (Ti Rdl.) pr. Ark. Dog ønsker jeg ikke at binde mig, førend efter at Stykket — i den Form det skal trykkes, — eengang er opført paa det kgl. Theater.</p>
+          <p xml:id="idm140619156235168">Troer De at kunne gaae ind paa disse Betingelser, tør jeg forhaabentlig lejlighedsvis vente behagelig Meddelelse derom."</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619156234272" n="9" facs="images/002143206_000/002143206_000_0013.jpg"/>
+      <div decls="bibL0021432060000002" n="2" xml:id="L0021432060000002" xml:lang="da-Dk">
+        <head xml:id="idm140619156232432"><geogName xml:id="idm140619156232304" type="sender" sameAs="idm96973c28-f137-4a50-b79b-e6f346f68fe9">43 Vesterbrogade</geogName>. <date xml:id="idm140619156231920" sameAs="idma23b96b7-1580-4a60-aee9-010f7bfad98f">Novbr. 11. 1867</date></head>
+        <p xml:id="idm140619156231536">Hr. <persName xml:id="idm140619156231280" type="recipient" key="Wroblewsky, Otto B." sameAs="#personidm140619156231280">Boghandler Wroblewsky</persName>!</p>
+        <p xml:id="idm140619156230528">De meddelte mig allerede forleden, mundlig, det daarlige Resultat som Forlaget af „R. E." havde ført til, og Deres Brev tilføier intet andet Nyt end at præcisere Tallet. Jeg kan kun sige, at det gjør mig ondt, at De har lidt Tab; men selv har De jo ikke tænkt paa nogen directe Erstatning derfor, De ønskede kun den indirecte, at jeg skulde overlade Dem den nye „R. E." paa særdeles billige — det er mig der siger særdeles, De sagde kun billige eller taalelige Vilkaar. Det faldt Dem ikke ind, og jeg troer ikke, at det med Rette kunde falde Dem ind, at nægte, at jeg havde fuldstændig Ret til at omarbeide mit sex Aar gamle Stykke og indsende det til Theatret.</p>
+        <p xml:id="idm140619156229360">Men i det Øieblik, det er omarbeidet, indsendt, og især naar det bliver antaget til Opførelse, forhindrer en Hemmelighed, som De naturligviis aldrig vil krænke<note xml:id="idm140619156228768" n="*)" anchored="true">ɔ: mit (betingede) Løfte ikke at vilde fælge „R. E." før Stykket opføres.</note>, Dem fra at sælge Stykket. Thi Interessen for det gamle Stykke, Deres Eiendom, er aldeles udslukt, det constaterer De selv, men sælge det gamle til dem, som faae Interessen for det nye, er jo umuligt for Dem. De kan altsaa fra Dato ikke sælge Stykket, og der er intet nyt Tab eller ingen ny Tilføielse af Tab deri; thi de, som nu vilde kjøbe, vilde gjøre det af Interesse for et andet Stykke, det nye, vilde blot blive vildledede af Navnet og efter faa Timers Forløb forlange deres Penge tilbage.</p>
+        <p xml:id="idm140619156227136"><pb xml:id="idm140619156227008" n="10" facs="images/002143206_000/002143206_000_0014.jpg"/>Saaledes staaer altsaa Sagen, og jeg kan tilføie, at saasnart Stykket er antaget af Theaterdirectionen, bliver dette averteret i Bladene, med Tilføiende, at det ikke er det forhen udgivne Stykke „R. E."</p>
+        <p xml:id="idm140619156225648">Hvad har jeg nu under disse Omstændigheder at gjøre? Ikke af juridiske Pligthensyn, men ganske af Billighedshensyn har jeg tilbudt Dem Forlaget af det nye Stykke særdeles meget billigere, end jeg, som De selv veed, kan faae for det. Og det holder jeg ogsaa stadig ved. Men naar De ydermere gjør den mærkværoige Fordring, at Stykket ikke maa hedde „Rabbi Eliezer", og naar De forbeholder Dem, ikke at forlægge Stykket, før det har været opført, saa „er jeg ikke med." Jeg forlanger ikke, at De skal riskere Nogetsomhelst, saalænge Stykket ikke er antaget; men hvis De vil gaae derudover, kunne vi ikke komme til Enighed. I saa Fald er det bedre, at vi begynder at tale om Sagen paa en anden Maade: Hvor Meget vil De have i Erstatning for Tilintetgjørelsen af hele det gamle Oplag? De forlanger vel ikke hele 700 X 19 ß. Deres Forlangende vil da ogsaa billigviis rette sig efter, at jeg er en dansk Forfatter, der ønsker at gjøre saadant, uden at være pligtig dertil.</p>
+        <p xml:id="idm140619156223312">Deres<lb xml:id="idm140619156223056"/>
+               <persName xml:id="idm140619156222800" type="sender" key="Goldschmidt, Meïr Aron" sameAs="#personidm140619156222800">M. Goldschmidt</persName>.</p>
+        <postscript xml:id="idm140619156222048">
+          <p xml:id="idm140619156221792">Dagen efter svarede jeg Hr. G:</p>
+          <p xml:id="idm140619156221408">,,At Løftet om ikke at sælge Exemplarer af Rabbi Eliezer selvfølgelig kun er givet under den Forudsætning, at det i omarbejdet Skikkelse ogsaa udkommer paa mit Forlag, troer jeg det nødvendigt at bemærke, da jeg af Deres ærede af 11te ds. fristes til at tro, at De har opfattet mine Yttringer, som om jeg i <pb xml:id="idm140619156220528" n="11" facs="images/002143206_000/002143206_000_0015.jpg"/>ethvert Tilfælde ved en Hemmelighed et bunden til aldrig at sælge Ex. af Stykket. Det er mig magtpaaliggende, at dette Forhold er reent og klart imellem os, og jeg gjentager derfor herved, at jeg lover Dem ikke at sælge Expl. af det paa mit Forlag udkomne Drama „Rabbi Eliezer", (jeg har igaar nægtet at sælge 1 Expl ) saafremt det i omarbejdet Form udkommer paa mit Forlag; skeer dette sidste ikke, kan De jo ikke med nogen Billighed forlange af mig, at jeg skal undlade paa enhver lovlig Maade at gjøre min Eiendom frugtbringende, især da den hidtil har voldet mig et forholdsviis betydeligt Tab; den Hemmelighed, der binder mig, er jo desuden kun en Hemmelighed indtil Stykket bliver antaget og i Aviserne anmeldes som saadant, ja knap saalænge.</p>
+          <p xml:id="idm140619156218032">At jeg uden nærmere at forklare mig har været nærgaaende nok til at gjøre Betingelser m. H. t. Bogens Titel, beder jeg meget tilgive; det var et praktisk Hensyn, der ledede mig til saavel for Deres som for min egen Skyld at ønske, at det nye Arbeide ikke skulde have noget tilfælles med det ældre; jeg troede, at det vilde være tilstrækkeligt i et Forord at gjøre Rede for Publikum om Forholdet mellem disse to Arbeider, og at Navnet „Rabbi Eliezer" skulde kunne udøve eu mindre heldig Indflydelse paa Publikums Dom. — Jeg lader altsaa denne Betingelse falde.</p>
+          <p xml:id="idm140619158448304">At jeg har opstillet den Betingelse, at Stykket skal have været opført, førend jeg vilde binde mig, maa jeg derimod fastholde, idet jeg beklager, om dette, skulde være Grunden til, at vi ikke kom til Enighed.</p>
+          <p xml:id="idm140619158447472">Hvad sluttelig Deres Spørgsmaal angaaer, hvad jeg forlanger forat tilintetgjøre Restoplaget: 729 Expl. — da maa jeg forbeholde mig nogen Betænkningstid til Besvarelsen."</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619158446464" n="11" facs="images/002143206_000/002143206_000_0015.jpg"/>
+      <div decls="bibL0021432060000003" n="3" xml:id="L0021432060000003" xml:lang="da-Dk">
+        <head xml:id="idm140619158444624"><geogName xml:id="idm140619158444496" type="sender" sameAs="idm59730921-3a06-402a-9bc1-e49294e7d6ec">Vesterbrogade 43</geogName>. <date xml:id="idm140619158444112" sameAs="idm331615be-aaf4-401e-948a-0de91e8b6ed9">Novbr. 12. 1867</date>.</head>
+        <p xml:id="idm140619158443600">Hr. <persName xml:id="idm140619158443344" type="recipient" key="Wroblewsky, Otto B." sameAs="#personidm140619158443344">Boghandler Wroblewsky</persName>!</p>
+        <p xml:id="idm140619158442592">Tak for Deres Brev og for Deres gjentagne Løfte om, at De indtil videre ikke vil sælge noget Expl. af „R. E.". Paa en eller anden Maade komme vi <pb xml:id="idm140619158442016" n="12" facs="images/002143206_000/002143206_000_0016.jpg"/>vel til definitiv Enighed, da jo ingen af os vil gjøre den anden Fortræd. Jeg skal nu vente til Stykket er antaget eller forkastet, men maa dog sige, at jeg ikke forstaaer, hvorledes De vil kunne sælge den gamle Digtning, naar det nye Drama er antaget; thi Enhver vil jo kun ønske at faae det nye og vil blive underlig skuffet ved at faae det gamle Stykke. Ogsaa kunde jeg gjøre en hastig Ende paa vore Forhandlinger og give det nye Stykke et andet Navn<note xml:id="idm140619158440496" n="*)" anchored="true">Denne Opfordring har Hr. G., som bekjendt, fulgt.<lb xml:id="idm140619158439696"/>
+Udg. Anm.</note>. Hvo vilde saa spørge om „R. E." ?</p>
+        <p xml:id="idm140619158439184">(Resten af Brevet berører et andet Anliggende, som ikke vedkommer „R. E.")</p>
+      </div>
+      <pb xml:id="idm140619158438496" n="12" facs="images/002143206_000/002143206_000_0016.jpg"/>
+      <div decls="bibL0021432060000004" n="4" xml:id="L0021432060000004" xml:lang="da-Dk">
+        <head xml:id="idm140619158436656"><geogName xml:id="idm140619158436528" type="sender" sameAs="idm8a10a0d1-15ce-47c9-8098-76117cac0681">43. Vesterbrogade</geogName>. <date xml:id="idm140619158436144" sameAs="idmf3f1bdae-827c-4915-9d97-02850ec39f53">Jan. 18. 68</date>.</head>
+        <p xml:id="idm140619158435632">S. T. Hr. <persName xml:id="idm140619158435376" type="recipient" key="Wroblewsky, Otto B." sameAs="#personidm140619158435376">Boghandler Wroblewsky</persName>!</p>
+        <p xml:id="idm140619158434624">De vilde gjøre mig en Tjeneste ved at besøge mig en af de første Dage. Jeg er bedst hjemme imorgen, Søndag, Kl. 12—1 og 4½—5½ eller Mandag Kl. 5.</p>
+        <p xml:id="idm140619158433920">Deres ærb. og hengivne<lb xml:id="idm140619158433600"/>
+               <persName xml:id="idm140619158433344" type="sender" key="Goldschmidt, Meïr Aron" sameAs="#personidm140619158433344">M. Goldschmidt</persName>.</p>
+        <postscript xml:id="idm140619158432592">
+          <p xml:id="idm140619158432336">En Samtale fandt da Sted i en af de nærmest paafølgende Dage i Hr. Goldschmidts Hjem imellem ham og mig, hvorefter jeg d. 2. Februar afsendte følgende Brev til Hr. G.:</p>
+          <p xml:id="idm140619158431600">„I Continuation as vor sidste Samtale angaaende Forlaget af en til Opførelse antaget Omarbejdelse af „Rabbi Eliezer" skal <pb xml:id="idm140619158431200" n="13" facs="images/002143206_000/002143206_000_0017.jpg"/>feg, næstefter at forudskikke den almindelige Bemærkning, at det i Grunden vilde have været naturligst, om De — sans comparaison — som Kjøbmanden opstillede Deres Betingelser, istedetfor at jeg nu skal gjøre Tilbud, — fremkomme med mit Forslag, som da gaaer ud paa, at jeg for et Oplag af højst 1000 Expl., hvoraf de 50 regnes at fragaa til Forf. og Anmeldere i Bl. — vil give et Honorar af 12 Rdl. pr. Ark; det er det samme, som jeg gav for „Blandede Skrifter" og paa en Ubetydelighed nær, Halvdelen af hvad jeg gav for „R. E."; begge sidstnævnte Skrifter bleve ligeledes trykte i 1000 Expl.; Udstyrelsen bliver som „en Skavanks."</p>
+          <p xml:id="idm140619158428928">Jeg har ved at gjøre dette Forslag taget i Betragtning de Tab, jeg har lidt ved at forlægge Deres Arbeider i sin Tid og tillige Deres egen venlige Yttring under vor forrige Samtale, at De nærede Ønsket om at bidrage til at holde mig skadesløs for disse Tab; idet feg beder Dem under Overvejelsen af det Svar, De agter at give mig — ogsaa at tage dette Hensyn, beder jeg tillige bemærket, at jeg frafalder Betingelsen, at Stykket skal have været opført, forinden jeg bestemmer mig og er villig til, om De ønsker det, at give enhver Kjøber af det nye Stykke gratis et Expl. af R. E., saalangt Oplaget strækker til. De vil da saameget friere kunne henvise hertil i Efterskrift til det nye Stykke.</p>
+          <p xml:id="idm140619158427072">Jeg beder Dem venligst tage disse Tilbud under Overvejelse, og naar De faaer Tid, lade mig høre Deres Mening, idet jeg herved skriftlig gjentager mit Tilsagn om fremdeles at holde „R. E." ude af Handelen indtil det nye Stykke udkommer."</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619158425936" n="13" facs="images/002143206_000/002143206_000_0017.jpg"/>
+      <div decls="bibL0021432060000005" n="5" xml:id="L0021432060000005" xml:lang="da-Dk">
+        <head xml:id="idm140619158424096"><geogName xml:id="idm140619158423968" type="sender" sameAs="idmf59479e8-17c7-47b0-b545-dfd03a94f978">43 Vesterbrogade</geogName>, <date xml:id="idm140619158423584" sameAs="idmb9463cf5-8326-4d26-a259-ad1450880c2f">Febr. 4. 68</date>.</head>
+        <p xml:id="idm140619158423072">S. T. Hr. <persName xml:id="idm140619158422816" type="recipient" key="Wroblewsky, Otto B." sameAs="#personidm140619158422816">Boghandler Wroblewsky</persName>!</p>
+        <p xml:id="idm140619158422064">De havde ikke behøvet — ved Bemærkningen om, at jeg skulde stille mine Fordringer „som Kjøbmand" — at sætte til: sans comparaison. Det vilde jo være latterligt at nægte, at ethvert Skrift, der udgives, <pb xml:id="idm140619158421360" n="14" facs="images/002143206_000/002143206_000_0018.jpg"/>foruden at være et Værk af Aanden tillige er en Handelsvare. Og jeg mener, at vi netop bør betragte det Arbeide, som nu er under Omtale, fra denne dobbelte Side; det er, troer jeg, Aand, og det er Kjøbmandsvare. Men hertil vil jeg dog føie et Tredie: der er i denne Sag tillige noget Sjæleligt, Humant eller Venskabeligt at tage i Betænkning.</p>
+        <p xml:id="idm140619158419792">De tilbyder for et Værk, der vel ikke har kostet et helt Aar at omarbeide, men dog har beskjæftiget mig stærkt i Løbet af et Aar og ganske medtaget c. 3 Maaneder, samme Honorar som for „blandede Skrifter", der saa godt som ikke fordrede andet nyt Arbeide end Corecturlæsning.</p>
+        <p xml:id="idm140619158418832">Ved at modtage dette vilde jeg bortgive ca. 100 Rdl., som jeg nemlig kan saae mere.</p>
+        <p xml:id="idm140619158418448">Ogsaa hertil vilde jeg være beredt, hvis jeg blot kunde nære sikker paa, at den Hensigt, hvori jeg, som De ganske rigtig anfører — skulde bringe Offeret, vilde naaes. Men kan jeg vide om Stykket vil giøre Lykke<note xml:id="idm140619158417744" n="*)" anchored="true">Denne Betingelse har jeg jo ikke stillet; mit Tilbud (see mit Svar af 2. Fbr.) var ubetinget!<lb xml:id="idm140619160349040"/>
+Udg. Anm.</note> og blive solgt? Riskere vi ikke, at De, selv efter Betaling af et saa lavt Honorar, lider Tab og igjen faaer Grund til at mene, at De og jeg ikke have Lykke sammen?</p>
+        <p xml:id="idm140619160348352">Vel sandt, jeg kan ogsaa blive Skyld i, at Steen lider Tab, og et større. Men han forlægger mine andre Skrifter, der synes at betale sig meget godt, og som altsaa tillade ham at riskere. Det Tilbud, at <pb xml:id="idm140619160347664" n="15" facs="images/002143206_000/002143206_000_0019.jpg"/>De vil forære Kjøberne af det nye Drama alle Expl. af „Rabbi Eliezer", vidner vel om det ringe Udbytte, De i alle Fald venter af „Rabbi Eliezer", men jeg kan ikke godt modtage det. Mit Ønske er, at „R. E." maa sælges uden Nedsættelse i Prisen, og at det nye Stykkes Fremkomst maa skaffe Dem en Afsætning, som de nu ikke regner paa<note xml:id="idm140619160346224" n="*)" anchored="true">Et fromt Ønske!<lb xml:id="idm140619160345488"/>
+Udg. Anm.</note>.</p>
+        <p xml:id="idm140619160344976">Jeg spørger da: Er det ikke rigtigt, at jeg modtager det større Honorar, som jeg kan faae, og forbeholder mig, paa passende Maade at byde Dem Erstatning, hvis det nemlig skulde vise sig sandsynligt, at det nye Stykke har gjort Dem nogen Skade, og navnlig, hvis De lider Skade ved at holde Deres venskabelige Løfte (ikke at udbyde det gamle til Salg, før det nye kommer).</p>
+        <p xml:id="idm140619160343968">Naar jeg taler om at byde Dem „Erstatning", saa maa det vel mærkes, at den skal fremtræde som Erkjendtlighed for en venskabelig Tjeneste og ikke fom Andet. Jeg kommer igjen tilbage til, at Værker ere en Handelsvare. Naar De har lidt Tab paa Værker af mig, saa er det mig ubehageligt, ja pinligt. Men ligesaa lidt som De forlanger, at Forfatteren skal tilbagebetale Noget af Honoraret, som De, da De gjorde Skriftet til Gjenstand for lovlig Speculation, erlagde, ligesaalidt betaler De ham mere Honorar, hvis Speculationen lykkes, og ligesaa lidt gjør han en saadan Fordring. Herom ere vi vist aldeles enige. Det er ikke den Slags Erstatning, jeg skal byde <pb xml:id="idm140619160342304" n="16" facs="images/002143206_000/002143206_000_0020.jpg"/>Dem, hvorimod jeg virkelig og oprigtig nærer det Haab at slutte denne Sag saaledes, at vi begge med Tilfredsstillelse ville kalde det gentlemanly.</p>
+        <p xml:id="idm140619160341072">Forresten er endnu Intet afgjort; jeg har kun skrevet dette som Svar paa Deres Brev og vil gjerne, om mulig, tale videre med Dem.</p>
+        <p xml:id="idm140619160340544">Deres ærb. og heng.<lb xml:id="idm140619160340224"/>
+               <persName xml:id="idm140619160339968" type="sender" key="Goldschmidt, Meïr Aron" sameAs="#personidm140619160339968">M. Goldschmidt</persName>.</p>
+        <postscript xml:id="idm140619160339216">
+          <p xml:id="idm140619160338960">Den 10de Febr. tilskrev jeg derpaa Hr. G. som følger :</p>
+          <p xml:id="idm140619160338448">Ved nærværende tillader jeg mig at forespørge om Størrelsen af det Honorar pr. Ark, De gjør til Betingelse for Overdragelsen af Forlaget af Deres Omarbejdelse af Rabbi Eliezer, forudsat dets Antagelse til Opførelse ved det kgl. Theater hersteds, i et Oplag af 1000 Expl.</p>
+          <p xml:id="idm140619160337488">Imødeseende Deres ærede Svar tegner med Høiagtelse</p>
+          <p xml:id="idm140619160336976">Deres ærb.</p>
+          <p xml:id="idm140619160336592">O. B. W.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619160335952" n="17" facs="images/002143206_000/002143206_000_0021.jpg"/>
+      <div decls="bibL0021432060000006" n="6" xml:id="L0021432060000006" xml:lang="da-Dk">
+        <head xml:id="idm140619160334112">Men samme Dag, ikke Ugedagen efter at Hr. G. har skevet mig til: „Forresten er endnu Intet afgjort", paa et Tidspunkt altsaa, paa hvilket jeg er fuldt berettiget til at betragte Forhandlingerne som svævende, forinden den Samtale, Hr. G. ønsker med mig, har fundet Sted, tilbyder han — og Herr Boghandler Steen modtager Tilbudet om — Forlaget af Omarbejdelsen, hvorom jeg underrettedes i følgende Skrivelse:<lb xml:id="idm140619160333104"/>
+               <geogName xml:id="idm140619160332848" type="sender" sameAs="idma3e7d239-0181-4a7f-88f8-0df51c0454b9">43. Vesterbrogade</geogName>, <date xml:id="idm140619160332464" sameAs="idm61007706-cecc-48c1-afde-0f49b69fb7b3">Febr. 11. 1868</date>.</head>
+        <p xml:id="idm140619160331952">S. T. Hr. <persName xml:id="idm140619160331696" type="recipient" key="Wroblewsky, Otto B." sameAs="#personidm140619160331696">Boghandler Wroblewsky</persName>!</p>
+        <p xml:id="idm140619160330944">Iforgaars fik jeg fra Trykkeriet 3die Correctur paa sidste Ark (9de) af Dramaet, og da der skulde Papir til Trykningen, skrev jeg igaar til Steen og modtog hans Tilbud som Forlægger. Jeg tør ingenlunde sige, at De har ladet mig vente for længe paa deres Svar; thi jeg havde ikke bedet Dem skynde Dem. Derfor er jeg ogsaa beredt til at gaae til Steen, forelægge ham Omstændighederne og bede ham lade Handelen gaae tilbage — hvis De beslutter Dem. Steen vil paa ingen Maade trykke færre end 1250 Expl. Selv om han ikke kan saae dem solgte, behøver han dog et stort Oplag for at skaffe 5 à 800 Expl. afsatte. Jeg maa antage, at dette er rigtigt, og at jeg vil saae flere Læsere ved et stort Oplag, hvorfor jeg tilbyder Dem de 1250 Expl. for 18 à 20 Rdl. pr. Ark., imod Forpligtelse til, aldrig at nedsætte Prisen. Og ligeledes vil jeg haabe, at det er en Aftale, at hvis Foretagendet mislykkes i pecuniair Henseende, bliver det aldrig omtalt.</p>
+        <p xml:id="idm140619160329584">Tilbudet om at uddele „Rabbi Eliezer" gratis til Kjøberne af det nye Drama kan jeg, som sagt, ikke modtage, hvorimod jeg, hvis De nu ikke kjøber det nye Drama, stadig anseer mig forpligtet til at erstatte Dem den Skade, som De kan lide, i Henhold til og som Følge af Deres Løfte: ikke at ville fælge „R. E.", før det nye Stykke er udkommet.</p>
+        <p xml:id="idm140619160328544">Jeg ønsker, at disse Linier paany maa vise Dem mit Ønske om at staae aldeles klar i denne <pb xml:id="idm140619160328080" n="18" facs="images/002143206_000/002143206_000_0022.jpg"/>Sag<note xml:id="idm140619160327280" n="*)" anchored="true">Dette Ønske opfyldtes fuldstændigt!<lb xml:id="idm140619160326544"/>
+Udg.</note> ; men jeg ma a dog endnu tilføie, at en Grund til den hurtige Expedition<note xml:id="idm140619160326000" n="**)" anchored="true">Hr. G. føler, at hans Handlemaade maa besmykkes.<lb xml:id="idm140619160325152"/>
+Udg.</note> i Trykkeriet var et Brev fra den, der skal componere en Sang (indlagt i Dramaet) og som paa Grund af Omstændighederne ønskede sig snarest mulig tilsendt et Expl. Men der existerer intet læseligt Expl. uden det, som Theatret eier, og vedkommende Musiker kunde ikke saae dette, da han ikke er her i Byen.</p>
+        <p xml:id="idm140619160324016">2</p>
+        <p xml:id="idm140619160323632">Med venlig Hilsen<lb xml:id="idm140619160323376"/>
+Deres ærbødigste<lb xml:id="idm140619160323120"/>
+               <persName xml:id="idm140619160322864" type="sender" key="Goldschmidt, Meïr Aron" sameAs="#personidm140619160322864">M. Goldschmidt</persName>.</p>
+        <postscript xml:id="idm140619160322112">
+          <p xml:id="idm140619160321856">Den 13de Febr. besvarede jeg dette Brev saaledes:</p>
+          <p xml:id="idm140619160321408">„Idet jeg meget man beklage, at jeg ikke kan overskride de af mig i sidste Skrivelse til Dem gjorte Tilbud m. H, t. Forlaget af oftomtalte Drama, undlader jeg ikke tillige at tilføie, at jeg, da det selvfølgeligt ikke kan være mig behageligt, at en af mine Forlags-Artikler udkommer paa en Andens Forlag i en forandret Skikkelse, agter snarest at afhænde Restoplaget af Rabbi Eliezer til en af vore Antiqvarer, selvfølgelig med den Forpligtelse, at han ikke maa sælge Bogen, før det ny Stykke er opført, men forøvrigt med Ret til at bestemme Prisen."</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619160319632" n="18" facs="images/002143206_000/002143206_000_0022.jpg"/>
+      <div decls="bibL0021432060000007" n="7" xml:id="L0021432060000007" xml:lang="da-Dk">
+        <head xml:id="idm140619160317792"><geogName xml:id="idm140619160317664" type="sender" sameAs="idm61de38d0-ca27-476f-aa9c-356f5fac3f03">43 Vesterbrogade</geogName>, <date xml:id="idm140619160317280" sameAs="idm65fe814b-f559-47b4-8968-071a9a10e662">Febr. 14. 68</date>.</head>
+        <p xml:id="idm140619160316768">S. T. Hr. <persName xml:id="idm140619160316512" type="recipient" key="Wroblewsky, Otto B." sameAs="#personidm140619160316512">Boghandler Wrodlewsky</persName>!</p>
+        <p xml:id="idm140619160315760">Jeg maa ligesom De, Høistærede, begynde mit Brev med en Beklagelse, nemlig over, at vi ikke have <pb xml:id="idm140619160315296" n="19" facs="images/002143206_000/002143206_000_0023.jpg"/>kunnet komme overens, uagtet jeg vilde bringe et pecuniairt Offer.</p>
+        <p xml:id="idm140619160314368">Naar De nu truer mig med — jeg siger det ikke i Vrede, men for at nænne Barnet ved sit rette Navn — en lille Tort ved at sælge „R. E." maaskee for faa Skilling, saa er jeg forhindret fra at sige Andet end ønske, at De maa finde Tilfredsstillelse derved.</p>
+        <p xml:id="idm140619160313440">For Øieblikket er det kun min Pligt at melde, at Trykningen — paa Grund af, at jeg har kunnet bruge Correcturarkene — er udsat, og at selve Stykket jo ikke vil komme til Opførelse i dette Aar.</p>
+        <p xml:id="idm140619160312640">Med Agtelse ærbødigst<lb xml:id="idm140619160312320"/>
+               <persName xml:id="idm140619160312064" type="sender" key="Goldschmidt, Meïr Aron" sameAs="#personidm140619160312064">M. Goldschmidt</persName>.</p>
+        <postscript xml:id="idm140619160311312">
+          <p xml:id="idm140619160311056">Dette Brev besvarede jeg Dagen ester saaledes:</p>
+          <p xml:id="idm140619160310608">„Da jeg efter Læsningen af Deres ærede Skrivelse af G. D. har faaet Fornemmelsen af, at De troer, at jeg vil fælge Restoplaget af „R. E." for at tilføie Dem „en lille Tort" — med andre Ord, at jeg har villet hævne mig, fordi jeg ikke faaer Deres nye Arbeide paa Forlag, skylder jeg mig selv at gjøre mit til, at denne Tro ikke fæster Rod hos Dem. Jeg har — som alt tidligere meldt — isinde at sælge Restoplaget af „R. E.":</p>
+          <p xml:id="idm140619160309312">fordi det er mig som Forlægger ubehageligt, at et af mig forlagt Arbeide udkommer i forandret Skikkelse andetsteds, uden at være udsolgt hos mig, og</p>
+          <p xml:id="idm140619160308608">fordi jeg troer, at jeg i pecuniair Henseende vil kunne staae mig bedre ved at fælge Restoplaget til en Antiqvar, der selv kan bestemme Prisen og ofte har andre Afsætningsmaader end Ikke- Antiqvaren — end ved selv at sælge det enkeltvis; i det størst mulige Udbytte, — det mindst mulige Tab — paa „R. E." søger jeg at finde Tilfredsstillelsen og ikke i nogen personlig Hævn.</p>
+          <p xml:id="idm140619160307440">Forøvrigt skal jeg ikke udtale mig yderligere om denne Sag, der jo hermed formentlig er endt mellem os, hvormegen Fristelse <pb xml:id="idm140619160306912" n="20" facs="images/002143206_000/002143206_000_0024.jpg"/>Der end kunde nære for mig dertil i en enkelt Retning, og ikkun yttre min Beklagelse over, at Stykket ikke kan ventes opført i Aar (1868); efter vore Samtaler troede jeg, at det vel ikke kunde ventes i indeværende Saison, men dog paa denne Side Nytaar, og i denne Forudsætning har jeg ogsaa givet mit Løfte om ikke at ville fælge Expl. af „R. E."</p>
+          <p xml:id="idm140619160305344">2*</p>
+          <p xml:id="idm140619160304960">med Høiagtelse ærb.</p>
+          <p xml:id="idm140619160304512">O. B. W.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619160303872" n="20" facs="images/002143206_000/002143206_000_0024.jpg"/>
+      <div decls="bibL0021432060000008" n="8" xml:id="L0021432060000008" xml:lang="da-Dk">
+        <head xml:id="idm140619160302032"><geogName xml:id="idm140619160301904" type="sender" sameAs="idm32010f08-7e7b-455e-9f8a-eff48bf1d54f">43 Vesterbrogade</geogName>, <date xml:id="idm140619160301520" sameAs="idm801bd537-9d3d-4243-9188-c1886d36ca5f">Febr. 16. 1868</date>.</head>
+        <p xml:id="idm140619160301008">S. T. Hr. <persName xml:id="idm140619160300752" type="recipient" key="Wroblewsky, Otto B." sameAs="#personidm140619160300752">Boghandler Wroblewsky</persName>!</p>
+        <p xml:id="idm140619160300000">Denne Correspondance skulde unægtelig have en Ende; men det er vanskeligt, naar der fremkommer noget Nyt.</p>
+        <p xml:id="idm140619160299392">De indrømmer selv, at jeg har sagt Dem, at Stykket ikke skulde opføres i denne Saison. Ikke desto mindre skriver De nu, at De kun har givet mig hint meromtalte Løfte under Forudsætning af, at Stykket kom til Opførelse i 1868 (inden Midten af næste Saison).</p>
+        <p xml:id="idm140619160298464">Dette er nyt, og jeg tilstaaer, jeg havde ikke ventet en saadan Nyhed af Dem.</p>
+        <p xml:id="idm140619160298080">Det vilde ogsaa være baade nyt og cariøst, om De vel ansaae Dem bunden til, ikke at fælge et Expl, men vel alle paa engang. Er Salget først skeet, vil De neppe anlægge Proces mod Vedkommende, fordi han ikke venter med Detail-Salget!</p>
+        <p xml:id="idm140619160297200">Det er dog vigtigt, at De husker, hvorledes denne Sag er opkommen. Jeg kunde jo have tiet stille 8—10 <pb xml:id="idm140619160296720" n="21" facs="images/002143206_000/002143206_000_0025.jpg"/>Maaneder endnu<note xml:id="idm140619160295920" n="*)" anchored="true">Saa havde Hr. G. rigtignok ikke opnaaet, at Stykket i dette nævnte Tidsrum stadigt var blevet nægtet i Bogladerne!<lb xml:id="idm140619160294928"/>
+Udg.</note>. Men i Tillid til Deres Retskaffenhed betroede jeg Dem, hvad jeg ansaae for en Hemmelighed, og som væsenlig er det endnu<note xml:id="idm140619160294288" n="**)" anchored="true">Hvori imidlertid, foruden Hr. Steen og jeg, Theaterpersonalet, Bogtrykkeripersonalet (item Componisten af den indlagte Sang) er indviet.<lb xml:id="idm140619160293392"/>
+Udg.</note>. Jaltfald, De modtog den som betroet. Da De tilmed erkjendte, at „R. E." hviler haabløs, kunde De med Lethed give mig det Løfte, nu ikke at sælge Expl., før det ny Stykke paa ny bragte Liv i Sagen.</p>
+        <p xml:id="idm140619160292448">Aldeles adskilt herfra, uden Tale om, hvad Erstatning jeg mulig kunde skylde Dem, bragte De selve Forlaget af det nye Stykke paa Bane. Uagtet jeg har en Forlægger, der er beredt til at paatage sig alle mine Skrifter og uden Undersøgelse eller Discussion betaler alle efter en vis Norm, var jeg dog villig til at modtage Deres Tilbud<note xml:id="idm140619160291504" n="***)" anchored="true">Hr. G. glemmer her, at Talen var om Omarbejdelsen af min lovlige Ejendom!<lb xml:id="idm140619160290768"/>
+Udg.</note>; men De vil selv behagelig huske, hvorledes det gik hermed: at De først forlangte af mig til ingen Nytte et pecuniairt Offer paa c. 100 Rd., og at De dernæst, da De havde spurgt om mine Fordringer og seet, at jeg vilde bringe et mindre Offer, dreiede rundt og svarede, at De holdt paa Deres 1ste <note xml:id="idm140619160289664" n="�)" anchored="true">Prr . . . jeg er ikke med!<lb xml:id="idm140619160288928"/>
+Udg.</note>. [her en overstreget Linie] Underhandlingerne om Forlaget staae altsaa ikke i nøie Sammenhæng med det Forangaaende, med det, jeg betroede <pb xml:id="idm140619160288240" n="22" facs="images/002143206_000/002143206_000_0026.jpg"/>Dem, og Løftet, De gav mig. Og skjøndt De kan yttre Dem lidt mismodig, anseer jeg Dem oprigtig for at være en altfor honnet Mand til at bryde Deres Ord directe eller indirecte. Jeg kunde tilføie, at det vil vise sig at oœre ogsaa Deres Fordel at blive ved Aftalen; men dels er den hele Fordel, den ganske Sag kan give, altfor ubetydelig, dels troer jeg, at De under ingen Omstændigheder vilde være — ucorrect.</p>
+        <p xml:id="idm140619160286784">Ærbødigst<lb xml:id="idm140619160286528"/>
+               <persName xml:id="idm140619160286272" type="sender" key="Goldschmidt, Meïr Aron" sameAs="#personidm140619160286272">M. Goldschmidt</persName>.</p>
+        <postscript xml:id="idm140619160285520">
+          <p xml:id="idm140619160285264">E. Sk.</p>
+          <p xml:id="idm140619160284880">Jeg beder Dem undskylde, at der findes en overstreget Linie i det Foregaaende. Den indeholdt en Tanke, som blev altfor utydelig udtrykt.</p>
+          <p xml:id="idm140619160284336">Fordi jeg sætter Pris paa, ikke ved denne Sag at efterlade nogen Braad hos Dem, gjør jeg Dem det Forslag, at vi enten i Overværelse af to gode Mænd, af hvilke hver vælger en (som ikke kjender Sagen i Forveien) discuterer vor gjensidige Stilling — eller at De giver mig Forkjøbsret til de Expl., De har villet uddele gratis til Kjøberne af det nye Stykke<note xml:id="idm140619160283440" n="*)" anchored="true">Vel at mærke saafremt jeg havde havt den formentlige Fordel at blive Forlægger af det omarbejdede Stykke.<lb xml:id="idm140619160282480"/>
+Udg.</note>, men nu agter at sælge til en Antiquar. Husk, at jeg fra først af har bragt den Tanke frem, og at jeg udtrykkelig har spurgt Dem, men ikke faaet besvaret: hvor meget De vilde sælge det ubrugelige Restoplag for. Spørgsmaalet blev gjort Dem skriftlig.</p>
+          <p xml:id="idm140619160281440"><pb xml:id="idm140619160281312" n="23" facs="images/002143206_000/002143206_000_0027.jpg"/>Husk endvidere, beder jeg, at hvis De beholder Oplaget og lader mig henvise til det gamle Stykke, saa kan det efter Opførelsen af det nye faae nogen Værdi; men skal uden min Villie en Antiquar have det, saa maa det ogsaa samtidig aabent siges Publicum, at Stykket helt omarbeidet og under et andet Navn vil blive opført, og derom maa da Antiquaren være vidende<note xml:id="idm140619160279760" n="*)" anchored="true">Man kunde her fristes til at spørge om det er Hr. G. eller mig, som ejer Restoplaget af „R. E."<lb xml:id="idm140619160278816"/>
+Udg.</note>.</p>
+          <p xml:id="idm140619160278304">M. G.</p>
+          <p xml:id="idm140619160277920">Herpaa svarede jeg d. 20 Febr. næstefter :</p>
+          <p xml:id="idm140619160277536">„Ved nærværende har jeg den Ære at tilmelde Dem, at jeg vil sælge Restoplaget af Rabbi Eliezer — c. 730 Expl. i den Stand som de forefindes, ɔ: i raa Materie, — heftede — indbundne for 12 ß pr. Expl. Bogladeprisen var 1 Rd., den nedsatte Priis <note xml:id="idm140619160277008" n="**)" anchored="true">som gjaldt en kortere Tid og ophørte i Foraaret 1867.<lb xml:id="idm140619160276144"/>
+Udg.</note> 24 ß.“</p>
+          <p xml:id="idm140619160275632">Efter det Foregaaende var jeg jo nu berettiget til at vente, at Hr. G. vilde beære mig med et Svar paa dette sidste Tilbud; men Sommeren gik uden at et saadant indløb, og Hr. G. kunde jo ogsaa godt lade del bero med Svaret, da han jo vidste, at jeg ialtfald efter hans Opfattelse var forhindret i at sælge Bogen. Da jeg derfor den 18de August endnu ikke havde faaet Svar paa mit Tilbud af 20 Febr. — paa 2 Dage nær ½ Aar, skrev jeg til Hr. G. samme Dag (18. Aug.):</p>
+          <p xml:id="idm140619160274480"><pb xml:id="idm140619160274352" n="24" facs="images/002143206_000/002143206_000_0028.jpg"/>„Af Bladene seer jeg, at Rollerne i „Rabbien og Ridderen", Drama af Hr. M Goldschmidt, antaget til Opførelse i den kommende Saison, ere omdelte.</p>
+          <p xml:id="idm140619160273264">Idet jeg forudsætter, at „Rabbien og Ridderen" er den mellem DVbhd og mig ofte omtalte Omarbejdelse af det paa mit Forlag udkomne Drama „Rabbi Eliezer" af Dem, er jeg saa fri at bringe i bhgl. Erindring mit ifølge Deres Opfordring d. 20 Febr. d. A. afgivne Tilbud, ifølge hvilket jeg vilde sælge Dem Restoplaget (c. 730 Expl,) for 12 ß pr. Expl.</p>
+          <p xml:id="idm140619160272240">Deres ærede Svar tør jeg maaskee nu udbede mig bhgl. meddelt inden 1 Septbr. d. A."</p>
+          <p xml:id="idm140619160271664">ærb.</p>
+          <p xml:id="idm140619160271280">O. B. W.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619160270640" n="24" facs="images/002143206_000/002143206_000_0028.jpg"/>
+      <div decls="bibL0021432060000009" n="9" xml:id="L0021432060000009" xml:lang="da-Dk">
+        <head xml:id="idm140619160268800">Jstedetfor nu at svare „Ja" eller „Nei" paa mit Tilbud, hvilket jo var det naturligste, kommer G. atter tilbage til sit Yndlingsforslag — en Jury af „kyndige, upartiske Mænd;" det convenerer ham aabenbart ikke at faae Sagen afgjort paa dette Tidspunkt — hverken at kjøbe det, eller see det solgt til en Antiqvar; jeg modtog altsaa følgende Skrivelse:<lb xml:id="idm140619160267888"/>
+               <geogName xml:id="idm140619160267632" type="sender" sameAs="idm4c4be228-8c03-44de-afe9-20c254a57b47">43. Vesterbrogade</geogName>, <date xml:id="idm140619160267248" sameAs="idm8aebfbc7-4842-4343-8711-6f398b6290e3">Aug. 27. 1868</date>
+            </head>
+        <p xml:id="idm140619160266864">S. T. Hr. <persName xml:id="idm140619160266608" type="recipient" key="Wroblewsky, Otto B." sameAs="#personidm140619160266608">Boghandler Wroblewsky</persName>!</p>
+        <p xml:id="idm140619160265856">Jeg har forelagt Andre Deres samtlige Breve<note xml:id="idm140619160265536" n="*)" anchored="true">Hvor discret!<lb xml:id="idm140619160264800"/>
+Udg.</note>, nemlig</p>
+        <p xml:id="idm140619160264288">1) det, hvori De aldeles bestemt indrømmer at have lovet mig ikke at ville avertere eller sælge „Rabbi Eliezer", før Omarbeidelsen er bleven opført, og <pb xml:id="idm140619160263696" n="25" facs="images/002143206_000/002143206_000_0029.jpg"/>2) det, hvori De vilkaarlig indskrænker Deres Løfte saaledes, at det ikkun skal gjælde til Ubiøbet af 1868,</p>
+        <p xml:id="idm140619160262528">(altsaa dog ikke samtlige.)</p>
+        <p xml:id="idm140619160262144">Udg.</p>
+        <p xml:id="idm140619160261760">og man har ligesaalidt som jeg kunnet forstaae, at De pludselig<note xml:id="idm140619160261504" n="*)" anchored="true">pludselig ɔ: ½ Aars Betænkningstid for H. G.<lb xml:id="idm140619160260656"/>
+Udg.</note> end ikke vil give mig Frist længere end til 1 Sept. Jeg veed ikke om De nu fuldstændig vil bryde Deres Løfte; men da Intet er skeet siden Sidst, da jeg ikke veeb det Allerringeste Mere om Stykket, nemlig det omarbeidede, end jeg vibste sidst<note xml:id="idm140619160259760" n="**)" anchored="true">Ja! hvad mere skulde der vides, end at Stykket var antaget til Opførelse, og at Forlaget var overdraget Hr. Steen?<lb xml:id="idm140619160258784"/>
+Udg.</note> er jeg aldeles ude af Stand til at svare, men troer dog, at jeg saavel overfor Boghandlerforeningen som overfor Publicum kan forsvare, at jeg ikke b. 1 Septbr. vil lade mig dictere en Mulct af Dem paa 90 Rbl., fordi jeg har omdigtet et Stykke.</p>
+        <p xml:id="idm140619160258016">Det er mig umuligt at forhindre Dem fra at sælge „Rabbi Eliezer" til en Antiquar; men Dhrr, hvem jeg har forelagt Sagen, ere enige med mig i, at om De end troer at kunne bryde Deres Løfte til mig, saa kan De ikke som honnet Mand — hvad jeg ganske vist anseer Dem for — sælge „R. E." uden at sige Kjøberen, at Oplaget albeles ingen Værdi har uden ved et godt Forhold til mig. Thi jeg kan efter Løfte, naar det nye (omarbeidede) Stykke er ubført, henlede Opmærksomheden paa „Rabbi Eliezer"; hvorimod jeg, <pb xml:id="idm140619160257056" n="26" facs="images/002143206_000/002143206_000_0030.jpg"/>naar sidstnævnte Stykke averteres før hin Opførelse, er berettiget til at avertere — og maaskee forpligtet til at henlede Publicums Opmærksomhed paa — at det gamle Stykke er blevet aldeles omarbeidet.</p>
+        <p xml:id="idm140619160255696">Jeg vil selvfølgelig gierne undgaa Strid; men Deres peremtoriske Fordring om Besked inden 1 Sept, lader mig intet Valg. Jeg kan kun sige, at jeg, i hvad der saa skeer, vil vide at efterkomme alle Æresregler, ligesom jeg endnu bliver ved mit Tilbud om at lade kyndige, upartiske Mænd afgjøre Sagen imellem os. Jeg skal beredvillig underkaste mig enhver saadan Dom.</p>
+        <p xml:id="idm140619160254672">Ærbødigst<lb xml:id="idm140619160254416"/>
+               <persName xml:id="idm140619160254160" type="sender" key="Goldschmidt, Meïr Aron" sameAs="#personidm140619160254160">M. Goldschmidt</persName>.</p>
+        <postscript xml:id="idm140619160253408">
+          <p xml:id="idm140619160253152">Dette Brev var mig dog for stærkt til ikke at blive imødegaaet, og den 29de Aug. gjorde jeg mig Umage for at afslutte Sagen, gjennemgaae dens Historie og endelig forlænge Fristen. Denne Skrivelse lyder saalunde:</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619160252064" n="26" facs="images/002143206_000/002143206_000_0030.jpg"/>
+      <div decls="bibL0021432060000010" n="10" xml:id="L0021432060000010" xml:lang="da-Dk">
+        <head xml:id="idm140619160250224"><geogName xml:id="idm140619160250096" type="sender" sameAs="idm954bdcd9-ea4a-4314-a2cb-ae6d3ee305b2">Kjøbenhavn</geogName><date xml:id="idm140619160249712" sameAs="idm9372951e-3781-4b91-8a95-9c78390f3478">den 29. Aug. 1868</date>.</head>
+        <p xml:id="idm140619160249200">Herr Candidat <persName xml:id="idm140619160248944" type="recipient" key="Goldschmidt, Meïr Aron" sameAs="#personidm140619160248944">M. Goldschmidt</persName>, hersteds.</p>
+        <p xml:id="idm140619160248192">Den 15de Februar d. A. skrev jeg bl. A. til Dem saaledes: „Forøvrigt skal jeg . . . . ikkun yttre min Beklagelse over, at Stykket ikke kan ventes opført iaar; efter vore Samtaler troede jeg, at det vel ikke kunde ventes i indeværende Saison (nemlig 18 67/68), men dog paa denne Side Nytaar; og i denne Forudsætning har jeg ogsaa givet mit Løfte om ikke at ville fælge Expl. af „Rabbi Eliezer."</p>
+        <p xml:id="idm140619160247072">Dette til Svar paa Deres gjentagne Tale om Brud paa Løfte, hvilket jeg ikke noksom kan bede erindret, da jeg ellers maa befrygte, at det tilsidst vil blive tillagt mig, at jeg ubetinget har lovet Dem aldrig at avertere eller sælge „Rabbi Eliezer"; jeg <pb xml:id="idm140619160246288" n="27" facs="images/002143206_000/002143206_000_0031.jpg"/>forudsætter f. Ex., at Opførelsen af den antagne Omarbejdelse af forskjellige Grunde bliver udsat og udsat i det uendelige; vilde De saa virkelig forlange, at jeg ikke maatte fælge Expl. af „R. E.", maaskee i 5, i 10 Aar, maaskee aldrig.</p>
+        <p xml:id="idm140619160244864">Løftet blev selvfølgelig givet i den Tro, at der paa en eller anden Maade vilde komme noget ud af vore Forhandlinger om Forlaget as Omarbejdelsen, og under den Forudsætning, som vel ikke er saa unaturlig, at den nærmeste Fremtid vilde bringe Resultatet om det nye Stykkes Antagelse og Opførelse; saaledes opfatter jeg Forholdet, og at dette ikke er nogen ny Opfattelse af mig, vil De yderligere finde bekræftet i min Skrivelse af 12 November 1867.</p>
+        <p xml:id="idm140619160243856">Da nu</p>
+        <p xml:id="idm140619160243472">1) Forhandlingerne mellem os om Forlaget af det nye Stykke ere endte uden Resultat for mig,</p>
+        <p xml:id="idm140619160242976">2) Stykket forlængst er antaget og Rollerne fordelte og</p>
+        <p xml:id="idm140619160242464">3) da jeg alt i Februar M. d. A. besvarede Deres Spørgsmaal om hvad jeg vilde have for at stille Restoplaget af „R. E." til Deres Disposition, ved at opgive Prisen herfor,</p>
+        <p xml:id="idm140619160241712">saa forekommer det mig ikke — trods Deres og „Andres" Paastand, — saa nforstaaeligt, at jeg i August Md. beder om Svar, hvortil jeg endda giver en Frist af 14 Dage; jeg kan ikke forstaa, at De — efter at Stykket er antaget, og Accord om Forlaget er sluttet — ikke nu kan sige om De vil bringe noget Offer for at faae det casserede Stykke ud af Verden, og i saa Tilfælde hvilket, efter at De siden Februar Md. d. A. kjender mine Betingelser.</p>
+        <p xml:id="idm140619160240656">Deres Bemærkning:</p>
+        <p xml:id="idm140619160240272">„ . . . men DHrr., hvem jeg har forelagt Sagen ere enige med mig i, at om De (Wr.) end troer at kunne bryde Deres Løfte til mig (G.), saa kan De ikke som honnet Mand — hvad jeg ganske vist anseer Dem for — sælge „R. E.", uden at sige Kjøberen, at Oplaget aldeles ingen Værdi har uden ved et godt Forhold til mig . . . . ."</p>
+        <p xml:id="idm140619160239200">har, saafremt Meningen dermed er, at jeg skal skræmmes, aldeles forfejlet sin Hensigt; hvormegen Priis jeg end sætter paa Deres Dom, maa De tilgive, at en af Dem vilkaarlig valgt Jurys — <pb xml:id="idm140619160238544" n="28" facs="images/002143206_000/002143206_000_0032.jpg"/>en for mig hemmelig Rets — Kjendelse ingen Gyldighed har for mig; jeg er desnden for gammel til at „lade mig dictere", for at bruge Deres eget Udtryk, Reglerne for hvad der er honnet; disse har jeg kjendt, førend jeg har haft den Ære at gjøre Deres Bekjendtskab.</p>
+        <p xml:id="idm140619160237056">Jeg imødeseer altsaa fremdeles Deres behagelige Yttringer om det af mig gjorte Tilbud m. H. t. Restoplaget af Rabbi Eliezer, og skal, da 1ste Septbr. er rykket saa nær, gjerne oppebie Deres endelige Svar indtil d. 8 Sept., for det Tilfælde at „Rabbien og Ridderen" ikke forinden maatte være opført paa det kgl. Theater; sluttelig skal jeg ikkun benærke, at der fra det Factum, at jeg beder Dem om Svar d. 1 ste eller 8de Septb., ikke kan stuttes til, at jeg strax efter Modtagelsen af Deres Svar, (om dette gaaer i afstaaende Retning) vil enten avertere „R. E.", eller sælge Oplaget til en Antiqvar."</p>
+        <p xml:id="idm140619160236048">Deres ærbødigste<lb xml:id="idm140619160235792"/>
+               <persName xml:id="idm140619160235536" type="sender" key="Wroblewsky, Otto B." sameAs="#personidm140619160235536">O. B. W.</persName>
+            </p>
+      </div>
+      <pb xml:id="idm140619160234784" n="28" facs="images/002143206_000/002143206_000_0032.jpg"/>
+      <div decls="bibL0021432060000011" n="11" xml:id="L0021432060000011" xml:lang="da-Dk">
+        <head xml:id="idm140619160232944">Herpaa fik jeg jeg følgende Svar:<lb xml:id="idm140619160232688"/>
+               <geogName xml:id="idm140619160232432" type="sender" sameAs="idm842a4d01-0869-4b15-a5e1-2b8dc3797a35">43. Vesterbrogade</geogName>. <date xml:id="idm140619160232048" sameAs="idme515cc43-bc60-46e8-8aad-8f61c742a33b">Sept. 2. 1868</date>.</head>
+        <p xml:id="idm140619160231536">S. T. Hr. <persName xml:id="idm140619160231280" type="recipient" key="Wroblewsky, Otto B." sameAs="#personidm140619160231280">Boghandler Wroblewsky</persName>!</p>
+        <p xml:id="idm140619160230528">1) Taler nogensomhelst Ret eller Billighed for, at jeg, hvis „Rabbien og Ridderen" ikke bliver opført, skal betale Dem ca. 90 Rdl. for Restoplaget af „R. E.?"</p>
+        <p xml:id="idm140619160229808">2) Jeg veed ikke, n a ar „Rabbien og Ridderen" bliver opført; jeg veed ikke engang om Stykket bliver opført. Det Eneste, jeg veed, er, at der for Tiden ingen Rollebesætning er.</p>
+        <p xml:id="idm140619160229040">(jvfr. mit sidste Brev: der er Intet skeet siden sidst.)</p>
+        <p xml:id="idm140619160228656">3) Taler da, vil De spørge, nogensomhelst Ret eller Billighed for, at de ikke skal kunne sælge „Rabbi Eliezer" til hvilkensomhelst Person og til hvad <pb xml:id="idm140619160228080" n="29" facs="images/002143206_000/002143206_000_0033.jpg"/>somhelst Pris De har Lyst? Unægtelig maa De, naar jeg ikke inden Udgangen af dette Aar — den af Dem selv maaskee vilkaarlig, men atter og atter satte Frist — har bragt Omarbeidelsen paa Scenen, have Ret til at sælge „R. E." efter Behag, ligesom jeg da har Ret til at gjøre Publicum en Meddelelse.</p>
+        <p xml:id="idm140619160226528">4) Dersom det var sandt, hvad De fremfører, at Løftet om ikke at avertere eller sælge „Rabbi Eliezer" kun blev givet under Forudsætning af, at De sik Forlaget paa Omarbeidelsen, saa havde De jo forlænge siden været friet fra Løftet. Deres egne Breve, efter at De ikke havde villet modtage Forlaget (for mindre Honorar, end Steen bød mig) gjendrive Dem. Da der var Tale om Forlaget af Omarbeidelsen, tilbød De at give Kjøberen af samme et Expl. af „Rabbi Eliezer" gratis saalænge Oplaget slog til.</p>
+        <p xml:id="idm140619160225456">5) Saalangt er jeg fra at ville sætte Dem under en „hemmelig Rets" Tilsyn og Dom, at mit sidste Brev udtrykkelig fremhæver, at jeg er beredt til at lade den hele Sag bedømme af kyndige og upartiske Mænd. — Det, som saadanne Mænd skulde afgjøre, er: Hvad skylder jeg Dem for at have givet mig hint Løfte og holdt det? Jeg troede, at det var i Deres egen Interesse, at Stykket blev omarbeidet; De selv meente, at der kunde „komme Liv i den døde Ting", naar Omarbeidelsen kom paa Scenen. De har forandret Deres Mening. Velan, hvis kyndige Folk mene, at jeg bør betale Dem 90 Rdl. for Restoplaget, saa <pb xml:id="idm140619160224512" n="30" facs="images/002143206_000/002143206_000_0034.jpg"/>skal De faae 90 Rdlr. Men hverken De eller jeg faaer fornuftige Folk til at afhandle den Sag, saalænge der blot er Mulighed for Omarbeidelsens Brug. Ingen vil tildømme Dem 90 Rdl., naar jeg ikke engang faaer Stykket opført. Jeg kan derfor kun slutte denne Correspondance med at gjentage, at jeg for Tiden ikke har noget Svar, ligefrem finder det umuligt at svare.</p>
+        <p xml:id="idm140619160222832">Ærbødigst<lb xml:id="idm140619160222576"/>
+               <persName xml:id="idm140619160222320" type="sender" key="Goldschmidt, Meïr Aron" sameAs="#personidm140619160222320">M. Goldschmidt</persName>.</p>
+        <postscript xml:id="idm140619160221568">
+          <p xml:id="idm140619160221312">Dette Brev lod jeg ubesvaret; jeg indsaa tydeligt, at en fortsat Discussion vilde være ørkesløs; men jeg besluttede, at Hrr G. fremdeles ikke skulde saae Anledning til at kunne bebreide mig Nogetsomhelst, og jeg har opfyldt hans Ønsker med Hensyn til Salget af „R. E." til det yderste, ja! yderligere end han kunde vente det; dog mere herom i Slutningen. Jeg lod altsaa 1868 løbe ud, uden at foretage mig noget yderligere, og selvfølgelig uden at Hrr. G. lod høre det mindste Ord fra sig — og først da jeg af Morgenaviser d. 27de Marts 1869 saa, at „Rabbien og Ridderen" var ansat til Opførelse den 31te Marts, tilskrev jeg Hrr G. samme Dag (den 27de Marts) saalunde:</p>
+          <p xml:id="idm140619160220144">Da „Rabbien og Ridderen", Omarbejdelsen af „Rabbi Eliezer", nu er ansat til Opførelse paa det Kgl. Theater førstkommende Onsdag d. 31 te ds., maa jeg ansee mig fra den nævnte Dag fuldstændig løst fra det Dem i sin Tid givne Løvte m. H. t. Salget af det paa mit Forlag trykte Drama „Rabbi Eliezer", hvorom jeg ikke undlader herved at give Meddelelse, med Tilføjende om, at mit tidligere Tilbud, at ville sælge Restoplaget (c. 730 Expl. à 12 ß pr. Expl.) fremdeles staaer Dem <pb xml:id="idm140619160219264" n="31" facs="images/002143206_000/002143206_000_0035.jpg"/>aabent indtil imorgen, Søndag Aften d. 28de ds., inden hvilken Tidsfrist jeg imødeseer Deres behgl. Svar, om Ds. Vlbhd. maatte ville beære mig med et saadant.</p>
+          <p xml:id="idm140619160218000">For at undgaae enhver Misforstaaelse, vil jeg formulere dette Tilbud saaledes: Jeg, Wroblewsky, overdrager Dem Restoplaget af ,,Rabbi Eliezer" med fuldstændig Raadighed til med samme at foretage hvad De maatte finde for godt, for 85 Rd., under Forudsætning af, at dette Restoplag mindst tæller 680 Expl, indbundne, heftede eller i raa Materie. Er Restoplaget større, er jeg, Wroblewsky, forpligtet til uden noget Vederlag at levere Hr. Goldschmidt det overskydende Antal Expl., paa 3 Expl. nær, som jeg, Wr, dog er uberettiget til nogensinde at sælge.</p>
+          <p xml:id="idm140619160216688">Beløbet, 85 Rd. R M, erlægges ved Modtagelsen af Restoplaget inden 1 April d. A.</p>
+          <p xml:id="idm140619160216128">Min Adresse er o. s. v.</p>
+          <p xml:id="idm140619160215744">ærb.</p>
+          <p xml:id="idm140619160215360">O. B. W.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619160214720" n="31" facs="images/002143206_000/002143206_000_0035.jpg"/>
+      <div decls="bibL0021432060000012" n="12" xml:id="L0021432060000012" xml:lang="da-Dk">
+        <head xml:id="idm140619160212880">Herpaa modtog jeg den 29de Marts følgende characteristiske Skrivelse, hvormed denne Correspondance ender:<lb xml:id="idm140619160212400"/>
+               <geogName xml:id="idm140619160212144" type="sender" sameAs="idm5c1c6e5f-ee57-4a9c-aa22-46a5603f4c64">43. Vesterbrogade</geogName>, <date xml:id="idm140619160211760" sameAs="idmc8d3b499-7ce5-4f12-bde3-ba5d8149488e">Marts 28. 1868</date>.</head>
+        <p xml:id="idm140619160211248">Hr. <persName xml:id="idm140619160210992" type="recipient" key="Wroblewsky, Otto B." sameAs="#personidm140619160210992">Boghandler Wroblewsky</persName>!</p>
+        <p xml:id="idm140619160210240">Eftersom De fastholder Deres eget Forslag uden at tage Hensyn til det Tilbud, jeg gjentagende har gjort, og eftersom Hr. Steen ikke har Noget imod, at De sælger „Rabbi Eliezer" paa den Maade, De anseer for bedst<note xml:id="idm140619160209536" n="*)" anchored="true">Dersom Hr. Steen virkelig har givet denne Tilladelse, hvad jeg dog til Ære for ham, indtil videre tillader mig at betvivle, siger jeg: Tusind Tak! At jeg — da jeg finder Sætningen meget betegnende for Hr. G's Begreber om Mit og Dit og Retten til at disponere herover — har udhævet samme, bør jeg tilføie.<lb xml:id="idm140619160208160"/>
+Udg.</note>, saa maa jeg <pb xml:id="idm140619160207776" n="32" facs="images/002143206_000/002143206_000_0036.jpg"/>finde mig deri. Jeg har nu, efter Løfte, i Efterskriften til „Rabbien og Ridderen" henvist til „Rabbi Eliezer". Min Mening er, at De endnu vil kunne sælge 200 Expl. til ordenlig Pris, men jeg kan naturligviis ikke forlange, at De skal tage Hensyn dertil. Skulde den være rigtig, saa vilde det vise sig, at jeg havde gavnet Dem ved Omarbeidelsen og Opførelsen — ved „igjen at bringe Liv i Sagen" — medens jeg indrømmer og erkjender at være Dem Tak skyldig, fordi De har gjemt Bogen indtil nu.</p>
+        <p xml:id="idm140619160206160">Ærbødigst<lb xml:id="idm140619160205904"/>
+               <persName xml:id="idm140619160205648" type="sender" key="Goldschmidt, Meïr Aron" sameAs="#personidm140619160205648">M. Goldschmidt</persName>.</p>
+        <postscript xml:id="idm140619160204896">
+          <p xml:id="idm140619160204640">Hermed ender Historien om „Rabbi Eliezer", jeg solgte den ikke til nogen Antiquar; Forestillingsdagene d. 31. Marts og d. 2. April — de 2 første Gange Stykket „Rabbien og Ridderen" gik over Scenen — udbødes „Rabbi Eliezer" paa Theaterplacaten for 12 Sk. pr. Exemplar; den 3. April sendte Hr. Bogtrykker Volkersen mig Underretning om, at Theaterbestyrelsen havde forbudt, at denne Annonce maatte sindes paa Placaten.</p>
+          <p xml:id="idm140619160203584">At jeg, efterat „Rabbien og Ridderen" er udkommet i Trykken paa D'Herrer C. Steen &amp; Søns Forlag og jeg derved har faaet Lejlighed til at see, at dette Drama kun er et Optryk af „Rabbi Eliezer" med uvæsentlige Forandringer, har anlagt Søgsmaal mod Forfatteren for formentligt Indgreb i min Ejendomsret, er forøvrigt en Selvfølge.</p>
+          <p xml:id="idm140619160202352">Udgiveren.</p>
+        </postscript>
+      </div>
+    </body>
+  </text>
+</TEI>

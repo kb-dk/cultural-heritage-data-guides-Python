@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--shit-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="root" status="published">
+  <teiHeader xml:id="idm140619196274384">
+    <fileDesc xml:id="idm140619170990672">
+      <titleStmt xml:id="idm140619170936944">
+        <title xml:id="idm140619196769024">Min egen Ven - Herman Bangs sidste brev til Betty Nansen</title>
+        <!-- OCR: Min Egen Ven-->
+        <author n="1">Per Busck-Nielsen</author>
+        <!-- OCR: Herman Bangs-->
+      </titleStmt>
+      <publicationStmt xml:id="idm140619170860224">
+        <publisher xml:id="idm140619181228944">Nyt Nordisk Forlag Arnold Busck</publisher>
+        <pubPlace xml:id="idm140619184889616"/>
+        <date>1974</date>
+      </publicationStmt>
+      <idno>letter_books/001670965/001670965_000</idno>
+      <sourceDesc>
+        <bibl>
+          <!-- This is where we expect metadata for the analogue source in ADL -->
+        </bibl>
+        <listBibl>
+          <bibl xml:id="bibL0016709650000001" status="completed">
+            <date xml:id="idm60d3a7a3-f8b7-440e-b81d-f39f1f998c7c">1912-01-06</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm9b87a68a-07ab-41f6-860e-67654b635ab3">
+              <resp>sender</resp>
+              <name xml:id="personperson3c47cb0a-036c-4e84-a1a4-27e0e64b275c" ref="http://viaf.org/viaf/34476645"><surname>Bang</surname>,
+      <forename>Herman Joachim</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4b91680b-aea3-4555-8176-af02205fbf75">
+              <resp>recipient</resp>
+              <name xml:id="personperson8ccd779e-b5b0-4810-a206-28abffcbacc2" ref="http://viaf.org/viaf/27943806"><surname>Nansen</surname>,
+      <forename>Betty Anna Maria</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idme58567f7-5d5a-404d-99e3-83eb0d13b17b">
+              <placeName>S/S Moltke, Hamburg-Amerika Linie</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0016709650000002" status="completed">
+            <date xml:id="idm3606337f-1962-4870-b89f-bf627389abbf">1912-01-07</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme797ffa7-47d9-4492-82f3-46dc039c1f00">
+              <resp>sender</resp>
+              <name xml:id="personpersoncd16abb8-cd9d-423f-a1e3-f98010935028" ref="http://viaf.org/viaf/34476645"><surname>Bang</surname>,
+      <forename>Herman Joachim</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm26c33caa-dbd4-476c-b443-708f07cb2fb3">
+              <resp>recipient</resp>
+              <name xml:id="personpersona2dee4b9-4197-477d-92fa-ac7b83aec010" ref="http://viaf.org/viaf/27943806"><surname>Nansen</surname>,
+      <forename>Betty Anna Maria</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm6148c23b-c3be-4e48-8d52-92b0040f5993">
+              <placeName>S/S Moltke, Hamburg-Amerika Linie</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0016709650000003" status="completed">
+            <date xml:id="idm0164454d-58df-430c-afbf-80e8aa8b67d3">1912-01-08</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm3abc6e3b-c787-4b75-9b73-8134e6be403d">
+              <resp>sender</resp>
+              <name xml:id="personidm140619155244304" ref="http://viaf.org/viaf/34476645"><surname>Bang</surname>,
+      <forename>Herman Joachim</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb0cbe2ed-8aaa-43e7-8f52-88a6e9abba38">
+              <resp>recipient</resp>
+              <name xml:id="personperson923d006f-6b7b-4bcf-b19c-2cf203fdfbf9" ref="http://viaf.org/viaf/27943806"><surname>Nansen</surname>,
+      <forename>Betty Anna Maria</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm41d8e1bb-aba5-4301-abbe-32c59d9e5689">
+              <placeName>S/S Moltke, Hamburg-Amerika Linie</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0016709650000004" status="completed">
+            <date xml:id="idm414d2ef1-f279-40f5-86cc-b0e456901953">1912-01-11</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm3690a6ee-90a7-4449-b143-17e3bb022b39">
+              <resp>sender</resp>
+              <name xml:id="personperson2d903ba0-5f58-44a8-808a-79388ba2d30f" ref="http://viaf.org/viaf/34476645"><surname>Bang</surname>,
+      <forename>Herman Joachim</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm81612391-a654-4c70-9468-6d3cae2fc5cf">
+              <resp>recipient</resp>
+              <name xml:id="personperson00902c3a-8744-4739-91b4-7e22687479fc" ref="http://viaf.org/viaf/27943806"><surname>Nansen</surname>,
+      <forename>Betty Anna Maria</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmc624adf0-bbc2-413d-b085-9f346f9ca959">
+              <placeName>S/S Moltke, Hamburg-Amerika Linie</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0016709650000005" status="completed">
+            <date xml:id="idm36df9658-1a2b-4d69-ac2e-12027cefcf30">1912-01-14</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm6349f2c2-6fbe-447b-9360-1a68cc57be6d">
+              <resp>sender</resp>
+              <name xml:id="personpersone6af42a5-a40a-4efc-a26c-05110858270f" ref="http://viaf.org/viaf/34476645"><surname>Bang</surname>,
+      <forename>Herman Joachim</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm5b8753ed-59d4-4a1b-be4c-dfbab34c10dd">
+              <resp>recipient</resp>
+              <name xml:id="personperson60d50c84-3ffb-4b90-ae8d-97972a2ca4a6" ref="http://viaf.org/viaf/27943806"><surname>Nansen</surname>,
+      <forename>Betty Anna Maria</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmff56f905-7097-449d-a753-aa36b9d02d5f">
+              <placeName>S/S Moltke, Hamburg-Amerika Linie</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0016709650000006" status="completed">
+            <date xml:id="idm0bf494c4-2f8b-4915-b525-d6e840150727">1912-01-16</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmd14e4a4e-68bb-4bde-81fa-5f504f4d9c89">
+              <resp>sender</resp>
+              <name xml:id="personperson8f32d175-f9a9-46e8-a5f1-1cecce237f9a" ref="http://viaf.org/viaf/34476645"><surname>Bang</surname>,
+      <forename>Herman Joachim</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf2ab0232-c227-435e-82f7-c5dcf2a0dfad">
+              <resp>recipient</resp>
+              <name xml:id="personperson90150e58-cf97-418b-ad3b-0dcaf95df81e" ref="http://viaf.org/viaf/27943806"><surname>Nansen</surname>,
+      <forename>Betty Anna Maria</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmaf3384ae-0d0e-4c50-83ad-4f61d07e1289">
+              <placeName>S/S Moltke, Hamburg-Amerika Linie</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0016709650000007" status="completed">
+            <date xml:id="idm7a35d975-98df-4ec6-9d60-79a1e3cee2d2">1912-01-17</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmd6fdfcaf-df90-4bc6-9557-9f35f013d9b2">
+              <resp>sender</resp>
+              <name xml:id="personpersonfcfab0d4-27e4-4948-b52e-da9adb003dfc" ref="http://viaf.org/viaf/34476645"><surname>Bang</surname>,
+      <forename>Herman Joachim</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm9aa77f6e-470e-4253-9cb6-61d99c82d7c9">
+              <resp>recipient</resp>
+              <name xml:id="personperson7cdc17a8-8c19-4681-8dba-554c886fb1e1" ref="http://viaf.org/viaf/27943806"><surname>Nansen</surname>,
+      <forename>Betty Anna Maria</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm2300fdef-eaa2-468d-9b0c-dbe0764fe7ec">
+              <placeName>S/S Moltke, Hamburg-Amerika Linie</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0016709650000008" status="completed">
+            <date xml:id="idmc26c9ba4-b0a6-4a6e-9afc-4d1dcfdc07bc">1912-01-23</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm08069db1-23e0-43cb-ab96-aa0b72cc7caa">
+              <resp>sender</resp>
+              <name xml:id="personidm140619130992592" ref="http://viaf.org/viaf/34476645"><surname>Bang</surname>,
+      <forename>Herman Joachim</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm8faac1c7-dc02-4226-868a-406068b9dcf3">
+              <resp>recipient</resp>
+              <name xml:id="personpersoned4bed6b-9162-43c5-9902-5b98f5afdbc3" ref="http://viaf.org/viaf/27943806"><surname>Nansen</surname>,
+      <forename>Betty Anna Maria</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm16a4ad92-6f2d-4ce1-a913-78f993b24f9b">
+              <placeName>S/S Moltke, Hamburg-Amerika Linie</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0016709650000009" status="completed">
+            <date xml:id="idm31bd2008-3e6b-4cbf-b848-8c49d1d9f8f0"/>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm8861609b-a49c-4857-8500-aa775665c2c9">
+              <resp>sender</resp>
+              <name xml:id="personidm140619130987040" ref="http://viaf.org/viaf/34476645"><surname>Bang</surname>,
+      <forename>Herman Joachim</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm226f54e2-c472-4791-8068-222d7cbcac8d">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619130987856" ref="http://viaf.org/viaf/27943806"><surname>Nansen</surname>,
+      <forename>Betty Anna Maria</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm6ec62463-2ca5-4e87-86e3-5bf71c078000">
+              <placeName/>
+            </location>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140619207532016">
+    <body xml:id="idm140619163622528">
+      <div xml:id="idm140619173876704">
+        <p xml:id="idm140619165511456"><pb xml:id="idm140619164598384" n="1" facs="images/001670965_000/001670965_000_0009.jpg"/>MIN EGEN VEN</p>
+        <p xml:id="idm140619168936928"><pb xml:id="idm140619168936800" n="2" facs="images/001670965_000/001670965_000_0010.jpg"/><lb xml:id="idm140619164590288"/><pb xml:id="idm140619164590032" n="3" facs="images/001670965_000/001670965_000_0011.jpg"/>MIN EGEN VEN</p>
+        <p xml:id="idm140619164857696">Herman Bangs<lb xml:id="idm140619164857440"/>
+sidste brev til Betty Nansen</p>
+        <p xml:id="idm140619164857056">Nyt Nordisk Forlag Arnold Busck</p>
+        <p xml:id="idm140619164842048"><pb xml:id="idm140619164841920" n="4" facs="images/001670965_000/001670965_000_0012.jpg"/>© Nyt Nordisk Forlag Arnold Busck A/S 1974</p>
+        <p xml:id="idm140619164841040">Sat med Linotype Aldus</p>
+        <p xml:id="idm140619164612496">og trykt i Krohns Bogtrykkeri</p>
+        <p xml:id="idm140619164612112">Omslag: Erik Nørskov</p>
+        <p xml:id="idm140619164611664">ISBN 87 17 01849 8</p>
+      </div>
+      <div xml:id="idm140619164611152">
+        <p xml:id="idm140619164610896"><pb xml:id="idm140619164610768" n="5" facs="images/001670965_000/001670965_000_0013.jpg"/>Der er digtere, der tager én om hjertet, og der er dem, der lader én kold.</p>
+        <p xml:id="idm140619136341680">Til de første hørte fra min ungdom: H. C. Andersen, I. P. Jacobsen og Herman Bang, nævnt i bekendtskabernes rækkefølge.</p>
+        <p xml:id="idm140619136341024">De blev læst og de blev dyrket og til de to førstes barndomsbyer og -egne blev der valfartet.</p>
+        <p xml:id="idm140619136340432">Med Herman Bang lå det anderledes: Der var noget i hans kunst og i hans liv – en manér og en egen overfølsomhed – man ikke som ung forstod. Det skabte distance.</p>
+        <p xml:id="idm140619136339696">Men „Irene Holm“ – „Ved Vejen“ – „En dejlig Dag“ og Dannevirkenatten af „Tine“ – hvor man elskede de skildringer!</p>
+        <p xml:id="idm140619136339024">Måske fordi man ikke evnede at nå ind til ham, som til de andre to, meldte han sig selv på en forunderlig måde i min modnere alder.</p>
+        <p xml:id="idm140619136338352">På vej fra BIKUBEN, hvor jeg er ansat, til mit ferieopholdssted på Stevns blev jeg, idet jeg var ved at køre forbi en „Antikhandel“, opmærksom på en papkasse, der var lagt oven på et opstablet Sct. Hansbål.</p>
+        <p xml:id="idm140619136337520">Det var dagen før Sct. Hans’ Aften.</p>
+        <p xml:id="idm140619136337136">Jeg vidste fra et tidligere besøg på stedet, at denne kasse havde indeholdt en brevsamling og regnede – næsten – med, at den nu måtte være tom.</p>
+        <p xml:id="idm140619136336432"><pb xml:id="idm140619136336304" n="6" facs="images/001670965_000/001670965_000_0014.jpg"/>Nysgerrigheden, som drev mig til at undersøge sagen, blev lønnet med, at der endnu befandt sig papirer og breve på bunden – ganske vist fugtige og tilsyneladende værdiløse. Kassen byttede ejermand og blev kørt til mit landlige opholdssted. Her blev den endevendt, papirer og breve sorteret og hængt til tørre i solen.</p>
+        <p xml:id="idm140619136334704">Det sidste brev – det allersidste brev – var mørt som vådt trækpapir og lå klistret fast til bunden af kassen.</p>
+        <p xml:id="idm140619136334064">Var det mon noget at ofre tid og ulejlighed på – en sommerdag, mens solen skinnede og lærkerne sang?</p>
+        <p xml:id="idm140619136333456">Det var brevet fra Herman Bang.</p>
+        <p xml:id="idm140619136333072">Skrevet 18 dage før hans ensomme død i en jernbanevogn i Ogden, USA.</p>
+        <p xml:id="idm140619136332528">Nu har brevet fundet sin plads på Det kgl. Bibliotek, som jeg bringer min bedste tak for hjælp ved fremskaffelse af billedmateriale.</p>
+        <p xml:id="idm140619136331856">Jeg bringer samtidig en tak til redaktør Svend Kragh- Jacobsen og BIKUBEN for – henholdsvis – hjælp ved gennemarbejdelsen af manuskriptet og økonomisk støtte til udgivelsen af denne lille bog, som forøger vort kendskab til en af Danmarks betydeligste digtere.</p>
+        <p xml:id="idm140619136330912">København d. 1. december 1973.<lb xml:id="idm140619136330656"/>
+Per Busck-Nielsen.</p>
+      </div>
+      <div xml:id="idm140619136330144">
+        <p xml:id="idm140619136329888"><pb xml:id="idm140619136329760" n="7" facs="images/001670965_000/001670965_000_0015.jpg"/>Til Betty Nansen<lb xml:id="idm140619136008112"/><pb xml:id="idm140619136007856" n="8" facs="images/001670965_000/001670965_000_0016.jpg"/></p>
+      </div>
+      <pb xml:id="idm140619136006928" n="9" facs="images/001670965_000/001670965_000_0017.jpg"/>
+      <div decls="bibL0016709650000001" n="1" xml:id="L0016709650000001" xml:lang="da-Dk">
+        <head xml:id="idm140619135992784">An Bord des Dampfers Moltke<lb xml:id="idm140619135992528"/>
+               <geogName xml:id="idm140619135992272" type="sender" sameAs="idme58567f7-5d5a-404d-99e3-83eb0d13b17b">Hamburg-Amerika Linie</geogName>
+               <date xml:id="idm140619135991888" sameAs="idm60d3a7a3-f8b7-440e-b81d-f39f1f998c7c">6. 1. 1912</date>
+            </head>
+        <p xml:id="idm140619135991504">Min egen Ven.</p>
+        <p xml:id="idm140619135991120">Hvorfor jeg just i dag begynder at skrive til Dem, naar De dog i saa lang Tid har svoret mig ned i det hedeste Helvede, fordi jeg aldrig skrev en Linje? Jeg havde hele Tiden bestemt, at jeg vilde skrive til Dem i dag – naar det hele Hurlumhej endelig var forbi og „Rejsen“ begyndt.</p>
+        <p xml:id="idm140619135990144">Hvem kan skrive paa en Turnée? Jeg kan s’gu ikke i det mindste. Men her er endelig nogen Fred efter en lang Fart. Moskwa er et Eventyr og den, som ikke har set Kreml, har intet set. Jeg stod der en Nat – jeg som ellers gaaer i Seng Klokken ni … Men da vi skulde rejse, begyndte Elenden. Da vi skulde staa op i Vognen for at køre til Jernbanen, viser det sig, at Hotellet havde glemt at lade vore Pas visitere. Inspektøren bliver meget forskrækket og fortæller mig, at vi nu desværre er udsatte for at blive – standsede paa Grænsen. Maaske maatte vi sidde der fire Dage …</p>
+        <p xml:id="idm140619135989088">Udsigten var ubehagelig. Jeg tog imidlertid min Tilflugt til Telegrafen og fik Sagen ordnet ved Hjælp af 50 Rubler. Men desværre, vi skulde ikke saa hastigt naa Grænsen. Da vi naaer Warschau, viser det sig, at vi ogsaa er blevet snydt med Billetterne (jeg siger ogsaa, <pb xml:id="idm140619135988272" n="10" facs="images/001670965_000/001670965_000_0018.jpg"/>ti jeg blev i Rusland snydt med alt): Kurertogs og Sovevognsbilletterne gælder kun til Varsovie og derfra maa vi, om vi ikke vil vente til næste Dag, gaa videre med et almindeligt Tog og sidde ret op og ned den hele Nat … Juleaftens Dag kom jeg saa til Berlin. Et Juletræ saa jeg gennem Genboens Vindu … I Berlin blev jeg malet af Gertrud Eysoldts Elsker. Han er ganske ung og løb rundt i en strikket Matrostrøje. Hun kom for at se Billedet og saa ud som hans Bedstemoder. Det skal være den eneste Mand, denne Elektra nogensinde har elsket …</p>
+        <p xml:id="idm140619155281888">Hr. Herman Bang er paa Billedet fremstillet med hvid Nellike, i Kjole og som en Mand sidst i Trediverne … Iforgaars aftes tog vi (Melnik og jeg – han har jo faaet en stor Stilling i Hamburg-Amerika-Linie) til Hamburg og imorges fulgte M. og Vloch (en ung Skuespiller ved Deutsches Schauspielhaus i H.burg) mig til Cuxhafen … Skibet her er temmelig stort og Selskabet synes at være uhyre kedsommeligt …</p>
+        <p xml:id="idm140619135987344">Men jeg har besluttet mig til i tre Dage at spadsere 6 Timer om Dagen op og ned, op og ned … Det skal jo være saa sundt …</p>
+      </div>
+      <pb xml:id="idm140619155280144" n="10" facs="images/001670965_000/001670965_000_0018.jpg"/>
+      <div decls="bibL0016709650000002" n="2" xml:id="L0016709650000002" xml:lang="da-Dk">
+        <head xml:id="idm140619155278304">
+          <date xml:id="idm140619155278176" sameAs="idm3606337f-1962-4870-b89f-bf627389abbf">Søndag.</date>
+        </head>
+        <p xml:id="idm140619155277792">Jeg kom igaar ikke længere. Efter de sidste Dages rentud frygtelige Anstrengelser eller rettere sagt, Anspændelse, var jeg for urimeligt træt. Og naar jeg ikke kan andet end skrive nogle Bogstaver, er det jo ikke nogen synderlig Fornøjelse for Dem at tyde Kragetæerne. Jeg tør vel sige, at der i al den lange Tid, mens jeg ikke</p>
+        <p xml:id="idm140619155276752">
+          <pb xml:id="idm140619155276624" n="11" facs="images/001670965_000/001670965_000_0019.jpg"/>
+          <lb xml:id="idm140619155275952"/>
+          <caption xml:id="idm140619155275696">Betty Nansen som Amalie Skram’s „Agnete“, rollen Bang fremfor nogen beundrede hende i.</caption>
+        </p>
+        <p xml:id="idm140619155275104"><pb xml:id="idm140619155274976" n="12" facs="images/001670965_000/001670965_000_0020.jpg"/>skrev, ikke er gaaet nogen Nat, hvor jeg ikke har tænkt paa Dem.</p>
+        <p xml:id="idm140619155273904">Nok dage. Ti jeg havde jo adskilligt at tænke paa og optraadte til Tider hver Aften. Men om Natten har man saa god Tid og jeg kunde, midt om Natten, gribes af en frygtelig Angst efter at få at vide, hvordan De havde det …</p>
+        <p xml:id="idm140619155273056">Men jeg fik aldrig noget at vide. Ti naar Dagen var kommen, havde jeg ikke Energi nok til at spørge … Og hvordan er det nu og hvor længe skal De blive paa den Klinik? Jeg troer, Kliniker er en Ødelæggelse. De vænner os til at føle os syge … Vi nærmer os nu den franske Kyst og kan allerede se Boulogne sur mer. Men Brevet sender jeg ikke afsted fra Boulogne.</p>
+        <p xml:id="idm140619155271920">En Oceandamper er ikke noget overraskende. Det er et Hotel, som svømmer. Et Hotel og – et Logishus. For fra de høje Broer kan man se derned, hvor Dækspassagererne er. Det er dem, jeg vil lære at kende. Og imorgen, naar jeg har vænnet mig til Skibet, vil jeg gaa derned for første Gang …</p>
+        <p xml:id="idm140619155270928">Heroppe er alt som et Hotel, men større. Spisesalen er meget skøn og Selskabet meget kedsommeligt. De tyske Damer har hele Dagen mægtige Brillantringe paa Fingrene, og Englænderne spiser for sig selv, ved et Bord, fyldt med Blomster. Englænderne er meget høflige, meget ranke og i Kjole. Saasnart Diner’en er forbi, gaaer de hjem i deres Kahytter. De andre Nationer sidder rundt om i Salene, som er fulde af Lakstøvler, Vifter, Kedsommelighed og Silkesokker … Men nede paa tredie Dæk er der helt mørkt og helt stille. For de maa ikke være ude <pb xml:id="idm140619155269984" n="13" facs="images/001670965_000/001670965_000_0021.jpg"/>paa Dæk om Natten … Her er 100 Kellnere … Farvel saalænge, nu er vi i Boulogne …</p>
+        <p xml:id="idm140619155268864">Vi kom slet ikke ind i Boulogne – hvor jeg forresten har været før – men laa kun udenfor Molerne og tudede, saa det var det rene Helvede at høre paa …</p>
+        <p xml:id="idm140619155268144">Er det ikke mærkeligt, at Bonaparte og Buonarotti er to Benævnelser for samme Ting? At Jordens to største Mennesker egenlig hedder det Samme? Napoleon siger det (at det er to Ord for én Ting) i en Samtale paa Skt. Helena og jeg læste det imorges. Jeg har kun taget faa Bøger med mig – men, som jeg plejer, Goethes Samtaler og Bonapartes. Jeg bliver aldrig træt af at være sammen med de to Mennesker. De havde begge gættet alting og syntes at vide og have levet alting …</p>
+        <p xml:id="idm140619155267120">Jeg læser dem altid paany med den urimeligste Forundring. (Ogsaa alt om Leonardo. Volynski har skrevet en Bog om ham, den skulde De læse. Den er oversat paa tysk.) … Ved Frokostbordet hørte jeg følgende Samtale mellem to Naboer: „De gaaer ogsaa med paa Verdensrejsen?“ „Nej, jeg gaaer til Sydamerika“ – Aa, De er Deltager i Buenos Aires-Rio Rejsen? – Nej, jeg gaaer til Peru. Jeg skal overtage Kaviarimporten til Lima.“ Alle her ombord – af Passagererne er Dilettanter i Kunsten at rejse. Der findes kun én Undtagelse. Han er Englænder men ser ud som Nordmand i Ansigtet. Straks han kom ombord, købte han en Stol og tog Plads. Han havde i Cuxhafen faaet en Post for flere Uger og alle Monogrammer og alle Vaaben og alle Papirkulører svømmede i to–tre Timer ud over hans Plaid. Han gennemlæste Korrespondancen efter Dato uden saa meget som <pb xml:id="idm140619155265104" n="14" facs="images/001670965_000/001670965_000_0022.jpg"/>at løfte Øjnene. Derefter spadserede han en Time og derefter tog han Bad … Han har Kahyt ved Siden af mig. Han spiser, sammen med en Slags Sekretær, i hvid Vest og Kjole og er den eneste, som ikke har Ring paa Lillefingeren. Jeg har ikke set ham aabne sin Mund, hvori han ligner mig, da jeg overhovedet ikke bevæger Tungen, undtagen naar jeg børster Tænder. Jeg har talt altfor meget i de sidste Maaneder … Inat en Gang, tror jeg, er vi i Southampton og saa er Europa forbi …</p>
+      </div>
+      <pb xml:id="idm140619155263424" n="14" facs="images/001670965_000/001670965_000_0022.jpg"/>
+      <div decls="bibL0016709650000003" n="3" xml:id="L0016709650000003" xml:lang="da-Dk">
+        <head xml:id="idm140619155261584">
+          <date xml:id="idm140619155261456" sameAs="idm0164454d-58df-430c-afbf-80e8aa8b67d3">Mandag.</date>
+        </head>
+        <p xml:id="idm140619155261072">Det er blevet ret stormfuldt, som saa ofte i Kanalen. Om nogle Timer har vi naaet Oceanet … Igaar gjorde Lægen mig Visit og da jeg var overbevist om, at han havde talt med Kaptajnen (hvem ingen ser) sagde jeg: Ja, imorgen vil jeg altsaa begynde at se mig om paa Skibet … Svaret var som jeg havde ventet: at man jo nødig saa, at de forskellige Klasser blandedes (!) – – Da jeg altsaa forstod, at jeg ad den Vej intet fik at se, og da »Cleveland«, som venter os i S. Fransisco, er en Turistdamper eller Luksusdamper, hvor der intet er at se, medens „Moltke“ ogsaa er Udvandrerdamper – besluttede jeg at forsøge at se selv og jeg begyndte straks. I Skumringen gik jeg ned ad nogle forbudte Trapper og naaede bagest i Skibet Mandskabernes Afdeling. Det var netop noget for mig og jeg saa meget og fik meget at vide …</p>
+        <p xml:id="idm140619155258816">Et saadant Skib er jo en By og en Stat, ak ja, saa „sammensat“ som en Verden. Idag vil jeg nu liste ned <pb xml:id="idm140619155258320" n="15" facs="images/001670965_000/001670965_000_0023.jpg"/>til Dækspassagereme … Iøvrigt kunde jeg leve Maaneder paa et saadant Skib. Jeg er jo, hvor jeg saa lever, vant til Ensformighed. Jeg holder ikke af at tale med Mennesker (og her, ligesom paa Marienlyst behøver man det ikke) og jeg keder mig aldrig, naar jeg blot maa have Lov at være alene – – Hvor selv de største Mennesker dog er fordummede og forblindede, naar de elsker. Napoléon bestiller ikke andet paa St. Helena end at lovprise Marie-Louise, som var dum, opblæst, en Dukke, hvis Hjerte sad mellem hendes allernaadigste Kejserlige Ben, og som ovenikøbet hadede ham, medens han tilrakker Josephine, der var aandrig og skøn og som elskede ham …</p>
+        <p xml:id="idm140619155256032">Jeg læser alt det med den største Forbauselse, skønt jeg i mit Liv maaske har været dummere end alle andre … Ved De, jeg har lagt Mærke til noget. For første Gang i mit Liv er jeg forsigtig med Cigaretter. Paa Teatre smider jeg dem rundt allevegne, saa Teatret, hvor jeg er ansat, kunde brænde hundrede Gange om Aaret. Men her passer jeg forsigtigt paa hver Tændstik. Det kommer i Virkeligheden af – jeg er vis paa det – at jeg er bange for Skibsbrande. Det minder mig om noget fra den Gang i Assens. Alle som havde set det, talte jo om, at de aldrig havde set nogen vise saa stor en Ro overfor Døden. Men jeg lagde Mærke til, at jeg, da jeg begyndte at blive bedre, igen begyndte at bande. Da jeg begyndte igen, slog det mig, at jeg i nogen Tid aldrig havde bandet. Det var min Dødsangst. Jeg vilde altsaa – af Frygt – ikke fornærme den Gud, paa hvem jeg ikke troede …</p>
+        <p xml:id="idm140619155253840"><pb xml:id="idm140619155253712" n="16" facs="images/001670965_000/001670965_000_0024.jpg"/>Menneskene er meget mærkelige …</p>
+        <p xml:id="idm140619155252784">Vi er nu helt ude i Oceanet og Havet er ret uroligt. Men man gør sig et ligesaa falskt Begreb om Oceanet som om de allerfleste Ting. Bølgerne synes ikke større end de ofte synes udfor Marienlyst og kun Skibets Duven lader En fatte Bølgedalenes Dybde – – Graat og graat og sietintet andet end Graat. Og saa Bølgekammenes Hvide … Der skulde komme en Damper forbi os (efter de opgivne Ruter altsaa). Det var en hel Begivenhed. Der gaar ganske vist saa mange Dampere over Havet, men Oceanet er stort … Damperen kom imidlertid ikke eller Taagen skjulte den … Oceanets faa Dampere er som Stjernerne i Rummet … Jeg har forsøgt at fortsætte mine Udforskninger af Skibet. Men overalt, hvor jeg vil hen, er der laaset af. Og dog vil jeg ikke forlade denne her Baad uden at kende alle dens Hemmeligheder. Men Skibet gaar idag saa uroligt, at det er umuligt at svippe ret meget rundt. Man maa for at faa alt at se op og ned ad altfor mange hemmelige Trapper – nogle græsselige Jemstiger, som er endnu meget værre end Trapperne paa et Teater … Oceanet er ikke saa skønt som de Billeder, Assumowski har malet af det.</p>
+        <p xml:id="idm140619155250336">Jeg saa Malerierne i Skt. Petersburg i et Musæum, og jeg havde aldrig set noget lignende: De Bølger var levende Væsener – nogle forfærdende, truende, levende Væsener der slog frem imod En. Alligevel, idag er Oceanet vredt.</p>
+        <p xml:id="idm140619155249472">Man ser paa dets Ansigt, at det er vredt over, at det aldrig faar Fred men altid maa høre Musik og Skruestøj og smaa Menneskestemmer – – – Lev vel saa længe. A <pb xml:id="idm140619155248864" n="17" facs="images/001670965_000/001670965_000_0025.jpg"/>Han kom meget i deres Hus i Moskwa … Hvis Stormen tager til, som det nu ser ud til, faaer vi snart Ordrer til at blive i vore Kabiner. Paa forrige Tur tog Vandet Formasten og et Stykke af Rælingen. Da var der virkelig Fare. Men Passagererne, som aldrig kan drømme om den virkelige Fare, anede intet … Jeg kan ikke skrive mere, da jeg skal digte om „Moskau’erne“ til „Masken“. Das ist weit – „Masken“ – – –</p>
+        <p xml:id="idm140619155247248">Stormen tager stadig til. Jeg maa skrive med Blyant. Ti Blækhus og alt flyver ad Helvede til. „Moltke“ skælver under En som Væddeløberen under Rytteren. Midt som jeg i Formiddags sad ved „Moskau’erne“ mærkede jeg, at Skibet laa stille. Vi kom ikke frem mod Bølgerne. Da jeg kom ned til Lunch, sagde en Amerikaner, min Genbo ved Bordet: Naa, nu er De vel tilfreds. Nu har De Deres Storm – Nej endnu ikke – Hvadbehager? – Det er ikke den store Storm – – Kaptajnen lo højt, da han hørte det …</p>
+        <p xml:id="idm140619155246128">Ved Femtheen faaer vi hver Dag en Avis med de indløbne traadløse Telegrammer o.s.v. Idag stod i Vejrberetningen, som dirigeres af Kaptajnen: „Høj, vild Sø.“ Saa maa det vel altsaa være den store Sø. Kolossalt er det. Men er det ikke besynderligt, der er Øjeblikke, hvor dette oprørte Hav pludselig synes at stivne – og da ligner det præcist et Maanelandskab. Mærkværdigt: ogsaa den store Lidenskab har saadanne stivnede Øjeblikke, hvor den ligger død – – som Lava, før det nye Udbrud – –</p>
+        <p xml:id="idm140619155245024">Eh bien – nu kan der ikke være mere i denne Konvolut. Paa Oceanet og altid Deres Ven og gode Ven<lb xml:id="idm140619155244560"/>
+               <persName xml:id="idm140619155244304" type="sender" key="Bang, Herman Joachim" sameAs="#personidm140619155244304">Herman</persName>
+            </p>
+        <postscript xml:id="idm140619155243680">
+          <p xml:id="idm140619155243424">
+            <pb xml:id="idm140619155243296" n="18" facs="images/001670965_000/001670965_000_0026.jpg"/>
+            <lb xml:id="idm140619155242624"/>
+            <caption xml:id="idm140619155242368">Benno Berneis’ maleri af Herman Bang, fuldført i Berlin en måned før Bangs død.</caption>
+          </p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619155241536" n="19" facs="images/001670965_000/001670965_000_0027.jpg"/>
+      <div decls="bibL0016709650000004" n="4" xml:id="L0016709650000004" xml:lang="da-Dk">
+        <head xml:id="idm140619155239696">
+          <date xml:id="idm140619155239568" sameAs="idm414d2ef1-f279-40f5-86cc-b0e456901953">Torsdag. 11. 1. 1912</date>
+        </head>
+        <p xml:id="idm140619155239184">Nu har jeg pakket det andet i en Konvolut. Og så kan jeg jo begynde paa Konvolut II. Jeg er idag træt, da jeg har arbejdet paa min første Føljeton. Den bliver vist rædsom – Angsten ved at skulle læses saa vide om, gør mig ganske lam. Men hvad jeg gerne vilde skildre, var dette Samfund: Skibet – som det var den Dag, Stormen nærmede sig og kom … Naa, Stormen var meget alvorlig. Af Dødsangst gik „Madame“ i Seng og fik ingen Ridetimer den Dag. Ellers rider hun hver Dag i Turnhallen to Timer paa en kunstig Hest … Nu er Vejret [bedret] og det er Solskin … Men to Dage er vi forsinkede og maaske faar jeg nu ikke Niagara at se. Men kun Kalifornien, hvor det nu er Forsommer. Til Japan kommer vi til det japanske Foraar …</p>
+        <p xml:id="idm140619155237200">Jeg kan ikke skrive mere idag. For mit Hoved er tomt. Ved Lunchen idag begyndte en ung Østriger at tale om Bismarck, hvem han sammenlignede med Bonaparte. Det er dog ridikult. Man kan ikke sammenligne en Eg, som staaer tusind Aar og befrugter Jorden med sin Frugt og gøder den med sit Løv, med Mont Blanc, der er evigt som Jorden …</p>
+      </div>
+      <pb xml:id="idm140619155236000" n="19" facs="images/001670965_000/001670965_000_0027.jpg"/>
+      <div decls="bibL0016709650000005" n="5" xml:id="L0016709650000005" xml:lang="da-Dk">
+        <head xml:id="idm140619155234160">
+          <date xml:id="idm140619155234032" sameAs="idm36df9658-1a2b-4d69-ac2e-12027cefcf30">Søndag.</date>
+        </head>
+        <p xml:id="idm140619155233648">Jeg har ikke skrevet i flere Dage. Dels har jeg maattet skrive mit første „Brev“, (som slet ikke er noget „Brev“ men et Kapitel af en Roman om hvordan en Storm nærmer sig en Oceandamper) og jeg er angst som en Fuks, naar jeg skriver. Dels har Stormen i de sidste to Dage raset [vanvittigt]. Der var vel et Øjeblik, hvor Faren var <pb xml:id="idm140619155232688" n="20" facs="images/001670965_000/001670965_000_0028.jpg"/>[stor]. Mens vi klædte os om til Middag, kom [Skibet] ind i en Snetykning – under forrygende Storm. Skibets Piber og Horn tudede som syge Ulve. Det var en fæl Musik … En preussisk Gardelieutenant – en ven af mig – og jeg iførte os begge hvide Veste, „det smager Hajerne bedre“. Ved Diner’en blev der drukket meget Champagne, og Madame (som uafladeligt slog Kors for sig) var i hvidt Hermelin. Ogsaa hun vilde have smagt Hajerne, ti hun er skøn at se paa – –</p>
+        <p xml:id="idm140619155231104">Àpropos, det har jeg ikke fortalt Dem. De ved, der er i Amerika et „dansk-amerikansk Selskab“, som slæber (for dyre Penge) „Kunstnere“ over Havet. Da jeg nu en Gang skulde gennem Amerika, tilbød jeg at læse en Gang i New Y[?], en i Chicago. Man svarede mig telegrafisk, at man kunde ikke arrangere disse Foredrag – – De Folk har bevaret deres Nationalitet i den nye Verden. Jeg lo, som skulde jeg omkomme … Herskind og Oda kan de s’gu „arrangere“. Merde alors …</p>
+        <p xml:id="idm140619155229728">Idag er Stormen paa sit Højeste og det skælvende Skib (denne Sitren skulde De fornemme) ligger næsten stille. Havet ligner en Alpeegn med forrevne Toppe og som Gletschere ligger Skummet paa Bølgesiderne.</p>
+        <p xml:id="idm140619155228912">En ung Spanier (han er skøn som en Hermes og rejser fra Buenos Aires til London blot for at være tre Døgn sammen med sin Donna – nu rejser han via New Y. tilbage) tog igaar nogle pragtfulde Plader af Stormen – – Han forærede mig fire af dem og de to sender jeg „Illustreret“.</p>
+        <p xml:id="idm140619155227936"><pb xml:id="idm140619155227808" n="21" facs="images/001670965_000/001670965_000_0029.jpg"/>demain, Olga, som jeg altid sagde i gamle Dage. Jeg sidder ved Middagen ved Siden af en ung, tysk Referender, der idag talte om Rejsen om Jorden og sagde: „Im Ganzen, lieber Herr, es kann ja riesig nett werden.“</p>
+        <p xml:id="idm140619155226432">En anden var meget bekymret: Cleveland havde jo et helt Aar ikke været i Europa. Og hvor vilde den i S:Fransisco kunne blive ordentlig provianteret? En anden trøstede ham: „Aber doch, lieber Freund, das Pilsener kommt natürlich von Deutschland.“</p>
+      </div>
+      <pb xml:id="idm140619155225392" n="21" facs="images/001670965_000/001670965_000_0029.jpg"/>
+      <div decls="bibL0016709650000006" n="6" xml:id="L0016709650000006" xml:lang="da-Dk">
+        <head xml:id="idm140619155223552">
+          <date xml:id="idm140619155223424" sameAs="idm0bf494c4-2f8b-4915-b525-d6e840150727">Tirsdag.</date>
+        </head>
+        <p xml:id="idm140619155223040">Havet blev igaar stadig uroligere. Om Eftermiddagen ved Koncerten saa jeg pludselig Kellnerne skyde tætte Skodder for alle Døre og Vinduer og forstod, at det var for at „Publikum“ ikke skulde høre Stormen.</p>
+        <p xml:id="idm140619155222208">Som Over-Stewarten sagde mig: Nicht wahr mein Herr, man darf ja die Herrschaften nie beunruhigen … Siden under Middagen piskede dog Stormen saadan om de høje Glaskupler i Spisesalen, at alle maatte høre det. Stormen lød som en uafladelig Geværild mod Kuplerne … Lidt efter lidt talte alle om Stormen – men i al Almindelighed, som om det ikke var noget, der vedkom os …</p>
+        <p xml:id="idm140619155221040">Da jeg Klokken ti i min Kahyt forlangte min The, sagde min Understewart, en Hamburger Bengel paa nitten Aar: Aa, det er ubehageligt med de stærke Storme. Alting gaar i Stykker mellem Fingrene paa En (han tænkte paa de saakaldte Glaspenge, alle Kellnere har at betale) … Ved Aftenkoncerten spillede Primoviolinisten: Tristesses d’amour … En Dame var der. Hun begyndte</p>
+        <p xml:id="idm140619155219888">
+          <pb xml:id="idm140619155219760" n="22" facs="images/001670965_000/001670965_000_0030.jpg"/>
+          <lb xml:id="idm140619155219088"/>
+          <caption xml:id="idm140619155218832">Den ældre Herman Bang i en karakteristisk stilling.</caption>
+        </p>
+        <p xml:id="idm140619155218320"><pb xml:id="idm140619155218192" n="23" facs="images/001670965_000/001670965_000_0031.jpg"/>at tale med mig paa fransk og med udpræget Pariserakcent. Jeg sagde: Madame er Pariserinde? Ja, monsieur – „Aa, det er derfor De holder Dem saa tappert ene af alle Damerne. Pariserinder viser altid Mod“ … Og hele hendes Ansigt straalede af Glæde over denne stakkels Kompliment, sagt hendes By midt paa Oceanet … Idag er Oceanet pragtfuldt og man ser dets Kæmpebølger.</p>
+        <p xml:id="idm140619155216576">De rejser sig foran Moltke som blaagraa Staalvolde, Skibet kløver … Og Solen er paa Himlen midt under Stormen … Vi gaaer nu meget langsomt og hvis Stormen ikke ophører, vil vi blive forsinkede … Jeg ønsker, der maatte rejse sig en rigtig Storm. Naar man er i det, skal man ogsaa se det. Det er da sandt. Men du almægtige Himmel, jeg ser, jeg er allerede begyndt paa det tredje Ark. Og det er kun Rejsens fjerde Dag. De faaer saamæn aldrig Brevet læst. Saa giv det til Frøken Schaldemose. Hun læser det nok – fordi det er fra „Atlanterhavet“ …</p>
+        <p xml:id="idm140619155215456">Jeg læser Napoléon med en uhyre Langsomhed, fordi hvert Ord interesserer mig. Denne ene Mand omfattede alt. Jeg tror, at hvis alle de Planer, som, klare og fuldkomne, fødtes i dette ene Hoved, skulde virkeliggøres, vilde det være nok for Menneskeheden i femhundrede Aar – – Men mest beundrer jeg hans Vilje. Ved De, at en Gang en bekendt Grafolog i Europa, som fik min Haandskrift uden at kende mig, skrev, at denne Skrifts Udtryk for Vilje havde forbauset ham. Af Haandskrifter, han kendte, udtrykte kun Bonapartes en større Sum af Vilje … I Virkeligheden har jeg ogsaa – paa Grund af mit Livs mange Hindringer og Ulykker – maattet udfolde <pb xml:id="idm140619155213856" n="24" facs="images/001670965_000/001670965_000_0032.jpg"/>en meget stor Sum af Vilje … selvom man aldrig skal gentage saadan noget, fordi det lyder fuldkommen latterligt. A propos Haandskrifter, da ligner Deres paafaldende Erika Nissens og Prinsesse Maries. Jeg har modtaget Breve fra Prinsessen, som jeg, naar jeg læste Udskriften, troede var fra Dem … Men der var også stor Lighed i Deres og hendes Karakter – – – Nu er det Lunch.</p>
+      </div>
+      <pb xml:id="idm140619155212128" n="24" facs="images/001670965_000/001670965_000_0032.jpg"/>
+      <div decls="bibL0016709650000007" n="7" xml:id="L0016709650000007" xml:lang="da-Dk">
+        <head xml:id="idm140619155210288">
+          <date xml:id="idm140619155210160" sameAs="idm7a35d975-98df-4ec6-9d60-79a1e3cee2d2">Onsdag.</date>
+        </head>
+        <p xml:id="idm140619155209776">Stormen tager til. Imorges, da jeg kom ud paa Dækket, spurgte jeg min Stewart: Har det regnet? Men det var Stormen, som, selv midtskibs, havde kastet sine Bølger ind paa Dækket … Synet er grandiost. Som uhyre Bjerge rejser Bølgerne sig foran Moltke og sender, naar de sprænges, en hvid Røg frem over alt Skibet, som om det var Jordens Bjerge, der sprængtes af Dynamit … Jeg skrev om Haandskrifter. Duse har en pragtfuld Skrift, hvis den er hendes egen. Men derom hørte jeg i Moskwa en pragtfuld Historie. Duse havde faaet tilsendt et Par pragtfulde Ørenringe. Nu skulde hun takke. Men i Virkeligheden kan Konen ikke skrive fransk. Altsaa beder hun Fyrst Ursupof om at skrive Brevet. Han gaaer – for at det kunde blive en Kvindehaand – atter til Mme Goldowski, som saa skrev Brevet, medens Duse kun skrev sit Navn … Maaske er Historien Løgn. Ti Mme Goldowski, som er en Veninde af Georg Brandes og var en god Ven af Iwan Turgénjew, er en Sladrekælling af international Rang. Om Leo Tolstoj sagde hun – hvad også min Mening er: Il était, ce bon comte, le plus grand comédien de l’époque …</p>
+      </div>
+      <pb xml:id="idm140619155209264" n="25" facs="images/001670965_000/001670965_000_0033.jpg"/>
+      <div decls="bibL0016709650000008" n="8" xml:id="L0016709650000008" xml:lang="da-Dk">
+        <head xml:id="idm140619130994736">
+          <date xml:id="idm140619130994608" sameAs="idmc26c9ba4-b0a6-4a6e-9afc-4d1dcfdc07bc">Tirsdag.</date>
+        </head>
+        <p xml:id="idm140619130994224">Jeg har faaet skr[evet Føljetonen næsten færdig, da jeg hver] Dag har arbejdet mange Timer. [Nu] er jeg saa træt. Men nu maa jeg putte Brevet i Konvolut, for imorgen skal jeg ende Føljetonen og paa Torsdag skal jeg skrive Forretningsbreve og pakke. Torsdag Aften er vi der – i New York … Saa er vi i „den nye Verden“. I det Land, jeg nødigst af alle vil til. Naa, vi skal jo kun være der fjorten Dage og i den Tid sé baade Niagaras Vandfald og Kaliforniens Luksushoteller. Saa Tiden gaar vel nok.</p>
+        <p xml:id="idm140619130993168">Naar jeg blot vidste, hvordan De havde det.<lb xml:id="idm140619130992848"/>
+               <persName xml:id="idm140619130992592" type="sender" key="Bang, Herman Joachim" sameAs="#personidm140619130992592">Herman</persName>.</p>
+        <postscript xml:id="idm140619130991840">
+          <p xml:id="idm140619130991584">
+            <pb xml:id="idm140619130991456" n="26" facs="images/001670965_000/001670965_000_0034.jpg"/>
+            <lb xml:id="idm140619130990784"/>
+            <caption xml:id="idm140619130990528">Betty Nansen. Silhouet, klippet i Tivoli.</caption>
+          </p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619130989824" n="27" facs="images/001670965_000/001670965_000_0035.jpg"/>
+      <div decls="bibL0016709650000009" n="9" xml:id="L0016709650000009" xml:lang="da-Dk">
+        <head xml:id="idm140619130987984"><persName xml:id="idm140619130987856" type="recipient" key="Nansen, Betty Anna Maria" sameAs="#personidm140619130987856">Omkring Herman Bangs sidste brev til Betty Nansen</persName><lb xml:id="idm140619130987296"/>
+Af <persName xml:id="idm140619130987040" type="sender" key="Bang, Herman Joachim" sameAs="#personidm140619130987040">Svend Kragh-Jacobsen</persName>
+            </head>
+        <p xml:id="idm140619130986416">Et lykkeligt træf lod Per Busck-Nielsen redde Herman Bangs sidste brev til Betty Nansen fra 1973-sommerens Sankt Hansbål. Omtrent samtidig bragte et andet lykkeligt tilfælde Benno Berneis’ maleri af Herman Bang i mit eje. Det har fået mig til at sige ja til at skrive nogle kommenterende sider til brevet, da jeg blev bedt om det. Andre kunne gøre det ud fra langt rigere viden – blandt andet dem, jeg har hentet stof hos og lært af. Først og fremmest Harry Jacobsen og Robert Neiiendam. Den førstes stifinder- og fortolkergerning har bragt os megen skjult viden frem om den store digter og det usædvanlige menneske. Den anden fik med autentiske dokumenter dementeret Christian Houmarks myte omkring Bangs død og aflivet formodninger om, at han havde været offer for en forbrydelse.</p>
+        <p xml:id="idm140619130984384">Jeg sagde ja – også fordi Herman Bang livet igennem har haft betydning for mig som digter og fortolker af teatrets kunst. Han er – ved siden af H. C. Andersen, som vi vel alle har kendt fra vi sad på moders skød – den klassiker, jeg først stiftede bekendtskab med. Jeg husker ikke selv det første og eneste møde med ham, men min mor fortalte tit derom. Vi boede fra foråret 1910 i Prinsesse Maries Allé nummer 7 på Frederiksberg. Herman Bangs søster, Nini Holst, boede ovenover os. En <pb xml:id="idm140619130983488" n="28" facs="images/001670965_000/001670965_000_0036.jpg"/>dag mødte mor digteren i gadedøren, hvor han tog hendes ældste ved hånden – selv slæbte hun på den nyfødte nummer to – og hjalp os op til andensalen, inden han absenterede sig og steg videre op til tredie, hvor „tante Nini“ boede. Hun blev nemlig med årene en af de „tanter“, man elsker og siger fornavn til som barn, selvom de ikke er af familien, men bare en voksen, man har godt forhold til. Tante Nini var en spændende dame – mager og i mine øjne høj som en garderofficer, omend ikke så smuk som sin nevø Fritz Gøtsche. Statelig og strunk af ydre ganske modsat sin adoptivdatter Bertha Holst, der var lille, rund og i stadigt trav – også når hun skrev. Sætningerne blev droppet ved skrivebordet og så tog hun atter en tur over gulvet. Nok var „tante Nini“ en digters søster, men Bertha Holst skrev selv bøger – for piger, hvad der dog ikke forhindrede mig i at sluge dem, også for at se, om jeg og mine brødre var kommet med i dem. Det blev dog den store digters værker, jeg først stiftede bekendtskab med. Nini Holst så dårligt, mens jeg – som var et vakst barn – tidligt lærte at læse. Allerede da jeg var passeret de seks, kunne bogstaver blive til ord, og ord til sætninger, som jeg ganske vist ikke forstod allesammen, men dog afleverede sammenhængende. Med en snor fra sin altan mod gården på tredie sal sænkede Nini Holst tit en kurv med godter til „de små drenge underneden“ – jeg havde med årene fået to brødre – og i kurven lå tillige en seddel, om „Svend ville komme op og læse højt.“ Det ville jeg gerne, og snart var det ikke blot dagens avis, men også broder Hermans bøger, som blev taget frem. Før jeg var <pb xml:id="idm140619130980848" n="29" facs="images/001670965_000/001670965_000_0037.jpg"/>syv havde jeg foredraget adskillige af dem for hende. Hun kunne dem vist udenad, men blev aldrig træt af at høre „Tine“ og „Ludvigsbakke“. Endikke af et barns mund; jeg forstod nok ikke meget af, hvad jeg læste for hende. Det gik galant alligevel. Med årene gik det dybere, og jeg kom til at elske Herman Bangs bøger, hvoraf adskillige med dedikation fra „broderen“ nu står i mine reoler, givet mig af Nini Holst. Meget sigende en af de tidligste – i „Realisme og Realister“, hvor han 21. 4. 80 skrev „Nini fra Herman“ og med sine spinkle flotte bogstaver tilføjede „Aucun n’est prophète chez soi?“</p>
+        <p xml:id="idm140619130979104">Betty Nansen var „hans egen ven“ og forblev det til det sidste, kunne der end være brydninger fra tid til anden. Sin sidste bog, der udkom efteråret 1910, „Masker og Mennesker“, dedicerede han hende, og hun er den eneste danske kunstner, han vier et kapitel i dette værk, så rigt på hans erfaringer med skuespillere og fra teatrets verden. Deres bekendtskab strakte sig over en snes år, idet han fulgte hende fra debut’en 1893 til hun med Agnete og Gertrud var blevet det ny århundredes store kunstnerinde i sin generation. Som den purunge Betty Müller vakte hun furore 27. august 1893 på Casino i Sardous’ „Dora“, før Gustav Esmann sluttede som teatrets direktør. I debutsæsonen nåede hun at spille endnu et par primadonnaroller, bl. a. Kitty i Herman Sudermanns „Sodomas undergang“ og Magda i hans „Hjemmet“, mens hun viste sit lune som Overskous opvartningspige i „Capriciosa“, inden teatret krakkede, og hun selv syg drog sydpå for at genvinde helbredet i et varmere <pb xml:id="idm140619130976960" n="30" facs="images/001670965_000/001670965_000_0038.jpg"/>klima. Da hun vendte tilbage, var Richard Schrøder blevet direktør og et mere folkeligt repertoire indførtes, men man lod dog i sæsonen 1895–96 den unge primadonna brillere i to paraderoller til, som tidligere havde gjort sig på Casino. Hun var Sardous’ Cyprienne i „Lad os skilles“, og Kameliadamen – der ikke lykkedes for den smukke Julie Secher 1891 – klarede nu den unge Betty Müller under Bangs instruktion, da hun overtog rollen og på Leopolds Hotel i Hovedvagtsgade fik sine første lektioner af Bang, der spillede rollen for hende, så freden „totalt spoleredes i det fredelige hotel“, for at bruge Harry Jacobsens ord. Bang lærte hende at græde – eller rettere livet lærte hende det, og han og hun brugte gråden i stykket: „Ti denne sælsomme Marguerite græd uden at standse. Hun græd af Sorg og hun græd af Glæde.“ De første af fru Nansens berømte tårer flød her, allerede mens hun endnu var Betty Müller. Dog i marts 1896 blev hun Peter Nansens hustru, hvorved forbindelsen med Bang blev dobbelt. Som hans ypperste elev – indtil Anna Larssen kom under hans påvirkning, første gang i „Frie fugle“ på Folketeatret efteråret 1897 – og som hans ungdomsvens hustru. Venskabet med Betty Nansen varede, som dette brev viser det, til hans død, omend med stormfulde passager, når disse to temperamenter kolliderede under indstuderingen af ny roller. Samlingen af Bangs breve til fru Nansen – som forhåbentlig er endt på Det kongelige Bibliotek – viser det og fortjener engang en fuldstændig udgivelse, men da det her blot er noter til det sidste brev i rækken, må en nøjere fordybelse i, hvad de røber om disse to store tea <pb xml:id="idm140619130974160" n="31" facs="images/001670965_000/001670965_000_0039.jpg"/>terpersonligheder og kunstnere, vente og vige for kommentarer til enkeltheder i brevet.</p>
+        <p xml:id="idm140619130973232">I det store og hele taler det for sig selv, skrevet med Bangs mest malende pen. Improviseret ned på papiret, hvor løst og fast kommer med, i modsætning til de artikler, han omtaler, og som måtte nøje og slidsomt gennemarbejdes. Det blev først og fremmest til to større føljetoner „Atlanterhavsbaaden“, der tryktes i dagbladet Kjøbenhavn den 16 og 17 februar 1912, godt fjorten dage efter at Bang var død på Thomas D. Dee Memorial Hospital i Ogden den 29 januar kl. 5 morgen. Desuden fulgte et par mindre – også i brevet omtalte – artikler til teaterbladet „Masken“ om „moskau’erne“, hvor man særlig fængsles af hans indtryk af Stanislavski. Trods sin store beundring for Kunstnerteatrets naturalistiske iscenesættelser – han hæfter sig især ved fremførelsen af Turgenjevs „En måned på landet“ og omtaler det som „Nathalia“ – er han dog kritisk overfor den „ubevægelighed“, han synes tynger forestillingen og skuespillerne.</p>
+        <p xml:id="idm140619130970672">Brevet hentyder tillige til begivenheden før afskeden med Europa. Københavns publikum havde han allerede sagt farvel til, da han den 22 september 1911 medvirkede i en velgørenhedsforestilling i Casinos lille sal og blev hyldet af det fulde hus som oplæser. Teatret var ikke blot hans ulykkelige kærlighed, men „mit Liv. Det er Nerven i min Kunst“, betroede han sit sidste efterår den unge Robert Neiiendam. Som skuespiller høstede Herman Bang sine smerteligste erfaringer. Som oplæser sine største triumfer ansigt til ansigt med et publikum, der hurtigt overså hans excesser på tribunen, fordi hans <pb xml:id="idm140619130969712" n="32" facs="images/001670965_000/001670965_000_0040.jpg"/>geniale fremstillerevner bragte alle ydre falbelader i forglemmelse. Men han ikke blot iscenesatte sit eget liv, sin egen optræden. Han blev også den inspirerende, næsten hypnotiske instruktør for andre. Sine uforglemme- ligste triumfer oplevede han på det felt hos Lugné-Poë på Théâtre de L’Oeuvre i Paris 1893, hvor han vandt ry som den store specialist i det ny nordiske drama og nok selv mente at opleve kulminationen med sin instruktion af Réjane som Nora i „Et dukkehjem“ 1894. Herhjemme var succes’en som instruktør mindre bestandig, omend han hjemførte store sejre på både Casino og Folketeatret, og i sine sidste år engageredes til Det Ny Teater, mens Det kongelige Teaters Johannes Nielsen afviste sin gamle lærer, da han bad om at få chancen som iscenesætter på Kongens Nytorv.</p>
+        <p xml:id="idm140619130967920">Fra København begav Herman Bang sig så ud på sin sidste lange rejse. Først oplæsnings- og foredragsturné gennem Norge, Sverige og Finland – for at skaffe penge – derpå videre ind i Rusland, hvor vi kan følge ham fra St. Petersborg til Moskva i korrespondancer til danske aviser. Videre gik rejsen via Warszawa direkte til Berlin, hvor han mødte gamle venner, som han omtaler i brevet. Her traf han de sidste forberedelser til den verdensrejse, han gennem år havde drømt om til Amerika for at nå hjem over Japan, Kina, Indien og Ægypten, hvad han håbede ville få inspirationskilder til at strømme, han de senere år følte som indtørret. Men foran rejsen var han tillige overvældet af angst for, hvordan den ville forløbe, om hans penge ville slå til, og hans helbred kunne holde. Han modtoges i Berlin af sin ven russeren <pb xml:id="idm140619130965936" n="33" facs="images/001670965_000/001670965_000_0041.jpg"/>Ossip Melnik, som han kendte fra 1903. Ossip var nu tysk pressemand og Bangs rådgiver i økonomiske forhold, der havde foretaget en række arrangementer til rejsen. Melnik fulgte ham – sammen med en ung skuespiller fra Hamburg – det sidste stykke vej på europæisk grund til afsejlingsstedet Cuxhafen.</p>
+        <p xml:id="idm140619130964384">I Berlin opsøgte Bang tillige sin læge Dr. Max Wasbuti, som ti år senere udgav „Gedanken zum Sexualitätsproblem“, skrevet af Herman Bang i samarbejde med den tyske læge. Dr. Wasbuti gav ham medikamenter med, som skulle styrke ham på rejsen. Også skuespillervenner traf han i Berlin, bl. a. Gertrud Eysoldt, som, siden hun 1902 var blevet knyttet til Max Reinhardts scener, hurtigt havde erobret positionen som en af sin tids største kunstnerinder i tysk teater med Deutsches Theater som hovedscenen, hun – med få afbrydelser – tilhørte til sin død 1955, omend den sidste periode mere af navn og titel som „Ehrenmitglied“ end af gavn. I sin storhedstid prægede hun dog repertoiret ikke mindst i de store erotiske karakterroller, selvom Bang antydede, at hun udenfor scenen var en kold karakter. Hun havde dog en årrække været gift med skuespilleren og den senere så betydningsfulde teaterhistoriker Max Martensteig, men levede nu sammen med maleren Benno Berneis. Hun var 41 og han var – trods Bangs betagelse af hans pure ungdom – dog 27, da de mødtes, og han udførte sit portræt af Bang. Han var en meget lovende ung maler, elev af to af tidens berømteste tyske kunstnere, Max Slevogt og Lovis Corinth, og har bl. a. efterladt en række skuespillerportrætter. Han faldt 1916 <pb xml:id="idm140619130962256" n="34" facs="images/001670965_000/001670965_000_0042.jpg"/>som soldat i første verdenskrig, men billeder af Alexander Moissi, Max Pallenberg og Josef Schildkraut vidner sammen med det ekspressionistiske Bang-portræt om hans betydelige talent. Bang finder selv, at han ser ung ud på billedet, hvad han nok ikke har haft noget imod. Just udtryksfuldheden i Bangs attitude med den henslængte kjoleklædte skikkelse, venstre hånd i hvid glacéhandske i siden og den knyttede ubehandskede højrehånd løftet siger mere om Bangs fascinerende fremfærd end mange beskrivelser. Lykkeligt at det blev til. Få måneder efter ville det have været for sent. Maleriet kom til København – sikkert via Peter Nansen – og hang til Betty Nansens død i hendes stue på Asgårdsvej, senere hos Henrik Bentzon på Slotsvej.</p>
+        <p xml:id="idm140619130959776">En af de første dage i januar gik Herman Bang så ombord i det kombinerede luxus- og udvandrerskib „Moltke“, som han ønskede at studere – med henblik på brug af milieuet i senere produktion. I Erwin Magnus’ tyske oversættelse af de to føljetoner til Kjøbenhavn – 1919 udsendt i 1200 eksemplarer i Bonn med Nansens mindeord og Sophus Michaëlis’ mindedigt – kaldes skibet „Der grosse Kahn“. Brevet til Betty Nansen og føljetonerne bringer en række parallelle“ optrin og karakteristiske Bang-figurer og situationer. Brevet er skrevet fra dag til dag i de tretten døgn, rejsen til New York tog – via Boulogne, hvor man, som det ses, ikke lagde ind, og Southampton. Udover de let skitserede episoder om tjenerskab og medrejsende – der berettiger hans egen betegnelse „et kapitel af en roman“ – falder mangt og meget ham i pennen, som i en samtale om løst og fast. <pb xml:id="idm140619130957680" n="35" facs="images/001670965_000/001670965_000_0043.jpg"/>Netop det causerende er udpræget i brevet, hvor han mindes gamle begivenheder som en brand i Assens, hvor han havde været i livsfare, og fælles bekendte. To store B’er i verdenskulturen fremhæver han (Napoleon) Bonaparte og (Michelangelo) Buonarotti, og undrer sig over, at de egentlig hedder det samme, disse to „Jordens største Mennesker“; så må Bismarck nøjes med en mindre plads. Mon B’et rent tilfældigt er faldet ham ind? En passant nævnes både bøger og malere, ligesom gemytlig sladder kommer med. Her møder vi gamle bekendte fra hans norske veninde, den berømte pianistinde Erika Nissen, til store russiske kolleger som Turgenjev og Tolstoy – i forbindelse med en sladderanekdote om Eleonora Duse, som han livet igennem beundrede. Han leverer også Betty Nansen en kompliment, da han sammenligner hendes håndskrift med prinsesse Maries. Prins Valdemars få år tidligere døde franskfødte hustru havde været blandt Bangs beundrere i København, hvor han ofte bistod hende ved de velgørenhedsarrangementer, hun var mester i at stable på benene i fattigforsorgens tjeneste. Der er også plads til et lille hånligt hib til „Kunstnere“ som skuespillerinden Oda Nielsen – gift med hans ungdomsven og elev Martinius Nielsen – og visesangeren og oplæseren Johannes Herskind, der begge før Bang havde besøgt U.S.A., inviteret til at optræde i forskellige danske foreninger i staterne, hvor man nu intet kunne arrangere for Bang. Det skete dog alligevel, idet han i New York modtoges af Emil Opffer. Ved en fest til Bangs ære den 23. januar læste han op for sidste gang og hyldedes af den fyldte sal, hvor skandinaver var <pb xml:id="idm140619130954944" n="36" facs="images/001670965_000/001670965_000_0044.jpg"/>strømmet til for at møde den danske digter. En optræden var berammet til den 5 februar i San Francisco, men Herman Bang nåede ikke så langt. Han kom svag og udmattet til Chicago den 26 januar. Tog samme aften videre på sin sidste rejse, hvor døden mødte ham knap tre døgn senere. Men til det sidste holdt han kontakt med venner. Breve og kort fra ham nåede efter døden til Danmark som bevis for, at hans tanker stadig var hos vennerne. Brevet til Betty Nansen er ikke det sidste fra Herman Bangs hånd, men dog et af de sidste – og det bærer i sin tone vidne om både hans talent for at sætte i scene, iagttage mennesker og den kærlighed, han livet igennem ødselt lod strømme mod dem, han holdt af. Her sin „egen ven“. Og ordet ven betød noget for Herman Bang.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

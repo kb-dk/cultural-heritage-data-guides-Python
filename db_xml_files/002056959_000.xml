@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--shit-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="root" status="published">
+  <teiHeader xml:id="idm140619174460304">
+    <fileDesc xml:id="idm140619174831792">
+      <titleStmt xml:id="idm140619168201552">
+        <title xml:id="idm140619176557696">Digte og Breve</title>
+        <!-- OCR: Digte Og Breve-->
+        <author n="1">Johannes Meier, 1880-1902</author>
+        <!-- OCR: Johannes Meier-->
+      </titleStmt>
+      <publicationStmt xml:id="idm140619178205632">
+        <publisher xml:id="idm140619192164224">Henrik Erbs-Jensens Bogtrykkeri</publisher>
+        <pubPlace xml:id="idm140619176951072">København</pubPlace>
+        <date>1905</date>
+      </publicationStmt>
+      <idno>letter_books/002056959/002056959_000</idno>
+      <sourceDesc>
+        <bibl>
+          <!-- This is where we expect metadata for the analogue source in ADL -->
+        </bibl>
+        <listBibl>
+          <bibl xml:id="bibL0020569590000001" status="completed">
+            <date xml:id="idm277c5afd-9907-4621-a2c6-5a4d25ca5fdd">1899-02-09</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm26990e5a-3474-479b-bf3d-23e0a8a5bdcf">
+              <resp>sender</resp>
+              <name xml:id="personpersone41fa582-42d5-4c16-87f3-278a7310d2ef" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmccd5f4f6-dba5-4162-856b-4db7de5b3612">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm6b4a60f4-348e-4e44-b22c-d497052ca5ed">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000002" status="completed">
+            <date xml:id="idm8e6792c4-5fed-4b07-8c57-f3e17b4fc26a">1899-06-24</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4d8d68f0-224f-4c34-98ac-983ebe65ce58">
+              <resp>sender</resp>
+              <name xml:id="personpersonf74d871b-b13c-45b8-9620-a21abeb99744" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm5c5abc95-d699-49fe-8fab-b33c91af7900">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm39eb91d8-74f4-4a01-953b-0b5cc85feb03">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000003" status="completed">
+            <date xml:id="idm099bd925-85c9-402f-84e9-f20659649277">1899-11-14</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm7d76ad3b-94b2-4088-8743-f88b7ee1960c">
+              <resp>sender</resp>
+              <name xml:id="personperson24e45cab-8e45-455b-8f1a-f6358b108ef2" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmc395b6ab-7196-4360-8d87-9ab2a893a2f4">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm3616c663-138c-43f7-af38-000d534a313f">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000004" status="completed">
+            <date xml:id="idmd1709a20-9af7-4b55-844e-c25bac320a6b">1899-12-25</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idma5589f60-fb9e-4f67-8875-879772f2d84f">
+              <resp>sender</resp>
+              <name xml:id="personperson19ed887e-6044-4343-852f-e6ebdcc5cb07" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idma24277cd-d5f9-4159-8414-2affca3d1afd">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm0b9f4427-ed3a-4443-8d14-1593dd91c2f6">
+              <placeName>Kerteminde</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000005" status="completed">
+            <date xml:id="idm2e952692-77ea-4a24-ab48-f738fa8fabb9">1900-02-15</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm333896a6-ee64-4897-90b6-7d78992074a7">
+              <resp>sender</resp>
+              <name xml:id="personperson112fecf0-ae45-4d7a-8251-e55135925663" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf70b3027-835f-4d62-be98-f6d970a2b6e0">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm1b4e5585-4709-4aa2-a3b8-80d231c5b573">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000006" status="completed">
+            <date xml:id="idmee52f2e5-8a0d-4d0d-b8e5-c38496b3b872">1900-04-04</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm015ba8b4-3538-4a84-947d-202ab67092cb">
+              <resp>sender</resp>
+              <name xml:id="personpersonaa7c5b21-1e51-4caa-bf9b-42beecdff85f" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm8edbffa6-21fd-4a50-998c-3baac5986c14">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmd8b3a654-ef2c-4dcc-a0b2-488b0c712762">
+              <placeName>Kerteminde</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000007" status="completed">
+            <date xml:id="idm675de69b-fa72-4d32-9d9e-24399cafa4bc">1900-04-22</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm0ced4e1a-a907-49fd-84c8-e20fc5fba7f5">
+              <resp>sender</resp>
+              <name xml:id="personpersone09ae0cb-c3b0-4622-a68c-36f90605e612" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm53a61238-7dfb-4a1e-b134-b2af3f4b40e3">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm3ef051bb-4e9a-4a0a-9565-ea125b099cdb">
+              <placeName>Kerteminde</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000008" status="completed">
+            <date xml:id="idm3384109d-8e12-4432-a39b-686d26777fe1">1900-06-08</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmbc55529a-6c20-4878-a58e-1c4ad5967720">
+              <resp>sender</resp>
+              <name xml:id="personperson647ed7e9-b3fd-4a73-847b-c7dce50754e2" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm642bc86a-1a68-4847-bbb9-862555da773b">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmab7fe492-781a-4e9f-90b1-e7981e7069be">
+              <placeName>Jebjerg</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000009" status="completed">
+            <date xml:id="idm20492c4c-cdbf-4e84-93c4-382e0e867875">1900-06-26</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme6aeee5c-8459-4310-acae-ea850794b563">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158480144" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4e933a51-00d7-4c48-af0d-506ce7d89a6b">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm62f502a5-b77d-43ee-8baf-92c28dc670e6">
+              <placeName>Jebjerg</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000010" status="completed">
+            <date xml:id="idm79afb3d4-7dcd-4feb-9548-dffc01c93039">1900-07-06</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm446afae4-1c9f-4baa-ba6d-7e9296a84082">
+              <resp>sender</resp>
+              <name xml:id="personperson48bc9f51-58ec-44fc-8444-17a490cea6a5" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm2f6a068b-2097-4a0f-99c1-4baaef09ae52">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmcfef5766-15cb-4e02-ae00-9531adb3701c">
+              <placeName>Jebjerg</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000011" status="completed">
+            <date xml:id="idm6f2d4458-407c-418e-80e6-59fa2c567463">1900-08-20</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm9a2f1006-b252-464a-baf8-eda11e307eef">
+              <resp>sender</resp>
+              <name xml:id="personidm140619158469264" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf613e059-7b84-48f7-b746-896bba7bdbb8">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmf596ac21-241c-4555-a20a-f12638556808">
+              <placeName>Jebjerg</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000012" status="completed">
+            <date xml:id="idm478c7cff-9e93-432f-96f3-f35bcf05327d">1900-09-03</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb1f7b2ea-a8fd-40b8-a6a4-c9ae22748f43">
+              <resp>sender</resp>
+              <name xml:id="personpersone8f2c3ce-3ded-4c08-8d60-516ab80e0140" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm55f064d8-7d2b-4c85-90a6-c4e258c44ec7">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm8a1824e8-6717-4471-899d-b65f1ae19803">
+              <placeName>Jebjerg</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000013" status="completed">
+            <date xml:id="idm6901a75f-6b9e-4d57-b412-345fc146f586">1900-09-05</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmca724b66-612d-440c-8e7e-350b5a82010e">
+              <resp>sender</resp>
+              <name xml:id="personperson0dffa067-1c91-4294-bc5e-a2735b7669b7" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm06b7c884-bc29-4c52-a605-c5bc949c045c">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmde549418-17bc-43c6-984d-555b1fb73bf4">
+              <placeName>Jebjerg</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000014" status="completed">
+            <date xml:id="idm34af3f8b-7825-4eb3-82f4-01bee5cd742b">1900-09-24</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm1f6baeb3-00be-4209-9ba3-f47dbfb62192">
+              <resp>sender</resp>
+              <name xml:id="personpersond325cf28-4cad-4091-8342-cb266d5f893b" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb160d508-64f0-4734-b14e-2c00c2e4e2cd">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm6ee716c2-bfe5-4a02-bfae-a1702ec86c68">
+              <placeName>Jebjerg</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000015" status="completed">
+            <date xml:id="idm173c6a5e-c269-4853-946a-30de29739c39">1900-11-05</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4712d4aa-58d5-4d9d-b936-c668ac9870fa">
+              <resp>sender</resp>
+              <name xml:id="personpersonc1d60857-5c17-422e-b401-10d2402bb84b" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm810908ab-d387-460e-af0f-96cf16630dbe">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm45828a60-99fd-4ecd-943d-1fdd34e97971">
+              <placeName>Humble</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000016" status="completed">
+            <date xml:id="idme3cd903b-d105-46d4-bd4d-415618e02dd4">1900-11-18</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmac349a26-ba6b-4d4e-88d3-0351044344d1">
+              <resp>sender</resp>
+              <name xml:id="personperson5f759e29-bb53-42ef-a517-0fbd550c8b36" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm6394378a-5b62-4105-82e1-61e25779f9ca">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm408b1744-3068-4b97-87f3-d4e850387832">
+              <placeName>Humble</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000017" status="completed">
+            <date xml:id="idmf9047745-2a80-40c0-a213-f9c79a0ac1b6">1900-11-19</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm547a3f07-4f4c-463d-8d5d-b9316f1371b3">
+              <resp>sender</resp>
+              <name xml:id="personperson229ad164-157c-4d14-8c77-ce1ffb629f25" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4b36b7ef-c578-4748-92d8-f10ce616fc02">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmcfd6608a-1777-44e1-ad12-d1228e03f220">
+              <placeName>Humble</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000018" status="completed">
+            <date xml:id="idm4a58c17f-d4ac-410f-8d98-107b808890f4">1900-12-05</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme576de6f-2fa1-4f4d-b8b7-346ea08a8bc5">
+              <resp>sender</resp>
+              <name xml:id="personpersona6698c92-0a3d-4b64-a3d3-1433007fc4d1" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmece946c9-9076-4304-8ed6-7722856bf4b6">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmae896ead-8350-48b4-b33b-606aca9b9d57">
+              <placeName>Humble</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000019" status="completed">
+            <date xml:id="idmfe529072-50a3-4836-ac75-54ecb0c7bfab">1900-12-14</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmcb601c95-c085-40b4-a4e5-62cd8a5e8fbe">
+              <resp>sender</resp>
+              <name xml:id="personperson1d6cf5d9-963f-4971-96f8-57a736c2be64" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm11823d5d-4376-46e2-a19d-526df7c1c46c">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmb09901d4-5545-4607-bf8e-aa61f6f7edc9">
+              <placeName>Humble</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000020" status="completed">
+            <date xml:id="idmb6872d7c-096d-4ca1-9f24-031e40dc4b8a">1900-12-17</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm69575aa9-393b-49f2-96f5-6770bc6e7380">
+              <resp>sender</resp>
+              <name xml:id="personpersonc47b5b2d-e9a0-4752-a9dc-06fb31df61a3" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm92612659-152d-4e11-bae3-d75ddd95c866">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm8db81e4f-e436-46c9-902c-5ab02b22e43c">
+              <placeName>Humble</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000021" status="completed">
+            <date xml:id="idm5982b47d-af12-4067-aa50-a5f6919a4c90">1901-01-14</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme7596e71-9911-49b1-8c69-1c6be81a654c">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160322768" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmcc92be7e-a679-42b3-8b9f-b6f7c58f420f">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmd09d4451-4ae0-4f14-b438-23f875daedd3">
+              <placeName>Humble</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000022" status="completed">
+            <date xml:id="idmbe7e5eac-aafb-4125-a41e-ae45ac6397a6">1901-02-14</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm67c959d2-585a-4d41-be23-c4eeee589601">
+              <resp>sender</resp>
+              <name xml:id="personpersondbed688c-6a55-4c70-82e9-87289673177f" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm39e257b8-ee66-4bc8-8822-e3c703ac23de">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm883bf07d-8726-40b7-994d-8acaf8cbf07f">
+              <placeName>Humble</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000023" status="completed">
+            <date xml:id="idm82314713-9a43-473c-9b84-b3dcde860bb5">1901-06-16</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm03685eab-0f36-41bc-87f7-fbc3d0d016d2">
+              <resp>sender</resp>
+              <name xml:id="personperson02d12e93-ae0b-4558-9310-8e0465714fa1" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm5e3c922c-492b-4010-a043-89b4cd3d444c">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idme0e7051c-af6e-4bea-8ff6-66aad99ec892">
+              <placeName>Kerteminde</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000024" status="completed">
+            <date xml:id="idmb487dbcf-895e-496d-a30f-920e54bf7798">1901-12-22</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm70867359-972a-4ef7-9ac8-236b2805f93c">
+              <resp>sender</resp>
+              <name xml:id="personpersonf59b624e-353b-4d59-9f48-09bf50a8af78" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm253768c8-d829-4ada-9356-147751a88fa1">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm5f023f0a-94dd-4664-94bb-1870a7e1aaf7">
+              <placeName>Kerteminde</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000025" status="completed">
+            <date xml:id="idmed7cd115-a857-449b-9284-4380160949f0">1901-12-23</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmcba7e816-abdd-47e0-890d-90066ba9629b">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160291104" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmaf003b87-ebe8-4aef-9b16-a1deefd7f24c">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmad9be698-6cf7-4a26-a820-771f3fd40c10">
+              <placeName>Kerteminde</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000026" status="completed">
+            <date xml:id="idm34e75319-5483-4e30-bb49-3496ab8bcc84">1902-02-03</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm33723cb8-e8f2-42e6-ae13-ea0f0a55a3f7">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160283280" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idma687dcf4-b892-42a1-9656-c912db55b492">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmebc08ccd-b553-4928-91ab-b86fc546206d">
+              <placeName>Skårup</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000027" status="completed">
+            <date xml:id="idm45bf5cbe-9dd6-4e48-a950-ae2b33364c53">1902-02-14</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm8df4a6dc-c7ec-4a9c-879b-206454459de3">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160275696" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm3af54058-d5c7-4963-b7b7-a69ecd02cde5">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm34db3c16-ced4-4583-af84-b23cf3c07035">
+              <placeName>Skårup</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000028" status="completed">
+            <date xml:id="idm0529b687-4452-4e7d-a5e6-1c08639d773e">1902-03-08</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm6ac10be2-56a1-42da-98a4-015cc4342dbf">
+              <resp>sender</resp>
+              <name xml:id="personpersonb4450a00-0bd3-4b87-a028-ef7ce36df6a2" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb57118b0-48b4-4433-8868-48f867294f6d">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm78d8de33-49da-4ba3-9ba7-8e1a0d6f8934">
+              <placeName>Skårup</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000029" status="completed">
+            <date xml:id="idme2d0d822-04bd-4ed0-b79f-e87277852c2b">1902-09-01</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm2ec666a2-8203-4a28-8904-9d85994cc778">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160260640" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm852b537a-0cac-4d89-935b-98c6354cf57f">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmad039b61-36b8-40ce-9b73-9b3361488932">
+              <placeName>Mern</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000030" status="completed">
+            <date xml:id="idm25b227e0-57be-424a-920e-3a35fe459edd">1902-09-11</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm000e8f41-f3d2-4ffd-8d7e-6c88ad08d760">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160242080" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm3151fa2f-83f6-410e-9536-95b3bb2d6c03">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm7c66e4a8-54ac-4961-927f-cfc8dcc84581">
+              <placeName>Mern</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000031" status="completed">
+            <date xml:id="idm6892f93b-9271-4393-b3e6-ee20b9c20e55">1902-09-16</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm1767b517-e3b4-42f5-b6f5-8db0ef475b8c">
+              <resp>sender</resp>
+              <name xml:id="personpersonca7507ef-e24c-4cd9-a42d-46e289cd69d0" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf26bee33-5bea-4600-9b74-8d0dcd508ece">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm420c56a1-585d-47ab-b693-30b3d58a634d">
+              <placeName>Mern</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000032" status="completed">
+            <date xml:id="idm56f0b750-c15a-49b0-b329-cb1c637b9f37">1902-10-05</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmb69a3349-0b20-47ee-8768-2cc5eff07641">
+              <resp>sender</resp>
+              <name xml:id="personperson8f09da42-6bf5-40ae-9d4c-d8db0ccf4395" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf0f1973d-5f47-4826-86c1-043a719d2ec5">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160233440" ref="07/e0/95/2b/07e0952b-bc75-4c83-8c1e-3d2fdce12803"><surname/>,
+      <forename>Jochum</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm4ac081f5-8e9b-425f-84af-923d1223ba23">
+              <placeName>Mern</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000033" status="completed">
+            <date xml:id="idm9e004fb3-f69b-421d-a407-e344507201cd">1902-10-11</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm49585dd0-03cb-4acc-bc36-903eda9613c8">
+              <resp>sender</resp>
+              <name xml:id="personpersonb16743ec-0d7d-439d-ae56-1dfc2000df3b" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm659619bf-6dfe-4f40-9ce0-bb0e53f18ef9">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idme972f5b5-a10f-4d45-b802-8ac7fb1efd97">
+              <placeName>Mern</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000034" status="completed">
+            <date xml:id="idm001cc1fb-c24d-4cbf-b381-624be3d23856">1902-10-12</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm0788d642-8592-4428-9f04-41455b47ae4c">
+              <resp>sender</resp>
+              <name xml:id="personperson2ee29845-1873-47d8-ba35-f8f1e267c98c" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm09c890a6-0eec-40f3-88ae-465817552086">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idmc85ccb6f-8312-442c-86f1-12080953f85f">
+              <placeName>Mern</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000035" status="completed">
+            <date xml:id="idmca0a8cb2-b3e4-4c32-b100-1aeb1b76fc3a">1902-10-15</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm96e3f292-b5a1-4f09-b4f3-6a5b1da6f442">
+              <resp>sender</resp>
+              <name xml:id="personperson048fa5f8-c7f4-41a9-8046-c7ec02702d5f" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm652bb9ca-8913-4565-93e4-be1c36053eff">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm1dca586e-cb19-4ba7-9811-3aefe2751b25">
+              <placeName>Mern</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000036" status="completed">
+            <date xml:id="idm502b0185-9bf9-4877-b068-21163133eac3">1902-10-16</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm511e9246-318d-4495-b445-1b6b4597921e">
+              <resp>sender</resp>
+              <name xml:id="personperson0dcc1487-6dbc-4e8e-95ea-b9fd40b01d55" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmd37b9f74-8461-49ab-87f4-b73e8282f51c">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619160191488" ref="07/e0/95/2b/07e0952b-bc75-4c83-8c1e-3d2fdce12803"><surname/>,
+      <forename>Jochum</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm92bd3159-6748-430e-9425-52d36d60f3d5">
+              <placeName>Mern</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000037" status="completed">
+            <date xml:id="idme77859d9-589c-4a53-a785-e68c5ab1eb99">1902-10-20</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm05408c3d-4fc8-4b01-9ec7-57832e7fe9f4">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160171488" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm5eecc495-eada-4df9-9d36-a86a9168a958">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm5d3fb45d-e30c-4a23-b619-9a6c7e3a35ce">
+              <placeName>Mern</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000038" status="completed">
+            <date xml:id="idm9de0a629-322b-48f5-b6c2-ee505d2a4e63">1902-10-22</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4629587a-e032-426b-830e-2a530c730532">
+              <resp>sender</resp>
+              <name xml:id="personperson50fb9747-61f3-4758-8207-b07dd4c6828b" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm20204672-cef7-41a4-ab1b-bfc2b1e4c54a">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm451b7583-2e1b-4385-82b7-a3e844e998b1">
+              <placeName>Mern</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0020569590000039" status="completed">
+            <date xml:id="idm15e87484-2e98-43e6-872b-9d5a9728eedd">1902-10-29</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf80c30cf-40eb-4a19-9a3b-a9925a20e435">
+              <resp>sender</resp>
+              <name xml:id="personidm140619160146640" ref="57/ae/fb/42/57aefb42-4823-4bdf-97ed-6d7b6c69d11d"><surname>Meier</surname>,
+      <forename>Johannes</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm1af138a5-eda8-4fb3-9f07-ce634a27a1ec">
+              <resp>recipient</resp>
+            </respStmt>
+            <location type="sender" xml:id="idm2dd31f2f-a4e9-40a0-adcf-0173c3298436">
+              <placeName>Mern</placeName>
+            </location>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140619177008144">
+    <body xml:id="idm140619172934560">
+      <div xml:id="idm140619173100592">
+        <p xml:id="idm140619169370736"><pb xml:id="idm140619179531696" n="i" facs="images/002056959_000/002056959_000_0010.jpg"/>JOHANNES MEIER</p>
+        <p xml:id="idm140619191937840">DIGTE OG BREVE</p>
+        <p xml:id="idm140619169273696">— Men de Skud, der gaar til Grunde<lb xml:id="idm140619191825984"/>
+og før Blomstring lægges øde —?</p>
+        <p xml:id="idm140619179707200">J. M.</p>
+        <p xml:id="idm140619169242960">KØBENHAVN</p>
+        <p xml:id="idm140619173278944">HENRIK ERBS-JENSENS BOGTRYKKERI</p>
+        <p xml:id="idm140619174950176">1905</p>
+        <p xml:id="idm140619203978448"><pb xml:id="idm140619148889344" n="ii" facs="images/002056959_000/002056959_000_0011.jpg"/>Portrættet efter en Blyantstegning af L. Chr Christensen.</p>
+        <p xml:id="idm140619148888352"><pb xml:id="idm140619201622240" n="1" facs="images/002056959_000/002056959_000_0012.jpg"/>Johannes Meier blev født paa Jegindø i Limfjorden den 27. Januar 1880. Han blev Student fra Odense Kathedralskole 1897, tog Aaret efter Filosofikum. Siden opholdt han sig snart i København, snart hos sine Forældre i Kerteminde, han var ogsaa et Aars Tid paa Skaarup Seminarium; tre Gange havde han Plads som Huslærer, nemlig paa Grinderslev Kloster i Salling, paa Søgaard paa Langeland og i Mern i Sydsjælland.</p>
+        <p xml:id="idm140619149112192">Han døde i København den 2. November 1902.</p>
+        <p xml:id="idm140619149111696">
+          <pb xml:id="idm140619149111568" n="2" facs="images/002056959_000/002056959_000_0013.jpg"/>
+        </p>
+        <p xml:id="idm140619149110832"><pb xml:id="idm140619149110704" n="3" facs="images/002056959_000/002056959_000_0014.jpg"/>DIGTE</p>
+        <p xml:id="idm140619149109840"><pb xml:id="idm140619149109712" n="4" facs="images/002056959_000/002056959_000_0015.jpg"/>* DE GAMLE VEJE<lb xml:id="idm140619149108912"/>
+* JEG ELSKER DIG<lb xml:id="idm140619149108656"/>
+MORGENEN EFTER FESTEN<lb xml:id="idm140619149108400"/>
+ET SUK.<lb xml:id="idm140619149108144"/>
+HOLD DINE HÆNDER RENE<lb xml:id="idm140619149107824"/>
+* NOCTURNE<lb xml:id="idm140619149107568"/>
+* DET VAR EN AFTEN<lb xml:id="idm140619149107312"/>
+* INGEN DRØMMER<lb xml:id="idm140619149107056"/>
+NU GUDSKELOV<lb xml:id="idm140619149106800"/>
+SMIL<lb xml:id="idm140619149106544"/>
+ET MINDE<lb xml:id="idm140619149106288"/>
+FREM IMOD STORMEN<lb xml:id="idm140619149106032"/>
+GRETCHEN<lb xml:id="idm140619149105776"/>
+RØDHÆTTE<lb xml:id="idm140619149105520"/>
+EN AFTEN<lb xml:id="idm140619149105264"/>
+I DRØMME</p>
+        <p xml:id="idm140619149104880">De med * betegnede Digte har været trykt i Tidsskriftet »Vagten«.</p>
+        <p xml:id="idm140619149104336"><pb xml:id="idm140619149104208" n="5" facs="images/002056959_000/002056959_000_0016.jpg"/>DE GAMLE VEJE</p>
+        <p xml:id="idm140619149103280">Det er de gamle Veje, jeg gaar,<lb xml:id="idm140619149103024"/>
+de gamle, lønlige Sommerveje;<lb xml:id="idm140619149102768"/>
+fra den vaade Skovbund i Vejret staar<lb xml:id="idm140619149102512"/>
+en Duft af Lykken, der randt af Eje.<lb xml:id="idm140619149102256"/>
+Over de nøgne Linde letter<lb xml:id="idm140619149102000"/>
+sin rappe Vinge en skrigende Krage —<lb xml:id="idm140619149101744"/>
+kæreste du! — de lyse Nætter<lb xml:id="idm140619149101488"/>
+og alle de blanke Sommerdage!</p>
+        <p xml:id="idm140619149101104">Det er de gamle Veje, jeg gaar,<lb xml:id="idm140619149100848"/>
+Lundens lønlige Elskovsveje,<lb xml:id="idm140619149100592"/>
+og der stod Glans af dit gyldne Haar,<lb xml:id="idm140619149100336"/>
+der var saa blødt paa vort grønne Leje.<lb xml:id="idm140619149100080"/>
+Nu har Stormen lagt Løvet øde,<lb xml:id="idm140619149099824"/>
+og der er hverken Vaar eller Lykke<lb xml:id="idm140619149099568"/>
+— kæreste du ! de Læber røde,<lb xml:id="idm140619149099312"/>
+og alle de Favntag i Skovens Skygge!</p>
+        <p xml:id="idm140619149098928">Det er de gamle Veje, jeg gaar,<lb xml:id="idm140619149098672"/>
+de blev mine lønlige Smertensveje;<lb xml:id="idm140619149098416"/>
+saa tungt og langsomt mit Hjerte slaar,<lb xml:id="idm140619149098096"/>
+dér ligger Sorgen saa trygt i Leje.<lb xml:id="idm140619149097840"/>
+Regnen fra bladløse Grene rinder,<lb xml:id="idm140619149097584"/>
+mit fattige Hjerte er rigt paa Kummer —<lb xml:id="idm140619149097328"/>
+kæreste du! de bitre Minder,<lb xml:id="idm140619149097072"/>
+det skrigende Savn, som aldrig forstummer!</p>
+        <p xml:id="idm140619149096624">24/12 1898</p>
+        <p xml:id="idm140619149096240"><pb xml:id="idm140619149096112" n="6" facs="images/002056959_000/002056959_000_0017.jpg"/>JEG ELSKER DIG —</p>
+        <p xml:id="idm140619149095184">Jeg elsker dig, som Natten elsker Dagen,<lb xml:id="idm140619149094864"/>
+naar de i Dæmringsstundens Favntag mødes,<lb xml:id="idm140619149094496"/>
+og Natten aander med sin blege Mund<lb xml:id="idm140619149094240"/>
+et stakket Kys paa Dagens unge Pande,<lb xml:id="idm140619149093984"/>
+men Dagen vinder sig af Nattens Arme<lb xml:id="idm140619149093728"/>
+og vandrer lys og stolt sin Straalevej<lb xml:id="idm140619149093472"/>
+og spreder Fest og Sol, ihvor hun skrider, —<lb xml:id="idm140619191753008"/>
+men ingen véd, hvad Længsel Natten lider.</p>
+        <p xml:id="idm140619201627472">17/4 1899</p>
+        <p xml:id="idm140619201627120"><pb xml:id="idm140619201715104" n="7" facs="images/002056959_000/002056959_000_0018.jpg"/>MORGENEN EFTER FESTEN</p>
+        <p xml:id="idm140619191660432">Mit Hjerte var i Festskrud,<lb xml:id="idm140619169275856"/>
+nu er dets Faner faldet, —<lb xml:id="idm140619191483504"/>
+nu er det som en Balsal<lb xml:id="idm140619191659520"/>
+Morgenen efter Ballet,</p>
+        <p xml:id="idm140619192904608">hvor Gulvet ligger strøet<lb xml:id="idm140619164937936"/>
+med Blomster og med Sløjfer,<lb xml:id="idm140619149092976"/>
+mens Luften tung af Minder<lb xml:id="idm140619149092720"/>
+din hede Pande strøjfer;</p>
+        <p xml:id="idm140619149092336">hvor Valsens sidste Toner<lb xml:id="idm140619149092080"/>
+endnu i Rummet bæver<lb xml:id="idm140619149091824"/>
+og mødes med den Hulken,<lb xml:id="idm140619149091504"/>
+som fra dit Bryst sig hæver;</p>
+        <p xml:id="idm140619149091120">hvor hvert et Spejl dig viser<lb xml:id="idm140619149090864"/>
+et Ansigt, træt og bleget,<lb xml:id="idm140619149090608"/>
+men ej et Glimt af hende,<lb xml:id="idm140619149090352"/>
+med hvem al Fest er veget.</p>
+        <p xml:id="idm140619149089968">Det er omsonst, du græder<lb xml:id="idm140619149089648"/>
+og kalder efter Gæsten;<lb xml:id="idm140619149089328"/>
+hun er for evigt borte —<lb xml:id="idm140619149089008"/>
+Morgenen efter Festen.</p>
+        <p xml:id="idm140619149088624">12/16 1899</p>
+        <p xml:id="idm140619149088240"><pb xml:id="idm140619149088112" n="8" facs="images/002056959_000/002056959_000_0019.jpg"/>ET SUK</p>
+        <p xml:id="idm140619149087408">Naar du dine hvide Lemmer<lb xml:id="idm140619149087152"/>
+har i Nat til Hvile lagt,<lb xml:id="idm140619149086896"/>
+og en Flok af lyse Engle<lb xml:id="idm140619149086640"/>
+ved dit Leje staar paa Vagt,<lb xml:id="idm140619158669808"/>
+fold da dine kære Hænder,<lb xml:id="idm140619158669552"/>
+Barn, og bed en Bøn for mig, —<lb xml:id="idm140619158669296"/>
+mig, som ikke tror paa Engle, —<lb xml:id="idm140619158669040"/>
+og som neppe tror paa dig.</p>
+        <p xml:id="idm140619158668656">11/7 1899</p>
+        <p xml:id="idm140619158668272"><pb xml:id="idm140619158668144" n="9" facs="images/002056959_000/002056959_000_0020.jpg"/>HOLD DINE HÆNDER RENE —</p>
+        <p xml:id="idm140619158667152">Hold dine Hænder rene, hvis du skal Lykken række,</p>
+        <p xml:id="idm140619158666656">og hold dit Hjerte helligt, hvis Lykken dér skal bo!</p>
+        <p xml:id="idm140619158666144">thi Lykken hader Hænder, besudlede: og frække, og i et urent Hjerte den fanger ingen Ro.</p>
+        <p xml:id="idm140619158665568">Hold dine Læber kyske, hvis du med dem vil plukke</p>
+        <p xml:id="idm140619158665072">den ægte Elskovs Frugter med saligt Velbehag; thi ellers, var de aldrig saa søde og saa smukke, din Læbe vil dem give en bitter Eftersmag.</p>
+        <p xml:id="idm140619158664384">12/8 1899</p>
+        <p xml:id="idm140619158664000"><pb xml:id="idm140619158663872" n="10" facs="images/002056959_000/002056959_000_0021.jpg"/>NOCTURNE</p>
+        <p xml:id="idm140619158662944">Dagens lyse Guld er rundet<lb xml:id="idm140619158662688"/>
+ud i Draabe efter Draabe;<lb xml:id="idm140619158662432"/>
+rundt omkring os hviler Natten<lb xml:id="idm140619158662176"/>
+i sin maanehvide Kaabe.</p>
+        <p xml:id="idm140619158661792">Skov og Eng og Bølger blunde;<lb xml:id="idm140619158661536"/>
+Glæden slumrer nu og Sorgen,<lb xml:id="idm140619158661280"/>
+Livet er til Ro og drømmer<lb xml:id="idm140619158661024"/>
+om sin Sejersfærd imorgen.</p>
+        <p xml:id="idm140619158660640">Ogsaa vi skal hjem at sove,<lb xml:id="idm140619158660384"/>
+trætte er vi af at vandre,<lb xml:id="idm140619158660128"/>
+ogsaa vi vil hjem at drømme,<lb xml:id="idm140619158659872"/>
+drømme lifligt om hverandre.</p>
+        <p xml:id="idm140619158659488">Mine Drømme som en broget<lb xml:id="idm140619158659168"/>
+Blomsterkrans sig blødt vil slynge<lb xml:id="idm140619158658912"/>
+om dit Legems fine Former,<lb xml:id="idm140619158658656"/>
+kærligt om din Hals sig klynge.</p>
+        <p xml:id="idm140619158658272">Ogsaa du mit Navn vil høre<lb xml:id="idm140619158657952"/>
+sunget ud af dine Drømme,<lb xml:id="idm140619158657632"/>
+naar paa Jomfrusindets Vover<lb xml:id="idm140619158657376"/>
+de som hvide Svaner svømme.</p>
+        <p xml:id="idm140619158656992">Og som nu jeg mine Læber<lb xml:id="idm140619158656672"/>
+trykker ømt mod dine røde, —<lb xml:id="idm140619158656416"/>
+skal i Drømme vore Sjæle<lb xml:id="idm140619158656096"/>
+i et Kys hinanden møde.</p>
+        <p xml:id="idm140619158655648">17/8 1899</p>
+        <p xml:id="idm140619158655264"><pb xml:id="idm140619158655136" n="11" facs="images/002056959_000/002056959_000_0022.jpg"/>DET VAR EN AFTEN —</p>
+        <p xml:id="idm140619158654144">Det var en Aften i Holmeskov,<lb xml:id="idm140619158653888"/>
+vi gik ved hinandens Side;<lb xml:id="idm140619158653632"/>
+saa mangt et lysende Stjerneskud<lb xml:id="idm140619158653376"/>
+vi saa over Himlen glide.</p>
+        <p xml:id="idm140619158652992">Og Mørket hviskede Eventyr<lb xml:id="idm140619158652672"/>
+om Favntag i dunkle Gange,<lb xml:id="idm140619158652416"/>
+men ingen af os hæved sin Haand<lb xml:id="idm140619158652160"/>
+for Nattens Lykke at fange.</p>
+        <p xml:id="idm140619158651776">Vi gik i Tavshed og stirred op<lb xml:id="idm140619158651520"/>
+mod Stjernernes gyldne Veje<lb xml:id="idm140619158651264"/>
+og skød til Side den dyre Skat,<lb xml:id="idm140619158651008"/>
+som bødes os begge tjl Eje.</p>
+        <p xml:id="idm140619158650624">Vi skiftede enkelte Ord iblandt,<lb xml:id="idm140619158650368"/>
+de klang saa døde og matte;<lb xml:id="idm140619158650112"/>
+men Nattens glødende Billedsprog<lb xml:id="idm140619158649856"/>
+vilde vi ikke fatte.</p>
+        <p xml:id="idm140619158649472">Der stod en Mur mellem vore Sind,<lb xml:id="idm140619158649216"/>
+en Skæbne, som ingen kender —<lb xml:id="idm140619158648960"/>
+ved Leddet bød vi hinanden Godnat<lb xml:id="idm140619158648704"/>
+med velbehandskede Hænder.</p>
+        <p xml:id="idm140619158648320">Saa vandrede hver sin egen Vej,<lb xml:id="idm140619158648064"/>
+alene tavs og bedrøvet, —<lb xml:id="idm140619158647808"/>
+mens Mørket hviskede Eventyr<lb xml:id="idm140619158647552"/>
+om Elskovskryst under Løvet.</p>
+        <p xml:id="idm140619158647168">1899</p>
+        <p xml:id="idm140619158646784"><pb xml:id="idm140619158646656" n="12" facs="images/002056959_000/002056959_000_0023.jpg"/>INGEN DRØMMER —</p>
+        <p xml:id="idm140619158645728">Ingen drømmer om mig i Nat,<lb xml:id="idm140619158645472"/>
+saa faldt mine Livsensveje;<lb xml:id="idm140619158645216"/>
+ikke en Elskovstanke gaar<lb xml:id="idm140619158644960"/>
+til mig fra et Natteleje.</p>
+        <p xml:id="idm140619158644576">Ingen skikker mig Længselsbud<lb xml:id="idm140619158644320"/>
+paa ensomme Nattevagter;<lb xml:id="idm140619158644064"/>
+ikke et drømmende Hjerte slaar<lb xml:id="idm140619158643808"/>
+mod mit i hastige Takter.</p>
+        <p xml:id="idm140619158643424">Fôr jeg i Nat til Dødens Land,<lb xml:id="idm140619158643168"/>
+det kostede ikke en Taare; —<lb xml:id="idm140619158642912"/>
+ingen drømmer om mig i Nat,<lb xml:id="idm140619158642656"/>
+jeg ønsker det dog saa saare.</p>
+        <p xml:id="idm140619158642272">1899</p>
+        <p xml:id="idm140619158641888"><pb xml:id="idm140619158641760" n="13" facs="images/002056959_000/002056959_000_0024.jpg"/>NU GUDSKELOV —</p>
+        <p xml:id="idm140619158640832">Nu Gudskelov, at os forladt<lb xml:id="idm140619158640576"/>
+har Dagen med sin dumme Sol —<lb xml:id="idm140619158640320"/>
+jeg hilser dig, du blanke Nat,<lb xml:id="idm140619158640064"/>
+med Stjernekrans fra Pol til Pol!</p>
+        <p xml:id="idm140619158639680">med dine Skyggers svale Fred<lb xml:id="idm140619158639424"/>
+og Stilhed efter Dagens Støj,<lb xml:id="idm140619158639168"/>
+mens som et Smil i Østerled<lb xml:id="idm140619158638912"/>
+højt hænger Maanens gyldne Fløj.</p>
+        <p xml:id="idm140619158638528">I Drømme skvulper Bølgen tyst,<lb xml:id="idm140619158638272"/>
+og Sommerdagens lette Vind<lb xml:id="idm140619158638016"/>
+har gemt sig træt ved Nattens Bryst —<lb xml:id="idm140619158637760"/>
+nu fanger ogsaa Fred mit Sind! —</p>
+        <p xml:id="idm140619158637376">der under Dagens Liv og Larm<lb xml:id="idm140619158637120"/>
+har sunget, sukket, lèt og grædt; —<lb xml:id="idm140619158636864"/>
+nu synker det i Nattens Arm,<lb xml:id="idm140619158636608"/>
+et Barnehjerte, trygt og træt!</p>
+        <p xml:id="idm140619158636224">29/8 1899</p>
+        <p xml:id="idm140619158635840"><pb xml:id="idm140619158635712" n="14" facs="images/002056959_000/002056959_000_0025.jpg"/>SMIL</p>
+        <p xml:id="idm140619158634784">Den første Gang jeg saa dig —. Det var som gennem Taage</p>
+        <p xml:id="idm140619158634272">der randt mig lyst i Møde en solgylden Pil; men du stod rolig, lænet til Skovfogdens Laage, og løfted’ let din Skulder med et spottende Smil.</p>
+        <p xml:id="idm140619158633584">Men siden har du lært mig et andet Smil at kende,</p>
+        <p xml:id="idm140619158633088">et Smil, der varmed’ Hjertet og gjorde Kinden rød, —</p>
+        <p xml:id="idm140619158632576">det lyse Smil hos den, der gaar med Guld i Hænde</p>
+        <p xml:id="idm140619158632080">og lægger glad sin Rigdom i den Kærestes Skød.</p>
+        <p xml:id="idm140619158631584">Forlængst er Skatten ødet. — Vi skyr hinandens Veje;</p>
+        <p xml:id="idm140619158631072">naar af og til vi mødes, du smiler koldt som før; dog er det, som du aldrig vandt Smilet ret til Eje:</p>
+        <p xml:id="idm140619158630464">det bæver lidt — og stivner — og sitrer lidt — og dør.</p>
+        <p xml:id="idm140619158629936">30/10 1899</p>
+        <p xml:id="idm140619158629552"><pb xml:id="idm140619158629424" n="15" facs="images/002056959_000/002056959_000_0026.jpg"/>ET MINDE</p>
+        <p xml:id="idm140619158628496">Jeg kom en Aften mødig hjem —<lb xml:id="idm140619158628240"/>
+og bitter faldt mig Dagens Frugt;<lb xml:id="idm140619158627984"/>
+men da jeg rakte Nøglen frem,<lb xml:id="idm140619158627728"/>
+jeg fandt, at Døren ej var lukt,<lb xml:id="idm140619158627472"/>
+og da jeg paa min Tærskel stod,<lb xml:id="idm140619158627216"/>
+jeg saa en Kvinde paa min Stol,<lb xml:id="idm140619158626960"/>
+og som hun smilte mig imod,<lb xml:id="idm140619158626704"/>
+saa 1er ved Gry den unge Sol.</p>
+        <p xml:id="idm140619158626320">Og som hun mærked’, jeg var træt,<lb xml:id="idm140619158626064"/>
+og Glæden, vakt ved hendes Blik,<lb xml:id="idm140619158625808"/>
+af tunge Tankers trange Net<lb xml:id="idm140619158625552"/>
+først sent sin fulde Frihed fik, —<lb xml:id="idm140619158625296"/>
+saa kyssed’ hun mig langt og ømt<lb xml:id="idm140619158625040"/>
+og strøg mig over Haar og Kind,<lb xml:id="idm140619158624784"/>
+og Trøst, som aldrig jeg har drømt,<lb xml:id="idm140619158624528"/>
+hun hvisked’ mig i Øret ind.</p>
+        <p xml:id="idm140619158624144">Jeg kom en Aften — kommer nu<lb xml:id="idm140619158623888"/>
+saa mangen Aften mødig hjem,<lb xml:id="idm140619158623632"/>
+og stedse stiger for min Hu<lb xml:id="idm140619158623376"/>
+det samme lyse Billed frem:<lb xml:id="idm140619158623120"/>
+den røde, friske Jomfrumund<lb xml:id="idm140619158622864"/>
+mig byder sine Kærtegn til —<lb xml:id="idm140619158622608"/>
+jeg véd saa vel, i næste Stund<lb xml:id="idm140619158622352"/>
+den til et Haansmil vrænges vil.</p>
+        <p xml:id="idm140619158621968">14/11 1899</p>
+        <p xml:id="idm140619158621584"><pb xml:id="idm140619158621456" n="16" facs="images/002056959_000/002056959_000_0027.jpg"/>FREM IMOD STORMEN —</p>
+        <p xml:id="idm140619158620464">Frem imod Stormen jeg stævner,<lb xml:id="idm140619158620208"/>
+der slynger Slud mod min Kind;<lb xml:id="idm140619158619952"/>
+du spilder de spændte Evner<lb xml:id="idm140619158619696"/>
+mod mig, du hylende Vind!<lb xml:id="idm140619158619440"/>
+Min Pande, der stejlt sig hæver,<lb xml:id="idm140619158619184"/>
+jeg sænker ej ned for Slud,<lb xml:id="idm140619158618928"/>
+saa lidt som mit Hjerte bæver<lb xml:id="idm140619158618672"/>
+for Mennesker eller Gud.</p>
+        <p xml:id="idm140619158618288">Beder om Bølgernes Naade<lb xml:id="idm140619158617968"/>
+vel hist den knejsende Klint?<lb xml:id="idm140619158617712"/>
+den trodser frit deres Fraade,<lb xml:id="idm140619158617456"/>
+den flækker dem haard som Flint;<lb xml:id="idm140619158617200"/>
+hult hører et Suk jeg runge<lb xml:id="idm140619158616944"/>
+af hver en Bølge, som brast — —.<lb xml:id="idm140619158616688"/>
+Mit Hjerte i Skæbner tunge<lb xml:id="idm140619158616432"/>
+som Klinten blev stolt og fast.</p>
+        <p xml:id="idm140619158616048">Hører I det, I Vinde?<lb xml:id="idm140619158615728"/>
+I klappe saa koldt min Kind,<lb xml:id="idm140619158615472"/>
+i søge mit Blik at blinde, —<lb xml:id="idm140619158615216"/>
+men evigt spotter mit Sind!<lb xml:id="idm140619158614960"/>
+Mit Hjerte til Staal er hærdet<lb xml:id="idm140619158614704"/>
+i Lidelsens Luebad,<lb xml:id="idm140619158614448"/>
+og siden har jeg det gærdet<lb xml:id="idm140619158614192"/>
+Med Pansre af Tvivl og Had.</p>
+        <p xml:id="idm140619158613808"><pb xml:id="idm140619158613680" n="17" facs="images/002056959_000/002056959_000_0028.jpg"/>Lad saa kun Stormen svinge<lb xml:id="idm140619158612880"/>
+sin Svøbe haardt mod mit Bryst;<lb xml:id="idm140619158612624"/>
+jeg agter dens Rasen ringe,<lb xml:id="idm140619158612368"/>
+jeg trænger til ingen Trøst!<lb xml:id="idm140619158612112"/>
+For mig hver styrende Stjerne<lb xml:id="idm140619158611856"/>
+er død paa det dunkle Hvælv —<lb xml:id="idm140619158611600"/>
+Kong jeg af min egen Hjerne,<lb xml:id="idm140619158611344"/>
+han ved sine Veje selv!</p>
+        <p xml:id="idm140619158610960">Lundsgaard Klint, 29/12 1899</p>
+        <p xml:id="idm140619158610576"><pb xml:id="idm140619158610448" n="18" facs="images/002056959_000/002056959_000_0029.jpg"/>GRETCHEN</p>
+        <p xml:id="idm140619158609520">Jeg har gjort en Synd engang,—<lb xml:id="idm140619158609264"/>
+jeg, som ej paa Synden tror —<lb xml:id="idm140619158609008"/>
+jeg har gjort en Synd, hvis Minde<lb xml:id="idm140619158608752"/>
+brænder som et Brodermord:<lb xml:id="idm140619158608496"/>
+da jeg, ung og kaad og dristig,<lb xml:id="idm140619158608240"/>
+vilde bryde dine Læbers<lb xml:id="idm140619158607920"/>
+kildefriske Barnefred —<lb xml:id="idm140619158607600"/>
+vilde volde Tab og Brist i<lb xml:id="idm140619158607344"/>
+dine Drømmes Rolighed.</p>
+        <p xml:id="idm140619158606896">Jeg har taget Fred engang —<lb xml:id="idm140619158606640"/>
+jeg, hvis Liv var Trods og Spot —<lb xml:id="idm140619158606384"/>
+jeg har taget Fred og Naade<lb xml:id="idm140619158606128"/>
+som en Stimand af en Drot,<lb xml:id="idm140619158605872"/>
+da du med vemodig Mildhed<lb xml:id="idm140619158605616"/>
+uden Skrig og uden Vrede<lb xml:id="idm140619158605360"/>
+værged af min voldske Glød —<lb xml:id="idm140619158605104"/>
+og som Tak for tæmmet Vildhed<lb xml:id="idm140619158604848"/>
+mig din fulde Tillid bød —.</p>
+        <p xml:id="idm140619158604464">28/7 1900</p>
+        <p xml:id="idm140619158604080"><pb xml:id="idm140619158603952" n="19" facs="images/002056959_000/002056959_000_0030.jpg"/>RØDHÆTTE</p>
+        <p xml:id="idm140619158603024">Du minder mig, som der du gaar:<lb xml:id="idm140619158602768"/>
+med Smil om Mund, med Sol om Haar,<lb xml:id="idm140619158602512"/>
+med dine Kinders røde Blomster<lb xml:id="idm140619158602256"/>
+blandt Ranker, som din Fletning flyer, —<lb xml:id="idm140619158601904"/>
+den røde Bøllehat i Nakken, —<lb xml:id="idm140619158601648"/>
+du minder om et Eventyr. —</p>
+        <p xml:id="idm140619158601264">Rødhætte gaar en Morgenstund<lb xml:id="idm140619158601008"/>
+— med Sol om Haar, med Smil om Mund —<lb xml:id="idm140619158600752"/>
+i Fest af sine femten Somre<lb xml:id="idm140619158600496"/>
+dansende væver gennem Skov —<lb xml:id="idm140619158600240"/>
+men fra den fjerne Tykning lister<lb xml:id="idm140619158599984"/>
+en mager Ulv sig ud paa Rov.</p>
+        <p xml:id="idm140619158599600">Han skynder sig ad Skovens Sti —<lb xml:id="idm140619158599344"/>
+nu Gud det arme Barn staa bi!<lb xml:id="idm140619158599088"/>
+at ej i Ulvevold hun falde.<lb xml:id="idm140619158598832"/>
+Han hende naar — for sent at fly —<lb xml:id="idm140619158598576"/>
+Rødhætte gaar ved Ulvens Side<lb xml:id="idm140619158598320"/>
+og til sin Fælle skotter sky.</p>
+        <p xml:id="idm140619158597936">„Hu! — det er vist en farlig Knægt —!<lb xml:id="idm140619158597616"/>
+Hvad gemmes vel af lumsk og frækt<lb xml:id="idm140619158597360"/>
+bag dette Smil, hvis spotske Bue<lb xml:id="idm140619158597104"/>
+sig stedse krummer om hans Mund —,<lb xml:id="idm140619158596848"/>
+mens han med falsk og artig Tale<lb xml:id="idm140619158596592"/>
+mig følger i den dunkle Lund?</p>
+        <p xml:id="idm140619158596208"><pb xml:id="idm140619158596080" n="20" facs="images/002056959_000/002056959_000_0031.jpg"/>Han siger, jeg er sød — o Skræk!<lb xml:id="idm140619158595280"/>
+alt mere lystne bli’r hans Træk —<lb xml:id="idm140619158595024"/>
+men der er Bedstemoders Bolig —“<lb xml:id="idm140619158594768"/>
+— Et Hop — Rødhætte Døren naar —<lb xml:id="idm140619158594512"/>
+„Adieu, Hr. Kandidat“ — du minder<lb xml:id="idm140619158594256"/>
+om denne Scene, som Du gaar.</p>
+        <p xml:id="idm140619158593872">7/9 1900</p>
+        <p xml:id="idm140619158593488"><pb xml:id="idm140619158593360" n="21" facs="images/002056959_000/002056959_000_0032.jpg"/>EN AFTEN</p>
+        <p xml:id="idm140619158592432">En Aften, da hun var borte,<lb xml:id="idm140619158592176"/>
+mig tyktes øde mit Hus;<lb xml:id="idm140619158591856"/>
+af Lede gik jeg paa Kroen hen<lb xml:id="idm140619158591600"/>
+og drak mig en glædeløs Rus.</p>
+        <p xml:id="idm140619158591216">Bleg og med dirrende Hænder<lb xml:id="idm140619158590960"/>
+og Øjnene dvaske af Drik<lb xml:id="idm140619158590640"/>
+stedtes jeg hende for Syne<lb xml:id="idm140619158590384"/>
+usaligt et Øjeblik.</p>
+        <p xml:id="idm140619158589936">Den næste Morgen jeg stured<lb xml:id="idm140619158589680"/>
+og vilde af Skam forgaa;<lb xml:id="idm140619158589424"/>
+det var for min Mund saa bitter en Frugt,<lb xml:id="idm140619158589104"/>
+at hun havde seet mig saa.</p>
+        <p xml:id="idm140619158588720">Da gik hun frem for Bordet,<lb xml:id="idm140619158588464"/>
+tog overfor mig Plads,<lb xml:id="idm140619158588208"/>
+og varsomt tog hun i Hænde<lb xml:id="idm140619158587952"/>
+min Stoltheds splintrede Glas.</p>
+        <p xml:id="idm140619158587568">Smilte ad Skaar og Skadle<lb xml:id="idm140619158587312"/>
+og talte mig til saa mildt,<lb xml:id="idm140619158587056"/>
+som havde jeg ej ved min Daarefærd<lb xml:id="idm140619158586800"/>
+al Vennevilje forspildt.</p>
+        <p xml:id="idm140619158586416">Og mens jeg drømmende lytted,<lb xml:id="idm140619158586160"/>
+hvor lifligt hun kunde le,<lb xml:id="idm140619158585904"/>
+og mens jeg lyttende drømte,<lb xml:id="idm140619158585648"/>
+havde hun bødet min Ve.</p>
+        <p xml:id="idm140619158585200">24/11 1901</p>
+        <p xml:id="idm140619158584816"><pb xml:id="idm140619158584688" n="22" facs="images/002056959_000/002056959_000_0033.jpg"/>I DRØMME</p>
+        <p xml:id="idm140619158583760">I Drømme mit Liv er rundet,<lb xml:id="idm140619158583504"/>
+og Drømmene blev mit Fordærv;<lb xml:id="idm140619158583248"/>
+for dem har jeg ødet mit Væsens Guld<lb xml:id="idm140619158582992"/>
+til sidste tyndslidte Skærv.</p>
+        <p xml:id="idm140619158582608">Fra Dagens Daad har jeg drømt mig,<lb xml:id="idm140619158582352"/>
+fra Mandsviljens Nej og Ja;<lb xml:id="idm140619158582096"/>
+men Mørket med Tænders Gnidsel og Graad,<lb xml:id="idm140619158581840"/>
+det drømmer ingen sig fra.</p>
+        <p xml:id="idm140619158581456">Paa Drømme mit Liv var bygget;<lb xml:id="idm140619158581200"/>
+og slukkes min Sjæl i Kvæld,<lb xml:id="idm140619158580944"/>
+saa har jeg kun Drømmenes falske Mønt<lb xml:id="idm140619158580688"/>
+at byde for al min Gæld.</p>
+        <p xml:id="idm140619158580240">Tomt er i Drømme at leve<lb xml:id="idm140619158579920"/>
+og usselt i Drøm at dø —<lb xml:id="idm140619158579664"/>
+forbandet være det Figentræ,<lb xml:id="idm140619158579408"/>
+der ej giver Frugt og Frø!</p>
+        <p xml:id="idm140619158579024">April 1902</p>
+      </div>
+      <div xml:id="idm140619158578512">
+        <head xml:id="idm140619158578256"><pb xml:id="idm140619158578128" n="23" facs="images/002056959_000/002056959_000_0034.jpg"/>BREVE</head>
+        <p xml:id="idm140619158577200"><pb xml:id="idm140619158577072" n="24" facs="images/002056959_000/002056959_000_0035.jpg"/>Af de efterfølgende Breve er alle de med samme Bogstav betegnede skrevne til samme Person.</p>
+      </div>
+      <pb xml:id="idm140619158575824" n="25" facs="images/002056959_000/002056959_000_0036.jpg"/>
+      <div decls="bibL0020569590000001" n="1" xml:id="L0020569590000001" xml:lang="da-Dk">
+        <head xml:id="idm140619158561680">A<lb xml:id="idm140619158561424"/>
+               <geogName xml:id="idm140619158561168" type="sender" sameAs="idm6b4a60f4-348e-4e44-b22c-d497052ca5ed">København</geogName>, <date xml:id="idm140619148895344" sameAs="idm277c5afd-9907-4621-a2c6-5a4d25ca5fdd">9/2 1899</date>
+            </head>
+        <p xml:id="idm140619148894960">Jeg selv er i poetisk Henseende saare gold for Tiden; i Aaret 1899 har jeg overhovedet ikke faaet fuldendt noget Digt. Jeg kunde vel nok blive ved ”das alte Lied zu leiern“, men det bliver i Længden trættende baade for mig selv og mest for dem, der skal læse det. Og til at skrive noget nyt mangler jeg Oplevelser, Impulser; jeg er ganske blottet for den Ævn'e at kunne skrive Vaarsange om Vinteren eller Kærlighedsdigte uden at føle Kærlighed — og ønsker den for Resten heller ikke.</p>
+      </div>
+      <pb xml:id="idm140619148893536" n="25" facs="images/002056959_000/002056959_000_0036.jpg"/>
+      <div decls="bibL0020569590000002" n="2" xml:id="L0020569590000002" xml:lang="da-Dk">
+        <head xml:id="idm140619148891696">A<lb xml:id="idm140619148891440"/>
+               <geogName xml:id="idm140619158536064" type="sender" sameAs="idm39eb91d8-74f4-4a01-953b-0b5cc85feb03">København</geogName>, <date xml:id="idm140619158535680" sameAs="idm8e6792c4-5fed-4b07-8c57-f3e17b4fc26a">24/6 1899</date>
+            </head>
+        <p xml:id="idm140619158535296">Jeg er ikke bund-uenig med dig i din Dom over Brandes o.s.v.; det synes mig blot, at vi frisindede Mennesker for Tiden har ganske andre Ting at tænke paa. Saa længe ”det anerkendte Idioti“ har Riget og Æren og Magten <pb xml:id="idm140619158534576" n="26" facs="images/002056959_000/002056959_000_0037.jpg"/>inde, og Folket og Intelligensen trædes under Ridestøvler, — saa længe Retninger og Mænd i Litteraturen bekæmpes ved Politiets Hjælp, — saa længe den indre Mission har Magt over mange Sind, — saa længe en Haandfuld Rigmænd uden Risiko kan styrte hundredetusend Mennesker ud i Sult og Elendighed, — saa længe ikke alene Ordener (thi dem har Brøndsted’erne jo fra P. A. Heibergs Tid Patent paa), men enhver offentlig Stilling og Ærespost forbeholdes Magthavernes Spytslugere, — saa længe Officerer ustraffet kan begaa Forbrydelser, der vilde bringe os andre i Tugthuset, — saa længe der sjakres med Gud, Dyd og egen Fordel i tarveligt skrevne Piecer og Toøres-Dagblade med liderlige Historier paa anden Side, — saa længe synes det mig virkelig, at alt Frisind uden smaalig indbyrdes Kritik bør gøres fælles Sag mod Bæsternes Oligarki. Faar vi det knust engang, saa kan vi give os til at gøre hinandens Konto op; og saa vil der maaske blive Tid til at sætte Nansen paa Troskabsprøve og aarelade Edv. Brandes for en Smule af hans unge Blod og lade Vagtens Folk vide, at somme af dem trænger svært til Afløsning. Men lad os indtil da holde sammen — der er nok at harmes over, selv om vi lader Brandes gaa i Fred!</p>
+        <p xml:id="idm140619158531696">Lad os holde os bravt ude til Venstre, …! kun dér er Retten. Hele Verden véd i Dag, at Dreyfus maa være uskyldig; hvem er da Slynglerne, som har styrtet ham i Ulykke og traadt <pb xml:id="idm140619158531056" n="27" facs="images/002056959_000/002056959_000_0038.jpg"/>al Ret under Fødder? Det er ingen andre end Frankrigs Rump’er og Frankrigs Bahnson’er og den hele Række af Samfundsstøtter og Guds Torsk, — helt ned til Frankrigs Frederik Hansen’er. Mens de Mænd, der har vovet Ære og Liv for den uskyldiges Sag, og som nu omsider synes at skulle sejre, bærer Navne, der i dansk Oversættelse vilde lyde noget lignende som Brandes, Drachmann, Carl Ewald, Hørup, Christensen-Stadil, Maler Jensen, Winblad, Rex.</p>
+      </div>
+      <pb xml:id="idm140619158529360" n="27" facs="images/002056959_000/002056959_000_0038.jpg"/>
+      <div decls="bibL0020569590000003" n="3" xml:id="L0020569590000003" xml:lang="da-Dk">
+        <head xml:id="idm140619158527520">A<lb xml:id="idm140619158527264"/>
+               <geogName xml:id="idm140619158527008" type="sender" sameAs="idm3616c663-138c-43f7-af38-000d534a313f">København</geogName>, <date xml:id="idm140619158526624" sameAs="idm099bd925-85c9-402f-84e9-f20659649277">14/11 1899</date>
+            </head>
+        <p xml:id="idm140619158526240">Kære <persName xml:id="idm140619158525984" type="recipient">L.</persName>….!</p>
+        <p xml:id="idm140619158525232">Tak for dit Brev, hvortil jeg først skal bemærke, at jeg intetsomhelst vil have med din Religion af skaffe. Vorherre, eller Jahwe, eller Zeus, eller Buddha eller Vizlipuzli fri og bevare mig for at have nogen Andel i, at Verden faar en ny Vizlipuz 1 i, ellr Buddha, eller Zeus, eller Jahwe eller Vorherre at ligge paa Maven for og give Skylden for sine Dumheder. Vi har saamænd Religioner nok, og de kan vel omtrent være lige gode — eller det modsatte. En enkelt har været bedre end de andre, for saa vidt man skal dømme dem efter deres Frugter; det er Kristendommen. Den har baaret Udviklingen frem et stort Stykke Vej og virket umaadelig megen Menneskelykke; <pb xml:id="idm140619158523552" n="28" facs="images/002056959_000/002056959_000_0039.jpg"/>men nu er, somAakjær skriver, ”dette Firma fallit for længe siden,“ og Menneskeheden raver atter om iMørke og famler efter en stor Idé, en skøn Løgn, et fjernt og genialt Blændværk, hvis Lys den kan følge et nyt Stykke af Vejen. Jeg tror imidlertid ikke, at det bliver nogen Religion, der i Fremtiden kommer til at spille denne Rolle; snarere er jeg tilbøjelig til at mene, at det bliver den socialistiske Idé.</p>
+        <p xml:id="idm140619158521968">Det metafysiske interesserer mig mindre og mindre; mit Rige er af denne Verden. Man kan have Ærgrelser nok af sig selv og sine Medmennesker; skal man oven i Købet have ”et højeste Væsen“ at rette sine Klager og Forbandelser mod, fik man jo aldrig Tid til andet. Og forudsat, at et saadant existerer, har jeg fuldkommen nok i hans Gerninger og føler ingen Trang til at filosofere over hans Væsen; thi det kan dog være mig ganske ligegyldigt, om den Fortræd, han gør mig, skyldes Dumhed eller Ondskab, da jeg hverken er i Stand til at kurere hans Hjernefejl eller forbedre hans moralske Begreber.</p>
+      </div>
+      <pb xml:id="idm140619158520656" n="28" facs="images/002056959_000/002056959_000_0039.jpg"/>
+      <div decls="bibL0020569590000004" n="4" xml:id="L0020569590000004" xml:lang="da-Dk">
+        <head xml:id="idm140619158518816"><geogName xml:id="idm140619158518688" type="sender" sameAs="idm0b9f4427-ed3a-4443-8d14-1593dd91c2f6">Kerteminde</geogName>, <date xml:id="idm140619158518304" sameAs="idmd1709a20-9af7-4b55-844e-c25bac320a6b">Juledag [1899]</date></head>
+        <p xml:id="idm140619158517920">Jeg vil blot sige, at Zarathustra kan være meget god, men jeg kan blot ikke finde ham; naar jeg raaber hans Navn, er det kun <pb xml:id="idm140619158517392" n="29" facs="images/002056959_000/002056959_000_0040.jpg"/>Knud Hjortø, som svarer, og ham længes jeg ikke efter. Jeg synes, at vi er saa passende smaa allesammen, og det vilde klæde os bedre at tage hinanden i Hænderne og sammen søge frem mod rigere Lys og større Lykke, — end hver for sig at udnævne sig selv til Overmenneske og forsøge at sparke de andre ned. Disse Betragtninger fører mig nærmere og nærmere til Socialismen…</p>
+      </div>
+      <pb xml:id="idm140619158515696" n="29" facs="images/002056959_000/002056959_000_0040.jpg"/>
+      <div decls="bibL0020569590000005" n="5" xml:id="L0020569590000005" xml:lang="da-Dk">
+        <head xml:id="idm140619158513856">A<lb xml:id="idm140619158513600"/>
+               <geogName xml:id="idm140619158513344" type="sender" sameAs="idm1b4e5585-4709-4aa2-a3b8-80d231c5b573">København</geogName>, <date xml:id="idm140619158512960" sameAs="idm2e952692-77ea-4a24-ab48-f738fa8fabb9">15/2 1900</date>
+            </head>
+        <p xml:id="idm140619158512576">[I Anledning af Ibsens ”Naar vi døde vaagner“] … hvad Kunstneren selv som Menneske angaar, saa tror jeg, at Ibsen har Ret i, at han i de fleste Tilfælde vil angre at have vraget Livet for Kunsten. Men jeg nærer ikke mindste Tvivl om, at han vil fortryde det lige saa bittert, om han ofrer sin Kunst for Kærlighedens Skyld. Det er saa viseligt indrettet, ”tager du Hatten op, faar du Prygl, og lader du den ligge, faar du det samme“ …</p>
+        <p xml:id="idm140619158511536">Jeg arbejder langsomt paa min Bog og er hidtil ganske tilfreds med det af den, der foreligger færdigt. I denne Tid, da det ellers i alle Retninger er sløjt med mig, maa jeg sgu digte ligefrem for at holde Liv i mig. Og ved Lucifer! kom jeg til at tvivle paa mit Talent, da vilde jeg <pb xml:id="idm140619158510688" n="30" facs="images/002056959_000/002056959_000_0041.jpg"/>ikke leve den Dag til Ende; for jeg har intet andet at leve paa og leve for.</p>
+      </div>
+      <pb xml:id="idm140619158509632" n="30" facs="images/002056959_000/002056959_000_0041.jpg"/>
+      <div decls="bibL0020569590000006" n="6" xml:id="L0020569590000006" xml:lang="da-Dk">
+        <head xml:id="idm140619158507792">B.<lb xml:id="idm140619158507536"/>
+               <geogName xml:id="idm140619158507280" type="sender" sameAs="idmd8b3a654-ef2c-4dcc-a0b2-488b0c712762">Kerteminde</geogName>, <date xml:id="idm140619158506896" sameAs="idmee52f2e5-8a0d-4d0d-b8e5-c38496b3b872">4/4 1900</date>
+            </head>
+        <p xml:id="idm140619158506512">Kære Ven!</p>
+        <p xml:id="idm140619158506128">Der var en Gang en dejlig, gammel Ost, og i den boede mange smaa, dejlige Dyr, saa lækre og fede og dumme, saa graa og elskelige, som man kan tænke sig. De ernærede sig skikkeligt af Ostens Safter, naar de ikke netop kunde komme afsted med at æde hverandre; — og de troede allesammen paa et kæmpestort, graat, skikkeligt og fedt Dyr, som de kaldte Vorherre, og som boede ganske alene i en mægtig stor Ost langt borte. I dets Navn krøb de omkring, aad og forplantede sig i een Guddommelighed af Gammelost.</p>
+        <p xml:id="idm140619158504960">Men eet af Dyrene kom engang udenfor Osten; og da det først saa sig derude, gik det paa Æventyr ud i Verden. —</p>
+        <p xml:id="idm140619158504336">Det slumrede en Stund i en Valmues Bæger Side om Side med et lille, florvinget Insekt, og det drømte, at nu havde det vundet Lykken (thi som alle smaa og dumme Dyr troede det paa noget, som hed Lykken).</p>
+        <p xml:id="idm140619158503520">Det vaagnede og fandt Valmuen knækket af Vinden og sig selv liggende midt i Landevejsstøvet, <pb xml:id="idm140619158503056" n="31" facs="images/002056959_000/002056959_000_0042.jpg"/>mens dets letvingede lille Ven svang sig bort højt oppe og ikke saa sig tilbage.</p>
+        <p xml:id="idm140619158501952">Sligt var aldrig hændt hjemme i Gammelosten; — og det lille Dyr blev grumme forbavset og kunde neppe tro det. Men efterat have grundet en Stund, krøb det videre hen ad Vejen; — men nu var det ikke dumt længere og troede ikke mere paa Lykken.</p>
+        <p xml:id="idm140619158501056">Det kravlede frem gennem alskens Støv og Smuds; — af og til nappedes og bedes det lidt med andre Dyr, som det mødte paa sin Vej; — og et Par Gange lod det sig lokke til at sove en Nat hos en af Grøftens Skarnbasser; men naar det vaagnede, væmmedes det og krøb videre. Stundom blev det væltet omkuld eller traadt ned af plumpe Fødder; men det rejste sig atter og fortsatte sin Vej. —</p>
+        <p xml:id="idm140619158499984">Og saa kom det en Dag hjem til den gamle Ostekage…</p>
+        <p xml:id="idm140619158499472">Sort var det blevet af Landevejens Støv, og magert var det blevet af den lange Vej og den uregelmæssige Levemaade borte fra den hjemlige Ost; og klogt og ondt og bittert var det blevet af, hvad det havde sét og følt undervejs. Og de mange skikkelige og graa og dumme og fede smaa Dyr derhjemme undredes saare over, at en af deres var bleven saaledes forvandlet.</p>
+        <p xml:id="idm140619158498400">Naar det fortalte om Landevejens Æventyr, da paakaldte de Vorherre og aad sig en Mavepine til af bare Forskrækkelse; — og talte det om Lykken, som det havde drømt om, og som ikke <pb xml:id="idm140619158497760" n="32" facs="images/002056959_000/002056959_000_0043.jpg"/>var til, saa lo de og sagde, at Lykken var dér i Osten.</p>
+        <p xml:id="idm140619158496704">Og det lille, sorte Dyr gik derhjemme som en fremmed og følte Lede ved Osten og Dumheden og Fedmen og Skikkeligheden omkring sig. Og det gruede ved den Tanke, at det skulde gaa her og blive elskeligt og graat og fedt som de andre. Men efter Landevejen og Støvet og Mylret og Skarnbasserne kunde det ikke længes.— —</p>
+        <p xml:id="idm140619158495664">Og Lykken var jo forlængst fløjet ad Helvede til — nej, det er sandt, den var i Osten. —</p>
+      </div>
+      <pb xml:id="idm140619158494944" n="32" facs="images/002056959_000/002056959_000_0043.jpg"/>
+      <div decls="bibL0020569590000007" n="7" xml:id="L0020569590000007" xml:lang="da-Dk">
+        <head xml:id="idm140619158493104">B<lb xml:id="idm140619158492848"/>
+               <geogName xml:id="idm140619158492592" type="sender" sameAs="idm3ef051bb-4e9a-4a0a-9565-ea125b099cdb">Kerteminde</geogName>, <date xml:id="idm140619158492208" sameAs="idm675de69b-fa72-4d32-9d9e-24399cafa4bc">22/4 1900</date>
+            </head>
+        <p xml:id="idm140619158491824">Kære Ven!</p>
+        <p xml:id="idm140619158491440">Hejsa for et Solskin i disse Dage! Naar Stormen hyler ved St. Hans, og Regnen plasker hen mod Høst, saa kan vi dog sige, at vi har haft Sommer i Aar. Jeg har gaaet ude og drukket Sol, — glemt alle Sorger, følt mig som eet med alt det vaagnende Liv, — Solen og Skyerne og Mulden og Myrerne, — lèt ad en Mariehøne, der krøb op ad min Stok, — og nikket til aile smaa Børn, jeg mødte…</p>
+      </div>
+      <pb xml:id="idm140619158490112" n="33" facs="images/002056959_000/002056959_000_0044.jpg"/>
+      <div decls="bibL0020569590000008" n="8" xml:id="L0020569590000008" xml:lang="da-Dk">
+        <head xml:id="idm140619158488272">C<lb xml:id="idm140619158488016"/>
+               <geogName xml:id="idm140619158487760" type="sender" sameAs="idmab7fe492-781a-4e9f-90b1-e7981e7069be">Grinderslev Kloster pr. Jebjærg</geogName>, <date xml:id="idm140619158487376" sameAs="idm3384109d-8e12-4432-a39b-686d26777fe1">8/6 1900</date>
+            </head>
+        <p xml:id="idm140619158486992">Kære Frk. ***</p>
+        <p xml:id="idm140619158486608">Hele Verden veed, at Henrik Gerhard en Nat rejste ud „for at tjene sig op gennem de meniges Rækker“. Derimod veed næppe hele Verden endnu, at Johannes Meier har gjort det samme.</p>
+        <p xml:id="idm140619158485840">Jeg er sluppen lykkelig væk fra hele Sippschaftet, fra alt, som kender mig, og har indtil videre slaaet mig ned som Pædagog paa denne afsides Gaard, i en tilsyneladende ret skikkelig Familie, der ikke interesserer mig og ikke interesserer sig for mig, ud over hvad vor Stilling til hinanden medfører. Det er mig ogsaa kærest. Og mindst af alt vilde jeg gaa her og „gøre mig“ som bel-esprit og Ritter von dem heilgen Geist. Nej, — naar jeg blot maa faa Lov til at være i Fred — leve, arbejde og udvikles i Stilhed og Ensomhed. —</p>
+      </div>
+      <pb xml:id="idm140619158484656" n="33" facs="images/002056959_000/002056959_000_0044.jpg"/>
+      <div decls="bibL0020569590000009" n="9" xml:id="L0020569590000009" xml:lang="da-Dk">
+        <head xml:id="idm140619158482816">B<lb xml:id="idm140619158482560"/>
+               <geogName xml:id="idm140619158482304" type="sender" sameAs="idm62f502a5-b77d-43ee-8baf-92c28dc670e6">Grinderslev Kloster</geogName>, <date xml:id="idm140619158481920" sameAs="idm20492c4c-cdbf-4e84-93c4-382e0e867875">26/6 1900</date>
+            </head>
+        <p xml:id="idm140619158481536">Jeg oplever intet, kan derfor intet fortælle dig Jeg øver mig i stoisk Resignation ved at ryge „Het Wapen van Glyngøre“ og underviser i Religion med uforlignelig Stupiditet.— — — Tænk paa mig, hver Gang du har en Dimmelim.</p>
+        <p xml:id="idm140619158480656">Din hengivne<lb xml:id="idm140619158480400"/>
+               <persName xml:id="idm140619158480144" type="sender" key="Meier, Johannes" sameAs="#personidm140619158480144">Johannes Meier</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158479264" n="34" facs="images/002056959_000/002056959_000_0045.jpg"/>
+      <div decls="bibL0020569590000010" n="10" xml:id="L0020569590000010" xml:lang="da-Dk">
+        <head xml:id="idm140619158477424">C<lb xml:id="idm140619158477168"/>
+               <geogName xml:id="idm140619158476912" type="sender" sameAs="idmcfef5766-15cb-4e02-ae00-9531adb3701c">Grinderslev Kloster</geogName>, <date xml:id="idm140619158476528" sameAs="idm79afb3d4-7dcd-4feb-9548-dffc01c93039">6/7 1900</date>
+            </head>
+        <p xml:id="idm140619158476144">Kære Frk. ***</p>
+        <p xml:id="idm140619158475760">Hvorledes skal jeg takke Dem for den Venlighed, De har vist mig ved at sende mig alle de dejlige Blomster! De ligger i Æsken endnu, thi som alle Valmuer er de noget skørhovedede og kan ikke tages op uden at fælde Kronbladene, og det vilde være Synd. Men saa snart jeg lukker Laaget op, har jeg al den Øjenslyst, jeg kan ønske mig.</p>
+      </div>
+      <pb xml:id="idm140619158474560" n="34" facs="images/002056959_000/002056959_000_0045.jpg"/>
+      <div decls="bibL0020569590000011" n="11" xml:id="L0020569590000011" xml:lang="da-Dk">
+        <head xml:id="idm140619158472720">C<lb xml:id="idm140619158472464"/>
+               <geogName xml:id="idm140619158472208" type="sender" sameAs="idmf596ac21-241c-4555-a20a-f12638556808">Grinderslev Kloster</geogName>, <date xml:id="idm140619158471824" sameAs="idm6f2d4458-407c-418e-80e6-59fa2c567463">2/8 1900</date>
+            </head>
+        <p xml:id="idm140619158471440">Kære Frøken!</p>
+        <p xml:id="idm140619158471056">Hvad Valmuedrengens alter ego angaar, saa har han tilbragt tre kedelige Uger i Kerteminde, og haft en dejlig Tur til Lemvig og Vesterhavet, — befinder sig nu som Blommen i etÆg her paa Klostret. Sommetider frygter jeg, at han har det altfor godt. Han kan være lige ved at glemme, at der er en Verden udenfor Havediget, — endog, at der er en Frk. ***, hvem han skylder Brev. Bøger og Aviser ser han aldrig; det sidste nyt, han veed, er, at „Vagten“ er gaaet ind, og at Missionærerne i Kina har reddet sig. Begge Dele begræder han oprigtigt</p>
+        <p xml:id="idm140619158469776">Deres hengivne<lb xml:id="idm140619158469520"/>
+               <persName xml:id="idm140619158469264" type="sender" key="Meier, Johannes" sameAs="#personidm140619158469264">Johannes Meier</persName>.</p>
+      </div>
+      <pb xml:id="idm140619158468384" n="35" facs="images/002056959_000/002056959_000_0046.jpg"/>
+      <div decls="bibL0020569590000012" n="12" xml:id="L0020569590000012" xml:lang="da-Dk">
+        <head xml:id="idm140619158466544">D<lb xml:id="idm140619158466288"/>
+               <geogName xml:id="idm140619158466032" type="sender" sameAs="idm8a1824e8-6717-4471-899d-b65f1ae19803">Grinderslev Kloster</geogName>, <date xml:id="idm140619158465648" sameAs="idm478c7cff-9e93-432f-96f3-f35bcf05327d">3/9 1900</date>
+            </head>
+        <p xml:id="idm140619158465264">Jeg fik dit sidste Brev ved Begyndelsen af min Sommerferie; og nu er Sommeren ledet, Blæsten rusker i Klosterhavens gamle Lindetræer og fortæller, at Efteraaret begynder. Og med Efteraaret begynder Hjemveen… efter København — efter Gaderne og Stræderne og Brostenene og Caféerne og Sporvognene og Menneskesværmen og Kulrøgen og Aviserne og Samfundet og jer allesammen.</p>
+        <p xml:id="idm140619158464096">Nu sidder du, omgiven af værdifulde Værker i prægtige Bind og med et Glas god Vin ved Siden, ved dit kunstnerisk overfyldte Skrivebord og nedkradser sære Tegninger, fulde af Fantasi og Lune. Og N. N. vanker rundt i Gaderne, en romantisk Ridder med flagrende Kappe og gyseligt medtagen Bulehat, med Stumpnæsen kækt i Vejret og Hjernen fuld af geniale Planer og Hjertet glødende for en eller anden Dame. Og der er mange, mange flere… Og derinde gik jeg selv sidste Vinter — trykket af Kærestesorger, Pengesorger, Helbredssorger — det er sandt — men alligevel — — —</p>
+        <p xml:id="idm140619158463040">Nu driver jeg rundt i Klosterhaven og sanker Æbler og yndelige Pærer, hvormed jeg ødelægger en fjortenaarig Skønjomfrus Mave og skaffer mig selv et Smil fra hendes guddommelige Læber, — dem jeg om Formiddagen øver i at udtale engelske og franske Ord. Eller jeg sidder <pb xml:id="idm140619158462208" n="36" facs="images/002056959_000/002056959_000_0047.jpg"/>i Ro paa mit Værelse og skriver paa min Roman, det Satans Skidt!</p>
+      </div>
+      <pb xml:id="idm140619158461008" n="36" facs="images/002056959_000/002056959_000_0047.jpg"/>
+      <div decls="bibL0020569590000013" n="13" xml:id="L0020569590000013" xml:lang="da-Dk">
+        <head xml:id="idm140619158459168">A<lb xml:id="idm140619158458912"/>
+               <geogName xml:id="idm140619158458656" type="sender" sameAs="idmde549418-17bc-43c6-984d-555b1fb73bf4">Grinderslev Kloster</geogName>, <date xml:id="idm140619158458272" sameAs="idm6901a75f-6b9e-4d57-b412-345fc146f586">5/9 1900</date>
+            </head>
+        <p xml:id="idm140619158457888">Ligegyldighed ved det hele — man kan ogsaa kalde det skeptisk Filosofi. Til den er jeg bleven noget forfalden. Min Tanke er et Spindelvæv, hvori alle mulige anerkendte Begreber hænger som døde Insekter. Lykke og Ulykke, — godt og ondt, — stort og smaat, — Sandhed og Løgn, — Tro og Vantro, — hvad Forskel er der i Grunden paa disse Fluekadavere?</p>
+        <p xml:id="idm140619158456832">Tilbage bliver Fredløshedsfølelsen. Det var den, der sprængte salig Nietzsches Hjerne, — og mange andre Hjerner… Det er ikke godt for Mennesket at være ene, siger den Herre Zebaoth. Ganske vist siger du, til hvem jeg i Grunden har nok saa megen Tillid, at Mennesket er mægtigt naar det er ene; men det er heller ikke alle Mennesker, der er som du.</p>
+      </div>
+      <pb xml:id="idm140619158455664" n="36" facs="images/002056959_000/002056959_000_0047.jpg"/>
+      <div decls="bibL0020569590000014" n="14" xml:id="L0020569590000014" xml:lang="da-Dk">
+        <head xml:id="idm140619158453824">C<lb xml:id="idm140619158453568"/>
+               <geogName xml:id="idm140619158453312" type="sender" sameAs="idm6ee716c2-bfe5-4a02-bfae-a1702ec86c68">Grinderslev Kloster</geogName>, <date xml:id="idm140619158452928" sameAs="idm34af3f8b-7825-4eb3-82f4-01bee5cd742b">24/9 1900</date>
+            </head>
+        <p xml:id="idm140619158452544">Kære Frk. ***</p>
+        <p xml:id="idm140619158452160">Det krabadser mig i høj Grad, at De har et saa alvorligt og indremissionært Indtryk af mit <pb xml:id="idm140619158451696" n="37" facs="images/002056959_000/002056959_000_0048.jpg"/>Udseende og Væsen. Vore hyggelige Klikeaftner i Samfundet sidste Vinter har altid staaet for mig som nogle af mine lysere Øjeblikke; og naar jeg nu faar at vide, at jeg paa dem har spillet Stengæstens Rolle, saa maa jeg ræddes og spørge, hvordan jeg vel ellers er! Jeg bliver nok nødt til at indskrænke mig til udelukkende skriftligt Samkvem med Omverdenen.</p>
+      </div>
+      <pb xml:id="idm140619158450000" n="37" facs="images/002056959_000/002056959_000_0048.jpg"/>
+      <div decls="bibL0020569590000015" n="15" xml:id="L0020569590000015" xml:lang="da-Dk">
+        <head xml:id="idm140619158448160">B<lb xml:id="idm140619158447904"/>
+               <geogName xml:id="idm140619158447648" type="sender" sameAs="idm45828a60-99fd-4ecd-943d-1fdd34e97971">Søgaard pr. Humble</geogName>, <date xml:id="idm140619158447264" sameAs="idm173c6a5e-c269-4853-946a-30de29739c39">5/11 1900</date>
+            </head>
+        <p xml:id="idm140619158446880">Kære Ven!</p>
+        <p xml:id="idm140619158446496">Klosteræventyret sluttet; — og Finalen, som Toghjulene under den lange Rejse hertil bankede og dundrede ind i Øret paa mig, var denne Bjørnsonske Strofe:</p>
+        <p xml:id="idm140619158445776">Kør langsomt; thi saadan kørte Ejnar<lb xml:id="idm140619158445520"/>
+altid — og vi kommer tidsnok hjem…</p>
+        <p xml:id="idm140619158445136">Selv bortset fra, at de første Dage paa et nyt Sted altid for mig, Gud veed hvorfor, er ledsagede af Kuldegysninger, Melankoli — og Maveuorden, var Afskeden fra mit Sommeropholdssted mig en virkelig Smerte. Jeg var kommen til at føle mig saa vidt hjemme, som et Menneske af min Natur overhovedet kan komme til det nogensteds. — — — Jeg bor nu her ved Langelands Sydspids i en meget ejendommelig Natur, i et Terrain, der bestaar af lutter smaa Høje i <pb xml:id="idm140619158444208" n="38" facs="images/002056959_000/002056959_000_0049.jpg"/>Buddingeform, med Hav paa tre Sider og med klart Vejr Udsigt til Lollands Vestkyst mod Øst, Ærø, Femern og Kielerfjords Munding mod Vest. — — — — — Ti Minutters Gang herfra ligger Bagenkop Fiskerleje med en Gæstgivergaard, hvis Bekendtskab jeg gjorde i Gaar; det mærkeligste ved den var en Cognac eller Likør med den stolte Etikette „Fuldkommen Kærlighed“(!) samt en Spilledaase, der gav „Svensk Maskerade“, naar man forlangte „Gustav d. IIIs March“, og „Ben Bolt“, naar man vilde have „Dreyfus Børns Klagesang“. Det var der dog nogen Stil i.</p>
+      </div>
+      <pb xml:id="idm140619158442368" n="38" facs="images/002056959_000/002056959_000_0049.jpg"/>
+      <div decls="bibL0020569590000016" n="16" xml:id="L0020569590000016" xml:lang="da-Dk">
+        <head xml:id="idm140619158440528">A<lb xml:id="idm140619158440272"/>
+               <geogName xml:id="idm140619158440016" type="sender" sameAs="idm408b1744-3068-4b97-87f3-d4e850387832">Søgaard pr. Humble,<lb xml:id="idm140619158439696"/>
+Langeland</geogName>, <date xml:id="idm140619158439312" sameAs="idme3cd903b-d105-46d4-bd4d-415618e02dd4">18/11 1900</date>
+            </head>
+        <p xml:id="idm140619158438928">Jeg er ikke beskeden nok til at antage, at du brænder mine Breve. I dem har du jo efterhaanden faaet adskillige af mine bedste Frembringelser; nogle har du jo ogsaa i ”Vagten“. Gør mig den Tjeneste at læse dem igennem og sige mig uforbeholdent, om Du paa et eneste Sted i dem kan finde noget selvset eller selvtænkt,— noget originalt, d.v.s. noget, der ikke er sagt lige saa godt før. Hvis ikke — saa har det vist lange Udsigter inden jeg med nogen Selvtillid kan optræde som Digter. Thi helt forsværge <pb xml:id="idm140619158437952" n="39" facs="images/002056959_000/002056959_000_0050.jpg"/>Tanken derom kan jeg neppe. Jeg tror quand même, at jeg har Talent, og at jeg, ”naar Tidens Fylde kjommer,“ vil kunne gøre dette Talent frugtbringende.</p>
+        <p xml:id="idm140619158436688">Jeg tumler netop med Planerne til en ny Roman, hvortil mine sallingske Erindringer skulde danne Baggrunden, og hvori jeg vilde give Kærligheden og Kvindekønnet Oprejsning for de værste af de Grovheder, hvormed ”Valmuedrengen“ skal traktere dem. Gennem begge Bøger kunde jeg have Lyst til at gøre en Gerning, som jeg tror der trænges til herhjemme: at rive nogle af de Ranker bort, hvormed den traditionelle Opfattelse har smykket Murene om ”det nordiske Hjem,“ og vise dette frem i sin stygge Nøgenhed. Misforstaa mig ikke! jeg agter ikke at sige noget saa forslidt, som at der gives slette Hjem. Nej, jeg vilde hævde, at ”Hjemmet“ som Institution, det gode saa vel som det slette, i sig selv er en Ulykke, en Fordærvelse — at det er Fjenden, der ”gør Mændene til Kvinder og Kvinderne til Rovdyr eller Trældyr,“ — ”Pestgruben, hvor Autoritetens Kadaver ligger fredlyst og forgifter Luften i hele Landet,“ — og at det maa blive Fremtidens Opgave ”at stikke Ild i Tagene paa de tusind Hjem.“</p>
+      </div>
+      <pb xml:id="idm140619158433824" n="40" facs="images/002056959_000/002056959_000_0051.jpg"/>
+      <div decls="bibL0020569590000017" n="17" xml:id="L0020569590000017" xml:lang="da-Dk">
+        <head xml:id="idm140619158431984">C<lb xml:id="idm140619158431728"/>
+               <geogName xml:id="idm140619158431472" type="sender" sameAs="idmcfd6608a-1777-44e1-ad12-d1228e03f220">Søgaard pr. Humble</geogName>, <date xml:id="idm140619158431088" sameAs="idmf9047745-2a80-40c0-a213-f9c79a0ac1b6">19/11 1900</date>
+            </head>
+        <p xml:id="idm140619158430704">Kære Frk. ***</p>
+        <p xml:id="idm140619158430320">— — — — Jeg er altsaa havnet her og spiser som sædvanlig tre Gange om Dagen. Jeg har een Elev, hvem jeg oplærer i Tugt og Herrens Formaning, dog navnlig i det sidste, thi Tugten har hans Forældre energisk frabedt sig… det er ikke umuligt, at jeg med Tiden vil kunne komme til at more mig ganske godt her, da der er megen Ungdom paa Egnen og megen Selskabelighed, og i Mangel af bedre kan man jo nok faa Tiden til at gaa med det…</p>
+        <p xml:id="idm140619158429040">Paa det Samvittighedsspørgsmaal, som De stiller til mig i Slutningen af Deres Brev, maa jeg svare, at jeg trods Deres Misbilligelse ikke har synderlig Tro paa Kærligheden og dens lykkebringende Ævne. Jeg vil naturligvis ikke benægte, at der muligt gives enkelte Mennesker, som har vundet Kærlighedslykken, — lige saa lidt som at der gives en Kejser af Rusland; men jeg tror, at Bybud Mortensen og Student Hjalmar Brande kunde undgaa adskillige bitre Skuffelser ved at opgive ethvert Krav paa den russiske Kejsertrone. Jeg mener ingenlunde, at Folk skal være Asketer; de skal blot ingen Illusioner danne sig om Følelsens og den medfølgende Lykkes Evighed. Deri er De jo, som det lader, ikke enig med mig…</p>
+      </div>
+      <pb xml:id="idm140619158427040" n="41" facs="images/002056959_000/002056959_000_0052.jpg"/>
+      <div decls="bibL0020569590000018" n="18" xml:id="L0020569590000018" xml:lang="da-Dk">
+        <head xml:id="idm140619158425200">A<lb xml:id="idm140619158424944"/>
+               <geogName xml:id="idm140619158424688" type="sender" sameAs="idmae896ead-8350-48b4-b33b-606aca9b9d57">Søgaard</geogName>, <date xml:id="idm140619158424304" sameAs="idm4a58c17f-d4ac-410f-8d98-107b808890f4">5/12 1900</date>
+            </head>
+        <p xml:id="idm140619158423920">Mit Maal er for saa vidt det bestaaende Samfunds Undergang, som jeg vilde foretrække denne Undergang, selv uden efterfølgende Fornyelse — altsaa ”Torpedoen under Arken“ — for Samfundets Bestaaen. Men skønt jeg ikke har megen Tro til en lykkelig Fremtid for Menneskeslægten, mener jeg dog, at der vilde være rige Betingelser for en saadan i et Samfund, hvor Privatejendom var afskaffet, almindelig Lighed indført, Kirken, Ægteskabet og Familielivet ophævede — altsaa i Hovedsagen en socialistisk Republik.</p>
+        <p xml:id="idm140619158422752">Mod dette Maal har alle fremskredne Aander siden den franske Revolution arbejdet hen mere eller mindre bevidst. Kongedømmet og Kapitalismen, Kirken og Ægteskabet har været Genstand for uafladelige og vægtige Angreb. Og dog staar det altsammen endnu, pilraaddent som det er, og staaende vil det blive, lige saa længe man lader ”Hjemmet“, Grundvolden for det hele, uantastet. Saa længe vi ikke har røget Autoritetsspøgelset ud af dette fredhellige Ly, vil det blive ved at drive sit Spil rundt om i alle Samfundets Dele. Naar først ”Krigen mod de tusind Hjem“ er erklæret, saa vil vi allerede være et Stykke fremme mod det store, nødvendige Krach.</p>
+        <p xml:id="idm140619158421520">Alt, hvad der hedder ”Hjem“ og ”Familie“, vil jeg til Livs i enhver Form. ”Ræve have <pb xml:id="idm140619158421056" n="42" facs="images/002056959_000/002056959_000_0053.jpg"/>Huler og Himlens Fugle Reder“, men Himlens Fugle sparker før eller senere deres Yngel ud af Rederne. Det er det, jeg vil have.</p>
+      </div>
+      <pb xml:id="idm140619158419728" n="42" facs="images/002056959_000/002056959_000_0053.jpg"/>
+      <div decls="bibL0020569590000019" n="19" xml:id="L0020569590000019" xml:lang="da-Dk">
+        <head xml:id="idm140619158417888">C<lb xml:id="idm140619158417632"/>
+               <geogName xml:id="idm140619158417376" type="sender" sameAs="idmb09901d4-5545-4607-bf8e-aa61f6f7edc9">Søgaard</geogName>, <date xml:id="idm140619158416992" sameAs="idmfe529072-50a3-4836-ac75-54ecb0c7bfab">14/12 1900</date>
+            </head>
+        <p xml:id="idm140619160348784">Kære Frk. ***</p>
+        <p xml:id="idm140619160348400">— — — Hvad ”Kvindehad“ angaar, saa er det selvfølgelig meningsløst at hade Kvinder saavel som Mænd, Bakterier eller Tændstikker; den Kvinde, der forraader mig, og den Bi, der stikker mig, er lige uansvarlige.</p>
+        <p xml:id="idm140619160347776">Imidlertid — for godt et Aar siden havde jeg lært visse Strofer af Byrons ”Don Juan“ udenad, læste med Forkærlighed Strindberg og havde lavet mig det yndige Paradoks, at Kvinden ikke tager Kærligheden alvorligt.</p>
+        <p xml:id="idm140619160346928">Det var naturligvis — som enhver anden kategorisk Sætning — noget Sludder; er der nogen Sandhed deri, saa gælder den i hvert Fald kun de rene Backfische; de morer sig ganske vist ofte med at lege med den Ild, der kan brænde den anden Part i Sagen fordærvet.</p>
+        <p xml:id="idm140619160346000">Mere Sandhed turde der være i den anden ret almindelige Beskyldning mod Damerne, at det er nogle højst besynderlige Egenskaber, der <pb xml:id="idm140619160345456" n="43" facs="images/002056959_000/002056959_000_0054.jpg"/>tiltrækker dem mest hos Mænd. Men om de to Køn paa dette Punkt har noget at lade hinanden høre, er vel ret tvivlsomt. Hvor mange Mænd har Øje for det muligt værdifulde hos en styg Pige? Spørger De mig om det, saa slaar jeg Øjnene ned og tier.</p>
+        <p xml:id="idm140619160344080">I det hele synes jeg, man hurtigt kommer ud over disse gensidige Beskyldninger af Kønnene mod hinanden paa det erotiske Omraade. Lad os hellere rentud erkende, at i Kærlighed er vi allesammen Daarer.</p>
+        <p xml:id="idm140619160343280">Men i en anden Egenskab hader jeg rigtignok Kvinden oprigtigt, — eller rettere sagt, anser hendes Virksomhed for i høj Grad fordærvelig. Det er som Familiemoder. I det moderne Samfund, i hvert Fald i de nordiske Lande, er det jo faktisk Mødrene, der regerer. Dem er det, som holder alle Tidens tandløse Gespenster — Kongedømmet, Kirken, Spidsborgermoralen — under Armene. Deres Skyld er det, naar vi Mænd fra Ungdommen af er saa ynkelige Pjalte, — og naar saa mange smukke og livlige Pigebørn bliver til hjærteløse Dukker, mens de stygge og blide er fordømte til at blive forkuede Trældyr. Derfor — skal nogensinde en Fremtid se ”jene schöne Dinge“ virkeliggjorte, for hvilke ”die edlen, schönen, guten auf dieser Erde schwärmen, leiden, bluten“ — saa maa der først ikke være Sten paa Sten tilbage af ”det nordiske Hjem.“</p>
+        <p xml:id="idm140619160341024">Puh, nu har vi drøftet Verdensproblemerne. <pb xml:id="idm140619160340656" n="44" facs="images/002056959_000/002056959_000_0055.jpg"/>Skal vi saa dale ned igen til den flakke jord, — Langelands sølede Veje Og Københavns ikke mindre klissede Stenbro? — — — —</p>
+      </div>
+      <pb xml:id="idm140619160339312" n="44" facs="images/002056959_000/002056959_000_0055.jpg"/>
+      <div decls="bibL0020569590000020" n="20" xml:id="L0020569590000020" xml:lang="da-Dk">
+        <head xml:id="idm140619160337408">A<lb xml:id="idm140619160337152"/>
+               <geogName xml:id="idm140619160336896" type="sender" sameAs="idm8db81e4f-e436-46c9-902c-5ab02b22e43c">Søgaard</geogName>, <date xml:id="idm140619160336512" sameAs="idmb6872d7c-096d-4ca1-9f24-031e40dc4b8a">17/12 1900</date>
+            </head>
+        <p xml:id="idm140619160336128">Det forbavsede og glædede mig at finde Dig lige saa overbevist om Nødvendigheden af Samfundets Omdannelse til socialistisk Stat, som jeg selv er. Derimod stiller Du Dig skeptisk overfor mine Idéer om Familielivets fuldstændige Ophævelse og Børnenes Fællesopdragelse. Du kalder dem stridende mod de menneskelige Følelser. Men (husk paa, at Følelserne ikke er haandgribelige og konstante Størrelser, men at de som alt andet i Verden er Forvandlingens Love undergivne. Hvor meget i dit og mit Følelsesliv er ikke ændret, siden dengang vi var naive og fromme; og lignende Forvandlinger maa kunne foregaa og er bevisligt flere Gange foregaaede i hele Slægtens Følelsesliv. Udviklingen retter sig efter Følelserne eller maa dog tage Hensyn til dem, men Følelserne retter og forandrer sig Pinedød ogsaa efter Udviklingen. Hvad Ensomheden angaar, saa vidste allerede J. P. Jacobsen, at ”en Sjæl altid er ene;“ og nu ved Aarhundredets Udgang veed alle vi udviklede <pb xml:id="idm140619160333968" n="45" facs="images/002056959_000/002056959_000_0056.jpg"/>Mennesker det samme, føler os allesammen som ensomme og rodløse Eksistenser. Denne Bevidsthed kan være pinlig, saa længe vi ser de andre ”dampe hinanden af“ i stupid Tilfredshed; men jo flere Ensomhedens Skæbne rammer, des mindre Smerte vil den volde hver enkelt, og jeg kan meget godt tænke mig et Fremtidssamfund, bestaaende af lutter selvstændige Individer. Men hverken Du eller jeg kommer til at opleve det.</p>
+        <p xml:id="idm140619160332384">Det er fint og rigtigt Set af Dig, at det er ”Moderen“, der staar for mig som Hjemmets fordærvelige Aand…</p>
+      </div>
+      <pb xml:id="idm140619160331632" n="45" facs="images/002056959_000/002056959_000_0056.jpg"/>
+      <div decls="bibL0020569590000021" n="21" xml:id="L0020569590000021" xml:lang="da-Dk">
+        <head xml:id="idm140619160329792">B<lb xml:id="idm140619160329536"/>
+               <geogName xml:id="idm140619160329280" type="sender" sameAs="idmd09d4451-4ae0-4f14-b438-23f875daedd3">Søgaard</geogName>, <date xml:id="idm140619160328896" sameAs="idm5982b47d-af12-4067-aa50-a5f6919a4c90">14/1 1901</date>
+            </head>
+        <p xml:id="idm140619160328512">Kære Ven!</p>
+        <p xml:id="idm140619160328128">Om mit Brev skulde være noget tyndt, saa skyldes det den Omstændighed, at jeg har været til Bal i Nat, — hvilket for saa vidt var en Dumhed, som jeg ingenlunde kan danse, og det ellers er mit Princip kun at indlade mig paa Situationer, som jeg kan beherske. Imidlertid brugte jeg mine Ben med Dødsforagt i 6 Timer, men er dog glad ved, at jeg ikke skal tjene mit Brød eller vinde min Ære som Balkavalér. — I øvrigt spiller Kødets Lyst, Øjnenes Lyst og Livets Hoffærdighed en betydelig Rolle i min Tilværelse her paa Langeland. —</p>
+        <p xml:id="idm140619160327088"><pb xml:id="idm140619160326960" n="46" facs="images/002056959_000/002056959_000_0057.jpg"/>Det var Skade, at vi ikke kom sammen i Julen. Jeg kunde virkelig ikke gøre for det, og jeg led mest under det, da jeg i hele Ferien gik ensom og kedede mig ganske vederstyggeligt. Jeg maatte for at faa Ende paa Tiden gribe til saa yderlige Midler som at læse en halv Aargang af ”Frem“, gøre Bekendtskab med nogle tilrejsende Variétégøglere, ja, endog begynde paa et stort anlagt Juledigt, der dog gik samme Vej som mine andre Projekter. Overhovedet har jeg i det sidste halve Aar slet intet produceret. Jeg er ikke synderlig foruroliget over denne Ufrugtbarhed, som nok skal ophøre, naar Tidens Fylde kommer. Himlen bevare mig for at debutere med noget umodent Fuskeri! Sæden gror jo ogsaa om Vinteren; og jeg føler Evnerne gro i mig Dag til Dag. ”Valmuedrengen“, eller hvad den nu kommer til at hedde, skal Fanhakmig blive en god Bog, og bedre endnu bliver Fortsættelsen: ”Søstrene paa Salvig “ …</p>
+        <p xml:id="idm140619160324032">Hermed Farvel for denne Gang. Det ny Aarhundredes Gud, Satan, holde sin Aand og Kraft frisk i Dig!</p>
+        <p xml:id="idm140619160323536">Hjærtelig Hilsen.<lb xml:id="idm140619160323280"/>
+Din hengivne<lb xml:id="idm140619160323024"/>
+               <persName xml:id="idm140619160322768" type="sender" key="Meier, Johannes" sameAs="#personidm140619160322768">Johannes Meier</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160321888" n="47" facs="images/002056959_000/002056959_000_0058.jpg"/>
+      <div decls="bibL0020569590000022" n="22" xml:id="L0020569590000022" xml:lang="da-Dk">
+        <head xml:id="idm140619160319984">A<lb xml:id="idm140619160319728"/>
+               <geogName xml:id="idm140619160319472" type="sender" sameAs="idm883bf07d-8726-40b7-994d-8acaf8cbf07f">Søgaard</geogName>, <date xml:id="idm140619160319088" sameAs="idmbe7e5eac-aafb-4125-a41e-ae45ac6397a6">14/12 190</date>
+            </head>
+        <p xml:id="idm140619160318704">Kære Ven!</p>
+        <p xml:id="idm140619160318320">Straalende Solskin over islagte Veje og snesmykte Marker — Fanden med Marker og Veje! Jeg sidder her paa min uselig Kvist og fanger Lyset fra den skraa Rude med en Glasklods; og jeg danner Regnbuer og sætter dem paa mine støvgraa Vægge, hvor jeg vil, og jeg leger, at jeg er Vorherre, og bander paa, at saa længe denne Næse sidder mellem mine Øjne, vil Kærlighed og Lede, Drik og Tømmermænd ikke aflade. Og jeg leger med de brogede Solpletter, lader dem glide hen ad Væggene og standse hist og her, holder een fast som et Ordensbaand ved Georg Brandes’ Navn paa Reolen, kaster een ind midt i Danmarkskortet og drømmer, at den stikker Ild i det store, pjankede og ligeglade København og i det store, søvnige og forkristnede Jylland, lader den tindre haanende for Biskop Leunbach i Nykøbing og hilse den forfulgte Præst i Harboøre — …</p>
+      </div>
+      <pb xml:id="idm140619160315968" n="47" facs="images/002056959_000/002056959_000_0058.jpg"/>
+      <div decls="bibL0020569590000023" n="23" xml:id="L0020569590000023" xml:lang="da-Dk">
+        <head xml:id="idm140619160314128">A<lb xml:id="idm140619160313872"/>
+               <geogName xml:id="idm140619160313616" type="sender" sameAs="idme0e7051c-af6e-4bea-8ff6-66aad99ec892">Kerteminde</geogName>, <date xml:id="idm140619160313232" sameAs="idm82314713-9a43-473c-9b84-b3dcde860bb5">16/6 1901</date>
+            </head>
+        <p xml:id="idm140619160312848">At den Tort skulde overgaa Dig, Thøger Larsen, i den Ungdom taabeligen kaldet Underbjerg og Forfatter til en yderligt slet Digtsamling <pb xml:id="idm140619160312304" n="48" facs="images/002056959_000/002056959_000_0059.jpg"/>”Vilde Roser“, — at et formentligt sammesteds offentliggjort Digt, ”Skærsommersangen“ skulde blive læst, stjaalet og optrykt af Vilhelm Beck, saaledes som sket er, i det sidste Nummer af hans ”Ill. Familieblad“, — det har rystet mig med en Voldsomhed, der endog har været i Stand til at bryde den Gravstilhed, hvori jeg havde tænkt foreløbigt at nedsænke mig, — og bevæge mig til at sendeDig en Hilsen fra Havsens Bund, i den ellevte Nat efter min Død.</p>
+        <p xml:id="idm140619160310400">Her er jeg, og kan ligesom Luther Gudhjælpemig ikke andet.</p>
+        <p xml:id="idm140619160309888">Efter at have tilbragt en Maaneds Tid i København, snart svirende flere Døgn i Træk, snart flakkende Gade op og Stræde ned i Dagevis uden at smage Mad — har jeg modtaget en midlertidig Stilling som Lærer ved Kommuneskolen i denne By, — … jeg … havde Valget mellem denne Tilværelse og en snart og ubønhørligt indtrædende Ophøren af al Tilværelse. Og det sidste Alternativ var det mig magtpaaliggende endnu nogen Tid at opsætte — det er rimeligvis dumt — men hvad siger ikke Musset:</p>
+        <p xml:id="idm140619160308800">— — — une cervelle<lb xml:id="idm140619160308544"/>
+a peur d’un pistolet qui s’applique sur elle.</p>
+        <p xml:id="idm140619160308048">Nu, hvorfor skulde jeg være gnaven? Jeg lever i den fuldkomneste Fred og Ro, — har 6 —7 Timer om Dagen optagne, — tjener Penge og bruger ingen, — og har oven i Købet opdaget, at jeg er saa heldig at være Genstand for de <pb xml:id="idm140619160307312" n="49" facs="images/002056959_000/002056959_000_0060.jpg"/>Børns Hengivenhed, der er betroede til min Opdragelse. Det mørkeste Punkt er Morgenbønnen. Naar jeg i 38 snotnæsede og velvillige Ungers andægtige Paahør klemmer paa med: Fadervor, Du som er i Himlen — har jeg en Fornemmelse af, at Satanas, som er i Helvede, holder sig paa Maven af Grin over sin gamle Apostel.</p>
+      </div>
+      <pb xml:id="idm140619160305632" n="49" facs="images/002056959_000/002056959_000_0060.jpg"/>
+      <div decls="bibL0020569590000024" n="24" xml:id="L0020569590000024" xml:lang="da-Dk">
+        <head xml:id="idm140619160303792">D<lb xml:id="idm140619160303536"/>
+               <geogName xml:id="idm140619160303280" type="sender" sameAs="idm5f023f0a-94dd-4664-94bb-1870a7e1aaf7">Kerteminde</geogName>, <date xml:id="idm140619160302896" sameAs="idmb487dbcf-895e-496d-a30f-920e54bf7798">22/12 1901</date>
+            </head>
+        <p xml:id="idm140619160302512">Kære Ven!</p>
+        <p xml:id="idm140619160302128">Siden vi sidst bragte vore kære Jeg’er perlende Vinofre paa Bernina eller hvor det nu var, er jeg gaaet i Hundene eller, for at bruge et mere dannet Udtryk, ad H … til; men det skal ikke skille os ad. Jeg haaber, du fører et fornøjeligt og indholdsrigt Liv… Selv er jeg foreløbig ganske umulig.</p>
+      </div>
+      <pb xml:id="idm140619160300992" n="49" facs="images/002056959_000/002056959_000_0060.jpg"/>
+      <div decls="bibL0020569590000025" n="25" xml:id="L0020569590000025" xml:lang="da-Dk">
+        <head xml:id="idm140619160299152">B<lb xml:id="idm140619160298896"/>
+               <geogName xml:id="idm140619160298640" type="sender" sameAs="idmad9be698-6cf7-4a26-a820-771f3fd40c10">Kerteminde</geogName>, <date xml:id="idm140619160298256" sameAs="idmed7cd115-a857-449b-9284-4380160949f0">23/12 1901</date>
+            </head>
+        <p xml:id="idm140619160297872">Kære Ven!</p>
+        <p xml:id="idm140619160297488">Det undrer dig vel at høre en Røst fra Dødsriget, det skal ikke heller ske mere end denne ene Gang, da baade den almindelige Glædes- og Familiefest <pb xml:id="idm140619160296912" n="50" facs="images/002056959_000/002056959_000_0061.jpg"/>og din private Fødselsdag bringer mig dig i Erindring.</p>
+        <p xml:id="idm140619160295856">jeg er tabt for Kulturen og Menneskeheden, i heldigste Tilfælde for et Tidsrum af 2 Aar, i sletteste for bestandig. Jeg tænkte mig fra først af disse Aar som en Dvale at gaa ind til, et Nirvana efter moderne Opfattelse d.v.s.: Frihed for Penge- og Kærestesorger; i begge Henseender er jeg imidlertid bleven paa det kraftigste skuffet, saa der er ikke engang Fred i min Ørken. jeg er begyndt at læse Aftenbøn, den er af den bekendte Kirkefader Karl Gustav og lyder saaledes: ”Fanden har taget alle Gederne, nu maa han gerne hente Bukken.“ Og hermed nok om mig.</p>
+        <p xml:id="idm140619160294736">jeg hører, at du driver Forretningen i samme Aand som før og holder Humøret, baade naar du har, hvad jeg kalder Betingelsen for et menneskeværdigt Liv: Solskin og 2 Kr. i Lommen, og naar du, hvad vel oftest er Tilfældet, maa undvære begge Dele…</p>
+        <p xml:id="idm140619160293824">Naa, hvad skal jeg saa ønske dig? En god, hedensk Jul, megen Vin, mange Kys, et lykkeligt nyt Aar, gode Ideer, Saaler i Støvlerne, megen Rygrad, faa selvforagtende Timer, fromme og taalmodige Kreditorer, een god Kærest eller i Mangel deraf flere habile, mange intelligente Dumheder, faa dumme do., et sundt Afkom og en hæderfuld Ligbrænding. Mere kan du dog ikke begære, mere kan jeg heller ikke overkomme, <pb xml:id="idm140619160292912" n="51" facs="images/002056959_000/002056959_000_0062.jpg"/>— skønt Ønsker jo hører til de mere prisbillige Varer, som selv en Lus har Adgang til.</p>
+        <p xml:id="idm140619160291872">De venligste Hilsner fra<lb xml:id="idm140619160291616"/>
+din hengivne<lb xml:id="idm140619160291360"/>
+               <persName xml:id="idm140619160291104" type="sender" key="Meier, Johannes" sameAs="#personidm140619160291104">Johannes Meier</persName>. †</p>
+      </div>
+      <pb xml:id="idm140619160290224" n="51" facs="images/002056959_000/002056959_000_0062.jpg"/>
+      <div decls="bibL0020569590000026" n="26" xml:id="L0020569590000026" xml:lang="da-Dk">
+        <head xml:id="idm140619160288384">D<lb xml:id="idm140619160288128"/>
+               <geogName xml:id="idm140619160287872" type="sender" sameAs="idmebc08ccd-b553-4928-91ab-b86fc546206d">Skaarup</geogName>, <date xml:id="idm140619160287488" sameAs="idm34e75319-5483-4e30-bb49-3496ab8bcc84">3/2 1902</date>
+            </head>
+        <p xml:id="idm140619160287104">… Min eneste fortrolige og stadige Ledsager er cand. phil. Johannes Meier, og ham har jeg efterhaanden set mig gal paa og vilde helst skille mig af med ham, men Fyren hænger paa som Gadesnavs paa Galoscher; der er kun eet Middel til at slippe af med ham, og det er temmelig radikalt.</p>
+        <p xml:id="idm140619160286416">Min Livsplan er i Korthed følgende: naar jeg er sluppen vel eller ilde bort fra dette Hul, søger jeg Lærerkald paa Færøerne, Ærtholmene eller i de jyske Klitter, gør mig gode Venner med de Børn, jeg skal undervise, skyer alt andet menneskeligt Selskab, drikker mig ihjel, bliver fulgt til Graven af halvfjerdsindstyve tudende Unger og efterlader mig 16 Øre, for hvilket Beløb min Hjerne skal indsendes til Professor Friedenreich eller hans Efterfølger, hvem den sikkert vil interessere. Dette bedes meddelt N. N., der i et Brev i Julen har formanet mig til at blive Digter, <pb xml:id="idm140619160285488" n="52" facs="images/002056959_000/002056959_000_0063.jpg"/>hvortil han betragter mig som ret velskikket. Uden at komme ind paa denne Doms Berettigelse skal jeg blot gøre opmærksom paa, at dens Følgeslutning ikke llader sig forene med om- staaende Program, som jeg ikke vil fravige… Lev vel, Tak for alt godt! gid dine Guder være dig gunstigere end mine, — ved et Menneskes Guder forstaar jeg: hans Karakter og hans Skæbne.</p>
+        <p xml:id="idm140619160283792">Din gamle Ven<lb xml:id="idm140619160283536"/>
+               <persName xml:id="idm140619160283280" type="sender" key="Meier, Johannes" sameAs="#personidm140619160283280">Johannes Meier</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160282400" n="52" facs="images/002056959_000/002056959_000_0063.jpg"/>
+      <div decls="bibL0020569590000027" n="27" xml:id="L0020569590000027" xml:lang="da-Dk">
+        <head xml:id="idm140619160280560">A<lb xml:id="idm140619160280304"/>
+               <geogName xml:id="idm140619160280048" type="sender" sameAs="idm34db3c16-ced4-4583-af84-b23cf3c07035">Skaarup</geogName>, <date xml:id="idm140619160279664" sameAs="idm45bf5cbe-9dd6-4e48-a950-ae2b33364c53">14/2 1902</date>
+            </head>
+        <p xml:id="idm140619160279280">Den vigtigste Grund<note xml:id="idm140619160279024" n="*)" anchored="true">til ikke at lade nogle Digte trykke i » Det XXde Aarh.« Udg.</note> er selvfølgelig, at det ikke morer mig at spille Helterollen videre, efter at jeg har befundet mig selv at være elendig og jammerlig og fattig og blind og nøgen. Mig selv kan jeg dog ikke længere skuffe — og selv om det kunde lykkes mig endnu et Par Gange at føre de faa og fine Mennesker i Danmark, der læser Vers, bag Lyset, vilde det ikke være mig nogen Tilfredsstillelse. N’en parlons plus. … Min Genfærd besøger dig maaske <pb xml:id="idm140619160277376" n="53" facs="images/002056959_000/002056959_000_0064.jpg"/>til Sommer … Skriv, naar du har Lyst, og. vent ikke Svar, saa bliver du ikke narret; dine Breve glæder altid</p>
+        <p xml:id="idm140619160276208">din hengivne og dødstrætte Ven<lb xml:id="idm140619160275952"/>
+               <persName xml:id="idm140619160275696" type="sender" key="Meier, Johannes" sameAs="#personidm140619160275696">Johannes Meier</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160274816" n="53" facs="images/002056959_000/002056959_000_0064.jpg"/>
+      <div decls="bibL0020569590000028" n="28" xml:id="L0020569590000028" xml:lang="da-Dk">
+        <head xml:id="idm140619160272976">A<lb xml:id="idm140619160272720"/>
+               <geogName xml:id="idm140619160272464" type="sender" sameAs="idm78d8de33-49da-4ba3-9ba7-8e1a0d6f8934">Skaarup</geogName>, <date xml:id="idm140619160272080" sameAs="idm0529b687-4452-4e7d-a5e6-1c08639d773e">8/3 1902</date>
+            </head>
+        <p xml:id="idm140619160271696">Det har behaget de Magter, der gør Træernes Vækst rank eller kroget, at skænke dig Arbejdskraft, Stolthed og Ære, A Kirketro og fredelig Lykke, B Sindssygdom og mig Vanmagt og Desperation, — hvorfra Overgangen til B’s Tilstand vel kun er et Tidsspørgsmaal… Træffer du nogen, som interesserer sig for mig, saa fortæl dem i en saa lidt begrædelig Tone som muligt, at det kunde s’gu ikke blive til noget med Meiers Digten, det er han ogsaa selv klar over, og det var meget fornuftigt af ham at slaa sig paa Seminaristeriet o.s.v. Beklages vil jeg ikke.</p>
+      </div>
+      <pb xml:id="idm140619160270496" n="53" facs="images/002056959_000/002056959_000_0064.jpg"/>
+      <div decls="bibL0020569590000029" n="29" xml:id="L0020569590000029" xml:lang="da-Dk">
+        <head xml:id="idm140619160264592">B<lb xml:id="idm140619160264336"/>
+               <geogName xml:id="idm140619160264080" type="sender" sameAs="idmad039b61-36b8-40ce-9b73-9b3361488932">Mern Lægebolig pr. Præstø</geogName>, <date xml:id="idm140619160263696" sameAs="idme2d0d822-04bd-4ed0-b79f-e87277852c2b">1/9 1902</date>
+            </head>
+        <p xml:id="idm140619160263312">Ilde kom jeg til Skaarup, værre fo’r jeg derfra: Drik og Utugt, — Stedets Traditioner truede, <pb xml:id="idm140619160262848" n="54" facs="images/002056959_000/002056959_000_0065.jpg"/>— Spark i Røven, — Gloria Deo in excelsis. Nu sidder jeg her: 500 Krus, — Snaps til Frokosten, — rigelig Fritid, — ”Politiken“ og alle mulige nye Bøger. Alle Ting tjener dem ti! Gode o.s.v. Kort og godt: jeg har opsat mit Selvmord et Par Aar endnu og skyer ikke længere menneskeligt Selskab. Hvis du vilde lade høre fra dig, vilde det glæde mig hjerteligt.</p>
+        <p xml:id="idm140619160261152">Din gamle Ven<lb xml:id="idm140619160260896"/>
+               <persName xml:id="idm140619160260640" type="sender" key="Meier, Johannes" sameAs="#personidm140619160260640">Johannes Meier</persName>,</p>
+      </div>
+      <pb xml:id="idm140619160259760" n="54" facs="images/002056959_000/002056959_000_0065.jpg"/>
+      <div decls="bibL0020569590000030" n="30" xml:id="L0020569590000030" xml:lang="da-Dk">
+        <head xml:id="idm140619160257920">B<lb xml:id="idm140619160257664"/>
+               <geogName xml:id="idm140619160257408" type="sender" sameAs="idm7c66e4a8-54ac-4961-927f-cfc8dcc84581">Mern</geogName>, <date xml:id="idm140619160257024" sameAs="idm25b227e0-57be-424a-920e-3a35fe459edd">11/9 1902</date>
+            </head>
+        <p xml:id="idm140619160256640">Du ønsker Besked om min Fortid, Nutid og Fremtid. Angaaende den sidste skal jeg meddele dig alt, hvad jeg selv ved, nemlig at jeg engang skal dø. Min momentane Tilstand har jeg vistnok let skitseret for dig paa mit Kort forleden Dag. Tilbage staar min Fortid eller det sidste Kapitel af den, det daarligste af dem alle, egentlig ikke værdt at dvæle ved, — men siden du ønsker det, tag og læs.</p>
+        <p xml:id="idm140619160255632">Du husker sikkert min barokke Løgn om min Rejse til Kina, den jeg fandt en pervers Fornøjelse i at udsprede hin berømmeligeNat i det ny Studenterhus, — Natten efter at den endelige Bestemmelse var tagen, om at jeg skulde begive <pb xml:id="idm140619160254896" n="55" facs="images/002056959_000/002056959_000_0066.jpg"/>mig til Kerteminde og derfra efter Sommerferien til Skaarup, — d.v.s. opgive mine litterære Planer og dermed ethvert Haab og Maal for mit Liv. En Orm, der længe i ensomme Øjeblikke havde puslet ved min Selvtillids Rødder, havde endelig faaet dem bidt over. Jeg var mig min Handling fuldt bevidst. Og jeg dansede og spøgte og drak, — mest drak, — og en anden Nat rejste jeg saa min Vej.</p>
+        <p xml:id="idm140619160253232">Af en ”Vandring i Jammerdalen“ at være var den første Tid ikke saa ilde endda. Tværtimod, jeg regner disse Maaneder i Kerteminde til mine lykkeligste Perioder. Efter det enerverende Ophold i København befandt jeg mig ualmindeligt vel i mit rolige Hjem; jeg havde en Gerning, som mange Børns smilende Ansigter gjorde mig kær, og for den forestaaend’e Misére lukkede jeg Øjnene. I Ferien gjorde jeg en Rejse til Jylland — Grinderslev Kloster, Lemvig —; dér saa vel som i Kerteminde nød jeg fortræffelige Kvinders Selskab. Til jeg en Dag satte mig i et Tog og kørte ad Helvede — nej, ad Skaarup til.</p>
+        <p xml:id="idm140619160251584">Nyhedens Interesse bærer jo altid oppe en Tid. Der var en Foredragsforening, hvis Sjæl jeg blev, og et Vittighedsblad, hvis bedste Stykker jeg skrev: Klude til at dække min Nøgenhed; men Nøgenheden var der, og jeg var ikke blind derfor. Saa svansede en Dag et stort, blondt Hundyr ind i min Tilværelse, gjorde mig gal efter sig, holdt mig et Par Maaneder som en Spurv i sin Klo — og slap mig, hvilket næst efter at holde <pb xml:id="idm140619160250672" n="56" facs="images/002056959_000/002056959_000_0067.jpg"/>mig fast var det værste, hun kunde gøre. Fra nu af var Depressionen total. Misforstaa mig ikke; jeg gik ikke og græmmede mig over Pigebarnet — den Slags Saar svier ikke længe. Nej, men mit Samliv med hende, — som undertiden kunde beløbe sig til 24 Timer i Døgnet — havde, om end paa en højst uværdig Maade, udfyldt Tomheden for mig, nu gloede Ensomhedens Djævel mig uafbrudt i Øjnene, og kun en forsvarlig Dosis Spiritus kund'e genne ham væk.</p>
+        <p xml:id="idm140619160249088">En af de sidste Dage i April kom R.… til Skaarup. R.… er 28 Aar, lille fast Karl, med livlige, nervøse Træk, udfordrende Mund, sort Overskæg og Krese af mørkt Haar omkring en koket lille Maane. R.… er Præstesøn, cand. phil., Forfatter til ufuldendte Skuespil og Romaner, har afbrudt sineStuderinger, gaaet paaGræs, forsøgt sig som Lærer, gjort sig umulig, havnede omsider i Skaarup. R.… er saaledes ikke uden Berøringspunkter med en af dine bekendte men udmærker sig frem for denne ved at hedde Jochum samt være Stifter af en ny Religion, — med Socialisme og Sjælevandring —, som han dog vistnok ikke selv bekender sig til, langt mindre nogen anden. R.… er endelig en overmaade tørstig Sjæl, og saaledes forelaa alle Betingelser for en Samvirken. Vi førte et Svireliv, som ikke alene fik hvert Haar i Skaarup til at rejse sig, men endog vakteOpmærksomhed i Svendborg. I de Fritimer, som det levnede mig, gik jeg op til Skolelærereksamens Iste Del, som jeg <pb xml:id="idm140619160246880" n="57" facs="images/002056959_000/002056959_000_0068.jpg"/>klarede rigtig nydeligt, Gud maa vide hvordan. Endelig Dagen før Sommerferien, fik vi begge det længe ventede Rejsepas, og Skaarup aandede atter frit. Efter en noget mellemfornøjet Sommerferie overtoo jeg den Plads som jeg nu beklæder, samtidig med at jeg paa egen Haand læser til Skoleeksamens 2den Del.</p>
+        <p xml:id="idm140619160245312">Og nu, — hvad skal jeg sige? — begynder jeg at føle mig som et Menneske igen. Læg ikke for meget ind i dette Udtryk. Jeg mener en Mellemting mellem en Gud og en Lus, — et Væsen, hvorved der er en hel Del Vrøvl, og som er sig det fuldt bevidst, — men som ikke opfatter hver Dags Frembrud som en infam Fornærmelse, kan være glad i Solskin og i Harmoni med sig selv engang imellem, — som kan ræsonnere fornuftigt, udtrykke sig selvstændigt og føle Tilfredsstillelse derved, — som for Øjeblikket er Huslærer hos Dr.Nielsen i Mern, men ikke mangler Mulighed for med Tiden at blive noget mere lige saa lidt som for at blive til ingenting. En -taalelig fornøjet Skeptiker — ikke længere en syg Hund som i Skaarup.</p>
+        <p xml:id="idm140619160243424">Dette Menneskebarn sender dig herved sin bedste Hilsen og længes efter at høre fra Dig.</p>
+        <p xml:id="idm140619160242848">V. H.<lb xml:id="idm140619160242592"/>
+Din hengivne<lb xml:id="idm140619160242336"/>
+               <persName xml:id="idm140619160242080" type="sender" key="Meier, Johannes" sameAs="#personidm140619160242080">Johannes Meier</persName>
+            </p>
+      </div>
+      <pb xml:id="idm140619160241328" n="58" facs="images/002056959_000/002056959_000_0069.jpg"/>
+      <div decls="bibL0020569590000031" n="31" xml:id="L0020569590000031" xml:lang="da-Dk">
+        <head xml:id="idm140619160239488">D<lb xml:id="idm140619160239232"/>
+               <geogName xml:id="idm140619160238976" type="sender" sameAs="idm420c56a1-585d-47ab-b693-30b3d58a634d">Mern Lægebolig pr. Præstø</geogName>
+               <date xml:id="idm140619160238592" sameAs="idm6892f93b-9271-4393-b3e6-ee20b9c20e55">16/9 1902</date>
+            </head>
+        <p xml:id="idm140619160238208">… blot en Hilsen med Meddelelse om, at jeg ikke har begaaet Selvmord, saaledes som der vistnok kunde være Grund til at haabe efter mine sidste Udgydelser, — saa naar jeg om et Par Dage træder ind i Stuen til dig, behøver du ikke at gøre Korsens Tegn, men kan tage mod mig uden al Frygt… Jeg glæder mig til at hilse paa dig, — for du har vel ikke benyttet dig af den utvivlsomme Ret, du har haft til at glemme mig ?…</p>
+      </div>
+      <pb xml:id="idm140619160236816" n="58" facs="images/002056959_000/002056959_000_0069.jpg"/>
+      <div decls="bibL0020569590000032" n="32" xml:id="L0020569590000032" xml:lang="da-Dk">
+        <head xml:id="idm140619160234976">E<lb xml:id="idm140619160234720"/>
+               <geogName xml:id="idm140619160234464" type="sender" sameAs="idm4ac081f5-8e9b-425f-84af-923d1223ba23">Mern</geogName>, <date xml:id="idm140619160234080" sameAs="idm56f0b750-c15a-49b0-b329-cb1c637b9f37">5/10 1902</date>
+            </head>
+        <p xml:id="idm140619160233696">Dyrebare <persName xml:id="idm140619160233440" type="recipient" key=", Jochum" sameAs="#personidm140619160233440">Jochurn</persName>!</p>
+        <p xml:id="idm140619160232688">I en saare hyggelig Tilstand — Søndag Formiddag, med en god Frokost i Maven og en bedre Middag for Øje, med Blus i Kakkelovnen og tykke mørkerøde Gardiner trukne halvt hen for de dobbelte Vinduer — søger jeg at samle saa mange Reminiscenser af mig selv, som udkræves for at skrive et anstændigt Brev… Jeg rejste ind til København om Fredagen — paa 2den Klasse, med Gulduhr paa og Tegnebogen fyldt af Sedler, der skulde anvendes til Rejse, Ophold og Fornøjelser, til Indkøb af diverse Konfirmationsgaver, til Anskaffelse af 25 Hefter af Georg <pb xml:id="idm140619160231760" n="59" facs="images/002056959_000/002056959_000_0070.jpg"/>Brandes’ Værker samt eventuelt til en liden cadeau til mine skaarupske Kreditorer. Da jeg om Onsdagen vendte tilbage — paa 3die Klasse — gabede de skaarupske Snuder endnu lige tomme, Konfirmationsgaverne var købte — paa Kredit, og Georg Brandes hvilede i dybeste Fred hos min Boghandler; i min Tegnebog laa der en Seddel, men den var saa grøn som selve Haabet, og ved at pille ved min Urkæde kunde man i en Fart faa at vide, hvad Klokken var slaaet. Jeg havde foretaget en symbolsk Handling, — en Betegnelse af, at jeg nu foreløbig gik ud af Tidsregningen igen.</p>
+      </div>
+      <pb xml:id="idm140619160230080" n="59" facs="images/002056959_000/002056959_000_0070.jpg"/>
+      <div decls="bibL0020569590000033" n="33" xml:id="L0020569590000033" xml:lang="da-Dk">
+        <head xml:id="idm140619160228240">F<lb xml:id="idm140619160227984"/>
+               <geogName xml:id="idm140619160227728" type="sender" sameAs="idme972f5b5-a10f-4d45-b802-8ac7fb1efd97">Mern</geogName>, <date xml:id="idm140619160227344" sameAs="idm9e004fb3-f69b-421d-a407-e344507201cd">11/10 1902</date>
+            </head>
+        <p xml:id="idm140619160226960">Kære Hr. <persName xml:id="idm140619160226704" type="recipient">G.</persName>…!</p>
+        <p xml:id="idm140619160225952">Jeg smigrer mig ikke med, at De skulde nære nogen særlig Forlængsel efter at høre fra mig, og dog har jeg længe gerne villet skrive til Dem, navnlig for at udslette det Billede af vandrende Elendighed, De maa have bevaret fra vort sidste Møde paa Bernina, en Dag, da mine Karaveler duvede ualmindelig nervøst under Kysten. Men hine Dønninger har strakt sig ud over de følgende fjorten Dage… Først i Gaar har en lægende Vind blæst paa min sølle Hjerne og gjort mig til en Fandens Karl igen.</p>
+        <p xml:id="idm140619160224864"><pb xml:id="idm140619160224736" n="60" facs="images/002056959_000/002056959_000_0071.jpg"/>Tiden har jeg imens forslaaet med at gaa i Middagsselskaber, — en Beskæftigelse, der tiltaler mig, for saa vidt som jeg er en Fraaser og Dranker, men paa en anden Side er mig imod, eftersom jeg hader sort Kjole som al anden Uniform og ganske mangler den Evne at kunne tale indsmigrende om ligegyldige Emner med ligegyldige Mennesker.</p>
+        <p xml:id="idm140619160223120">(Herefter følger nogle Bemærkninger om Bøger og Politik.)</p>
+        <p xml:id="idm140619160222592">… I øvrigt er dette jo Pilleri. Hovedsagen er at faa Krybbehalmen fra Betlehems Stald muget ud paa Historiens Losseplads; siden skulde Resten nok gaa af sig selv. Men hvor er Herakles med det rensende Flodvand? jeg ser snart ingen anden Udvej end at made Børn og pleje Lupussyge ude paa Nordvestvej; det er paa den Maade, at Nasaræerne har erobret Verden; og jeg har en skummel Mistanke om, at vi aldrig faar Bugt med dem, før vi faar lært dem dette tric af. Og saa een Ting til: Sammenholdet, det at føle sig som Brødre og betragte de andre som Fjender, — i Stedet for, at Velvilje mod anderledes tænkende, mistænksom Tilbageholdenhed overfor laandsbeslægtede og overlegen Ringeagt specielt for Førerne nu anses for en frigjort Ynglings første Pligter.</p>
+        <p xml:id="idm140619160220992">Men det nemmeste er jo at være Skeptiker, blæse det hele et Stykke, gaa i Middagsselskab og kysse Stuepigen mellem Desserten og Kaffen † —</p>
+      </div>
+      <pb xml:id="idm140619160220176" n="61" facs="images/002056959_000/002056959_000_0072.jpg"/>
+      <div decls="bibL0020569590000034" n="34" xml:id="L0020569590000034" xml:lang="da-Dk">
+        <head xml:id="idm140619160218336">A<lb xml:id="idm140619160218080"/>
+               <geogName xml:id="idm140619160217824" type="sender" sameAs="idmc85ccb6f-8312-442c-86f1-12080953f85f">Mern</geogName>, <date xml:id="idm140619160217440" sameAs="idm001cc1fb-c24d-4cbf-b381-624be3d23856">12/10 1902</date>
+            </head>
+        <p xml:id="idm140619160217056">… der er ikke den Ting mellem min Navle og Mælkevejen, som jeg tror usvigelig sikker, ikke et Forhold til Mennesker eller Idéer, ikke en Stemning i mit eget Hjerte.</p>
+        <p xml:id="idm140619160216480">I øvrigt troede jeg selvfølgelig ikke, at du havde opgivet mig; kun i min Bevidstheds Baggrund krøb Skyggen lurende over Horisontens Gærde. Og saa faldt det mig ind, at jeg bedst kunde gøre dette Gespenst uskadeligt ved at bruge det, — bryde Spidsen af den stikkende Naal ved at jage den ind i din Bagdel, til du bandende sprang op af din Døs.</p>
+        <p xml:id="idm140619160215472">Hilsen og Haandslag, Thøger Larsen, fra din gamle Kammerat, i Hovedtrækkene den samme, du altid har kendt: dovent slentrende gennem Livet og dog fuld af nervøs Higen, yderligt sortseende og dog med et skælmsk Smil i Øjet, altid spottende og kritiserende og dog med dybe Drømme paa Bunden. Saadan var jeg, saadan er jeg, og saadan vil jeg sandsynligvis blive ved at være. Hvortil det vil føre, — om til Parnasset, Sindssygeanstalten eller Kordøren, Lavrbær eller Cyankalium — det ved jeg ikke, og det interesserer mig heller ikke meget. Jeg er, jeg sanser og tænker — og Øjeblikkets Tanker og Sanseindtryk giver mig nok at bestille.</p>
+        <p xml:id="idm140619160213728">Om mit Talent nærer jeg i øvrigt ingen nævneværdig Tvivl. Hvor naar det for Alvor vil udfolde sig, skal jeg ikke kunne sige; i min nuværende <pb xml:id="idm140619160213168" n="62" facs="images/002056959_000/002056959_000_0073.jpg"/>Stilling har jeg ganske simpelt ingen Tid til litterært Arbejde af nogen Betydning; — saa maa jeg nøjes med at holde min Pen sleben og min Sjæ 1 befrugtet ved flittig Brevveksling med udmærkede Venner. Af Digte har jeg skrevet nogle, men de bedste af dem er en anden Persons Privateje…</p>
+        <p xml:id="idm140619160211632">Du har Ret i, at Drikkeri i Almindelighed er Daarligdom og Ødelæggelse af den kostbare Tid. Men hvad bryder et stakkels Menneskebarn i den Tilstand, hvor Tiden alligevel har tabt sin Værdi, sig herom? Hvor Livsglædens kongelige Gud gaar ud, bliver Kong Alkohol tilbage og vinker med sin Flaske; og man skynder sig at styrte Drikken i sig, at beruse og bedøve sig — ”at vi kunne glemme vort Livs elendige Vilkaar.“</p>
+        <p xml:id="idm140619160210512">Det falder mig grumme let i denne Stund med den ædleste Mine af Verden at fordømme alt Solderi; men kommer jeg igen til at føle mig ene og ulykkelig, saa ved jeg, at jeg igen vil drikke, og det, til jeg daaner derved, — naturnødvendigt, uden at noget kan hindre det. — At Vin, naar man er glad, kan være en liflig Tilgift til Glæden, ja at selv en Rus i godt Selskab kan være guddommelig, er noget andet og noget, vi vist er enige om.</p>
+        <p xml:id="idm140619160209408">Forholdene er for Resten i det hele taget ikke lystelige. Selv om vi laderAlberti sidde paa sin Smørtrone og hans Kvæg flokkes om ham — og <pb xml:id="idm140619160208848" n="63" facs="images/002056959_000/002056959_000_0074.jpg"/>kun holder os til de fremmeligste, saa kan det ikke nægtes, at der er meget tilbage at ønske. Meget tilbage at ønske — intet at fordømme. Ingen kan bebrejde en Mand, der famler sig frem ad en mørk Vej, at han træder i Vandpytter og faar Stænk paa sine Bukser, — mindst de, der helst gør det, de, der sover trygt i Stuekrogen ved Guds Ords Natlampe. Men alligevel, — alle de skønne Drømme om den ny, frigjorte Menneskehed, hvad bliver det til med deres Realisation? Hvor er det Menneske, der vilde sige: ”Vær som jeg i alle Stykker“? Og en saadan maatte dog den være, hvem det skulde lykkes at spigre det store Spøgelse fra Golgata saa fast til sit Kors, at ikke den mest mørkrædde Dannekvinde længere kunde tro ham levende.</p>
+        <p xml:id="idm140619160206304">En ny Menneskehed, — det bliver vi sg’u aldrig, vi Sildefødninger af en senil Kultur, fødte og opfostrede i unaturlige og beklumrede Forhold, midti Ungdommen pludselig kastede ud i Dagslyset, hvor vi dog aldrig lærer at bevæge os med fribaaren Lethed, hver med sin Pæl i Kødet, hver med større eller mindre Trævler af sit bedste eg hængende paa det Gitter, han har maattet krybe over. Nej, kom med Adam og Eva, — og lad saa os andre i stor Endrægtighed skære Struberne over paa hinanden, saa viser vi da, at vi mener det ærligt.</p>
+        <p xml:id="idm140619160205264">Adam og Eva, — ja, det er jo barnagtigt at fable om sligt. Men hør alligevel engang. Giv mig en halv Snes Spædbørn af begge Køn, helst <pb xml:id="idm140619160204704" n="64" facs="images/002056959_000/002056959_000_0075.jpg"/>af Arbejderklassen, nogenlunde velskabte, uden forbryderske og sygelige Dispositioner i Familien og selvfølgelig udøbte. Giv mig saa den fornødne Kapital til disse Børns Underhold, — fremdeles et Par flinke og fordomsfri Sygeplejersker og en fremragende moderne Pædagog, der vilde ofre sig for deres Opdragelse, oplære dem i Tidens ypperste Visdom og Leveregler, i Læ for enhver teologisk eller infekt Luftning,— i Begyndelsen i landlig Stilhed, senere i de store Byer, og lad saa et Par af Børnene dø, et Par vise sig umulige i intellektuel Henseende og et Par i moralsk, — saa kunde der endda tilsidst være et Par Stykker tilbage, hvis Legemer var fri for Lyde som deres Hjerner for Taage og deres Hjerter for Smuds, — som ikke kendte Frygt og Løgn og Lystenhed, hvem ingen Autoritet kundje skræmme og ingen Julesalme hypnotisere. Men saa var jo den ny Stads Grundsten lagt… Og slog det aldeles fejl, — nu, saa havde man een Undskyldning mere for at lægge Hænderne i Skødet og fløjte sin Vise og glæde sig ved jorderiges Piger, Vin og Tobak.</p>
+        <p xml:id="idm140619160201536">Noget radikalt maa der til, — det er ikke gjort med Valgrettens Udvidelse eller Frigivelse af Teaterdriften eller Indførelsen af Nævningedomstole.</p>
+      </div>
+      <pb xml:id="idm140619160200704" n="65" facs="images/002056959_000/002056959_000_0076.jpg"/>
+      <div decls="bibL0020569590000035" n="35" xml:id="L0020569590000035" xml:lang="da-Dk">
+        <head xml:id="idm140619160198864">D<lb xml:id="idm140619160198608"/>
+               <geogName xml:id="idm140619160198352" type="sender" sameAs="idm1dca586e-cb19-4ba7-9811-3aefe2751b25">Mern</geogName>, <date xml:id="idm140619160197968" sameAs="idmca0a8cb2-b3e4-4c32-b100-1aeb1b76fc3a">15/10 1902</date>
+            </head>
+        <p xml:id="idm140619160197584">… Stormen og Vaaren —. Ja, blot man kunde tro ham, den gode Gorki; om han og hans Landsmænd — som jo i hvert Fald er de eneste, man endnu kan vente sig lidt af — havde et lille forfriskende Blæsevejr at slippe ud over Evropa. Jeg synes, I Tilværelsen bliver mere og mere lummer. Hvis man endda var født i Japan — …</p>
+        <p xml:id="idm140619160196528">I øvrigt er der intet nyt at melde, — ikke et Pust af Stormen og Vaaren, — nej, Efteraar og Regn over det hele. I disse Dage ligger polske Piger og Husmandsbørn paa Knæ i Mudderet den udslagne Dag og trækker Roer op med de valne Hænder. Det er utaaleligt at tænke paa. Men man gaar jo ikke ud og hjælper dem alligevel. Man gaar derimod i Selskab hos deres Herrer og æder 5—6 Retter Mad med Vine til — uden for Resten at føle sig gladere for det…</p>
+        <p xml:id="idm140619160195520">Hermed Gud befalet, — som Matzen sagde til sin Formandsplads.</p>
+      </div>
+      <pb xml:id="idm140619160194864" n="65" facs="images/002056959_000/002056959_000_0076.jpg"/>
+      <div decls="bibL0020569590000036" n="36" xml:id="L0020569590000036" xml:lang="da-Dk">
+        <head xml:id="idm140619160193024">E<lb xml:id="idm140619160192768"/>
+               <geogName xml:id="idm140619160192512" type="sender" sameAs="idm92bd3159-6748-430e-9425-52d36d60f3d5">Mern</geogName>, <date xml:id="idm140619160192128" sameAs="idm502b0185-9bf9-4877-b068-21163133eac3">16/10 1902</date>
+            </head>
+        <p xml:id="idm140619160191744">Kære <persName xml:id="idm140619160191488" type="recipient" key=", Jochum" sameAs="#personidm140619160191488">Jochum</persName>!</p>
+        <p xml:id="idm140619160190736">En saadan uforlignelig Spiritusduft som den, der slog op af hver Linje i Deres sidste Skrivelse, kan jeg ikke i Øjeblikket skaffe til Veje. I Stedet <pb xml:id="idm140619160190160" n="66" facs="images/002056959_000/002056959_000_0077.jpg"/>har jeg kun den Inspiration at byde, der stammer fra Æblesuppe og Kødbudding, som jo ganske vist ogsaa er Vorherres Gaver…</p>
+        <p xml:id="idm140619160188960">Inden Papiret fyldes, maa jeg alvorligt bebrejde Dem Deres ugudelige Plan, at jeg skulde komme til Dem den første Søndag i November og vanhellige Herrens Dag ved at deltage i Deres usle Drukkenskab. Skulde jeg komme, maatte det kun være for med min Haand og mine Læber at borttage denForargelsensDrik fra Dem, om jeg saa selv skulde nødes at nedsvælge den. Jeg skal tænke over Sagen; men ak, Jochum, Kong Mammon og Kong Alkohol, de kan saa lidt forliges.</p>
+      </div>
+      <pb xml:id="idm140619160187616" n="66" facs="images/002056959_000/002056959_000_0077.jpg"/>
+      <div decls="bibL0020569590000037" n="37" xml:id="L0020569590000037" xml:lang="da-Dk">
+        <head xml:id="idm140619160185776">B<lb xml:id="idm140619160185520"/>
+               <geogName xml:id="idm140619160185264" type="sender" sameAs="idm5d3fb45d-e30c-4a23-b619-9a6c7e3a35ce">Mern</geogName>, <date xml:id="idm140619160184880" sameAs="idme77859d9-589c-4a53-a785-e68c5ab1eb99">20/10 1902</date>
+            </head>
+        <p xml:id="idm140619160184496">Kære Ven!</p>
+        <p xml:id="idm140619160184112">Modtag min Forsikring om, at jeg foragter den militære Stand uendelig dybt, — saa dybt, at jeg ikke vilde lade et Fnug af min Følelse for en Ven berøres af samme Stands Eksistens. — Hvor kunde du dog tro det om mig? For det første har, som du let antyder, min egen Livsbane ikke været saa højtliggende eller min Idealisme saa uplettet, at jeg med Rette kunde rynke Næse ad nogen af principielle Bevæggrunde. For <pb xml:id="idm140619160183136" n="67" facs="images/002056959_000/002056959_000_0078.jpg"/>det andet har jeg forlængst opgivet enhver anden Klassifikation af Menneskene—bortset fra Kønsforskellen — end den Tvedeling: fornuftige, fornøjelige, interessante Mennesker — og Idioter. De fleste militære er dybtsunkne Idioter, og de fleste civile er ganske det samme. Og har du væ ret mig kær i Slængkappe og med kvarterlangt Haar, saa er der ingen Fare for, at jeg skal vrage dig i friseret og uniformeret Skikkelse…</p>
+        <p xml:id="idm140619160181552">Nej, vær du rolig:</p>
+        <p xml:id="idm140619160181168">Verschlechtert sich nicht dein Herz und dein Styl,<lb xml:id="idm140619160180848"/>
+dann magst du treiben jedwedes Spiel;<lb xml:id="idm140619160180592"/>
+mein Freund, ich soll dich nimmer verkennen,<lb xml:id="idm140619160180272"/>
+und soll ich dich auch »Herr Lieutnant« nennen.</p>
+        <p xml:id="idm140619160179776">Jeg selv drysser Tiden hen i dovent Veilevnet, — og har dog Hovedet fuldt af store litterære Planer. Naa, det er selvfølgelig ikke almindelig Dovenskab, jeg lider af. Naar der spørges om min Bevæggrund til at gøre eller undlade noget, kan man i Reglen trøstig gætte paa Mistillid til et eller andet. Ogsaa i dette Tilfælde er det Mistillid, der er i Vejen, — ikke just til mit Talent, men til min Modenhed. Jeg tror mig endnu ikke i Stand til at udtrykke mine Tanker i en tilfredsstillende Form.</p>
+        <p xml:id="idm140619160178688">Foruden ”Sorte Faar“,<note xml:id="idm140619160178368" n="*)" anchored="true">Et Skuespil. udg.</note> der, som du ved, <pb xml:id="idm140619160177504" n="68" facs="images/002056959_000/002056959_000_0079.jpg"/>foreligger omtrent færdigt i Raakladde, har jeg Idéen til tre Romaner, hvoraf den første er den, som er dig bekendt under Navn af ”Valmuedrengen“. Om den, hvis den bliver til noget, vil faa denne Titel, ved jeg ikke. Du kender vistnok dens Hovedindhold og ved, at den nærmest skal give et Udsnit af min egen Udviklingshistorie, — Omdannelsen fra Romantiker til Skeptiker, særlig gennem Forholdet til tre Kvinder.</p>
+        <p xml:id="idm140619160175920">Den anden skulde hedde ”Søstrene paa Salvig“ og paa Baggrund af jysk Natur og Herregaardsliv give et mere sammensat og dramatisk Billede af menneskelige Lidenskaber og Skæbner, en Fremstilling af Kærligheden som Livets største fornedrende og ophøjende Magt.</p>
+        <p xml:id="idm140619160174992">Over begge disse Bøgers Indhold, Komposition og Figurerer jeg fuldstændig klar; lidt mindre Rede har jeg endnu paa den tredje, hvor jeg vel har alle Faktorerne i Orden, men ikke paa ethvert Punkt ved, hvorledes jeg vil manøvrere med dem. Den skulde foregaa i en Kystby, (gæt: hvilken?) og skildre nogle Børns og unge Menneskers daglige Liv i Leg og Alvor og den pludselige Optræden mellem dem af en sjælfuld og højtkultiveret Københavnerinde, der er bleven Moder og derfor har maattet forlade sit Hjem. Det skulde i Modsætning til de to andre være en lys og forhaabningsfuld Bog.</p>
+        <p xml:id="idm140619160173952">Jeg ved mig intet andet til Salighed eller blot til Resignation ved Tilværelsen end disse Hjærnespind; men jeg kan heller ikke andet end tro, <pb xml:id="idm140619160173392" n="69" facs="images/002056959_000/002056959_000_0080.jpg"/>at jeg skal faa det hele lavet, naar jeg blot maa have en halv Snes uformørkede Leveaar tilbage…</p>
+        <p xml:id="idm140619160172256">V. H.<lb xml:id="idm140619160172000"/>
+Din gamle Ven<lb xml:id="idm140619160171744"/>
+               <persName xml:id="idm140619160171488" type="sender" key="Meier, Johannes" sameAs="#personidm140619160171488">Johannes Meier</persName>.</p>
+      </div>
+      <pb xml:id="idm140619160170608" n="69" facs="images/002056959_000/002056959_000_0080.jpg"/>
+      <div decls="bibL0020569590000038" n="38" xml:id="L0020569590000038" xml:lang="da-Dk">
+        <head xml:id="idm140619160168768">A<lb xml:id="idm140619160168512"/>
+               <geogName xml:id="idm140619160168256" type="sender" sameAs="idm451b7583-2e1b-4385-82b7-a3e844e998b1">Mern</geogName>, <date xml:id="idm140619160167872" sameAs="idm9de0a629-322b-48f5-b6c2-ee505d2a4e63">22/10 1902</date>
+            </head>
+        <p xml:id="idm140619160167488">Kære Ven!</p>
+        <p xml:id="idm140619160167104">Jeg kunde svare meget paa Enkelthederne i din Kritik af ”Tidspunktet“, men den dybe Animositet, du røber overfor dette Blad og hele den Kres, der staar i Forbindelse med det, giver mig Ulyst dertil.</p>
+        <p xml:id="idm140619160166304">Det er naturligt, at en skuffet Ungdom, der er henvist til at rende Panden mod en Væg med det Resultat, at begge holder, maa frembyde et latterligt Skue for en udenforstaaende Betragter. Naar man derimod føler sig som en integrerende Del af denne Ungdom, deler dens Haab og dens Tvivl og dens Had, har drømt dens Drømme og set dem splittes, har set op til de samme Mænd som den og lært at foragte dem, saa mangler man Sansen for det komiske i dens Adfærd. Saaledes føler jeg overfor ”Tidspunktet“s Mænd, og det kan jeg mærke, du ikke gør, — og derfor er der ingen Udsigt til Enighed mellem dig og mig om dette Æmne.</p>
+        <p xml:id="idm140619160165136"><pb xml:id="idm140619160165008" n="70" facs="images/002056959_000/002056959_000_0081.jpg"/>… Den danske Kristendom er hovedsagelig Overfladiskhed og Humbug, — derfor mangler den enhver Livsberettigelse.</p>
+        <p xml:id="idm140619160163952">Jeg synes ikke, at det er saa ligegyldigt, om man fik denne Mare væltet fra Folkets Hjerte. Du spørger, hvad den kan genere mig. Ja, jeg ejer ikke for Øjeblikket Papir nok til at opregne det altsammen; men jeg kan dog give dig nogle Antydninger. Den har præget min Opdragelse, afspærret mig fra meget fortræffeligt, sat Gud maa vide hvor mange Mærker i mit Temperament, dem jeg aldrig slipper af med, selv om jeg rent dogmatisk har frigjort mig for den; den har forvoldt et fremmed og stundum fjendtligt Forhold mellem mig og de Mennesker, der holder mest af mig, — mine Forældre; den har været Skyld i, at jeg mistede den Plads, hvor jeg har befundet mig bedst; den tvinger mig hver Dag til, for overhovedet at leve, at foreplapre uskyldige Børn dens Dumheder og derved nedværdige mig selv og skade dem. jeg kan blive forelsket i en Kvinde, hvem kun den forhindrer fra at tilhøre mig…; jeg kan skrive en Bog, hvis bedste Del ikke kan blive trykt, fordi den strider mod den. — Jo, kære, skal vi ikke være enige om, at den Digter har Ret, der har sagt:</p>
+        <p xml:id="idm140619160161488">Guderne kræver<lb xml:id="idm140619160161232"/>
+Menneskeofre, saa længe de lever. —</p>
+        <p xml:id="idm140619160160848">og at hverken Kristendommen eller ”en ny Galskab“, men alene den gudløse Taalsomheds og <pb xml:id="idm140619160160384" n="71" facs="images/002056959_000/002056959_000_0082.jpg"/>Forstaaelses Aand kan byde Menneskene ren Luft at leve i.</p>
+        <p xml:id="idm140619160159456">Saa er der endelig dette om Aartusindernes Vækst, hvori den ny Menneskehed skal udvikle sig. Dit Synspunkt er naturhistorisk og som saadant konsekvent; men strider ikke Historien derimod? Har ikke de store aandelige Bevægelser straks skabt sig en ideal Form i Menneskelivet, som Aartusinderne kun har bidraget til at forflade og nedbryde, indtil noget nyt arbejdede sig frem? Naturligvis er der den Løsning, at de tidligere Kulturformer og Religioner har været en Slags Udslæt paa Menneskeaanden, og at Nutidens Frigørelsesbevægelser er en Operation mod dem; naar den er overstaaet, vil Slægten gaa over i en langvarig Rekonvalescens, hvoraf den engang vil rejse sig som en ”ny Menneskehed“. Det er jo den fineste Forklaring, og jeg vilde ønske, at jeg altid kunde tro paa den; men alt, hvad der er i mig af Skepsis, rejser sig mod at tillægge det, man selv staar midt i, en saa enestaaende verdenshistorisk Betydning.</p>
+      </div>
+      <pb xml:id="idm140619160156976" n="71" facs="images/002056959_000/002056959_000_0082.jpg"/>
+      <div decls="bibL0020569590000039" n="39" xml:id="L0020569590000039" xml:lang="da-Dk">
+        <head xml:id="idm140619160155136">F<lb xml:id="idm140619160154880"/>
+               <geogName xml:id="idm140619160154624" type="sender" sameAs="idm2dd31f2f-a4e9-40a0-adcf-0173c3298436">Mern</geogName>, <date xml:id="idm140619160154240" sameAs="idm15e87484-2e98-43e6-872b-9d5a9728eedd">29/10 1902</date>
+            </head>
+        <p xml:id="idm140619160153856">Kære <persName xml:id="idm140619160153600" type="recipient">G.</persName>..!</p>
+        <p xml:id="idm140619160152848">… Jeg foretrækker Benævnelserne konservativ og radikal, — naar man ved konservative <pb xml:id="idm140619160152480" n="72" facs="images/002056959_000/002056959_000_0083.jpg"/>forstaar dem, der i det væsentlige vil bevare det nuværende Samfund, og ved radikale dem, der vil have det omformet fra Grunden.</p>
+        <p xml:id="idm140619160151280">Der gives jo dog en Del Mennesker, som under Paavirkning af den franske Revolutions Idéer — og af Darwins Kæmp;ehypotese — og af en Række geniale og urolige Aanders opløsende Kritik og idealilstiske Reformbestræbelser paa de forskelligste Omraader, — under Paavirkning her i Norden særlig af den Blanding af alle disse Ingredienser, som Georg Brandes har fremstillet, — har faaet den Opfattelse, at den brutale Egoismes Barn med Munkemoralen, kaldet det moderne evropæiske Samfund, er en hæslig og med al mulig Sygdom befængt Tvetulle, som det gælder om at faa Livet af hurtigst muligt. Det er dem, jeg kalder radikale; og til dem hører baade De og jeg; og at der findes ikke faa af dem i Danmark, er lige saa utvivlsomt, som at de ikke danner nogen Enhed og ikke repræsenterer nogen Magt Nogle af dem slutter sig til Socialdemokratiet, som i øvrigt ogsaa indeholder andre Bestanddele; Resten staar splittede, uvirksomme, magtløse. Deres fødte Høvding, Georg Brandes, har ved forskellige Lejligheder vist sig paafaldende senil og har vistnok ligesom Hexemesterens Lærling manet mere Troldtøj frem, end han egentlig skøtter om at være i Selskab med; hans Broder, hvem mange haabede paa, synes at slaa sig til Taals med at tygge Naadsensbrød i Magthavernes Køkken. Ja, det er Stillingen; <pb xml:id="idm140619160148864" n="73" facs="images/002056959_000/002056959_000_0084.jpg"/>— Herre, hvor skulle vi gaa hen? Naturligvis skal man gaa til Socialdemokratiet; men alle ens Fordringer kan det ikke tilfredsstille.</p>
+        <p xml:id="idm140619160147792">Saa megen Suppe paa den Pind. —</p>
+        <p xml:id="idm140619160147408">Venlig Hilsen.<lb xml:id="idm140619160147152"/>
+Deres hengivne<lb xml:id="idm140619160146896"/>
+               <persName xml:id="idm140619160146640" type="sender" key="Meier, Johannes" sameAs="#personidm140619160146640">Johannes Meier</persName>
+            </p>
+      </div>
+    </body>
+  </text>
+</TEI>

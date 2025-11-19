@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--shit-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:id="root" status="published">
+  <teiHeader xml:id="idm140619171824768">
+    <fileDesc xml:id="idm140619165408288">
+      <titleStmt xml:id="idm140619165408032">
+        <title xml:id="idm140619165407776">W. C. Zeise og J. Jac. Berzelius Breve 1823-1847</title>
+        <!-- OCR: W. C. Zeise og J. Jac.Berzelius Breve 1823—1847-->
+        <author n="1">Charles Adolphe Antoine Clément, 1860-1933</author>
+        <!-- OCR: Ad. Clément-->
+      </titleStmt>
+      <publicationStmt xml:id="idm140619171677808">
+        <publisher xml:id="idm140619171523136">H. H. Thieles Bogtrykkeri</publisher>
+        <pubPlace xml:id="idm140619171522752">København</pubPlace>
+        <date>1921</date>
+      </publicationStmt>
+      <idno>letter_books/002223284/002223284_000</idno>
+      <sourceDesc>
+        <bibl>
+          <!-- This is where we expect metadata for the analogue source in ADL -->
+        </bibl>
+        <listBibl>
+          <bibl xml:id="bibL0022232840000001" status="completed">
+            <date xml:id="idm1ea9a10c-a236-4356-9b74-b1bb20fc2baa">1816-09-11</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm0b36befc-d108-4331-a0a9-9d75921e061c">
+              <resp>sender</resp>
+              <name xml:id="personidm140619166255344" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmada1322a-08b4-419f-a0d9-b3d74b175712">
+              <resp>recipient</resp>
+              <name xml:id="personperson4a353401-c4a0-4cd4-9728-c43f7c2287b9" ref="http://viaf.org/viaf/49374422"><surname>Schouw</surname>,
+      <forename>Joachim Frederik</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm25f7231e-6857-49f9-81fd-5d2921ccedf7">
+              <placeName>Slagelse</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000002" status="completed">
+            <date xml:id="idme407fcb6-0a5d-44d3-9d63-6c66a19b528b">1823-04-07</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme8b5f1fd-bf24-44ee-9f3c-a6fe013a1b3b">
+              <resp>sender</resp>
+              <name xml:id="personidm140619186660848" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmaeddff21-74ab-4d5f-9c80-e0b3607ad946">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619166460208" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmf22130eb-c0b0-4546-9790-e742d95018e4">
+              <placeName>Stockholm</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000003" status="completed">
+            <date xml:id="idm8814798d-e80f-4569-8aee-620b0df667ba">1831-06-10</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm000e74f8-ba6c-4129-b430-3b4c09153234">
+              <resp>sender</resp>
+              <name xml:id="personidm140619170433568" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme9310152-37d3-47dc-88bf-d13df9ce229f">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619188312640" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmc227c240-f9fb-4c45-88e3-a41a1b424356">
+              <placeName>Stockholm</placeName>
+            </location>
+            <location type="recipient" xml:id="idm6f702c62-7718-4033-ace3-d39b1a11d726">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000004" status="completed">
+            <date xml:id="idm282f423b-e481-4db6-9210-bdf8053b6af7">1831-07-12</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme88ede05-a1d8-4189-adc1-1dd2aaa3b3cb">
+              <resp>sender</resp>
+              <name xml:id="personidm140619164661424" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm8f9d6c1b-04d0-4d71-9bb3-d7db5bc1c0b7">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619170385552" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm25cd4816-6522-466e-a233-4173c676d043">
+              <placeName>Stockholm</placeName>
+            </location>
+            <location type="recipient" xml:id="idm9a6605d6-0da9-4926-8897-a3475a45923d">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000005" status="completed">
+            <date xml:id="idm1ec6c489-2740-40bf-b6fa-8d837de32761">1837-02-24</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmea4a03da-47d3-4711-a0f7-8cd72b73309e">
+              <resp>sender</resp>
+              <name xml:id="personidm140619165537440" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm4d8d4045-df47-4cd2-bb98-01c8e1952ae3">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619191893168" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm026f4cd9-b9a1-4672-a50d-e34648740c1d">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000006" status="completed">
+            <date xml:id="idm61903b4c-efb5-4d00-a814-43fb0943596e">1837-10-27</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm23430254-32f4-4e8c-9598-36f5d08e1f36">
+              <resp>sender</resp>
+              <name xml:id="personidm140619163958032" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf184228f-89b5-4de5-9287-f158eb1c5518">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619165259600" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm1095dd1b-5269-431b-b265-8884d393595b">
+              <placeName>Stockholm</placeName>
+            </location>
+            <location type="recipient" xml:id="idm4e158586-51c0-456b-970e-81b20e1b8fb9">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000007" status="completed">
+            <date xml:id="idm707e3783-b015-434c-8590-cab0f70cd92a">1838-01-18</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme43c05a8-bcbe-437e-936f-47cbe01f2de3">
+              <resp>sender</resp>
+              <name xml:id="personidm140619166344624" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm15421fcd-303a-4d0c-9216-cd8d86e0fb6b">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619166730928" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm7aa30860-6663-4e28-948e-bb2b87bf027e">
+              <placeName>København</placeName>
+            </location>
+            <location type="recipient" xml:id="idmf275ea15-d1ad-4f17-baf5-7d6ec695a966">
+              <placeName>Stockholm</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000008" status="completed">
+            <date xml:id="idmc1c6a839-f778-4655-937f-18b68f01ebb5">1839-10-14</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmc69f5279-1713-4d6c-9ca9-215e7da570a5">
+              <resp>sender</resp>
+              <name xml:id="personidm140619172168016" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idme3d298b9-bffe-4f44-b0b1-6fa74b741625">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619166738320" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idmbc91c11e-5438-4f4f-b8e7-6815df74d1c5">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000009" status="completed">
+            <date xml:id="idmbe4a4772-8cf9-435f-a34a-55302794026c">1843-02-24</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm823834b8-dc4a-45d7-a82d-45a72e987603">
+              <resp>sender</resp>
+              <name xml:id="personidm140619165215472" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm7051377d-fc1a-4b88-a929-6ebd10c24d2c">
+              <resp>recipient</resp>
+              <name xml:id="personperson52d46526-7844-451c-8d57-f80d7ddcc58d" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm8ffa549f-9379-44e8-a120-399ad1a8df8d">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000010" status="completed">
+            <date xml:id="idm9c3ffbaa-c62f-4a4a-9d04-0dc99d185284">1843-06-20</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm531a74d5-db34-4f38-bebb-926718084f1e">
+              <resp>sender</resp>
+              <name xml:id="personidm140619169069616" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm30f766d9-487c-473c-89bb-bffe4a37ce7e">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619169073488" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm9dc3ef2a-2f8f-4c7d-bca0-a9d536506227">
+              <placeName>Stockholm</placeName>
+            </location>
+            <location type="recipient" xml:id="idm0614cae2-ffc5-4c8e-9891-0fb5150acb55">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000011" status="completed">
+            <date xml:id="idm473386ae-1aeb-4feb-beb7-13713d279f49">1845-03-13</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmd66f7fe4-9bb6-4105-80e3-7e0c8177cbc4">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159145504" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmcaad6d22-004f-45f8-b485-610cb4cc0586">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619131642480" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm1938237f-31e4-4ffe-95b2-84c9ae695974">
+              <placeName>København</placeName>
+            </location>
+            <location type="recipient" xml:id="idm876fab26-270d-4c0c-acf4-e20507f4e541">
+              <placeName>Stockholm</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000012" status="completed">
+            <date xml:id="idm3ec124a9-fff7-46ed-8475-fbec36db3218">1845-03-22</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmfcf95ab4-6df1-4643-9738-a8108cf27079">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159137664" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm155c8ee7-c4aa-432d-add8-b33ed0826bcc">
+              <resp>recipient</resp>
+              <name xml:id="personpersonde3e319f-842d-4f0c-9700-a86ee304030a" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm36852d52-ccc0-47fe-a9e9-a819fcdf0498">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000013" status="completed">
+            <date xml:id="idm06431253-4bfe-46b4-a4b4-6697ab37977a">1845-11-11</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm32009ee9-f870-41e1-90af-59b467e89f5a">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159125008" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm95e127c5-dbc8-4238-a308-5c95939adee1">
+              <resp>recipient</resp>
+              <name xml:id="personperson2d15c5e0-10b0-415f-8c58-149d2060e5da" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm4adcf778-7751-4c5b-8dfb-8af5a2a182bb">
+              <placeName>København</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000014" status="completed">
+            <date xml:id="idmb30748c4-7318-48cc-b96f-3e6f0056adb7">1847-02-24</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmc4def7a1-e8bc-4482-87b4-51cdcd611220">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159112848" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm672fb86d-4352-4235-9d79-12a1c9950601">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619159121776" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm6d34eeb1-3fed-4ddb-8287-139c63ee525d">
+              <placeName>København</placeName>
+            </location>
+            <location type="recipient" xml:id="idmc7777e27-1cfc-4d01-891f-63dbeab79c85">
+              <placeName>Stockholm</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000015" status="completed">
+            <date xml:id="idm015d62b5-8c99-4941-8ab5-273fe6f9d37f">1847-03-30</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idma8ff6bfb-5997-4dea-b6a6-cf577219c47b">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159098384" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idm75603379-58e7-4819-b10c-7312553f814b">
+              <resp>recipient</resp>
+              <name xml:id="personpersond9d51d8c-3b06-42f6-8466-7dd99874ed95" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idme65b2cd2-ece2-453c-95d2-2411f3eed48a">
+              <placeName>Stockholm</placeName>
+            </location>
+          </bibl>
+          <bibl xml:id="bibL0022232840000016" status="completed">
+            <date xml:id="idm94765a8a-a20e-42b0-ae47-35b833174377">1847-04-08</date>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idma9e1b9db-c2c1-4f1b-b21b-e0be91b86db8">
+              <resp>sender</resp>
+              <name xml:id="personidm140619159090592" ref="http://viaf.org/viaf/32915701"><surname>Zeise</surname>,
+      <forename>William Christopher</forename></name>
+            </respStmt>
+            <respStmt xmlns:t="http://www.tei-c.org/ns/1.0" xml:id="idmf9ef9547-d408-454c-bb5f-1682a7ed0634">
+              <resp>recipient</resp>
+              <name xml:id="personidm140619159095152" ref="http://viaf.org/viaf/180684856"><surname>Berzelius</surname>,
+      <forename>Jöns Jacob</forename></name>
+            </respStmt>
+            <location type="sender" xml:id="idm16ef2612-cbc9-4a0b-9219-b0542e6f912d">
+              <placeName>København</placeName>
+            </location>
+            <location type="recipient" xml:id="idmf4d9c2fd-d7f9-474c-a324-5f57cb4c7d18">
+              <placeName>Stockholm</placeName>
+            </location>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:id="idm140619165615376">
+    <body xml:id="idm140619165615120">
+      <div xml:id="idm140619165614864">
+        <p xml:id="idm140619165614608"><pb xml:id="idm140619165308496" n="I" facs="images/002223284_000/002223284_000_0005.jpg"/>W. C.ZEISE<lb xml:id="idm140619165316672"/>OG<lb xml:id="idm140619165316416"/>J. JAC.BERZELIUS<lb xml:id="idm140619170771344"/>BREVE</p>
+        <p xml:id="idm140619170770960">
+          <pb xml:id="idm140619170770832" n="II" facs="images/002223284_000/002223284_000_0006.jpg"/>
+        </p>
+        <p xml:id="idm140619169749520">
+          <pb xml:id="idm140619169749392" n="III" facs="images/002223284_000/002223284_000_0007.jpg"/>
+        </p>
+        <p xml:id="idm140619169747472">
+          <pb xml:id="idm140619169747344" n="IV" facs="images/002223284_000/002223284_000_0008.jpg"/>
+          <caption xml:id="idm140619164837968">1789—1847</caption>
+        </p>
+        <p xml:id="idm140619164837584"><pb xml:id="idm140619164837456" n="V" facs="images/002223284_000/002223284_000_0009.jpg"/>W. C. ZEISE<lb xml:id="idm140619164759696"/>OG<lb xml:id="idm140619163893472"/>J. JAC.BERZELIUS<lb xml:id="idm140619163893216"/>BREVE<lb xml:id="idm140619163892960"/>1823—1847</p>
+        <p xml:id="idm140619168833120">UDGIVNE<lb xml:id="idm140619168832864"/>af<lb xml:id="idm140619168832608"/>AD. CLÉMENT</p>
+        <p xml:id="idm140619190833424">KØBENHAVN<lb xml:id="idm140619190833168"/>H. H. THIELES BOGTRYKKERI<lb xml:id="idm140619190832912"/>1921</p>
+        <p xml:id="idm140619169209712">
+          <pb xml:id="idm140619169209584" n="VI" facs="images/002223284_000/002223284_000_0010.jpg"/>
+        </p>
+        <p xml:id="idm140619168866272"><pb xml:id="idm140619168866144" n="VII" facs="images/002223284_000/002223284_000_0011.jpg"/>FORORD.</p>
+        <p xml:id="idm140619190741600">William Christoffer Zeise var født i Slagelse d. 15. Oktbr. 1789, hvor hans Fader var Apotheker. Slægten, der stammede fra Schlesien, kom til Danmark c. 1650, da en Guldslager Kristofer Z. indvandrede<note xml:id="idm140619190740928" n="1)" anchored="true">Slægtregister se Fr. Meier: Joh. Wiedewelt, 1877, S. 257, efter Slægtspapirer: Ny kgl. S. Fol. 1686.</note>. Som ung havde W. C. Zeise lagt sig efter Farmacien, da han i Sommeren 1805 havde Ophold hos Apotheker Gottfried Becker<note xml:id="idm140619188339280" n="2)" anchored="true">G. Becker (1767—1845). Prof. i Kemi: 1795—1806.</note> i Frederiksdal og kom Aaret efter i Huset hos H. C. Ørsted, hvem han assisterede ved Forelæsninger og Forberedelser dertil. Han blev Student i 1809, det saakaldte »Professoraar«, da 8 af Aarets Dimittender bleve akad. Lærere. Han havde »experimenteret« sammen med Lunding<note xml:id="idm140619187602832" n="3)" anchored="true">C. M. Lunding (1791—1823). Prof. i Farmakologi.</note> efter at være flyttet fra Ørsteds, men fik, under Ørsteds Bortrejse i 1812—13, Leilighed til at benytte dennes Laboratorium paa Østergade sammen med Ørsteds Vikar J. J. Krum<note xml:id="idm140619166641600" n="4)" anchored="true">J. J. Krum (1780—1847) blev 1814 Prof. i Fysik og Kemi i Kristiania og antog Navnet Keyser.</note>. Zeise havde dog i disse Aar af og til »en underlig sygelig Forfatning«. I 1815 tog han farmaceutisk Examen og søgte saa en Reiseunderstøttelse af Fonden ad usus publicos, som blev bevilget<note xml:id="idm140619166228672" n="5)" anchored="true">Fonden ad usus publicos II 1902. S. 238.</note> i 1816 til det kommende Aar. Z. var imidlertid taget hjem og havde indrettet sig et Laboratorium i Faderens Apothek og kom ikke til at rejse, da Forarbejderne til en Doktordisputats optog ham, og han ikke kunde løsrive sig fra sit Arbeide.</p>
+        <p xml:id="idm140619165963056"><pb xml:id="idm140619165522528" n="VIII" facs="images/002223284_000/002223284_000_0012.jpg"/>En Ven<note xml:id="idm140619165521792" n="1)" anchored="true">Ny kgl. S. Fol. 1529. Denne Ven kan kun være Botanikeren J. F. Schouw (1789—1852), den ene af 1816 Aarets to Doktorer, der disputerede 28/9 1816 og derefter rejste til Gøttingen. Den anden var Overlærer H. O. Bjørn.</note>, der vil træffe ham i Göttingen, faar følgende Brev:</p>
+      </div>
+      <pb xml:id="idm140619166379952" n="VIII" facs="images/002223284_000/002223284_000_0012.jpg"/>
+      <div decls="bibL0022232840000001" n="1" xml:id="L0022232840000001" xml:lang="da-Dk">
+        <head xml:id="idm140619166454160"><geogName xml:id="idm140619166485120" type="sender" sameAs="idm25f7231e-6857-49f9-81fd-5d2921ccedf7">Slagelse</geogName><date xml:id="idm140619166484736" sameAs="idm1ea9a10c-a236-4356-9b74-b1bb20fc2baa">d. 9 Nov. 1816</date>.</head>
+        <p xml:id="idm140619166457088">Gode Ven.</p>
+        <p xml:id="idm140619166456704">»Vor fælleds Ven Bredesdorff beder mig for nogen Tid siden at melde Dem i et Brev, adresseret til Göttingen, om jeg venter at være der til Nytaar; da der i Tilfælde af at jeg kunde kom̅e der til den Tid, kunde træffe en for os begge fordelagtig Bestem̅else med Værelser — Formedelst min gode Leilighed her i Slagelse til at experimentere (hvorved jeg og nu for störste Delen beskjeftiger mig) agter jeg at overvintre her, og kom̅er ikke til at afreise paa denne Side Martz — Af en gjen̅emreisende Ven har jeg erfaret, at De har disputeret: jeg gratulerer. Maaske fornöier De mig med et Brev: fortæl da brav om Göttingen etc.</p>
+        <p xml:id="idm140619166456320">»Det vilde være mig en stor Glæde engang at kun̅e træffe sam̅en med Dem paa Reisen.</p>
+        <p xml:id="idm140619184915248">Levvel<lb xml:id="idm140619184914992"/>Deres Ven<lb xml:id="idm140619166255472"/>
+               <persName xml:id="idm140619166255344" type="sender" key="Zeise, William Christopher" sameAs="#personidm140619166255344">Will. C. Zeise</persName>.</p>
+        <postscript xml:id="idm140619166259568">
+          <p xml:id="idm140619166259312">Zeise disputerede d. 21/10 1817 med en Afhandling om Alkaliers Virkning paa organiske Stoffer og fik nu den ønskede Rejseunderstøttelse for 2 Aar. Han rejste d. 11/3 1818 og søgte først til Prof. Stromeyer (1776—1835) i Gøttingen.</p>
+          <p xml:id="idm140619166257024">Her indtraf under hans Ophold H.N. Clausen (1793— 1877) hvorom denne fortæller<note xml:id="idm140619166258928" n="2)" anchored="true">H. N. Clausen: Optegnelser om mit Levneds og min Tids Historie. 1877. S. 65.</note>:</p>
+          <p xml:id="idm140619166347840">»Men hvad der i høj Grad hjalp mig ud over de besværlige ensformige Uger i Gøttingen (10.—30. Sept. 1818), <pb xml:id="idm140619172463120" n="IX" facs="images/002223284_000/002223284_000_0013.jpg"/>var det ganske uventede Møde med en jævnaldrende Landsmand, Student fra samme Aar som jeg, Kemikeren Dr. Zeise. Der gik ikke nogen Dag, saalænge han var i Gøttingen, uden at vi saa’s — ikke blot ved Middagsbordet, men ogsaa om Aftenen enten til Spadsereture eller til Musicering: han med sin Violin, jeg med min Fløjte. Da han rejste til Paris fulgte jeg ham til Kassel, igjennem den skjønne Mündenerdal ved Sammenløbet af Fulda og Werra. En meget kjær Forbindelse har jeg endnu mit Ophold i Gøttingen at takke for. Zeise førte til mig en ung Slesviger, som studerede Lovkyndighed: Ditlev Kristian Paulsen (1798—1854) fra Flensborg.«</p>
+          <p xml:id="idm140619165155328">Zeise fortæller ogsaa om sit Møde med H. N. Clausen i sin Dagbog<note xml:id="idm140619165154928" n="1)" anchored="true">N. kgl. Saml. 4 0 2779.</note> paa Rejsen, som af S.M. Jørgensen er trykt i Udtog i Vid. Selsk. Oversigt for 1903 S. 47. I Paris blev han indført i l’Académie des Sciences af en dansk Mineralog<note xml:id="idm140619164650288" n="2)" anchored="true">T. C. Bruun de Neergaard (1776—1824).</note> og saa der for første Gang Berzelius (»lille, robust, opstaaende Næse, lyst Haar, opvakt, men egentlig ikke genialsk, kraftfuldt Ansigt, spillende Øine«). I April 1819 blev han forestillet for denne »Chemiens store Lys«, men bedre talte han alene med ham i Maj, og sendte ham derpaa et Exemplar af Disputatsen, hvorom Berzelius udtalte »jeg raader Doctoren meget at fortsætte, som De har begyndt; det vil lede til interessante Ting«.</p>
+          <p xml:id="idm140619165044528">Efter sin Hjemkomst blev Zeise Ørsteds Medhjælper ved et nyoprettet kongeligt Øvelseslaboratorium, der aabnedes i November 1820<note xml:id="idm140619164148096" n="3)" anchored="true">Harding: Correspondance de H. C. Ørsted 1920 II. S. 336.</note>, paa Nørregade (nuv. No. 21). Han holdt Forelæsninger i teknisk Kemi for det kgl. Landhusholdningsselskab i 1820—23, hvoraf Frugten blev nogle Tidsskriftartikler, og kom endelig i 1822 til Universitetet som Prof. extraordinarius. Da Ørsted i 1824 fik en Professorgaard i Studiestræde, blev Stalden indrømmet Zeise til Laboratorium og her foretrak han at blive, da senere, ved den polytekniske Læreanstalts Oprettelse 1829, et nyt Laboratorium blev ind-<pb xml:id="idm140619193841888" n="X" facs="images/002223284_000/002223284_000_0014.jpg"/>rettet i en Professorgaard i St. Pederstræde. Zeise blev nu ogsaa Lærer ved denne Læreanstalt.</p>
+          <p xml:id="idm140619168936048">Efter Mødet i Paris har Zeise næppe truffet Berzelius før ved det tyske Naturforskermøde i Hamborg 1830, hvorfra en Del svenske og danske fulgtes ad hjem<note xml:id="idm140619166487264" n="1)" anchored="true">Pontin : Anteckningar öfver natur, konst och vetenskap. Sth. 1831.</note>, og det synes at være aftalt, at Zeise næste Sommer vilde besøge Berzelius, som da indbyder ham til at komme til Årup, hvor Berzelius holdt Ferie. Om Besøget fandt Sted ses ikke af Brevene. Mulig har Kolerafrygten, som B. omtaler, holdt Z. tilbage, ligesom den forhindrede Liebigs paatænkte Studieophold hos B. i 1832. Der synes nu at være en Lakune i de bevarede Breve. I 1835 og 36 var Berzelius paa Gennemrejse i København, samtidig var dog Zeise syg<note xml:id="idm140619165627904" n="2)" anchored="true">Hertil har vel noget bidraget hans Forsøg med giftige Stoffer i uhensigtsmæssige Arbejdsrum, og han har da lidt af den Sygdom, Wöhler kalder »Hysteria chemikorum« ɔ̆: den skadelige Indflydelse af aandelig Anstrengelse, kemisk Ærgerrighed og kemisk Damp og Stank i Forening.</note>, men Korrespondancen begynder igen i 1837. I 1840 var Berzelius tilstede ved Naturforskermødet i Kbhavn og i 1842 Zeise med til det næste i Stockholm, og Samtaler har da afløst Brevvexling. Zeise var ikke med til Mødet i Kristiania 1844, men i København i 1847 mødte Berzelius og har da for sidste Gang set Zeise, som døde d. 12. Novbr. samme Aar, medens Berzelius døde d. 7. Aug. Aaret efter.</p>
+          <p xml:id="idm140619170123024">Berzelius fik Ret i sin Udtalelse til Zeise i Paris at hans videre Undersøgelser vilde bringe interessante Resultater, og i et Brev til Ørsted af 24/5 1837<note xml:id="idm140619169052624" n="3)" anchored="true">Harding : Correspondance de H. C. Ørsted. 1920. II, S. 622.</note> ønsker han sig selv »Zeise’s outgrundliga tålamod och ihärdighet«, men han er ikke blind for hans Mangler særlig i Fremstillingsevne. Han skriver herom til Wöhler d. 28/3 1834<note xml:id="idm140619168417424" n="4)" anchored="true">v. Wallach: Briefw. zw. I. Berzelius und Fr. Wöhler 1901. I, S. 566.</note>: <pb xml:id="idm140619168440912" n="XI" facs="images/002223284_000/002223284_000_0015.jpg"/>»Eine nicht minder kuriose Entdeckung ist die Zeise’sche Schwefelschmiere, die er Mercaptan genannt hat (von mercurium captansll!) .... som man läser med samma känsla, som man åker på släda i sand. Aber die Sache selbst ist doch vortrefflich.«</p>
+          <p xml:id="idm140619169994240">Men naar Berzelius anser Navnet Mercaptan for »öronslitande« og skriver<note xml:id="idm140619169993824" n="1)" anchored="true">Årsberättelse af 21/3 1834.</note>: »Deraf synes huru nödvändigt det är, att de som göre upptäckter i Vetenskapen icke öfverhopa den med kakofonier« saa har Eftertiden ikke givet ham Ret, da Navnet stadig bruges internationalt. Om et af Zeise’s tidligste Arbeider: Xanthogensyren, 1822, skriver Berzelius i sin Lærebog: »Die Erforschung dieses Gegenstandes gehörte unstreitig zu den schwierigsten Aufgaben, die im Bereich der Wissenschaft vorgekommen sind.«</p>
+          <p xml:id="idm140619185071584">Overfor Liebigs uberettigede Angreb paa Zeise’s Analyser af »kulbrintet Chlorplatin«, der ikke passede ind i hans Æthertheori, og hvorom L.<note xml:id="idm140619163898160" n="2)" anchored="true">Se Note 14 S. 31.</note> selv til B. havde udtalt, at det slet ikke var Zeise, men en anden (Dumas) han vilde ramme, greb dog Berzelius efter sit Løfte (se Brev No. 5, S. 6 og Note 14, S. 32) ind, omend noget vagt; han havde udestaaende nok med den yngre, iltre Forsker, til hvem Førerskabet i den organiske Kemi efterhaanden gled over.</p>
+          <p xml:id="idm140619163797440"><pb xml:id="idm140619163797312" n="XII" facs="images/002223284_000/002223284_000_0016.jpg"/>Zeise’s Breve til Berzelius tilhører alle ni Vetenskaps Akademiens Bibliothek i Stockholm, der velvilligt har udlaant disse.</p>
+          <p xml:id="idm140619165868640">Af Berzelius’ sex Breve til Zeise findes de fem i det kongl. Bibliothek i København:</p>
+          <p xml:id="idm140619165868064">Ny kgl. Saml. Fol. Nr. 1686.</p>
+          <p xml:id="idm140619164496016">(Brevet No. 1 foreligger ogsaa i Stentryk, dog uden post scriptum.)</p>
+          <p xml:id="idm140619164495632">Og det ene, No. 5 af 27. Okt. 1837 i Københavns Universitets Bibliothek:</p>
+          <p xml:id="idm140619169136592">Additamenta 4 0 Nr. 1033.</p>
+          <p xml:id="idm140619169136208">Paa Omslaget til dette Brev har Zeise’s Elev. Prof. Dr. C. T. Barfoed (1816—1889) skrevet til Prof. Dr. S. M. Jørgensen (1837—1914).</p>
+          <p xml:id="idm140619164070240">»Indlagte Brev fra Berzelius (en Gave til mig fra Hr. Organist Zeise<note xml:id="idm140619164069984" n="1)" anchored="true">J. M. Z., Søn af W. C. Zeise.</note>) bedes Dr. Jørgensen at afgive til Universitetsbibliotheket, om dette ønsker at bevare dette (eller maaske til det store kgl. Bibliothek). Ønsker man det ikke, bedes Dr. J. selv at modtage det.</p>
+          <p xml:id="idm140619169391552">C. Barfoed.</p>
+          <p xml:id="idm140619169391168">Til Zeise’s Portræt har den polytekniske Læreanstalt udlaant et Fotografi til Kopiering. Originalen er et Maleri, der har tilhørt Zeise’s Svigersøn afd. Vicepolitidirektør Ravn.</p>
+          <p xml:id="idm140619192234880">Udskrifter paa Brevene ere trykte med Cursiv.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619169267760" n="1" facs="images/002223284_000/002223284_000_0017.jpg"/>
+      <div decls="bibL0022232840000002" n="2" xml:id="L0022232840000002" xml:lang="da-Dk">
+        <head xml:id="idm140619166460336"><persName xml:id="idm140619166460208" type="recipient" key="Zeise, William Christopher" sameAs="#personidm140619166460208">Hr. Prof. Zeise</persName><address xml:id="idm140619166459696"><addrLine xml:id="idm140619166459568">Köpenhamn</addrLine></address>.<lb xml:id="idm140619169658656"/><geogName xml:id="idm140619169658528" type="sender" sameAs="idmf22130eb-c0b0-4546-9790-e742d95018e4">Stockholm</geogName><date xml:id="idm140619169658144" sameAs="idme407fcb6-0a5d-44d3-9d63-6c66a19b528b">d. 7. Apr. 1823</date>.</head>
+        <p xml:id="idm140619169258288">Förlåt, Bäste Herr Professor, at jag så länge upskjutit betygandet af min tacksamhet for den högst intressanta Afhandling1), som Herr Professoren hade den godheten at skicka mig med Lifmedicus Thelning2) i slutet af nästlidna år. Den uptäckt Herr Professoren gordt är högst vigtig, och jag väntar med stor nyfikenhet resultaten af analysen på xanthogène. Den synes mig höra til samma klass af kroppar med cyanogene, chlor o. fl. och hvad Herr Professoren kallat xanthogensyradt kali, i likhet med til ex. saltsyradt kali torde väl egentligen vara xanthogenekalium3). Det ser af Herr Professorens försök ut såsom hade det lyckats at förmedelst lod afskilja xanthogène i isolerad form, jag förmoder at Herr Professoren nu närmare studerat denna kropp, än då Afhandlingen skrefs, och jag anhåller ödmjukligen at vid tilfälle få del af de resultat Herr Professoren erhållit.</p>
+        <p xml:id="idm140619169257904">Jag tager mig den friheten at skicka et litet opus4) här bilagdt, af et ganska obetydligt innehåll, ehuru kanske ej utan allt intresse för läran om källor och i deras vatten uplösta ämnen.</p>
+        <p xml:id="idm140619166941440">Med utmerkt högaktning framhärder<lb xml:id="idm140619186661232"/>Herr Professorens ödmjukaste tjenare<lb xml:id="idm140619186660976"/>
+               <persName xml:id="idm140619186660848" type="sender" key="Berzelius, Jöns Jacob" sameAs="#personidm140619186660848">Jac. Berzelius</persName>.</p>
+        <postscript xml:id="idm140619166093904">
+          <p xml:id="idm140619166093776"><pb xml:id="idm140619166093648" n="2" facs="images/002223284_000/002223284_000_0018.jpg"/>P. S. Brefbäraren, Herr Klemming5), är en ganska skicklig Bläckslagare, af hvars goda hufvud och konstfärdighed, jag ofte har haft god nytta för mina rechercher. Det vore en möjlighet at han i någon mon kunde behöfva Herr Professorens goda råd och undervisning rörande föremålen för hans yrke i Köpenhamn. Jag anhåller odmjukeligen at Herr Professoren vill vara af den godheten at meddele honom dem<note xml:id="idm140619166400160" n="*)" anchored="true">Dette P. S. er overstreget.</note>.</p>
+          <p xml:id="idm140619172383776">Hr Klemming har förandret sin Reseplan och Herr Öfversten Dannenfeldt har haft den godheten at åtage sig öfverförandet af dette bref; jag får recommendera honom till Herr Professorens vänskapsfulla emottagande, han är en intressant, kunskapsrik och industrieux man.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619166106704" n="2" facs="images/002223284_000/002223284_000_0018.jpg"/>
+      <div decls="bibL0022232840000003" n="3" xml:id="L0022232840000003" xml:lang="da-Dk">
+        <head xml:id="idm140619188312896">Till Herr Professor <persName xml:id="idm140619188312640" type="recipient" key="Zeise, William Christopher" sameAs="#personidm140619188312640">W. C. Zeise</persName>
+               <lb xml:id="idm140619168922080"/>
+               <address xml:id="idm140619168921952"><addrLine xml:id="idm140619168921824">Fridricsbergsgade 27 i Kjøbenhavn</addrLine></address>
+               <lb xml:id="idm140619168921568"/>
+               <geogName xml:id="idm140619168921440" type="sender" sameAs="idmc227c240-f9fb-4c45-88e3-a41a1b424356">Stockholm</geogName>
+               <date xml:id="idm140619165347216" sameAs="idm8814798d-e80f-4569-8aee-620b0df667ba">d. 1O. Juni 1831</date>:</head>
+        <p xml:id="idm140619165346704">Mein lieber Zeise</p>
+        <p xml:id="idm140619164924064">Ich schreibe deutsch da ich vermuthe dass Sie leichter eine schlechte deutsche, als eine schlechte swedische kand lesen. — Palmstedt6) hat mir Ihr Schreiben an Ihn mitgetheilt, aus welchem ich ersehe mit Freude, dass Sie ihren Vorschlagmich zu besuchen nicht aufgegeben haben.—</p>
+        <p xml:id="idm140619164599776">Ich hatte eigentlich den Wunsch Sie hier im Juni zu haben damit wir nachher eine Reise zusammen machen konnten, Da ich nichts von Ihnen hörte habe ich mit meinem Freunde, dem Presidenten Poppius7), einen Reiseplan entworfen, von dem ich hoffe das er ausgeführt werden kann ohne mich die Freude zu berauben Sie hier zu sehen. Sie können die Ende von Juli und August ledig sein. Wir reisen von hier, wenn anders aus Allem nichts wird, am 17. Juli, und werden um 25ten bei dem Grafen Trolle Wachtmeister8), dem Chemiker, auf Arup <pb xml:id="idm140619164599520" n="3" facs="images/002223284_000/002223284_000_0019.jpg"/>21/2 meile von Christianstadt in Schonen eintreffen. Dorthin lade ich Ihnen ein, da werden wir einiger Tage spendiren, reisen von dort nach Gothenburg wo wir Palmstedt besuchen werden und so wieder nach Stockholm, wohin Sie dann die Güte haben mich zu folgen. — Das nähere können wir kurz zuvor abmachen. — Die Möglichkeit kann während der Zeit eintreffen dass die verdammte Cholerageschichte die Communicationen sperrt. —</p>
+        <p xml:id="idm140619168946576">Vielen, vielen Dank für die Abhandlungen9) die mir Palmstedt beide geschicht hat.</p>
+        <p xml:id="idm140619170433952">Gans der Ihrige<lb xml:id="idm140619170433696"/>
+               <persName xml:id="idm140619170433568" type="sender" key="Berzelius, Jöns Jacob" sameAs="#personidm140619170433568">Berzelius</persName>.</p>
+        <postscript xml:id="idm140619191353408">
+          <p xml:id="idm140619191353280">Meine Empfehlungen an Freund Ørsted.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619191352768" n="3" facs="images/002223284_000/002223284_000_0019.jpg"/>
+      <div decls="bibL0022232840000004" n="4" xml:id="L0022232840000004" xml:lang="da-Dk">
+        <head xml:id="idm140619164630704">Till Herr Professor <persName xml:id="idm140619170385552" type="recipient" key="Zeise, William Christopher" sameAs="#personidm140619170385552">Zeise</persName>
+               <lb xml:id="idm140619170385056"/>Chemiæ Professor vid universitet i <address xml:id="idm140619170384800"><addrLine xml:id="idm140619164089520">Kjøbenhavn<lb xml:id="idm140619164089264"/>Fredricberggade 27</addrLine></address>
+               <lb xml:id="idm140619164089008"/>
+               <lb xml:id="idm140619164088880"/>
+               <geogName xml:id="idm140619164088752" type="sender" sameAs="idm25cd4816-6522-466e-a233-4173c676d043">Stockholm</geogName>
+               <date xml:id="idm140619163752992" sameAs="idm282f423b-e481-4db6-9210-bdf8053b6af7">d. 12. Juli 1831</date>.</head>
+        <p xml:id="idm140619163752480">Jag hoppas at mit bref af d. 14. Juni<note xml:id="idm140619163673104" n="*)" anchored="true">Det foregaaende Brev er dateret d. 10. Juni, men maaske først afsendt d. 14.?</note> kommit Hr Professoren tilhanda. I anledning af hvad jag der föreslagit får jag nämna at jag d. 28. Juli kommer til Årup, blir der til d. 4. Aug. gör sedan en resa i små krokvägar til Götheborg och kommer troligen dit omkring d. 10. Om det icke skulle convenera Herr Professoren at komma til Årup, så kan det gå an at mötas i Götheborg der jag blir en vecka. Jag tänker vara åter i Stockholm d. 24. Aug. Det skulle vara alt för ledsamt at icke på något af dessa ställen få det nöjet at träffa Herr Professoren.</p>
+        <p xml:id="idm140619164661808">Högaktning och vänskap<lb xml:id="idm140619164661552"/>
+               <persName xml:id="idm140619164661424" type="sender" key="Berzelius, Jöns Jacob" sameAs="#personidm140619164661424">Berzelius</persName>.</p>
+        <postscript xml:id="idm140619163977440">
+          <p xml:id="idm140619163977312">Mycket hälsninger til vännen Ørsted.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619169656944" n="4" facs="images/002223284_000/002223284_000_0020.jpg"/>
+      <div decls="bibL0022232840000005" n="5" xml:id="L0022232840000005" xml:lang="da-Dk">
+        <head xml:id="idm140619169067792">S. T. Hr <persName xml:id="idm140619191893168" type="recipient" key="Berzelius, Jöns Jacob" sameAs="#personidm140619191893168">Baron Berzelius</persName>!<lb xml:id="idm140619191892544"/>
+               <geogName xml:id="idm140619191892416" type="sender" sameAs="idm026f4cd9-b9a1-4672-a50d-e34648740c1d">Kjøbenhavn</geogName>
+               <date xml:id="idm140619169071600" sameAs="idm1ec6c489-2740-40bf-b6fa-8d837de32761">d. 24de Febr. 1837</date>.</head>
+        <p xml:id="idm140619169071088">Idet jeg har den Ære ærbödigst at tilstille Hr Baronen vedlagte lille Arbeide10) giver jeg mig den Frihed at tilföie, at jeg senere ogsaa har repeteret mine Forsög med Am̅onium-Foreningen, og derved faaet Resultater, som stemme aldeles med dem ved Kalium-Foreningen, da nemlig det krystalliserede brændbare Chlorplatin-Amonium har givet 5,123 p. c. Vand (idet Beregningen under Forudsætning af 2 Atomer Vand mod 2 Atomer Platinchlorür giver 5,139) og 56,162 p. c. Platin idet Beregningen giver 56,35. — Jeg har desuden fundet, at ved Destructionen af en vandig Oplösning af brændbart Chlorplatin formedelst Ophedning dannes en destillerbar organisk Syre. Naar nemlig det ved Destruction i et Destiller-Apparat erholdte saltsyreholdige Destillat mættes med Sölvoxid, indeholder den over Chlorsölvet staaende Vædske, i ei ubetydelig Mængde, Sölvoxid, som udskilt ved Svovelvandstofgas giver Syren i vandholdig Tilstand: men jeg har endnu ei havt Leilighed til en grundig Undersögelse derover.</p>
+        <p xml:id="idm140619168970656">Med udmærket Höiagtelse<lb xml:id="idm140619168970400"/>Herr Baronens hengivne<lb xml:id="idm140619168970144"/>
+               <persName xml:id="idm140619165537440" type="sender" key="Zeise, William Christopher" sameAs="#personidm140619165537440">W. C. Zeise</persName>.</p>
+      </div>
+      <pb xml:id="idm140619165536672" n="4" facs="images/002223284_000/002223284_000_0020.jpg"/>
+      <div decls="bibL0022232840000006" n="6" xml:id="L0022232840000006" xml:lang="da-Dk">
+        <head xml:id="idm140619171712848">Till Herr Professoren Dr. <persName xml:id="idm140619165259600" type="recipient" key="Zeise, William Christopher" sameAs="#personidm140619165259600">Zeise</persName>
+               <lb xml:id="idm140619165259104"/>
+               <address xml:id="idm140619165258976"><addrLine xml:id="idm140619145455872">Kjøbenhavn.</addrLine></address>
+               <lb xml:id="idm140619145455616"/>
+               <geogName xml:id="idm140619145455488" type="sender" sameAs="idm1095dd1b-5269-431b-b265-8884d393595b">Stockholm</geogName>
+               <date xml:id="idm140619145455104" sameAs="idm61903b4c-efb5-4d00-a814-43fb0943596e">d. 27. Oct. 1837</date>.</head>
+        <p xml:id="idm140619117001712">Högädle Herr Professor</p>
+        <p xml:id="idm140619117001328">Utan tvifvel har Herr Professoren länge sedan sett vår vän Liebigs sednare critik11) af Hr. Prof. sista analyser af de brännbara platinasalterna. Jag är langt ifrån at gille så <pb xml:id="idm140619148777200" n="5" facs="images/002223284_000/002223284_000_0021.jpg"/>väl sjelfva critiken, som den ton af missnöjd öfverlägsenhet, hvari den är utförd; men tror mig dock böra upmana Herr Prof. at med et nytt analytisk försök bestämma vätehalten, såsom det enda afgörande beviset emot Liebig. Jag har ingen misstanke at icke Herr Prof. resultat är rigtigt, ty om man antager at det kolbundna vätet efter Liebigs åsigt vore C4 H6 istället för C4 H8 eller C2 H4, så ser jag ingen möjlighet at förklara dess upkomst, utan at ännu andra kroppar, än dem Hr Professoren funnit, tillika bildas. Ideen at den fällda brännbara platinan vore acetyl-platina, i sammansättningen analog med svafvelplatina, låter visserligen interessant; men kan dock icke antagas så länge försöken ej otvifvelagtigt utvisa at så är.</p>
+        <p xml:id="idm140619150468272">Lättheten at torrka massan absolut före förbränningen genom användande af omvexlande lufttomt rum och vattenfri luft vid + 100 0, är så stor at Liebigs idé om et nödvändigt öfverskott af väte i analysen är utan all grund. — Hufvudändamålet med min skrifvelse är likväl icke denna ingress, utan et ämne som dermed står i närmaste samband. Jag ville bedje Herr Professoren utsträcka sina försök äfven til trädalkohol, aceton och terpenthinolja, det är högst sannolikt at platina och dess chlorur kan förena sig med flere slag af kolbundna väten, hvarigenom denna class af föreningar vinner et högra vetenskapligt interesse. Herr Professoren vet at man vid porslinsfabrikkerna gör platinering af godset med platinachlorid, som förut behandlas med terpenthinolja, och får på detta sätt et platinasalt, som ved uphettning lemnar en speglande metallhinna. Det är icke troligt<note xml:id="idm140619150468016" n="*)" anchored="true">otroligt?</note> at detta är identiskt med det af Hr Professoren undersökta. —</p>
+        <p xml:id="idm140619183711792">Skulle trädalkohol icke finnas at tilgå i Köpenhamn, så hafva vi här god tilgång derpå och skulle lätt kunna skicka den med Diligeancen til Helsingborg. Hvad acetone beträffar, så är dess beredning rätt krånglig och obehaglig, och går kanske bäst på Fremy’s12) sätt med <pb xml:id="idm140619197492864" n="6" facs="images/002223284_000/002223284_000_0022.jpg"/>kalk och socker, hvarvid man tillike får i myckenhet Kane’s13) ether mesithylique, som icke är annat än Fremy’s metaceton. —</p>
+        <p xml:id="idm140619170705312">Förlåt at jag tager mig den friheten at föreslå Herr Professoren denna recherche; men som jag gissar at Liebigs Skrift ändå föranleder någon åtgärd från Herr Professorens sida, så kunde den föreslagne undersökningen få följa med på samma gång. Så snart Liebig återkommer från sin langa sommartour til England och Frankrika, kommer han at från mig erhålla en lång skrupenz för tonen i sin kritik14), äfven som för framkastandet af et platinasalt, som, ehuru i sig sjelf högst interessant, säkerligen är något helt annat än hvad det borde vara för at instämma med hans theorie.</p>
+        <p xml:id="idm140619170705056">Med utmerkt högaktning och vänskap<lb xml:id="idm140619163958160"/>
+               <persName xml:id="idm140619163958032" type="sender" key="Berzelius, Jöns Jacob" sameAs="#personidm140619163958032">Jac. Berzelius</persName>.</p>
+      </div>
+      <pb xml:id="idm140619165861104" n="6" facs="images/002223284_000/002223284_000_0022.jpg"/>
+      <div decls="bibL0022232840000007" n="7" xml:id="L0022232840000007" xml:lang="da-Dk">
+        <head xml:id="idm140619165437984">(Poststempel)<lb xml:id="idm140619165437728"/>
+               <geogName xml:id="idm140619165437600" type="sender" sameAs="idm7aa30860-6663-4e28-948e-bb2b87bf027e">Kjøbenhavn</geogName>
+               <date xml:id="idm140619165437216" sameAs="idm707e3783-b015-434c-8590-cab0f70cd92a">18/1 1838</date>
+               <lb xml:id="idm140619163720832"/>Helsingborg 22/1 1838<lb xml:id="idm140619163720576"/>A Monsieur<lb xml:id="idm140619163720320"/>Monsieur le Baron de <persName xml:id="idm140619166730928" type="recipient" key="Berzelius, Jöns Jacob" sameAs="#personidm140619166730928">Berzelius</persName>,<lb xml:id="idm140619166730416"/>Secrétaire de l’Académie des Sciences &amp;c &amp;c<lb xml:id="idm140619166730160"/>a <address xml:id="idm140619168467520"><addrLine xml:id="idm140619168467392">Stockholm</addrLine></address>.<lb xml:id="idm140619168467008"/>S. T. Hr Baron v. Berzelius<lb xml:id="idm140619186771952"/>Kjöbenhavn d. 14de Jan. 1838.</head>
+        <p xml:id="idm140619186771568">Höjstærede Hr Baron!</p>
+        <p xml:id="idm140619186771120">Megen Tak for de to Breve: det af 1ste Aug.<note xml:id="idm140619165903152" n="*)" anchored="true">Synes ikke at være bevaret.</note> og det af 27de Oct. f. A. Det sidste har jeg flere Gange været i Begreb med at besvare, men er stedse bleven afholdt ved det Haab, snart at kunne meddele Dem nogle omtalelsesværdige Resultater af mine Forsög med Platinchlorid og Acetone15). Jeg var nemlig just i Færd med at tilvirke Acetone for disse Forsög, da jeg modtog Deres ærede <pb xml:id="idm140619187425936" n="7" facs="images/002223284_000/002223284_000_0023.jpg"/>Forslag desangaaende. Jeg har alt anvendt temelig meget Arbejde paa disse Forsög; men Producterne ere her saa mange og saa forviklede, at det rimeligvis ændnu vil vare noget, inden jeg faaer alt tilbörligt opklaret og bestemt. Idet jeg derfor nu ei længer vil udsætte min Besvarelse, maa jeg bede Dem, ved denne Leilighed at tage tiltakke med nogle fragmentariske og kun lidet tilfredsstillende Meddelelser. —</p>
+        <p xml:id="idm140619168457104">Chloridet oplöses meget rigeligt af vandfrit Acetone, og selv ved Henstand ved almindelig Temperatur skeer Virkning, — men uden Opvarmning forbliver dog störste Delen af Chloridet uforandret. Ved Destillation til Syrupsconsistens faaes en Masse hvoraf kan udskilles i det mindste 6 forskiellige Kulstofholdige Platinforbindelser: 1) et guult krystallinsk som udsætter sig temelig snart af den ved Massens Udtværing med Vand erholdte, filtrerede, Vædske; 2) et graasort, ukrystallisabelt, blot i Alcohol, Æther og Acetone oplöseligt; 3) et sortebruunt, ukrystallisabelt, blot i Æther og Acetone oplöseligt. 4) et blot i Acetone (rigeligt) oplöseligt, af brunsort Farve og ligeledes ukrystallisabelt; 5) et blot i Acetone oplöseligt, (men meget tungoplöseligt) hvidt og af Oplösningen krystalliserbart; og 6) et sort, ukrystalliserbart, i alle nævnte Agentier uoplöseligt Legeme, men dette i meget ringe Mængde. Nogle af dem ere ogsaa oplöselige i caust. Kali; men uoplöselige i Saltsyre, og destrueres meget vanskeligt ved Digestion med Kongevand. Nogle give Foreninger med Chlorkalium, Chlorbaryum og nogle andre Chlormetaller; men disse krystallisere kun vanskeligt. Nogle af dem holder det særdeles vanskeligt at faae i en tilbörlig reen Tilstand for en Analyse. I Destillatet er, forstaaer sig ogsaa noget at söge, men, hvad dette angaaer er maaske Kane16) alt komen mig i Forkjöbet. — Acetone foretrækker jeg at tilvirke af eddikesyret Kalk: ved at foretage Destillationen i de bekjendte store Jernflasker for Quægsölv, har jeg forskaffet mig meget betydelige Qvantiteter. Ogsaa er jeg i <pb xml:id="idm140619168456848" n="8" facs="images/002223284_000/002223284_000_0024.jpg"/>Færd med nogle andre Undersögelser over dette Stof. — Jeg ligger desuden midt i en Undersøgelse over guult og sort Senop, som synes at love mig meget interesserende Resultater. Uheldigvis blev jeg i Som̅er atter afbrudt ved Sygelighed.</p>
+        <p xml:id="idm140619166648944">Hvad Betingelserne for Productionen af den ætheriske Olie angaaer, saa have maaske Liebig og Wöhler alt afskum̅et Flöden ved deres siste Arbeide over Bittermandelolien17); men jeg har nogle, maaske ei uinteressante, Erfaringer over dens Forhold under hidtil, saa vidt jeg veed, ei forsögte Omstændigheder; dog fornem̅elig har jeg rettet min Opmærksomhed paa det, der tildeels er blevet kaldet Sulfosinapin, hvorover, som bekjendt, det hidtil bekiendtgjorte er meget utilfredsstillende.</p>
+        <p xml:id="idm140619166413616">Jeg agter derhos at undersöge forskjellige Dele af Senopsplanten under hele dens Udvikling til forskjellige Tider, med Hensyn til Tilstedeværelsen, eller Fraværelsen af Svovelet: et Arbejde jeg alt begyndte for nogle Aar siden, men hvori jeg flere Gange er blevet afbrudt. —</p>
+        <p xml:id="idm140619166652304">Med megen Tak tager jeg mod Baronens venskabelige Tilbud, at vilde forskaffe mig nogen Træspiritus, hvoraf her intet er at faae. Jeg önskede gjerne, snarest muligt en Qvanlitet til Belöb i Værdi af omtrent 5 Species: naar jeg blot faaer Kundskab om dens Ankomst til Helsingborg vil jeg let kunne faae den herover; og jeg skal da uopholdeligt forsöge den med Platinchlorid; — Ogsaa skal jeg ved Leilighed forsöge Terbentinolie. Jeg har forsögt Benzin dermed; men skjönt der foregaar nogen Virkning, saa synes dog deraf ei stort at være at vente. — Det fornöier mig naturligviis meget, at see at Baronen misbilliger Liebigs Maneer i at omtale mit sidste Arbeide. Skjönt Muligheden af at Forsöget kunde have givet 2 At. Hydrogen for lidet, ej kan nægtes med Hensyn til den Omstændighed, at Brintmængden her er saa ringe i Sam̅enligning med Platinmængden, saa har jeg dog saare liden Grund til at antage at det er skeet. Thi jeg har anvendt al <pb xml:id="idm140619166512384" n="9" facs="images/002223284_000/002223284_000_0025.jpg"/>mulig Omhyggelighed for at undgaae det, og her (som stedse i den senere Tid) brugt Chlorcalcium, der först var udsat for en Ström af Kulsyre (skjöndt det ikke blot i smeltet, men selv i blot törret Tilstand stedse reagerer alkalinsk), samt undersögt en Deel af det opsamlede Vand, der i alle Maader forholdt sig reent; og dernæst kan Hypothesen om at Carbohydrogenet er H6 C4, og ikke H8 C4, ei bringes i Samklang med de övrige Producter. Virkningen maatte da nok være at fremstille ved Æqvationen:</p>
+        <p xml:id="idm140619166412320">8C24H4O+2Pt8Cl =<lb xml:id="idm140619166412064"/>(4H4Cl+(4C6H2Cl+2Pt2Cl)+<lb xml:id="idm140619166411808"/>(4C6H1O+2HO)+(4H2O)+2H.</p>
+        <p xml:id="idm140619166839808">Men der udvikler sig ingen Hydrogenluft; og Udskillingen af Platin, eller Dannelsen af almindeligt Platinclorur synes ikke at være constant. Liebig’s Phrase18): »die Entstehung von Zeises Platinsalze durch die Einwirkung von Platinchlorid auf Alkohol erklärt sich auf eine so ein-fache Weise, dass ich es überflüssig halte, sie hier aus einander zu setzen«, er da nok en Yttring af hans ei sjeldne Ubetænksomhed. Men hvad der vel meest maa dadles, er at Lie bi g ei med same Oprigtighed tilstaaer sin Fejl i den Paastand, at det brændbare Chlorplatin-Kalium giver Vand, naar det destrueres, som jeg har tilstaaet min, ved den förste Undersögelse tildeels at have anvendt ei tilbörligt rene Producter, og tildeels en mindre god Fremgangsmaade. At gjengælde hans hovmodige Uartighed vilde være at gjöre Skaar i den Anstændighed, hvormed chemiske litteraire Stridigheder i Almindelighed ere blevne förte; og derfor vil jeg nok vide at vogte mig, men iövrigt kan jeg ei undlade ved Lejlighed at paatale hans Fremfærd. — Jeg agter imidlertid endnu ved Lejlighed at foretage en Bestem̅else af Hydrogen-Mængden ved Hielp af chromsyret Blyoxid. — Hr Baronens Aarsberetning for 1837 er, saavidt jeg veed, endnu ikke ankom̅en <pb xml:id="idm140619166839552" n="10" facs="images/002223284_000/002223284_000_0026.jpg"/>til Kjöbenhavn; — men muligt vil jeg kunne faae den fra Lund. —</p>
+        <p xml:id="idm140619165633056">Saasnart mine Undersögelser have givet vel oplyste Resultater skal jeg give mig den Ære at meddele dem.</p>
+        <p xml:id="idm140619165632448">Med Hengivenhed og dyb Höiagtelse<lb xml:id="idm140619166344880"/>Deres <persName xml:id="idm140619166344624" type="sender" key="Zeise, William Christopher" sameAs="#personidm140619166344624">W. C. Zeise</persName>.</p>
+      </div>
+      <pb xml:id="idm140619175721888" n="10" facs="images/002223284_000/002223284_000_0026.jpg"/>
+      <div decls="bibL0022232840000008" n="8" xml:id="L0022232840000008" xml:lang="da-Dk">
+        <head xml:id="idm140619166738576">Til S. T. Hr. <persName xml:id="idm140619166738320" type="recipient" key="Berzelius, Jöns Jacob" sameAs="#personidm140619166738320">Baron v. Berzelius</persName>!<lb xml:id="idm140619166737696"/>
+               <geogName xml:id="idm140619165672528" type="sender" sameAs="idmbc91c11e-5438-4f4f-b8e7-6815df74d1c5">Kjöbenhavn</geogName>
+               <date xml:id="idm140619165672144" sameAs="idmc1c6a839-f778-4655-937f-18b68f01ebb5">d 14de October 1839</date>
+            </head>
+        <p xml:id="idm140619165671760">Endelig har jeg da den Fornöielse at tilstille Hr Baronen et Exemplar af min Afhandling om Virkningen mellem Acetone og Platinchlorid. For over et Aar siden havde jeg næsten alle de nu benyttede Materialier færdige, men udsatte bestandigt Udarbeidelsen i Haab om at faae visse nu blot berörte Puncter nærmere oplyste. Men da jeg imidlertid kom ind paa andre Undersögelser, og det saaledes kom til at see noget langvarigt ud med hiin Rest, besluttede jeg for det förste at lade Afhandlingen gaae i sin nærværende Skikkelse. Ved Fortsættelsen af de herhenhörende Undersögelser er jeg dog alt nu truffet paa nogle meget mærkværdige Forhold mellem Acetchlorplatin i Acetone samt visse af Platinharpixens Stoffer og Phosphor, eller Svovel. Derved udskilles nemlig paa den ene Side en særegen Forbindelse af Platin, Kulstoff og Phosphor eller Svovel, og paa den anden en Sam̅ensætning af en anden Art. Dette gav mig Anledning til at forsöge Qvægsölvmercaptid19) under lignende Omstændigheder, og jeg fandt derved at ogsaa der indtræder curiöse Virkninger, og som det synes, noget forskellige, eftersom der anvendes en acetonisk, alcoholisk, eller etherisk Oplösning af Mer-<pb xml:id="idm140619165526624" n="11" facs="images/002223284_000/002223284_000_0027.jpg"/>captidet. Jeg haaber ret snart at kunne have den Ære at meddele noget derom.</p>
+        <p xml:id="idm140619172389984">Min Helbreds - Tilstand har, Gud skee Tak, i det sidste Aar, som det synes, undergaaet en meget fordelagtig Forandring: Jeg haaber derfor at det nu skal gaae lidt hurtigere fra Haanden med mine Undersögelser, der i de sidste 3 til 4 Aar have lidt meget store Ophold ved mine sygelige Perioder; — ogsaa har jeg nu faaet endeel ei ubetydelige Forbedringer i mit Laboratorium. Hr Baronens Befindende, der, som jeg til min inderlige Bedrövelse har hört, i den senere Tid ei har været det bedste, vil jeg haabe nu ogsaa at være godt. — Jeg agter nu snart at forsöge Forholdet mellem Træalcohol og Platinchlorid, og har til den Ende bedet vor Ven, Hr Professor Palmsted, at besörge mig nogen Træspiritus tilsendt fra Sverrig. Umiddelbart derefter agter jeg at tage Terbenthin-olien for under sam̅e Omstændigheder, til hvilken Undersögelse De har været saa venskabelig at indbyde mig.</p>
+        <p xml:id="idm140619172389600">Med höieste Grad af Agtelse<lb xml:id="idm140619172389344"/>venskabeligst<lb xml:id="idm140619172168144"/>
+               <persName xml:id="idm140619172168016" type="sender" key="Zeise, William Christopher" sameAs="#personidm140619172168016">W. C. Zeise</persName>.</p>
+      </div>
+      <pb xml:id="idm140619108252048" n="11" facs="images/002223284_000/002223284_000_0027.jpg"/>
+      <div decls="bibL0022232840000009" n="9" xml:id="L0022232840000009" xml:lang="da-Dk">
+        <p xml:id="idm140619165334896">Med megen Skamfuldhed over ei tidligere efter mit minderige Ophold i Stockholm at have tilskrevet Dem, Hr. Baron, begiver jeg mig nu endelig dertil. Grunden til denne Udsættelse er i Sandhed ene den Omstændighed, at jeg önskede med det samme at kunne meddele lidt videnskabeligt nyt, hvilket jeg troede tidligere vilde kunne skee end Tilfældet blev. —</p>
+        <p xml:id="idm140619166841952">Men nu först og fornemmelig, kjære Baron Berzelius, hjertelig, ja i Sandhed ret hjertelig Tak for den venskabelige Omgang, De viste mig ved mit Ophold i Stockholm, <pb xml:id="idm140619166841344" n="12" facs="images/002223284_000/002223284_000_0028.jpg"/>hvilket jeg uden Betænkning regner til mit Livs behageligste Dage. Blandt det meget, som biedrog til dette Opholds Behagelighed, var den Gjæstfriehed som vistes mig af Hr. Professor von Döbeln20), og jeg maa bede Dem ved Leilighed for ham i saa Henseende at gjentage min Tak.</p>
+        <p xml:id="idm140619165040960">Med Stabsdyrlæge Brinkheim modtog jeg for kort siden den mig al Tid saa kjære Hilsen fra Dem, samt Deres to senere Arbeider, for hvilke jeg har den Ære meget at takke. Jeg lærer deraf blandt andet at kjænde de nærmere Omstændigheder ved den Fare21), for hvilken De i Vinter har været udsat og hvorom jeg tidligere kun havde en, men dog beroligende Avisefterretning: Gud skee Tak at det löb saa heldigt af!</p>
+        <p xml:id="idm140619165256816">Den nu ved Deres lærerige Arbeide erhvervede Kundskab om Forbindelserne mellem Phosphor og Svovel kommer mig ret beleilig med Hensyn til mine Forsög over Forholdet mellem slige Forbindelser og visse organiske Stoffer, Forsög, der höist sandsynligt vilde give meget lærerige Resultater, men som tillige i den Grad ere besværlige, — blandt andet ved den höist ubehagelige og vedhængende Lugt ved Producterne at jeg, der dog er temmelig vandt til ildelugtende Sager, næsten maa flye derfor. Det samme gjælder om Producterne af Virkningen mellem en Oplosning af Am̅oniak i Acetone og Svovel, hvormed jeg af sam̅e Grund endnu ikke er rykket synderligt frem. Forrige Vinter, da jeg sysselsatte mig dermed, var jeg, ved den mig over alt forfölgende Stank, næsten udelukket fra al selskabelig Omgang22). Ret meget kjært vilde det være mig for Sagens Skyld, om andre vilde tage Haand med i disse Undersögelser.</p>
+        <p xml:id="idm140619165040448">Jeg har nu nærmere undersögt Sam̅ensætningen af det hvide Legeme, som udskiller sig af oplöst Am̅onium-Sulfocyanhydrat blandt andet ved Tilkomst af Chlorvand. Derved er en Omstændighed, som jeg ei ret veed at for-<pb xml:id="idm140619164640080" n="13" facs="images/002223284_000/002223284_000_0029.jpg"/>klare mig. Nemlig ved to vel overensstemmende Forsög angaaende Qvælstofmængden, bestemt paa gam̅el Maade efter Maal, havde jeg faaet mod 2 Atomer Kulstof og 4 Atomer Hydrogen, 3 Atomer Qvælstof. Dette vilde imidlertid ikke passe med den Mængde af Svovel jeg stedse erholdt; og naar jeg fradrog Mængden af Kulstof, Hydrogen og Svovel, erholdt jeg stedse kun 2 Atomer Qvælstof. Jeg forsögte derfor senere at bestem̅e Qvælstoffet efter Vægt, ved den nu bekjendte Afbrænding formedelst natronholdig Kalk; og jeg erholdt da virkeligt ogsaa stedse en Mængde Qvælstof, som skjönt lidt afvexlende ved Portioner præparerede til forskjellige Tider — en Fölge af Vanskeligheden ved at faae dette Stof absolut reent — dog aabenbart kun passede med 2 Atomer. Vel er jeg endnu i Færd med et Par herhenhörende Forsög, men efter det anførte holder jeg mig dog overtydet om, at Sam̅ensætningen af hiint Stof (som jeg indtil videre kalder Hydranzothin) er</p>
+        <p xml:id="idm140619164626304">C2 S4 N2 H4.</p>
+        <p xml:id="idm140619164625920">Ogsaa passer dette bedst med Phænomenerne ved dets Dannelse. Idet nemlig hiint Stof udfælder ved Chlorvandet faaer man i Oplösningen en Blanding af Chlorammonium og Svovelcyanammonium, saa at man kan tænke sig dets Frembringelse saaledes, at 2 Atomer Am̅onium-Sulfocyanhydrat = C4 N8 S6 H20 giver a) N2 H8 Cl2, b) N2 H8 C2 N2 S2 og c) C2 S4 N2 H4 (det hvide Legeme).</p>
+        <p xml:id="idm140619164533776">Jeg har anstillet nogle Forsög over Virkningen mellem Acetone og en Oplösning af Sölv, elier Qvægsölv i Salpetersyre, omtrent som for Frembringelsen af Knaldsyresalte ved Alcohol. Ved et Forsög af denne Art med Quægsölvoplösningen var jeg nær ved at blive haardt saaret. Vel kjendte jeg Kanes Angivelse angaaende den Voldsomhed, hvormed Acetone og Salpetersyre samvirke; men da Qvægsölvoplösningen var tem̅elig fortyndet, og en <pb xml:id="idm140619164469616" n="14" facs="images/002223284_000/002223284_000_0030.jpg"/>betydelig Deel Acetone tilsat i smaa Portioner, aldeles intet havde givet, som kunde lade noget befrygte ved Tilsætningen af mere, tilsatte jeg dette: kort efter blev hele Blandingen med overordentlig Voldsomhed kastet ud af Glasset og derved en Deel i mit Ansigt, men dog til Lykke kun ubetydeligt i Øinene. Det Product jeg ved senere Forsøg herover har erholdt er imidlertid kun et Oxalsyresalt.</p>
+        <p xml:id="idm140619163894800">Jeg har derhos anstillet nogle Forsög over Forholdet mellem Træalcohol og Platinchlorid. Jeg begav mig til dem i den Forventning, at faae Producter, svarende til dem, som Vinalcoholen giver; men Tingen er anderledes. Vel reduceres Chloridet ved fortsat Digestion med Træalcoholen fuldstændigt til Chlorür, men Productet er ingen tydeligen bestemt Forbindelse af dette og et organisk Stof; og tilsættes dernæst Chlorkalium, saa faaer man et Salt, der i alle Maader forholder sig ene og allene som rent Platinchlorür-Kalium. Der opstaaer dog nu det Spörgsmaal, hvad ved denne Reductionsvirkning bliver af Træalcoholen; og da jeg just er i Besiddelse af en tem̅elig stor Deel Træalcohol, agter jeg nærmere at undersöge dette.</p>
+        <p xml:id="idm140619166798080">Jeg tager mig den Friehed at lade medfölge en lille ubetydelig Afhandling om Tobakkens Destructions-Producter23): de andre Exemplarer er jeg saa frie at bede Hr Baronen ved Leilighed at uddele. Ogsaa giver jeg mig den Friehed at vedlægge et Aftryk24 af min Meddelelse angaaende Virkningen mellem am̅oniakalsk Acetone og Svovel, der desto værre endnu kun indeholder Antydninger af interessante Forhold.</p>
+        <p xml:id="idm140619166378480">Ret snart venter jeg at kunne have den Ære at tilstille Hr Baronen en lille Samling af mine til forskjellige Tider erholdte, fuldt bestemte, chemiske Producter, saasom Xanthogen-, Mercaptan- og Platin-Præparater, i Haab om at dem maae forundes en Plads i Deres smukke Samling.</p>
+        <p xml:id="idm140619164864704">Jeg beder at formelde min ærbödige Compliment for <pb xml:id="idm140619164864320" n="15" facs="images/002223284_000/002223284_000_0031.jpg"/>Frieherinden, ligesom og at hilse fælleds Venner og Bekjendtere! — Fra Ørsted og Forchham̅er kan jeg hilse.</p>
+        <p xml:id="idm140619170033728">Med inderlig Hengivenhed og ubegrænset Höiagtelse<lb xml:id="idm140619165215984"/>forbliver jeg<lb xml:id="idm140619165215728"/>Deres <persName xml:id="idm140619165215472" type="sender" key="Zeise, William Christopher" sameAs="#personidm140619165215472">W. C. Zeise</persName>.</p>
+        <postscript xml:id="idm140619164694528">
+          <p xml:id="idm140619164694400"><geogName xml:id="idm140619164694272" type="sender" sameAs="idm8ffa549f-9379-44e8-a120-399ad1a8df8d">Kjöbenhavn</geogName>, <date xml:id="idm140619164693888" sameAs="idmbe4a4772-8cf9-435f-a34a-55302794026c">d. 24de Apr. 1843</date>.</p>
+          <p xml:id="idm140619170728592">Höjvelbaarne<lb xml:id="idm140619170728336"/>Hr. Frieherre Berzelius.<lb xml:id="idm140619170728080"/>Ridder og Commandeur af flere Orderner.</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619170143568" n="15" facs="images/002223284_000/002223284_000_0031.jpg"/>
+      <div decls="bibL0022232840000010" n="10" xml:id="L0022232840000010" xml:lang="da-Dk">
+        <head xml:id="idm140619169073744">Till Herr Professoren og <persName xml:id="idm140619169073488" type="recipient" key="Zeise, William Christopher" sameAs="#personidm140619169073488">Riddaren W. Zeise</persName>.<lb xml:id="idm140619168914096"/>(Nörregade 231)<lb xml:id="idm140619168913840"/>i <address xml:id="idm140619168913584"><addrLine xml:id="idm140619168913456">Kjöbenhavn</addrLine></address>
+               <lb xml:id="idm140619168913200"/>
+               <geogName xml:id="idm140619165627168" type="sender" sameAs="idm9dc3ef2a-2f8f-4c7d-bca0-a9d536506227">Stockholm</geogName>
+               <date xml:id="idm140619165626784" sameAs="idm9c3ffbaa-c62f-4a4a-9d04-0dc99d185284">d. 20 Juni 1843</date>.</head>
+        <p xml:id="idm140619165626272">För Herr Professorens vänskapsfulla och interessante skrifvelse af d. 24 April, tackar jag på det förbindtligaste, med anhållan om vänskapsfull ursägt at jag har så långe dröjt att besvara den; men min tid har i vår varit tagen i et större anspråk än vanligt, ty så snart jag hunnit årsberättelsen färdig, måste jag med lika ihärdighet arbeta på at förse Boktryckaren med Manuscript för den nya tyska Uplagan af min Lärbok, och jag hada knapt hunnit få et försprång deri, förr än en ny uplaga begärtas af Blåsrörsboken, hvilken jag också, för att skaffa mig et andrum under sommaren, genast företog. Sedan allt detta år förbi och jag nu får vistas på landet, för at stärka mitt af det långvariga stillasittandet försvagade hälsotillstånd skyndar jag att afbörda min tacksägelse för de båda Afhandlingarna. Jag beklager at föredraget på mötet kom mig för sent tillhanda at intagas i Årsberättelsen, dit det <pb xml:id="idm140619171325008" n="16" facs="images/002223284_000/002223284_000_0032.jpg"/>hade bordt komma, men det skal för den nästa blifva afhjelpt, då kanske och de nya kropparnes analyser hunnit göras, hvarigenom upgifterna få mere fuldständighet.</p>
+        <p xml:id="idm140619171006784">Smörsyran i tobaksrögen var någon ting högst oväntadt. Väl har Nölting frambragt den genom jäsning, men at den också skulle kunna frambringas genom, så till sägande, torr destillation kunde väl svårligen förutses.</p>
+        <p xml:id="idm140619170483824">Redtenbacher25) i Prag meddelade mig för några månader sedan några högst interessanta resultat, som han erhållit genom undersökningen af Acrolein. Den fås då Glycerin destilleras med vattenfri fosforsyra, hvarvid 1 at. Glycerin, = C6 H14 O5, ger 3 at. vatten åt syran och C6 H8 O2, som är Acrolein, går öfver. Den liknar i sina förhållanden fullkomligt Aldehyd. Med silfveroxid och vatten ger den reduceradt silfver och et silfversalt, hvars syra är C6 H6 O3, som fullkomligt till sina yttre egenskaber liknar ättiksyran. Man har äfven dermed frambragt en syrlighet — C6 H6 O2, som äfven ger et silfversalt, motsvarande C4 H6 O2, som Liebig af aldehyd frambragt. — Det är klart at Glycerin icke kan vara den basis, som med de feta syrorna utgör de feta oljorna, utan at den måste vara frambragt, genom saponificationsprocessen, af denna basis, likasom alkohol frambringas af ethyloxid, när en eterart sönderdelas med alkali, hvarigenom således dess med Alkohol likartade natur uppenbarer sig. Basen i oljorna, at dömma af flera på Liebigs laboratorium anställda analyser, måste vare = C3 H4 O., hvaraf då 2 at. förenade med 3 at. vatten, d. ä. med beståndsdelarna af 3 at. vatten, bilda 1 at. Glycerin. Jag har i Årsb. hazarderat at kalla denna basis Lipyloxid och dess radical C3 H4 Lipyl, af λίπος, fett. Det förhåller sig alldeles så med ethal, som är producten af basen i Spermaceti samt af beståndsdelarna af 1 at. vatten.</p>
+        <p xml:id="idm140619171006528">Hr Professoren påminner sig säkert, att Scheerer26), vid vårt sista möte omtalade en gul inblanning, som han funnit i Ytterjorden, och som han misstänkte vara någon af de nya oxider, dem Mosander27) funnit i Ceriten. <pb xml:id="idm140619191846528" n="17" facs="images/002223284_000/002223284_000_0033.jpg"/>Mosander har, vid forsöket att utreda huru härmed förhåller sig, funnit att hvad vi kalla Ytterjord är en blanning af icke mindre än 3 serskildta förut okända basiska oxider, och att den gula kroppen Scheerer omtalat är en af dessa. De äro mycket svåra at åtskilja, men det lyckas likväl, till en viss grad, genom flera gånger omgorda fractionerade fällningar.</p>
+        <p xml:id="idm140619164211184">Jag anhåller at få vara innesluten i Herr Professorens fortfarande vänskapsfulla hugkomst.</p>
+        <p xml:id="idm140619164210592">Högaktning och vänskap.<lb xml:id="idm140619169069744"/>
+               <persName xml:id="idm140619169069616" type="sender" key="Berzelius, Jöns Jacob" sameAs="#personidm140619169069616">Jac. Berzelius</persName>.</p>
+      </div>
+      <pb xml:id="idm140619163743344" n="17" facs="images/002223284_000/002223284_000_0033.jpg"/>
+      <div decls="bibL0022232840000011" n="11" xml:id="L0022232840000011" xml:lang="da-Dk">
+        <head xml:id="idm140619166261792">(Stempel).<lb xml:id="idm140619166261536"/>Helsingborg 15/3 1845<lb xml:id="idm140619166261280"/>Kiøbenhavn 13/.. 1845<lb xml:id="idm140619166260960"/>À Monsieur le Baron de <persName xml:id="idm140619131642480" type="recipient" key="Berzelius, Jöns Jacob" sameAs="#personidm140619131642480">Berzelius</persName>
+               <lb xml:id="idm140619131642096"/>Secrétaire de l’Académie royale des sciences de Stockholm &amp;c &amp;c<lb xml:id="idm140619169662064"/>à <address xml:id="idm140619169661808"><addrLine xml:id="idm140619169661680">Stockholm</addrLine></address>.</head>
+        <p xml:id="idm140619169661168">Höistærede Hr Baron!</p>
+        <p xml:id="idm140619170475152">Jeg har en lille chemisk Nyhed at kunne meddele; og da den muligen endnu kan komme tidligt nok til at blive bekjendt ved den nærmest forestaaende Aarsberettelse, saa vil jeg her give mig den Ære at indberette den.</p>
+        <p xml:id="idm140619165630080">Som bekjendt faar man ved xanthogensyret Kali og et Kobberoxidsalt ikke xanthogensyret Kobberoxid, men xanthogensyret Kobberoxidul, idet der nemlig opstaaer et Transmutations Product af en Deel af Xanthogensyren. Jeg forskaffede mig en Portion af dette olieagtige Product. Under Undersögelsen derover faldt det mig ind, om ikke Jode vilde give det sam̅e Stof, ved nemlig at overföre Oxygen fra Kaliet paa Syren, hvorved denne da kunde forandres som ved Oxygen fra Kobberoxidet.</p>
+        <p xml:id="idm140619165629696">Jeg föiede til den Ende Jode i fiinreven Tilstand til en Vælling af xanthogensyret Kali i Alcohol i smaae <pb xml:id="idm140619168518640" n="18" facs="images/002223284_000/002223284_000_0034.jpg"/>Portioner indtil Decompositionen var fuldendt uden Tilkomst af Jode i Overskud, hvilket let lader sig udföre. Men derved udskilte sig ikke blot Jodekalium, men ogsaa, og i stor Mængde, Svovel. Jeg filtrerede og inddestillerede, og fraskilte efterhaanden det af den concentrerede Vædske udskilte Jodekalium og Svovel. Da störste Delen af Alcoholen var fradreven ved passende Destillation, resterede et blegguult Liqvidum af en særegen Lugt. Ved afbrudte Destillationer lod dette sig ikke bringe til et constant Kogepunct. Jeg sam̅enrystede derfor nu det concentrerede Destillat med flere Portioner Vand, og erholdt derved et fra Alcohol fuldkommen befriet Product, som efter Henstand med Chlorcalcium og Filtrering antog ved Destillationen det bestemte Kogepunkt 285 0, og overgik saa godt som uden Residuum.</p>
+        <p xml:id="idm140619168517888">Den specifike Vægt af det saaledes erholdte Product er ved 18 0, 1.0703; Lugten er særegen, tem̅elig stærk, ikke behagelig, Smagen er brændende. Det taaler ÷ 20 0 uden at störkne. Kalium og Natrium virke selv ved Opvarmning kun meget svagt derpaa. Salpetersyre angriber det efter nogen Tids Beröring med Heftighed. Vand oplöser intet; i Alcohol og Æther er det meget rigeligt oplöseligt.</p>
+        <p xml:id="idm140619168420784">Dets Sam̅ensætning er ifölge flere dermed anstilte Forsög</p>
+        <p xml:id="idm140619168426272">C: 39.612<lb xml:id="idm140619168426016"/>H: 6.943<lb xml:id="idm140619168425760"/>S: 42.960<lb xml:id="idm140619150453600"/>O: 10.485</p>
+        <p xml:id="idm140619150453216">Dette svarer til C5 H10 S2 O.</p>
+        <p xml:id="idm140619150452832">Beregnet derefter faaes Sam̅ensætningen:</p>
+        <p xml:id="idm140619150249360">C: 39,905<lb xml:id="idm140619150249104"/>H: 6,640<lb xml:id="idm140619150248848"/>S: 42,815<lb xml:id="idm140619150248592"/>O:10,640</p>
+        <p xml:id="idm140619150248208"><pb xml:id="idm140619150248080" n="19" facs="images/002223284_000/002223284_000_0035.jpg"/>Det kan altsaa fremstilles som C4 H10 O + CS2 og dette Stof er følgelig den sande Svovelkulstof-Æther. For imidlertid ogsaa at have et empirisk Navn derfor har jeg valgt Benævnelsen Xanthelen28.</p>
+        <p xml:id="idm140619159148176">Hvad er vel nu her blevet af det ene Atom Kulstof. Maaske er det brændt i Forening med det ene Atom Oxigen fra Kaliet og med en vis Portion Jode og befinder sig som et let fordampeligt Stof i den först fradrevne Alcohol. Det udskilte Jodekalium og Svovel forraader intet. — Med en alcoholisk Kalioplösning giver Xanthelenet ret mærkværdige Phænomener; men jeg har endnu ikke studeret dem tilbörligt. — Saasnart Leilighed gives, skal jeg tage mig den Frihed, at tilstille Hr Baronen noget af hiin Svovelkulstof-Æther.</p>
+        <p xml:id="idm140619159147040"><geogName xml:id="idm140619159146912" type="sender" sameAs="idm1938237f-31e4-4ffe-95b2-84c9ae695974">Kjöbenhavn</geogName> d. <date xml:id="idm140619159146528" sameAs="idm473386ae-1aeb-4feb-beb7-13713d279f49">13de Marts 1845</date>.</p>
+        <p xml:id="idm140619159146016">Med uindskrænket Höiagtelse og Venskab<lb xml:id="idm140619159145760"/>Deres <persName xml:id="idm140619159145504" type="sender" key="Zeise, William Christopher" sameAs="#personidm140619159145504">W. C. Zeise</persName>.</p>
+      </div>
+      <pb xml:id="idm140619159144624" n="19" facs="images/002223284_000/002223284_000_0035.jpg"/>
+      <div decls="bibL0022232840000012" n="12" xml:id="L0022232840000012" xml:lang="da-Dk">
+        <p xml:id="idm140619159142848">Undskyld, Hr Baron, at jeg uleiliger Dem med endnu et Par Ord angaaende Svovelkulstofætheren. Jeg omtalte, at den træder i Vexelvirkning med Kali i Alcohol, men viste ei den Gang Virkemaaden; denne opklarede sig imidlertid snart. Der udskiller sig nemlig ved Henstand af en Oplösning af Svovelkulstofætheren i en alcoholisk Kalioplösning i Löbet af 16 til 24 Timer i stor Mængde kulsyret Kali og Vædsken indeholder nu Mercaptan i betydelig Mængde med Spor af Svovelkalium. Opvarmer man Blandingen strax efter at den er skeet, saa paafölger öieblikkeligt en meget rigelig Udskilling af kulsyret Kali og Dannelse af Mercaptan, men man faaer da tillige i langt större Mængde Svovelkalium. Dannelsen af Kulsyre og <pb xml:id="idm140619159141808" n="20" facs="images/002223284_000/002223284_000_0036.jpg"/>Mercaptan stem̅er, som let sees, fuldkom̅ent med den fundne Sam̅ensætning, nemlig</p>
+        <p xml:id="idm140619159140688">C4 H10. O + CS2 giver med KO + H2 O: a) CO2 og b) C4 H10. S + H2 S</p>
+        <p xml:id="idm140619159140304">Men en Hovedanledning til disse Linier er den Omstændighed, at jeg i mit forrige Brev, ved en forunderlig Distraction har angivet et urigtig Kogepunct. Bestem̅elsen af Kogepunctet har jeg vel ikke været i Stand til at udföre saa nöiagtigt som jeg önskede, fordi jeg har maattet arbejde med en vel ringe Mængde; men jeg kan angive med Vished, at det ikke er under 210 0, og sandsynligt ikke over 215 0.</p>
+        <p xml:id="idm140619159139200"><geogName xml:id="idm140619159139072" type="sender" sameAs="idm36852d52-ccc0-47fe-a9e9-a819fcdf0498">Kjöbenhavn</geogName> d. <date xml:id="idm140619159138688" sameAs="idm3ec124a9-fff7-46ed-8475-fbec36db3218">22de Marts 1845</date>.<lb xml:id="idm140619159138304"/>Med uindskrænket Höiagtelse<lb xml:id="idm140619159138048"/>Deres hjerteligt hengivne<lb xml:id="idm140619159137792"/>
+               <persName xml:id="idm140619159137664" type="sender" key="Zeise, William Christopher" sameAs="#personidm140619159137664">W. C. Zeise</persName>.</p>
+        <postscript xml:id="idm140619159136912">
+          <p xml:id="idm140619159136656">Höivelbaarne<lb xml:id="idm140619159136400"/>Hr Baron v. Berzelius!</p>
+        </postscript>
+      </div>
+      <pb xml:id="idm140619159135760" n="20" facs="images/002223284_000/002223284_000_0036.jpg"/>
+      <div decls="bibL0022232840000013" n="13" xml:id="L0022232840000013" xml:lang="da-Dk">
+        <head xml:id="idm140619159133920"><geogName xml:id="idm140619159133792" type="sender" sameAs="idm4adcf778-7751-4c5b-8dfb-8af5a2a182bb">Kjöbenhavn</geogName><date xml:id="idm140619159133408" sameAs="idm06431253-4bfe-46b4-a4b4-6697ab37977a">d. 11te Novemb. 1845</date>.</head>
+        <p xml:id="idm140619159132896">Höistærede Ven!</p>
+        <p xml:id="idm140619159132512">Med megen Fornöielse har jeg erfaret at De er vendt tilbage fra en Udenlandsreise med forbedret Helbred; at jeg er en af de mange, som önske at den maae vedblive god, behöver jeg næppe at tilföie.</p>
+        <p xml:id="idm140619159131712">Min lille Afhandling om Svovelkulstofætheren samt en Prøve af denne, har De rimeligvis alt for længe siden erholdt ved Hr Baron v. Lagerheim. Det gjör mig ondt, at jeg ikke fik rettet nogle Trykfeil i Talangivelserne: <pb xml:id="idm140619159130992" n="21" facs="images/002223284_000/002223284_000_0037.jpg"/>Jeg beder Dem velvillig at tilgive min Uagtsomhed: de ere iövrigt heldigviis saa grove, at de let falde i Øinene; navnlig gjelder dette om det förste Tal for den anvendte Mængde Æther ved Forsöget angaaende Kulstof- og Vandstof Mængden.</p>
+        <p xml:id="idm140619159129568">Jeg har fortsat mine nærmest herhenhörende Undersögelser29), jeg har nemlig behandlet Kali-Methyloxid-Sulfocarbonat med Jode paa samme Maade som jeg behandlede det tilsvarende Æthyloxidsalt (det xanthogens. Kali). De Phænomener, som ledsage Dannelsen og Destructionen af det saaledes erholdte Stof ere i adskillige Henseender som ved Svovelkulstofætheren, men der viser sig derhos nogle interessante Afvigelser, navnlig en stærk Luftudvikling.</p>
+        <p xml:id="idm140619159128528">Jeg har nu ogsaa faaet i reen Tilstand det olieagtige Legeme, som opstaaer samtidig med xanthogensyret Kobberoxidul; det er blandt dem, som har kostet mig megen Möie. Analysen af begge haaber jeg snart at faae fuldendt, og skal jeg have den Ære at give Dem en fuldstændig Beretning om disse Stoffer.</p>
+        <p xml:id="idm140619159127520">Min Helbreds-Tilstand har, Gud være lovet, i de senere Aar ikke gjort betydelige Afbrydelser i min experimentale Virksomhed; men desto mere afbrydes den̅e nu ved Forelæsninger, Øvelser Examina og andet sligt. En Omstændighed som har afbrudt den i nogen Tid er den, at det (af mig bestyrede) academiske og polytechniske Laboratorium har faaet et Tilskud fra den academiske Fond: for at udvirke dette har jeg nemlig maatet udholde en langvarig Kamp i mange og forskjellige Retninger. —</p>
+        <p xml:id="idm140619159126448">Vor fælles Ven, Botanikeren Prof. Schouw befinder sig ikke vel fortiden. Jeg haaber at De, Höistærede, snart vil sætte mig i Stand til at forsikkre vore Venner at det modsatte er Tilfældet med Dem.</p>
+        <p xml:id="idm140619159125648">Med udmærket Höiagtelse og Hengivenhed</p>
+        <p xml:id="idm140619159125264">Deres <persName xml:id="idm140619159125008" type="sender" key="Zeise, William Christopher" sameAs="#personidm140619159125008">W. C. ZEISE</persName>.</p>
+      </div>
+      <pb xml:id="idm140619159124128" n="22" facs="images/002223284_000/002223284_000_0038.jpg"/>
+      <div decls="bibL0022232840000014" n="14" xml:id="L0022232840000014" xml:lang="da-Dk">
+        <head xml:id="idm140619159122288">A Monsieur.<lb xml:id="idm140619159122032"/>Monsieur le <persName xml:id="idm140619159121776" type="recipient" key="Berzelius, Jöns Jacob" sameAs="#personidm140619159121776">Baron de Berzelius</persName>
+               <lb xml:id="idm140619159121280"/>à <address xml:id="idm140619159121024"><addrLine xml:id="idm140619159120896">Stockholm</addrLine></address>.<lb xml:id="idm140619159120512"/>
+               <geogName xml:id="idm140619159120384" type="sender" sameAs="idm6d34eeb1-3fed-4ddb-8287-139c63ee525d">Kjöbenhavn</geogName>
+               <date xml:id="idm140619159120000" sameAs="idmb30748c4-7318-48cc-b96f-3e6f0056adb7">d 24de Febr 1847</date>.</head>
+        <p xml:id="idm140619159119488">Höiædle Hr Baron Berzelius!</p>
+        <p xml:id="idm140619159119104">Af det ene af de to Hefter, som jeg herved tager mig den Frihed at tilsende Hr Baronen vil De see, at jeg for nu snart eet Aar siden har undersögt Methyloxyd-Sulfocarbonatet. Da jeg har forsömt paa anden Maade at bekjendtgjöre noget herom, og Cahours30), der i Februarheftet af Annales de Chimie et de Physique ligeledes har anmeldt en Undersøgelse over denne Gjenstand, saaledes sikkert ikke har haft ringeste Kundskab om mit Arbeide, saa er det mig kjært at see, at han, hvad Hovedsagen angaaer, har faaet sam̅e Resultat, og navnlig Luftudviklingen, som jeg (fremdeles til min store Forundring), ikke senere kunde fremkalde. Kun har Cahours höist sandsynligt bedraget sig i Henseende til Luftens Beskaffenhed; den jeg erholdt virkede navnlig aldeles ikke paa en Blysukkeroplösning. Min udförlige Afhandling angaaende dette Arbeide har jeg skreven for over 1 Aar siden; men först i disse Dage bliver den trykket for vort Videnskabernes Selskabs Skrifter; jeg skal ret snart have den Ære at tilsende Dem et Exemplar af de særskilte Aftryk. — Af det andet Hefte vil De see, at jeg i den senere Tid har arbejdet med Carotinet31). Det er et ret smukt Stof: Jeg tillader mig at sende en lille Portion. Ved længere Opbevaring antager det, selv udelukket fra Lyset, en noget lysere Farve, end den er, hvormed det oprindeligt faaes. Selv de stærkt rödfarvede Rödder indeholde kun lidet deraf: af 1 Tönde faaes neppe 5 Grammer i reen Tilstand. Min herhenhörende Afhandling haaber jeg at <pb xml:id="idm140619159116464" n="23" facs="images/002223284_000/002223284_000_0039.jpg"/>faae trykket om et Par Maaneder; jeg skal da have den Fornöielse at tilstille den. — Nogle Sorter af Pærer, navnlig de hos os kaldede Graapærer og Pergamotter indeholde i stor Mængde især hen imod Skallen, smaa haarde Korn. Ved passende Slemning faaes de let særskilte, og jeg har en stor Mængde deraf. Jeg har anstillet en Deel Forsög med dette Legeme; men forunderligt nok, uden at have været i Stand til at faae nogen sikker Kundskab om Beskaffenheden af det organiske Stof deri. Jeg gik til Undersögelsen med den Forestilling at det var en Art af æblesyret Kalk, men dette viste sig snart ikke at være Tilfældet. Det uorganiske er i det mindste tildeels Magnesia. Hverken ved fortyndet Salpetersyre, Saltsyre, Svovelsyre, Phosphorsyre, caustisk eller kulsyret Kali, Alcohol, Æther har jeg været i Stand til at udskille det organiske Stof i nogenledes uforandret Tilstand; stedse faaes en huminagtig Masse, hvoraf noget oplöses i Syre og Alkali, men störste Delen er uoplöseligt. Behandling med fortyndet Svovelsyre og derpaa fölgende Fraskilling af denne med kulsyret Baryt gav mig et oplöseligt Barytsalt, som med eddikesyret Blyoxyd gav et Bundfald; men ved Decomposition af dette med Svovelvandstof fik jeg kun lidt af et sukkeragtigt Legeme. Kornene udmærke sig ved en höi Grad af Haardhed. Skulde De falde paa en lovende Undersøgelsesmaade for dette Product, saa tager jeg begribeligt med Taknem̅elighed mod et godt Raad.</p>
+        <p xml:id="idm140619159113488">Med uindskrænket Höiagtelse</p>
+        <p xml:id="idm140619159113104">Deres hengivne <persName xml:id="idm140619159112848" type="sender" key="Zeise, William Christopher" sameAs="#personidm140619159112848">W. C. Zeise</persName>.</p>
+      </div>
+      <pb xml:id="idm140619159111968" n="24" facs="images/002223284_000/002223284_000_0040.jpg"/>
+      <div decls="bibL0022232840000015" n="15" xml:id="L0022232840000015" xml:lang="da-Dk">
+        <head xml:id="idm140619159110128"><geogName xml:id="idm140619159110000" type="sender" sameAs="idme65b2cd2-ece2-453c-95d2-2411f3eed48a">Stockholm</geogName><date xml:id="idm140619159109616" sameAs="idm015d62b5-8c99-4941-8ab5-273fe6f9d37f">d. 30 Mars 1847</date>.</head>
+        <p xml:id="idm140619159109104">Högtärade Herr Professor!</p>
+        <p xml:id="idm140619159108656">Emottag min hjertliga tacksägelse för det vänskapsfulla brefvet af d. 26 febr. som jag först feck ensamt, sedan efter et par veckor Oversigten och efter ännu en flaskan med Carotin, för hvilka interessanta meddelanden jag är i hög grad erkänsam. I den Årsb. hvarmed jag nu är sysselsätt tager jag mig den friheten att meddela Herr Professorens uptäckter.</p>
+        <p xml:id="idm140619159107600">Har Herr Professoren bemerkt att De Sain32) (Comptes Rend. 7 Dec. 1847.) upger att man af jodens omedelbara verkan på kali-xanthat, skall erhålla en kristalliserad kropp, olöslig i vattan, löslig i alkohol, som skall bestå af C4 H10 O2 + CS2, det vill säga att man dervid tillika får jodkalium, hvars syre stannar i den nya kroppen. Denna upgift ser besynnerlig ut och blir det ännu mer, då han tillägger att den vid + 160 0 förvandlas till C4 H10 O + CS2, utan att upge hvad som blir af den ena syreatomen. Han har fått dylika föreningar af methyl- och amyl-xanthater. Huru kan det hänga i hop med denna upgift?</p>
+        <p xml:id="idm140619159106368">Vid mina arbeten rörande eterarterna för den nya uplagen af Lärboken har det förefallit mig ganska sannolikt att den åsigt hvarefter vi hittils upfatta denna föreningsart icke kan vara den rätta, utan att den måste uttryckas med (C4 H10 O + C 2) + 2 (C4 H10 S + C|| 2) och att till ex. Kalisaltet är</p>
+        <p xml:id="idm140619159105344">(KC + ÆC) + 2 (K| C|| + Æ | C||).</p>
+        <p xml:id="idm140619159104960">Derigenom blifver vi aldeles quitt den undantags-föreställningen att en svafla ger ett neutralt salt med en syrebasis. När vi uplöse f. ex. As ||| i en lut af kali, så ser det väl alldeles så ut, som förenades svaflan med kalit alldeles oförändrad, hälst saltsyra utfäller den till oförändrad qvan-<pb xml:id="idm140619159104064" n="25" facs="images/002223284_000/002223284_000_0041.jpg"/>titet; men af andra försök känna vi den vexel, beståndsdelarna både vid uplösningen och fällningen undergå, Det samme måste också inträffa vid bildning och sönderdelning af xanthaterna.</p>
+        <p xml:id="idm140619159102720">Heintz33) har tillskrifvit mig att det egna ämne han och Pettenkofer34) funnit i urin, och som Heintz tog för en syra, är ingen ting annat än Chevreuls35) kreatin, som således måste bildas äfven i menniskans muskler och derifrån bortföras med Urin. Det ur hönskött erhållna kreatin har efter hans försök alldeles samma egenskaber och sammansättning, som det ur urin erhållna. —</p>
+        <p xml:id="idm140619159101632">Jag minnes ej om jag i något föregående bref berättat om Fritzsches36) och Struves37) nya Osmium-knallsyra, som, efter deras nyligen fullbördade analys deraf, består af Ös + Os N̅. Dess kalisalt fås då osmiumsyradt kali, med kali i öfverskott, blandas med ammoniak och afdunstas, hvarvid saltet anskjuter i gula octaëdrar. Den kan flyttas på andra baser, till och med hafva en kort, men snart öfvergående, tillvaro i fritt vattenhaltigt tillstånd. Dess egenskap af knallsyra styrkar på ett oväntadt vis den åsigten att den vanliga knallsyran håller en quafvmetall i förening.</p>
+        <p xml:id="idm140619159100576">Rörande det hårda ämnet i pergamotter och stenpäron, så har jag någonstädes, jag tror i en afhandling från den Utrechtska skolan, sett att det skall vara samma ämna, som finnes i nötskal, i phytelephas, macrocarpus o. s. v. det vill säga en form af lignin. — Om jag skulle föreslå ett försök till pröfning deraf, så blefve det behandling med en blanning af rökande Salpetersyra (e.v. I.5) och concentrerad svafvelsyra, för att se om det bildar ligninkrut och efter torrkning, förbrinner utan kolåterstod, hvarmed lignin skiljer sig från alla nu kända vextämnen, som gifva detonerande föreningar med salpetersyra.</p>
+        <p xml:id="idm140619159098896">Med upriktig högaktning och tillgifvenhet</p>
+        <p xml:id="idm140619159098512"><persName xml:id="idm140619159098384" type="sender" key="Berzelius, Jöns Jacob" sameAs="#personidm140619159098384">Jac. Berzelius</persName>.</p>
+      </div>
+      <pb xml:id="idm140619159097504" n="26" facs="images/002223284_000/002223284_000_0042.jpg"/>
+      <div decls="bibL0022232840000016" n="16" xml:id="L0022232840000016" xml:lang="da-Dk">
+        <head xml:id="idm140619159095664">A Monsieur<lb xml:id="idm140619159095408"/>Monsieur le <persName xml:id="idm140619159095152" type="recipient" key="Berzelius, Jöns Jacob" sameAs="#personidm140619159095152">Baron de Berzelius</persName>
+               <lb xml:id="idm140619159094656"/>à <address xml:id="idm140619159094400"><addrLine xml:id="idm140619159094272">Stockholm</addrLine></address>.</head>
+        <p xml:id="idm140619159093760">Undskyld, Höistærede Hr. Baron, at jeg uleiliger Dem med et Par Linier i Anledning af en Urigtighed i min Afhandling om Methyloxydsulfocarbonat! S. 7 staar nemlig urigtigt, at Æthyloxydsulfocarbonatets og Methyloxydsulfo-carbonatets specifike Vægt er saa godt som eens, og ved en skriftlig Forandring har jeg foröget Feilen. Det sande er, at Æthyloxydforbindelsens specif. Vægt er 1.0703, Methyloxydforbindelsens = 1.17 og Xanthelenets = 1.105, saa at fölgelig Xanthelenets spec. V. er större end Æthyloxydsulfocarbonatets. —</p>
+        <p xml:id="idm140619159092736">Megen Tak for Hr. Baronens höitærede Brev og de deri meddelte Nyheder!</p>
+        <p xml:id="idm140619159092192"><geogName xml:id="idm140619159092064" type="sender" sameAs="idm16ef2612-cbc9-4a0b-9219-b0542e6f912d">Kjöbenhavn</geogName><date xml:id="idm140619159091680" sameAs="idm94765a8a-a20e-42b0-ae47-35b833174377">d. 8te April 1847</date>.</p>
+        <p xml:id="idm140619159091168">Med fortrinlig Höiagtelse<lb xml:id="idm140619159090848"/>Deres hengivne <persName xml:id="idm140619159090592" type="sender" key="Zeise, William Christopher" sameAs="#personidm140619159090592">W. C. Zeise</persName>.</p>
+      </div>
+      <div xml:id="idm140619159089712">
+        <head xml:id="idm140619159089456"><pb xml:id="idm140619159089328" n="27" facs="images/002223284_000/002223284_000_0043.jpg"/>NOTER.</head>
+        <p xml:id="idm140619159088400">1. W. C. Zeise: Xanthogensyren med nogle af dens Producter. 1821. Vid. Selsk. Skr. 4 R. n—m. Bd. 1. S. 219.</p>
+        <p xml:id="idm140619159087776">2. K. A. Thelning. (1791—1848). Dr. med. Lifmedicus hos Kronprins Oscar.</p>
+        <p xml:id="idm140619159087232">3. Denne Udtalelse findes i Berzelius: Årsberättelse af 31/3 1823 (Jahresbericht III, 1824).</p>
+        <p xml:id="idm140619159086640">4. J. J. Berzelius : Analys af Mineralvatten från Carlsbad, Töplitzt och Königswart. Kungl. Vet. Akad. Handl. 1822.</p>
+        <p xml:id="idm140619159086000">5. Carl Gustaf Klemming blev senere »Bleckslagara-Ålderman« i Stockholm. Kendt som Bog-, Mønt- og Kunstsamler.</p>
+        <p xml:id="idm140619159085376">6. Carl Palmstedt. (1785—1870). Bestyrer af Gripsholm Svovlsyrefabrik, hvori Berzelius var interesseret, til Fabrikens Brand i 1826. Senere Professor og Forstander for Chalmersske Institutet i Göteborg. Han hørte til den Mandags-Club af Berzelius’ Elever som G. Magnus (1802— 1870), den senere Berlinerprofessor, omtaler (E. Hjelt: »aus J. Berzelius u. G. Magnus’ Briefwechsel«. 1900 S. 17).</p>
+        <p xml:id="idm140619159084320">7. Gabriel Poppius (1770—1856). Dr. jur. President i Kommersekollegium; Statsraad i 1833—36. Berzelius ægtede (efter at have raadført sig med en intim og verdenserfaren Ven, Grev Trolle - Wachtmeister) d. 19. Dec. 1835 hans 25-aarige Datter Johanna Elisabeth P. og blev til Ære for Svigerfaderen udnævnt til Baron.</p>
+        <p xml:id="idm140619159083280">8. Hans Gabriel Trolle-Wachtmeister (1782—1871). Justitiekansler, Mineralog. I sin Ungdom var han ivrig Ornitholog samtidig med at Embedseksamensstudier passedes. Han tog sig af den unge Sven Nilsson (1787—1883), der paa Årup skrev »Skandinaviens Fugle«. Efter at Tr-W. havde opgivet sit Embede, begyndte han 1817 paa S. Nilssons Tilskyndelse, at studere paa Berzelius Laboratorium. B. selv tog sig først af ham, efter at han havde set, at Tr.-W. ønskede mere, end at blive en Dillettant. I 1819 skriver Berzelius fra Paris til Tr-W. om afdøde Assessor i Bergskollegiet I. G. Gahn (1745 —1818), der havde været B’s Lærer:</p>
+        <p xml:id="idm140619159082192">»den enda med hvilken jag kunde konversationsvis spekulera, och en af de få, som ej behöfde långa funderingar för at <pb xml:id="idm140619159081792" n="28" facs="images/002223284_000/002223284_000_0044.jpg"/>förstå en idé, hvarvid man ännu ej är van. Jeg har bland mina vetenskapliga vänner ingen, hvars naturliga anlag skicka sig så till ersättning för denne förlust, som Eders Excellens.«</p>
+        <p xml:id="idm140619159080464">Der udviklede sig da ogsaa en korrespondance ml. B. og Tr-W., der omfatter c. 350 Breve fra hver, men endnu ikke er trykt. (E. Tegnér; Anteckn. och Minnen af Trolle-Wachtmeister II. 1889. S. 181—190).</p>
+        <p xml:id="idm140619159079664">Til Årup førte B. sine unge svenske og tyske kemistuderende Venner og at han glædede sig til sine Besøg her, kan ses af, at G. Magnus fortæller hvorledes Forventningsglæden ytrede sig, ved at B. paa Vognen paa Vejen til Årup sang Bellmanske Sange. Til et sådant Udslag af Livsglæde passede vist den hypokondre Zeise kun daarlig. Af det næste Brev (3) ses at Z. endnu ikke havde svaret paa Indbydelsen efter en Maaneds Forløb; det var dog en stor Ære B. herved viste Z.</p>
+        <p xml:id="idm140619159078656">9. W. C. Zeise: de chlorido platinæ et alcohole vini &amp;c. 1830. — — Pogg. Ann. XXI S. 497 &amp; 592, 1831, som Berzelius omtaler i Årsberättelsen af 31/3 1832.</p>
+        <p xml:id="idm140619159077968">Til G. Magnus skrev B. d. 3. Mai 1831:</p>
+        <p xml:id="idm140619159077584">»Hiermit sende ich eine Abhandlung von Zeise, die Sie sicher interessiren wird. Zeise hat darin ganz und gar die Natur des Salzes nachgewiesen, mit welchem Sie sich beschäftigten und dessen richtige Zusammensetzung Sie im Voraus erriethen. Es ist besonders interessant dass die Verbindung Chlorür mit Chloräther vereinigt enthält und nicht das Chlorid und C u. H verbunden, was Zeise eingefallen ist zu beweisen. Klarer hätte Zeise’s Darstellung werden können, wenn er nicht ein Anhänger von Bonsdorffs<note xml:id="idm140619159076288" n="*)" anchored="true">P. A. Bonsdorff, Elev af Berzelius. Prof. i Helsingfors. (1791–1839).</note> Ansichten wäre. Zur Aufklärung einiger dänischer Wörter muss ich hinzufügen das Ilt Sauerstof und Brint Wasserstoff bedeutet. Ich vermuthe, dass diese kakophone Nomenclatur Sie verwirren wird, sie hat auch mich verwirrt. Diese Abhandlung verdiente wohl einen Platz bei Poggendorff.«</p>
+        <p xml:id="idm140619159074544">Magnus svarer Berzelius d. 17. Mai 1831:</p>
+        <p xml:id="idm140619159074096">»Tausend Dank werthen Herr Prof. für Ihre gütige Uebersendung der Zeiseschen Abhandlung. Ich verstehe Ihren zarten Vorwurf ganz wohl, und ich gestehe, dass es mich verdrossen, beim Durchlesen der gr. latein. Abh., die Zeise hier eingeschickt hat — in der Abhandl. lauter Bemerkungen zu finden, die ich genau so in Ihrem Laboratorio gemacht.«</p>
+        <p xml:id="idm140619159073008">(E. Hjelt: Aus Jac. Berzelius u. Gustaf Magnus’ Briefwechsel. 1828—47. Braunschweig 1900).</p>
+        <p xml:id="idm140619159072416"><pb xml:id="idm140619159072288" n="29" facs="images/002223284_000/002223284_000_0045.jpg"/>Magnus’ Analyse af et Kalium-Plato-klorid, der indeholdt »Æther« og tændte sig i Luft ved Opvarmning, var omtalt af Berzelius i Årsberättelsen af 31/3 1829 (Jahresberichte IX, 1830 S. 162) og er nærmere undersøgt af S. M. Jørgensen: Om Zeise’s Platosemiæthylen — og Cossa’s Platosemiamminsalte. Vid. Selsk. Skr. 6 R. n—m Afh. IX. Kbhavn 1900. S. 233. Zeitschrift für anorganische Chemie XXIV. 1900 S. 160. Jørgensen har skrevet denne Afh. førend ovennævnte Breve bleve trykte.</p>
+        <p xml:id="idm140619159070736">10. W. C. Zeize : Nye Undersøgelser over det brændbare Chlorplatin. Vid. Selsk. Skr. 4. R. n—m. Afh. VI. Bd. S. 333. 1837. At der hengik saa lang Tid, inden Zeise fik disse Undersøgelser fuldførte, skyldtes den Sygdom, som han omtaler i Brev No. 7 S. 11 og i følgende Brev til Etatsraad H. C. Ørsted d. 27. Febr. 1836:</p>
+        <p xml:id="idm140619159069680">»Høistærede Ven og Collega</p>
+        <p xml:id="idm140619159069296">»Min Tilstand er endnu saaledes, at den ikke lader mig haabe en hurtig Forandring til det Bedre. Jeg maa derfor, med (af let begribelige Grunde) nedböjet Sind skride til det, jeg berörte, da De sidst beærede mig med Deres Besög, nemlig, ærbödigst og venskabeligst at bede Dem, som Directeur for Læreanstalten, at være betænkt paa at faae i det mindste en Assistent for mig til den forestaaende Examen.</p>
+        <p xml:id="idm140619159068080">»Et egentligt Embeds-Brev desangaaende er jeg imidlertid endnu ei i Stand til at concipere.</p>
+        <p xml:id="idm140619159067584">»Endnu i Dag tör jeg, selv ikke i Karet vove mig til Dem. Men vil De bevise mig den Godhed en anden Dag at opgive mig en beleilig Tid, saa skal jeg gjöre alt muligt for at kunne indfinde mig, og da, saavidt mine Kræfter ville tillade, yttre mig nærmere mundtligt.«</p>
+        <p xml:id="idm140619159066912">Deres ærbödige og hengivne<lb xml:id="idm140619159066656"/>W. C. Zeise.</p>
+        <p xml:id="idm140619159066272">(Abrahamske Autografsamling 11. Kgl. Bibl.).</p>
+        <p xml:id="idm140619159065824">11. Justus v. Liebig (1803—1873) Prof. i Giessen 1824—52, derefter i München. Liebigs Kritik i Ann. der Pharm. IX. S. 1. 1834. og XXIII. S. 12 1837. Den er udförlig omtalt af S. M. Jørgensen 1. c. Note 9 Side 229 og E. Biilmann: W. C. Zeise i Ingeniøren 1916, Fysisk Tidsskrift 14. Aarg. 1916 S. 149, Særtryk fra den polytekniske Læreanstalt No. 5. Ladenburg: Entwickelungsgeschichte der Chemie. 1887. S. 144 f. Edv. Hjelt: Blad ur Kemins Historia, I. Berzelius — Liebig — Dumas, Helsingfors 1903, tysk i Samml. chem. Vorträge XII. 1908. Sammes Geschichte der organischen Chemie 1916 S. 72 ff. I. Volhard: J. v. Liebig I. 1909. S. 268. K. V. Buchka i Archiv für die Geschichte der <pb xml:id="idm140619159064096" n="30" facs="images/002223284_000/002223284_000_0046.jpg"/>Naturw. I. 1909. S. 277. Ostwald: Grosse Männer, 1910, udtaler sig stærkt mod Liebigs Kritik i Almindelighed. S. 195 &amp; 218.</p>
+        <p xml:id="idm140619159062912">Berzelius omtaler den i Breve til sine Venner: Mitscherlich: Schriften 1896 S. 19. og Briefwechsel zw. J. Berzelius u. F. Wöhler von Wallach 1901. I 699 med v. Braun’s Oplysninger.</p>
+        <p xml:id="idm140619159062144">Berzelius til Wöhler. 26/9 1837.</p>
+        <p xml:id="idm140619159061760">»Was sagst Du über seine [Liebig] Kritik von Zeises erneuerte Analyse der Ätherinsalze. Ich meinerseits kan nicht anders als den Ton der Unfreundlichkeit, der darin herrscht, missbilligen obgleich keine Schimfworte darin vorkommen. Zeise hat gezeigt, dass seine Analysen richtig gemacht waren, dadurch hat er Niemand etwas zu leide gethan, denn es ist Jedermans Recht, das was er gethan hat zu verteidigen.«</p>
+        <p xml:id="idm140619159060544">Ang. Berzelius Breve til Liebig se efterfölgende Note 14.</p>
+        <p xml:id="idm140619159060032">12. Edmond Frémy (1814—1894) Liebigs Ann. XV. 279. 1835.,</p>
+        <p xml:id="idm140619159059504">Ann. chim. phys. LIX. 1835.</p>
+        <p xml:id="idm140619159059120">13. Sir Robert John Kane (1810—90) Frof. i Dublin. Geschichte des Holzgeists. Liebigs Ann. XIX. 1836. S. 164. Kane arbejdede den Gang i Liebig’s Laboratorium med Dumas’ Træspiritus.</p>
+        <p xml:id="idm140619159058336">14. Af: Berzelius und Liebig. Ihre Briefe. 1831—45 herausgeg. v. Justus Carriére 1893 kan anföres angaaende Zeise:</p>
+        <p xml:id="idm140619159057696">Liebig skriver 26/11 1833 til B.:</p>
+        <p xml:id="idm140619159057312">»Ich habe nun gefunden dass Ihre neueste Ansicht: Aether C2 H5+O, ist eine unwiedersprechliche Thatsache. — Nachdem ich nemlich gefunden hatte dass die Zeise’schen Platinsalze kein ölbildendes Gas sondern Aether enthalten, ....«</p>
+        <p xml:id="idm140619159056672">Berzelius til L. 5. April 1834:</p>
+        <p xml:id="idm140619159056288">»Vielleicht kennen Sie noch nicht Zeise’s Resultate, die er in einer eigenen dänisch geschriebenen Abhandlung 72 S. in 410 mitgetheilt hat [Mercaptanet.]</p>
+        <p xml:id="idm140619159055728">»Ich will Ihnen ein kurzes Resumé davon geben, da ich für mein Jahresbericht dieses Opus habe durchstreben müssen. Die Arbeit ist gut aber die Redaction ist erbärmlich. Wenn man K S3 zu schwefelweinsaures Kali setzt, so bekommet man 2 K S 3 und ein ölartiger Körper den Zeise Thial nennt ...«</p>
+        <p xml:id="idm140619159055024">Liebig til B. 5. Mai 1834:</p>
+        <p xml:id="idm140619159054640">»Die Mittheilung der Versuch von Zeise, die Sie so gütig waren mir zu machen, hat schon schöne Früchte getragen, ich gab Herrn Pelouze [1807—1867 Prof. i Paris] davon Nach-<pb xml:id="idm140619159054192" n="31" facs="images/002223284_000/002223284_000_0047.jpg"/>richt und er schreibt mir heute, dass es ihm gelungen sei, einen wahren Cyanaether von ganz merkwürdigen Eigenschaften durch Destillation von Cyankalium mit weinschwefelsauren Baryt darzustellen, es ist eine sehr fluchtige, im Wasser unlösliche ätherartige Flüssigkeit; es wäre schön, wenn man dahin kommen könnte auf dieselbe Art eine Fluorverbindung hervorzubringen.</p>
+        <p xml:id="idm140619159052496">»(P. S.) Um Gotteswillen wo hat Zeise diesen verdammten Styl in seiner Abhandlung her; sie zu lesen, ist die grösste Pein die nur erfunden werden kann, er ist ganz fürchterlich.«</p>
+        <p xml:id="idm140619159051920">I Annalen der Pharmacie XI 1834. S. 10 slutter Liebig sine almindelige Betragtninger over det sammesteds af Zeise meddelte Uddrag af Afhandlingen om Mercaptan saaledes:</p>
+        <p xml:id="idm140619159051344">»Ich glaube Herrn Zeise darauf aufmerksam machen zu miissen, wie sehr seine gediegenen und meisterhafte Untersuchungen durch das Ausspinnen und Beschreibung von Versuchen, die keine Resultat gegeben haben, an Interesse verlieren. Man denke sich jede chemische Verbindung auf die nämliche Art behandelt und die colossalste Geduld wird die Flucht ergreifen.«</p>
+        <p xml:id="idm140619159050224">J. L.</p>
+        <p xml:id="idm140619159049840">I et Brev til Berzelius skriver G. Magn us herom d. 10. Nov. 1834:</p>
+        <p xml:id="idm140619159049456">»Seine Heftigkeit und Strenge in der Beurtheilung anderer Personen hat sich nicht geändert .... So that es mir besonders leid, dass er den armen Zeise über die Redaction seiner Arbeiten angegriffen hat .... Ich glaube, dass nichts vortheilhafter auf Liebig in dieser Beziehung einwirken kann als Ihre Briefe, ....«</p>
+        <p xml:id="idm140619159048416">E. Hjelt: Aus Jac. Berzelius u. G. Magnus Briefwechsel 1900 S. 106 Liebig til B. d. 22. Juli 1834:</p>
+        <p xml:id="idm140619159047920">»Die Zeise’schen Mercaptane habe ich nun durchgemacht, das Mercaptan analysirt und das spec. Gewicht seines Dampfes bestimmt; Zeise hat in Allem das Richtige getroffen, nur muss sein Thermometer nicht viel taugen, denn ich habe den Siedepunkt des Mercaptans nicht bei 62—63 0 C gefunden, sondern »bei 36,2 0 C.</p>
+        <p xml:id="idm140619159046880">Liebig til B. d. 21. Decbr. 1837:</p>
+        <p xml:id="idm140619159046496">»Ihre Ansicht über die Natur des Aethers, deren Vertheidigung ich in den letzten Jahren zu meiner Aufgabe machte, hat zetzt wie ich glaube keine Gegner mehr, der letzte Schlag hat Herrn Zeise getroffen, allein bei Gegnern wie Zeise, ist Schonung <pb xml:id="idm140619159045968" n="32" facs="images/002223284_000/002223284_000_0048.jpg"/>ein Beweis von Schwäche, ich durfte und konnte ihn nicht milder behandeln, weil mit ihm eine Menge von andern zum Schweigen gebracht werden mussten, er wird mir sehr böse sein, ich bitte Sie als Vermittler aufzutreten und ihn womöglich wieder mit mir zu versöhnen, was ich gegen ihn sagte, war weniger für ihn als für andere gesprochen.«</p>
+        <p xml:id="idm140619159044384">Den i Brevet No 5 af 27/10 1837 omtalte Røffel eller »skrupenzt findes i</p>
+        <p xml:id="idm140619159043840">Berzelius til L. 20. Febr. 1838:</p>
+        <p xml:id="idm140619159043456">»Ich habe Zeise über Ihren Streit mit ihm geschrieben, er hat geantwortet, dass er sich mit Facta vertheidigen will, und gar nicht daran denken, dass Sie ihn als einen Schulknaben behandelt haben. Er hat gegen Ihnen unstreitig recht. Eine leichte Berechnung was bei der Bildung der Platinasalze vorgehen müsste, wenn Ihre Ansicht von der Zusammensetzung des Kohlenwasserstoffs die rechte wäre, wird Ihnen zur Genüge zeigen dass sie unwahrscheinlich ist.</p>
+        <p xml:id="idm140619159042144">»Ich schliesse mit der Bitte, dass Sie mich, unseres Streites ungeachtet, immer mit der nehmlichen Freundschaft umfassen wollen.«</p>
+        <p xml:id="idm140619159041616">Ihr treuer Freund<lb xml:id="idm140619159041360"/>Berzelius</p>
+        <p xml:id="idm140619159040976">L. svarer B. d. 7. Merz 1838 :</p>
+        <p xml:id="idm140619159040592">»Zeise hat sich bei Ihnen iiber mich beklagt, ich kann es ihm nicht verdenken, es ist ein altes langweiliges Kind, das nicht zu bessern ist, wie konnte es ihm einfallen, eine Reihe von Versuchen gegen mich zu richten, die gegen ihn selbst »gerichtet waren. Seine Hand ist ein guter Chemiker, sein »Kopf ein sehr schlechter. ...«</p>
+        <p xml:id="idm140619159039520">15. Zeise : Om Virkningen mellem Platinchlorid og Acetone. Vid. Selsk. Oversigt. 1838. S. 3.</p>
+        <p xml:id="idm140619159039024">16. Kane: Ein neuer Alkohol. Liebigs Ann. XXII. 1837. S. 278.</p>
+        <p xml:id="idm140619159038640">17. Liebig &amp; Wöhler : Liebig Ann. der Pharmacie XXI. u. XXII. 1837.</p>
+        <p xml:id="idm140619159038080">18. Annalen der Pharmacie XXIII. 1837 S. 24.</p>
+        <p xml:id="idm140619159037632">19. Forsøgs Journal. Kgl. Bibl. N. kgl. S. 4 0 2778.</p>
+        <p xml:id="idm140619159037120">20. I. W. von Döbeln (1785—1846) Læge. Prof. i Stockholm.</p>
+        <p xml:id="idm140619159036592">21. En Retort hvori Berzelius ophedede 10 gr. flydende »underfosforsvaflighet« [Fosforprotosulfid] med 8 gr. Natriumkarbonat exploderede med et virkligt øredøvende Brag. Alt Stof forsvandt, kun paa hans Briller sad et Beslag af Resten. Vet. Akad. Handl, för 1842. S. 83.</p>
+        <p xml:id="idm140619159035648"><pb xml:id="idm140619159035520" n="33" facs="images/002223284_000/002223284_000_0049.jpg"/>22. Paa det tredje Naturforskermøde i Stockholm Juli 1842 holdt W. C. Zeise et Foredrag »om nogle nye Svovel-Foreninger«, (Förh. S. 303), hvorom Berzelius skriver til Fr. Wöhler (1800—1882). Prof. i Göttingen, d. 2. Aug. 1842:</p>
+        <p xml:id="idm140619159034112">»Zeise hielt einen Vortrag über die Fortsetzung seiner Versuche über die Wirkung von P. und S P. auf Aceton und Äther. Er zeigte mehrere der dabei hervorgebrachten Verbindungen, wovon drei krystallisiert sind und eine liqvid, so stinkend (ähnlich dem Geruch von Katzenpisse) dass er bei seinen Versuche in Kopenhagen das ganze Haus, in dem er wohnt, verpestet hatte; so dass — nachdem die Hauswirthe alle im Hause befindlichen Katzen, in der Vermuthung, dass diese Schuld daran wären, hatten ertränken lassen und es doch nicht aufhörte — eine Untersuchung zwecks Beseitigung dieses lästigen Geruches angestellt wurde, wobei es denn herauskam, dass Zeise die richtige Katze sei, die sie zwar nicht ertränken dürften, aber den sie so schlecht behandelten, dass er die Versuche nicht mehr zu Hause fortzusetzen wagte. Da Zeise nicht die Gabe einer klaren Darstellung hat, obgleich er ziemlich weitschweifig ist, so kann ich Dir keinen Begriff von der Natur der von ihm hervorgebrachten Verbindungen geben, obgleich ich nachträglich versucht habe, durch ein privates Gespräch Kenntniss darüber zu erlangen. Alles was ich sagen kann, ist, dass die Sache von grossen Interesse, aber schwer verständlich ist. Er wollte mir nicht erlauben, sein Manuskript durchzulesen und durchzudenken, indem er vorgab, dass es für andre auszer »ihm selbst unleserlich sei.«</p>
+        <p xml:id="idm140619159030960">Wallach: Brifw. zw. I. Berzelius und Fr. Wöhler II. S. 309. 1900.</p>
+        <p xml:id="idm140619159030432">Rygtet fortæller ogsaa, at Zeise engang maatte bortvises fra det kgl. Theater.</p>
+        <p xml:id="idm140619159029872">Blandt Zeise’s bevarede Forsøgs Journaler paa Kgl. Bibl.: Ny kgl. Saml. Fol. 1685 findes bl. a. en med Titel:</p>
+        <p xml:id="idm140619159029248">»Forsøg over Svovelphosphor med Acetone, Marts 1841«: hvori S. 3: Ved Henstand af Acetone i 24 Timer med lige Dele Svovl og Phosphor og paafølgende Digestion dannedes en Syre »Sulphorphacet-Syre« og eu Olje »Sulphorphacet-Olje«, denne havde en Lugt der lignede Katteurinens.</p>
+        <p xml:id="idm140619159028560">23. Vid. Selsk. Skr. 4 R. n—m. Afh. X Bd. S. 217. 1843.</p>
+        <p xml:id="idm140619159028048">24. Zeise : Om nogle nye Svovel Foreninger. Förh. vid de skandinav. Naturforskarnas tredje Möte i Stockholm 1842. S. 303.</p>
+        <p xml:id="idm140619159027408">25. Jos. Redtenbacher (1810—1863). Prof. i Prag, senere i Wien. Lieb. Ann. XLVII. 1843.</p>
+        <p xml:id="idm140619159026832"><pb xml:id="idm140619159026704" n="34" facs="images/002223284_000/002223284_000_0050.jpg"/>26. K. J. A. T. scheerer (1813—1875), 1833—38 Hyttemester i Modum. 1841—47 Lektor i Kristiania. Derefter Professor i Freiberg. Undersøgelse af Gadolinit. Förhandl, skand. Naturf. tredje Møte. Stockholm 1842. S. 373.</p>
+        <p xml:id="idm140619159025312">27. C. G. Mosander (1797—1858) Prof. i Kemi og Mineralogi i Stockholm. Uber die das Cer begleitenden Metalle. Pogg. LX. 1843.</p>
+        <p xml:id="idm140619159024656">28. Zeise: Om Virkningen ml. xanthogensurt Kali og Jode. Vid. Selsk. Oversigt 1845, S. 34, vid. Selsk. Skr. 4 R. n–m. Afh. XII Bd. S. 43, 1846.</p>
+        <p xml:id="idm140619159023968">29. Zeise : Om Virkningen ml. Kali-Methyloxyd-Sulphocarbonat og Jode: Vid. Selsk. Oversigt 1846, S. 55 og Vid. Selsk. Skr. 5.R. n—m. Afh. I Bd. S. 11. 1849.</p>
+        <p xml:id="idm140619159023248">30. A. A. T. Cahours (1813—1891) Prof. i Paris. Sur les nouvelles combinaisons sulfurées du méthyle et de l’éthyle Ann. chim. et. phys. XVIII. 1846, XIX. 1847.</p>
+        <p xml:id="idm140619159022512">31. Zeise: Beretning om nogle Forsøg over Carotinet. Vid. Selsk. Overs. 1846 S. 101.</p>
+        <p xml:id="idm140619159021936">32. P. q. Desains (1817—1885). Prof. i Fysik i Paris. De l’action de l’iode sur le xanthate de potasse. Ann. chim. phys: 3. sér. T. XX. 1847.</p>
+        <p xml:id="idm140619159021232">33. W. H. Heintz (1817—1880). Prof. i Halle.</p>
+        <p xml:id="idm140619159020736">34. Max v. Pettenkofer (1818—1901). Prof. i München.</p>
+        <p xml:id="idm140619159020224">35. M. E. Chevreul (1786—1889), Prof. i Paris. I 1819 havde Zeise arbejdet i hans Laboratorium.</p>
+        <p xml:id="idm140619159019632">36. C. I. v. Fritzsche (1808—1871). Akademiker i Petrograd. Journ. f. prakt. Chemie. 41. 1847. 97.</p>
+        <p xml:id="idm140619159019024">37. H. W. Struve. * 1822.</p>
+      </div>
+      <div xml:id="idm140619159018512">
+        <head xml:id="idm140619159018256"><pb xml:id="idm140619159018128" n="35" facs="images/002223284_000/002223284_000_0051.jpg"/>FORTEGNELSE<lb xml:id="idm140619159017328"/>OVER<lb xml:id="idm140619159017072"/>W. C. ZEISE’S SKRIFTER.<lb xml:id="idm140619159016752"/>I. Videnskabelige.</head>
+        <p xml:id="idm140619159016368">1. 1817. De vi corporum alcalinorum materias regno organico peculiares transmutandi.</p>
+        <p xml:id="idm140619159015984">Disputats d. 21. Okt. 1817.</p>
+        <p xml:id="idm140619159015600">2. 1820. Nevtralisering af et surt Salt af Flussyre og Potaske ved Boraxsyre.</p>
+        <p xml:id="idm140619159015216">Vid. Selsk. Oversigter 1820—21, S. 21.</p>
+        <p xml:id="idm140619159014832">Udførlige Arbejdsjournaler over Flussure og Flusborsure Salte bevaret. Ny kgl. S. 40 2778.</p>
+        <p xml:id="idm140619159014256">3. 1821. Xanthogensyren med nogle af dens Producter.</p>
+        <p xml:id="idm140619159013808">Vid. Selsk. Skr. 4 r. n—m. i. Bd., S. 219.</p>
+        <p xml:id="idm140619159013312">Vid. Selsk. Overs. 1821—22, S. 12.</p>
+        <p xml:id="idm140619159012928">Tidsskr. for Naturvidenskaberne i 1822, S. 265. ii 1823, S. 82.</p>
+        <p xml:id="idm140619159012544">4. 1823. Om Virkningen mellem Kulsvovlet og Ammoniaken i Alkohol.</p>
+        <p xml:id="idm140619159012160">Vid. Selsk. Skr. 4 r. n—m. ii Bd., S. 105.</p>
+        <p xml:id="idm140619159011664">Vid. Selsk. Overs. 1822—23, S. 10.</p>
+        <p xml:id="idm140619159011280">5. 1823. Analyse af det xanthogensyrede Kali og Xanthogensyren.</p>
+        <p xml:id="idm140619159010896">Vid. Selsk. Skr. 4 r. n—m. ii Bd., S. 221.</p>
+        <p xml:id="idm140619159010400">Vid. Selsk. Overs. 1824—28, S. 12.</p>
+        <p xml:id="idm140619159010016">6. 1825. En ny Forbindelse af Platinets Forchlorid behandlet med Vinaand.</p>
+        <p xml:id="idm140619159009632">Vid. Selsk. Overs. 1825—26, S. 13. 1829—30, S. 21. 1830—31, S. 24.</p>
+        <p xml:id="idm140619159009088"><pb xml:id="idm140619159008960" n="36" facs="images/002223284_000/002223284_000_0052.jpg"/>7. 1825. Forsøg over Dyvelsdrækoljen (Asa fœtida).</p>
+        <p xml:id="idm140619159007904">Schweiggers Journal XLV I 1825, S. 324.</p>
+        <p xml:id="idm140619159007520">Vid. Selsk. Overs. 1830—31, S. 25.</p>
+        <p xml:id="idm140619159007136">8. 1828. Om Phosphorets Evne til at bundfælde Metaller.</p>
+        <p xml:id="idm140619159006624">Vid. Selsk. Overs. 1828—29, S. 10. 1829—30, S. 20.</p>
+        <p xml:id="idm140619159006112">9. 1830. De chlorido platinae et alcohole vini.</p>
+        <p xml:id="idm140619159005664">Program, acad. 1830. Lærde Tidender 1830, S. 750.</p>
+        <p xml:id="idm140619159005168">10. 1831. Kulbrintet Chlorplatin-Ammoniak.</p>
+        <p xml:id="idm140619159004720">Vid. Selsk. Skr. 4 R. n—m. V Bd., S. 141.</p>
+        <p xml:id="idm140619159004336">11. 1832. Mercaptanet.</p>
+        <p xml:id="idm140619159003952">Vid. Selsk. Skr. 4 R. n—m. VI Bd., S. 1 (1836)</p>
+        <p xml:id="idm140619159003456">Vid. Selsk. Overs. 1832—33, S. 7. 1833—34, S. 9.</p>
+        <p xml:id="idm140619159002944">Forsøgs-Journaler. Paabegyndte Febr. 1831. Ny kgl. S. 40 2778.</p>
+        <p xml:id="idm140619159002416">Berzelius’ »Forudsigelse«, i 1832? se Hjelt Geshichte der org.</p>
+        <p xml:id="idm140619159001888">Chemie, 1916, S. 79, har da i al Fald været post festum; i Årsb.</p>
+        <p xml:id="idm140619159001360">31/3 1833, S. 337-</p>
+        <p xml:id="idm140619159000976">12. 1834. Nye Undersøgelser over Xanthogensyren.</p>
+        <p xml:id="idm140619159000480">Vid. Selsk. Skr. 4 R. n—m. VI Bd., S. 87 (1836).</p>
+        <p xml:id="idm140619158999984">Vid. Selsk. Overs. 1834—35, S. 9.</p>
+        <p xml:id="idm140619158999600">13. 1836. Nye Undersøgelser over det brændbare Chlorplatin.</p>
+        <p xml:id="idm140619158999072">Vid. Selsk. Skr. 4 R. n—m. VI Bd., S. 333.</p>
+        <p xml:id="idm140619158998576">Vid. Selsk. Overs. 1836—37, S. 9.</p>
+        <p xml:id="idm140619158998192">14. 1838. Om Acechlorplatin.</p>
+        <p xml:id="idm140619158997808">Vid. Selsk. Skr. 4 R. n—m. VIII Bd., S. 171. 1841.</p>
+        <p xml:id="idm140619158997296">Vid. Selsk. Overs. 1838, S. 3. 1839, S. 11.</p>
+        <p xml:id="idm140619158996848">15. 1840—41. Undersøgelse over Virkningen af Phosphor paa Acetone og paa Æther.</p>
+        <p xml:id="idm140619158996288">Vid. Selsk. Overs. 1841, S. 9.</p>
+        <p xml:id="idm140619158995904">Forh. ved skand. Naturforsk. andet Møde 1840, S. 203.</p>
+        <p xml:id="idm140619158995392">16. 1841. Om nogle nye Svovel Foreninger.</p>
+        <p xml:id="idm140619158994944">Förh. vid skand. Naturforsk. tredje Möte 1842, S. 303.</p>
+        <p xml:id="idm140619158994432"><pb xml:id="idm140619158994304" n="37" facs="images/002223284_000/002223284_000_0053.jpg"/>17. 1843. Undersøgelse over Producterne ved Tobakens tørre Destillation.</p>
+        <p xml:id="idm140619158993216">Vid. Selsk. Skr. 4 R. n—m. X Bd., S. 217, 1843.</p>
+        <p xml:id="idm140619158992720">Vid. Selsk. Overs. 1843, S. 13. Triers Archiv for Pharm. I S. 18.</p>
+        <p xml:id="idm140619158992336">18. 1843. Om et Product af Ammonium-Sulfocyan Hydrat ved Chlor.</p>
+        <p xml:id="idm140619158991952">Vid. Selsk. Skr. 4 R. n—m. X Bd., S. 319.</p>
+        <p xml:id="idm140619158991568">Vid. Selsk. Overs. 1843, S. 73.</p>
+        <p xml:id="idm140619158991184">19. 1845. Om Virkning mellem xanthogensurt Kali og Jode.</p>
+        <p xml:id="idm140619158990800">Vid. Selsk. Skr. 4 R. n—m. XII Bd., S. 43. 1846.</p>
+        <p xml:id="idm140619158990304">Vid. Selsk. Overs. 1845, S. 34. Triers Archiv f. Pharm. II 371.</p>
+        <p xml:id="idm140619158989920">20. 1846. Om Virkning mellem Kali Methyloxyd-Sulpho-carbonat og Jode.</p>
+        <p xml:id="idm140619158989536">Vid. Selsk. Skr. 5 R. n—m. I Bd., S. ii. 1849.</p>
+        <p xml:id="idm140619158989040">Vid. Selsk. Overs. 1846, S. 55. Triers Archiv f. Pharm. III, S. 341.</p>
+        <p xml:id="idm140619158988656">21. 1846. Beretning om nogle Forsög over Carotinet.</p>
+        <p xml:id="idm140619158988144">Vid. Selsk. Overs. 1846, S. 101. Triers Archiv f. Pharm. IV, S. 15.</p>
+        <p xml:id="idm140619158987760">Zeise’s Arbejdsjournaler til disse Skrifter findes paa det Kgl. Bibliothek.</p>
+        <p xml:id="idm140619158987200">Ny kgl. Saml. Fol. 1685 &amp; 40 2778.</p>
+        <p xml:id="idm140619158986752">Oversættelser af disse Skrifter i engelske, franske og tyske Tidsskrifter findes angivne i Erslev: Forfatter-Lexikon med Suppl.</p>
+        <p xml:id="idm140619158986096">II. Lærebøger.</p>
+        <p xml:id="idm140619158985712">Erindringsord til Forelæsninger over anvendt Chemie 1825.</p>
+        <p xml:id="idm140619158985200">Chemiens Hovedlærdomme I Bd. 1839.</p>
+        <p xml:id="idm140619158984816">Anvisning i practisk Chemie.</p>
+        <p xml:id="idm140619158984432">Triers Archiv f. Pharm. I. 1.</p>
+        <p xml:id="idm140619158984048">Haandbog i de organiske Stoffers almindelige Chemie. 1847.</p>
+        <p xml:id="idm140619158983664"><pb xml:id="idm140619158983536" n="38" facs="images/002223284_000/002223284_000_0054.jpg"/>III. Controv ers skrifter.</p>
+        <p xml:id="idm140619158982608">Om den af Hr. Reservechirurg Djörup aflagte forensiske Prøve. 1832.</p>
+        <p xml:id="idm140619158982064">Über Wöhlers geschwefelte Säure.</p>
+        <p xml:id="idm140619158981680">Schweiggers Journal 41. 201.</p>
+        <p xml:id="idm140619158981296">Remarques sur le mémoire de M. Couerbe sur le sulfure de carbone et sur l’acide xanthique.</p>
+        <p xml:id="idm140619158980704">Annales de chim. &amp; de phys. 62, 106.</p>
+        <p xml:id="idm140619158980320">IV. Tidsskrift Artikler.</p>
+        <p xml:id="idm140619158979936">Om Urinens Anvendelse som Gjødning.</p>
+        <p xml:id="idm140619158979552">Nye landæc. Tidender iii 1821, S. 314.</p>
+        <p xml:id="idm140619158979168">Om Kornbrændeviins Forædling ved Chlorinekalk.</p>
+        <p xml:id="idm140619158978672">Nye landæc. Tidender iv 1822, S. 271.</p>
+        <p xml:id="idm140619158978288">Tidsskr. for Naturvid. i, S. 238.</p>
+        <p xml:id="idm140619158977904">Om det hos os oprettede offentlige chemiske Övelses-Laboratorium.</p>
+        <p xml:id="idm140619158977376">Tidsskr. f. Naturvid. i, S. 56.</p>
+        <p xml:id="idm140619158976992">Udtog af en analytisk Undersøgelse af et Slags i Sjælland fundne Kul.</p>
+        <p xml:id="idm140619158976448">Tidsskr. f. Naturvid. i, S. 122.</p>
+        <p xml:id="idm140619158976064">Om Tilvirkning af Acetone.</p>
+        <p xml:id="idm140619158975680">Triers Archiv f. Pharm. iii, S. 171.</p>
+      </div>
+      <div xml:id="idm140619158975168">
+        <head xml:id="idm140619158974912"><pb xml:id="idm140619158974784" n="39" facs="images/002223284_000/002223284_000_0055.jpg"/>INDHOLD.</head>
+        <p xml:id="idm140619158973856">Pag.</p>
+        <p xml:id="idm140619158973472">Forord V</p>
+        <p xml:id="idm140619158973088">Nr. 1. Berzelius til Zeise, 7. April 1823 1</p>
+        <p xml:id="idm140619158972640">- 2. Berzelius til Zeise, 10. Juni 1831 2</p>
+        <p xml:id="idm140619158972192">- 3. Berzelius til Zeise, 12. Juli 1831 3</p>
+        <p xml:id="idm140619158971744">- 4. Zeise til Berzelius, 24. Febr. 1837 4</p>
+        <p xml:id="idm140619158971296">- 5. Berzelius til Zeise, 27. Oktbr. 1837 4</p>
+        <p xml:id="idm140619158970848">- 6. Zeise til Berzelius, 14. Jan. 1838 6</p>
+        <p xml:id="idm140619158970400">- 7. Zeise til Berzelius, 14. Oktbr. 1839 10</p>
+        <p xml:id="idm140619158969952">- 8. Zeise til Berzelius, 24. April 1843 11</p>
+        <p xml:id="idm140619158969504">- 9. Berzelius til Zeise, 20. Juni 1843 15</p>
+        <p xml:id="idm140619158969056">- 10. Zeise til Berzelius, 13. Marts 1845 17</p>
+        <p xml:id="idm140619158968608">- 11. Zeise til Berzelius, 22. Marts 1845 19</p>
+        <p xml:id="idm140619158968160">- 12. Zeise til Berzelius, 11. Novbr. 1845 20</p>
+        <p xml:id="idm140619158967712">- 13. Zeise til Berzelius, 24. Febr. 1847 22</p>
+        <p xml:id="idm140619158967264">- 14. Berzelius til Zeise, 30. Marts 1847 24</p>
+        <p xml:id="idm140619158966816">- 15. Zeise til Berzelius, 8. April 1847 26</p>
+        <p xml:id="idm140619158966368">Noter 27</p>
+        <p xml:id="idm140619158965984">Fortegnelse over Zeise’s Skrifter 35</p>
+      </div>
+    </body>
+  </text>
+</TEI>
