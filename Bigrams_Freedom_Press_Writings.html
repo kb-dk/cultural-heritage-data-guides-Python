@@ -188,7 +188,11 @@ style="width: 15%; height: auto;" Go to Cultural Heritage Collection as Data></a
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (Arkiv for Dansk Litteratur)</span></p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Set_up.html">How to get started</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (Arkiv for Dansk Litteratur)</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Explore%20the%20ADL%20dataset.html">Explore the ADL dataset</a></li>
 </ul>
@@ -405,15 +409,15 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">1. Install and Import Dependencies</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">2. Load Data</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#formation-of-bigrams">3. Formation of Bigrams</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-bigrams">4. Count Bigrams</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#remove-bigrams-where-one-of-the-words-is-a-stopword">5. Remove Bigrams Where One of the Words is a Stopword</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-filtered-bigrams">6. Count Filtered Bigrams</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#search-for-specific-bigrams-e-g-where-word2-matches-a-pattern">7. Search for Specific Bigrams (e.g., where word2 matches a pattern)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualization-as-network-graph">8. Visualization as Network Graph</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-graph-and-results">9. Save Graph and Results</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">Install and Import Dependencies</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">Load Data</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#formation-of-bigrams">Formation of Bigrams</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-bigrams">Count Bigrams</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#remove-bigrams-where-one-of-the-words-is-a-stopword">Remove Bigrams Where One of the Words is a Stopword</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-filtered-bigrams">Count Filtered Bigrams</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#search-for-specific-bigrams-e-g-where-word2-matches-a-pattern">Search for Specific Bigrams (e.g., where word2 matches a pattern)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualization-as-network-graph">Visualization as Network Graph</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-graph-and-results">Save Graph and Results</a></li>
 </ul>
             </nav>
         </div>
@@ -429,7 +433,7 @@ document.write(`
 <h1>Bigram Analysis of Trykkefrihedens Skrifter<a class="headerlink" href="#bigram-analysis-of-trykkefrihedens-skrifter" title="Link to this heading">#</a></h1>
 <p>This notebook performs bigram (word pair) analysis on <em>Trykkefrihedens Skrifter</em> in Python, inspired by the R workflow.</p>
 <section id="install-and-import-dependencies">
-<h2>1. Install and Import Dependencies<a class="headerlink" href="#install-and-import-dependencies" title="Link to this heading">#</a></h2>
+<h2>Install and Import Dependencies<a class="headerlink" href="#install-and-import-dependencies" title="Link to this heading">#</a></h2>
 <p>If you’re missing any packages, uncomment and run the pip cell below.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -465,12 +469,33 @@ document.write(`
 </div>
 </section>
 <section id="load-data">
-<h2>2. Load Data<a class="headerlink" href="#load-data" title="Link to this heading">#</a></h2>
-<p>We load the main data and stopwords from CSV files.</p>
+<h2>Load Data<a class="headerlink" href="#load-data" title="Link to this heading">#</a></h2>
+<p><strong>Check your data files:</strong>
+You need the main text data and project-specific stopwords as csv files.</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">tfs_structured.csv</span></code> — Main text data</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">tfs_stopord.csv</span></code> — Project-specific stopwords</p></li>
+</ul>
+<p>You can find them in the corresponding repository: <a class="github reference external" href="https://github.com/kb-dk/cultural-heritage-data-guides-Python">kb-dk/cultural-heritage-data-guides-Python</a></p>
+<p>Or you can load them through these links:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://raw.githubusercontent.com/maxodsbjerg/TextMiningTFS/refs/heads/main/data/tfs_structured.csv">https://raw.githubusercontent.com/maxodsbjerg/TextMiningTFS/refs/heads/main/data/tfs_structured.csv</a></p></li>
+<li><p><a class="reference external" href="https://raw.githubusercontent.com/maxodsbjerg/TextMiningTFS/refs/heads/main/data/tfs_stopord.csv">https://raw.githubusercontent.com/maxodsbjerg/TextMiningTFS/refs/heads/main/data/tfs_stopord.csv</a></p></li>
+</ul>
+<p>Here we load the .csv files from our project folder.</p>
+<p>The <strong>Data Structure</strong> in <code class="docutils literal notranslate"><span class="pre">tfs_structured.csv</span></code> is:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">refnr</span></code>: Reference number</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">række</span></code>: Series number</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">bind</span></code>: Volume number</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">side</span></code>: Page number</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">content</span></code>: Text content</p></li>
+</ul>
+<p>With the data in the right folder we load the main data and stopwords from CSV files.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">main_data_path</span> <span class="o">=</span> <span class="s1">&#39;tfs_data/tfs_structured.csv&#39;</span>
-<span class="n">stopwords_path</span> <span class="o">=</span> <span class="s1">&#39;tfs_data/tfs_stopord.csv&#39;</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">main_data_path</span> <span class="o">=</span> <span class="s1">&#39;tfs_structured.csv&#39;</span>
+<span class="n">stopwords_path</span> <span class="o">=</span> <span class="s1">&#39;tfs_stopord.csv&#39;</span>
 
 <span class="k">try</span><span class="p">:</span>
     <span class="n">tfs</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">main_data_path</span><span class="p">)</span>
@@ -502,7 +527,7 @@ Loaded 60 project-specific stopwords.
 </div>
 </section>
 <section id="formation-of-bigrams">
-<h2>3. Formation of Bigrams<a class="headerlink" href="#formation-of-bigrams" title="Link to this heading">#</a></h2>
+<h2>Formation of Bigrams<a class="headerlink" href="#formation-of-bigrams" title="Link to this heading">#</a></h2>
 <p>We create bigrams (word pairs) for each text.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -514,28 +539,111 @@ Loaded 60 project-specific stopwords.
     <span class="k">return</span> <span class="p">[(</span><span class="n">tokens</span><span class="p">[</span><span class="n">i</span><span class="p">],</span> <span class="n">tokens</span><span class="p">[</span><span class="n">i</span><span class="o">+</span><span class="mi">1</span><span class="p">])</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="nb">len</span><span class="p">(</span><span class="n">tokens</span><span class="p">)</span><span class="o">-</span><span class="mi">1</span><span class="p">)]</span>
 
 <span class="c1"># Create bigrams for all rows</span>
-<span class="n">bigrams_list</span> <span class="o">=</span> <span class="p">[]</span>
-<span class="k">for</span> <span class="n">idx</span><span class="p">,</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">tfs</span><span class="o">.</span><span class="n">iterrows</span><span class="p">():</span>
-    <span class="n">tokens</span> <span class="o">=</span> <span class="n">regex_tokenize</span><span class="p">(</span><span class="n">row</span><span class="p">[</span><span class="s1">&#39;content&#39;</span><span class="p">])</span>
-    <span class="n">bigrams</span> <span class="o">=</span> <span class="n">make_bigrams</span><span class="p">(</span><span class="n">tokens</span><span class="p">)</span>
-    <span class="k">for</span> <span class="n">bg</span> <span class="ow">in</span> <span class="n">bigrams</span><span class="p">:</span>
-        <span class="n">bigrams_list</span><span class="o">.</span><span class="n">append</span><span class="p">({</span><span class="s1">&#39;refnr&#39;</span><span class="p">:</span> <span class="n">row</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;refnr&#39;</span><span class="p">,</span> <span class="n">idx</span><span class="p">),</span>
-                             <span class="s1">&#39;række&#39;</span><span class="p">:</span> <span class="n">row</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;række&#39;</span><span class="p">,</span> <span class="kc">None</span><span class="p">),</span>
-                             <span class="s1">&#39;bind&#39;</span><span class="p">:</span> <span class="n">row</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;bind&#39;</span><span class="p">,</span> <span class="kc">None</span><span class="p">),</span>
-                             <span class="s1">&#39;side&#39;</span><span class="p">:</span> <span class="n">row</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;side&#39;</span><span class="p">,</span> <span class="kc">None</span><span class="p">),</span>
-                             <span class="s1">&#39;word1&#39;</span><span class="p">:</span> <span class="n">bg</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span>
-                             <span class="s1">&#39;word2&#39;</span><span class="p">:</span> <span class="n">bg</span><span class="p">[</span><span class="mi">1</span><span class="p">]})</span>
+<span class="k">if</span> <span class="n">tfs</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span><span class="p">:</span>
+    <span class="n">bigrams_list</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="k">for</span> <span class="n">idx</span><span class="p">,</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">tfs</span><span class="o">.</span><span class="n">iterrows</span><span class="p">():</span>
+        <span class="n">tokens</span> <span class="o">=</span> <span class="n">regex_tokenize</span><span class="p">(</span><span class="n">row</span><span class="p">[</span><span class="s1">&#39;content&#39;</span><span class="p">])</span>
+        <span class="n">bigrams</span> <span class="o">=</span> <span class="n">make_bigrams</span><span class="p">(</span><span class="n">tokens</span><span class="p">)</span>
+        <span class="k">for</span> <span class="n">bg</span> <span class="ow">in</span> <span class="n">bigrams</span><span class="p">:</span>
+            <span class="n">bigrams_list</span><span class="o">.</span><span class="n">append</span><span class="p">({</span><span class="s1">&#39;refnr&#39;</span><span class="p">:</span> <span class="n">row</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;refnr&#39;</span><span class="p">,</span> <span class="n">idx</span><span class="p">),</span>
+                                 <span class="s1">&#39;række&#39;</span><span class="p">:</span> <span class="n">row</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;række&#39;</span><span class="p">,</span> <span class="kc">None</span><span class="p">),</span>
+                                 <span class="s1">&#39;bind&#39;</span><span class="p">:</span> <span class="n">row</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;bind&#39;</span><span class="p">,</span> <span class="kc">None</span><span class="p">),</span>
+                                 <span class="s1">&#39;side&#39;</span><span class="p">:</span> <span class="n">row</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="s1">&#39;side&#39;</span><span class="p">,</span> <span class="kc">None</span><span class="p">),</span>
+                                 <span class="s1">&#39;word1&#39;</span><span class="p">:</span> <span class="n">bg</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span>
+                                 <span class="s1">&#39;word2&#39;</span><span class="p">:</span> <span class="n">bg</span><span class="p">[</span><span class="mi">1</span><span class="p">]})</span>
 
-<span class="n">tfs_bigrams</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">bigrams_list</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Number of bigrams: </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">tfs_bigrams</span><span class="p">)</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
-<span class="n">display</span><span class="p">(</span><span class="n">tfs_bigrams</span><span class="o">.</span><span class="n">head</span><span class="p">())</span>
+    <span class="n">tfs_bigrams</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">(</span><span class="n">bigrams_list</span><span class="p">)</span>
+    <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Number of bigrams: </span><span class="si">{</span><span class="nb">len</span><span class="p">(</span><span class="n">tfs_bigrams</span><span class="p">)</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
+    <span class="n">display</span><span class="p">(</span><span class="n">tfs_bigrams</span><span class="o">.</span><span class="n">head</span><span class="p">())</span>
+<span class="k">else</span><span class="p">:</span>
+    <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Data not loaded. Please ensure tfs_structured.csv is available.&#39;</span><span class="p">)</span>
+    <span class="n">tfs_bigrams</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">DataFrame</span><span class="p">()</span>
 </pre></div>
 </div>
 </div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Number of bigrams: 4402472
+</pre></div>
+</div>
+<div class="output text_html"><div>
+<style scoped>
+    .dataframe tbody tr th:only-of-type {
+        vertical-align: middle;
+    }
+
+    .dataframe tbody tr th {
+        vertical-align: top;
+    }
+
+    .dataframe thead th {
+        text-align: right;
+    }
+</style>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>refnr</th>
+      <th>række</th>
+      <th>bind</th>
+      <th>side</th>
+      <th>word1</th>
+      <th>word2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>1.1.1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>philopatreias</td>
+      <td>trende</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>1.1.1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>trende</td>
+      <td>anmærkninger</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>1.1.1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>anmærkninger</td>
+      <td>i</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>1.1.1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>i</td>
+      <td>om</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>1.1.1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>om</td>
+      <td>de</td>
+    </tr>
+  </tbody>
+</table>
+</div></div></div>
 </div>
 </section>
 <section id="count-bigrams">
-<h2>4. Count Bigrams<a class="headerlink" href="#count-bigrams" title="Link to this heading">#</a></h2>
+<h2>Count Bigrams<a class="headerlink" href="#count-bigrams" title="Link to this heading">#</a></h2>
 <p>We count the frequency of each bigram (word pair).</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -696,7 +804,7 @@ Loaded 60 project-specific stopwords.
 </div>
 </section>
 <section id="remove-bigrams-where-one-of-the-words-is-a-stopword">
-<h2>5. Remove Bigrams Where One of the Words is a Stopword<a class="headerlink" href="#remove-bigrams-where-one-of-the-words-is-a-stopword" title="Link to this heading">#</a></h2>
+<h2>Remove Bigrams Where One of the Words is a Stopword<a class="headerlink" href="#remove-bigrams-where-one-of-the-words-is-a-stopword" title="Link to this heading">#</a></h2>
 <p>We remove bigrams where either word1 or word2 is a stopword (Danish, German, or project-specific).</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -720,7 +828,7 @@ Loaded 60 project-specific stopwords.
 </div>
 </section>
 <section id="count-filtered-bigrams">
-<h2>6. Count Filtered Bigrams<a class="headerlink" href="#count-filtered-bigrams" title="Link to this heading">#</a></h2>
+<h2>Count Filtered Bigrams<a class="headerlink" href="#count-filtered-bigrams" title="Link to this heading">#</a></h2>
 <p>We now count bigrams without stopwords.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -881,7 +989,7 @@ Loaded 60 project-specific stopwords.
 </div>
 </section>
 <section id="search-for-specific-bigrams-e-g-where-word2-matches-a-pattern">
-<h2>7. Search for Specific Bigrams (e.g., where word2 matches a pattern)<a class="headerlink" href="#search-for-specific-bigrams-e-g-where-word2-matches-a-pattern" title="Link to this heading">#</a></h2>
+<h2>Search for Specific Bigrams (e.g., where word2 matches a pattern)<a class="headerlink" href="#search-for-specific-bigrams-e-g-where-word2-matches-a-pattern" title="Link to this heading">#</a></h2>
 <p>We can filter bigrams where word2 matches a specific pattern, e.g., words starting with ‘gud’.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -1044,7 +1152,7 @@ Loaded 60 project-specific stopwords.
 </div>
 </section>
 <section id="visualization-as-network-graph">
-<h2>8. Visualization as Network Graph<a class="headerlink" href="#visualization-as-network-graph" title="Link to this heading">#</a></h2>
+<h2>Visualization as Network Graph<a class="headerlink" href="#visualization-as-network-graph" title="Link to this heading">#</a></h2>
 <p>We can visualize the most frequent bigrams as a network graph.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -1067,12 +1175,12 @@ Loaded 60 project-specific stopwords.
 </div>
 </div>
 <div class="cell_output docutils container">
-<img alt="_images/58eac1145f3b6baaaa855743ffd903cba138ed7180581f306f0839326d19723e.png" src="_images/58eac1145f3b6baaaa855743ffd903cba138ed7180581f306f0839326d19723e.png" />
+<img alt="_images/84a6a5ff161254d64fcde2b71c6b7e85f216f036dfae1a8107c66aebe2c8d2b4.png" src="_images/84a6a5ff161254d64fcde2b71c6b7e85f216f036dfae1a8107c66aebe2c8d2b4.png" />
 </div>
 </div>
 </section>
 <section id="save-graph-and-results">
-<h2>9. Save Graph and Results<a class="headerlink" href="#save-graph-and-results" title="Link to this heading">#</a></h2>
+<h2>Save Graph and Results<a class="headerlink" href="#save-graph-and-results" title="Link to this heading">#</a></h2>
 <p>You can save the graph and results as CSV files.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -1159,15 +1267,15 @@ Loaded 60 project-specific stopwords.
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">1. Install and Import Dependencies</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">2. Load Data</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#formation-of-bigrams">3. Formation of Bigrams</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-bigrams">4. Count Bigrams</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#remove-bigrams-where-one-of-the-words-is-a-stopword">5. Remove Bigrams Where One of the Words is a Stopword</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-filtered-bigrams">6. Count Filtered Bigrams</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#search-for-specific-bigrams-e-g-where-word2-matches-a-pattern">7. Search for Specific Bigrams (e.g., where word2 matches a pattern)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualization-as-network-graph">8. Visualization as Network Graph</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-graph-and-results">9. Save Graph and Results</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">Install and Import Dependencies</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">Load Data</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#formation-of-bigrams">Formation of Bigrams</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-bigrams">Count Bigrams</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#remove-bigrams-where-one-of-the-words-is-a-stopword">Remove Bigrams Where One of the Words is a Stopword</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-filtered-bigrams">Count Filtered Bigrams</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#search-for-specific-bigrams-e-g-where-word2-matches-a-pattern">Search for Specific Bigrams (e.g., where word2 matches a pattern)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualization-as-network-graph">Visualization as Network Graph</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-graph-and-results">Save Graph and Results</a></li>
 </ul>
   </nav></div>
 

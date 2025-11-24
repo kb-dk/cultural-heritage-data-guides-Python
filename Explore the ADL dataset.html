@@ -61,7 +61,7 @@
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Clean the Flora Danica dataset" href="Clean%20the%20Flora%20Danica%20dataset.html" />
-    <link rel="prev" title="Cultural Heritage Data Guides - Python" href="intro.html" />
+    <link rel="prev" title="How to get started" href="Set_up.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -188,7 +188,11 @@ style="width: 15%; height: auto;" Go to Cultural Heritage Collection as Data></a
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (Arkiv for Dansk Litteratur)</span></p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="Set_up.html">How to get started</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (Arkiv for Dansk Litteratur)</span></p>
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Explore the ADL dataset</a></li>
 </ul>
@@ -442,7 +446,8 @@ document.write(`
 </div>
 <section id="read-the-csv-file">
 <h2>Read the CSV file<a class="headerlink" href="#read-the-csv-file" title="Link to this heading">#</a></h2>
-<p>Load the dataset from a CSV file into a pandas DataFrame</p>
+<p>Load the dataset from a CSV file into a pandas DataFrame.</p>
+<p><strong>Check</strong>: when you run this script on your own computer you have to have this .csv file, <code class="docutils literal notranslate"><span class="pre">adl_dataset_metadata.csv</span></code>, downloaded to your project folder. <a class="reference external" href="https://github.com/kb-dk/cultural-heritage-data-guides-Python">You can download it from the corresponding github repository</a></p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="sa">r</span><span class="s1">&#39;mekuni_adl_data/adl_dataset_metadata.csv&#39;</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s1">&#39;utf&#39;</span><span class="p">)</span>
@@ -940,12 +945,12 @@ Review of the soup / xml showed that reading body tags and subsequently reading 
                   
 <div class="prev-next-area">
     <a class="left-prev"
-       href="intro.html"
+       href="Set_up.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Cultural Heritage Data Guides - Python</p>
+        <p class="prev-next-title">How to get started</p>
       </div>
     </a>
     <a class="right-next"

@@ -2,6 +2,10 @@
 
 This guide will help you get started with downloading and setting up the datasets from the Royal Danish Library for use with our guides.
 
+## Download Scripts
+
+From this page you can download the scripts in different formats if you find the download icon in the top menu. From the corresponding repository you can download scripts as either .ipnb or .rmd.
+
 ## Download Files
 
 The datasets used in these guides are available on [LOAR (Library Open Access Repository)](https://loar.kb.dk/home). LOAR is a platform that the Royal Danish Library uses to share the library's open datasets for use in research, in studies, and for the general public. You can download the datasets from LOAR to your computer and use the scripts to get started.
