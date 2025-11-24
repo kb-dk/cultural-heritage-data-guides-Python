@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Explore Denmarks Letters (Danmarks Breve) &#8212; Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv</title>
+    <title>Explore Denmarks Letters (Danmarks Breve) &#8212; Cultural Heritage Data Guides - Python</title>
   
   
   
@@ -112,6 +112,15 @@
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
+<aside class="bd-header-announcement" aria-label="Announcement">
+  <div class="bd-header-announcement__content"><div>
+<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">
+<img src="https://kb-dk.github.io/cultural-heritage-data-guides-R/img/DKB_logo_simplified_black_RGB.png" alt="The Royal Danish Library logo" title="Go to Cultural Heritage Collection as Data" 
+style="width: 15%; height: auto;" Go to Cultural Heritage Collection as Data></a>
+<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data" style="color: orange;">Go to Cultural Heritage Collection as Data</a>
+</div>
+</div>
+</aside>
 
   
     <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
@@ -152,8 +161,8 @@
       
     
     
-    <img src="_static/DKB logo expanded black RGB.png" class="logo__image only-light" alt="Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv - Home"/>
-    <script>document.write(`<img src="_static/DKB logo expanded black RGB.png" class="logo__image only-dark" alt="Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv - Home"/>`);</script>
+    <img src="_static/DKB_logo_simplified_black_RGB.png" class="logo__image only-light" alt="Cultural Heritage Data Guides - Python - Home"/>
+    <script>document.write(`<img src="_static/DKB_logo_simplified_black_RGB.png" class="logo__image only-dark" alt="Cultural Heritage Data Guides - Python - Home"/>`);</script>
   
   
 </a></div>
@@ -174,7 +183,7 @@
         <ul class="nav bd-sidenav bd-sidenav__home-link">
             <li class="toctree-l1">
                 <a class="reference internal" href="intro.html">
-                    Guides to the Royal Danish Library’s Digital Cultural Heritage
+                    Cultural Heritage Data Guides - Python
                 </a>
             </li>
         </ul>
@@ -254,7 +263,7 @@
       
       
       
-      <li><a href="https://github.com/kb-dk/Vejledninger-til-Det-Kgl.-Biblioteks-Digitale-Kulturarv" target="_blank"
+      <li><a href="https://github.com/kb-dk/cultural-heritage-data-guides-Python" target="_blank"
    class="btn btn-sm btn-source-repository-button dropdown-item"
    title="Source repository"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -271,7 +280,7 @@
       
       
       
-      <li><a href="https://github.com/kb-dk/Vejledninger-til-Det-Kgl.-Biblioteks-Digitale-Kulturarv/issues/new?title=Issue%20on%20page%20%2FExplore Denmarks Letters.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/kb-dk/cultural-heritage-data-guides-Python/issues/new?title=Issue%20on%20page%20%2FExplore Denmarks Letters.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -414,7 +423,7 @@ document.write(`
 <h1>Explore Denmarks Letters (Danmarks Breve)<a class="headerlink" href="#explore-denmarks-letters-danmarks-breve" title="Link to this heading">#</a></h1>
 <section id="script-summary">
 <h2>Script Summary<a class="headerlink" href="#script-summary" title="Link to this heading">#</a></h2>
-<p>This notebook explores a dataset constructed from the XML sources behind the Royal Danish Library’s digital <code class="docutils literal notranslate"><span class="pre">Danmarks</span> <span class="pre">Breve</span></code> collection, which holds 13,000+ printed letters and supporting metadata <a class="reference external" href="https://tekster.kb.dk/text?editorial=no&amp;amp;f%5Bsubcollection_ssi%5D%5B%5D=letters&amp;amp;match=one&amp;amp;search_field=Alt">source</a>.</p>
+<p>This notebook explores a dataset constructed from the XML sources behind the Royal Danish Library’s digital <a class="reference external" href="https://tekster.kb.dk/text?editorial=no&amp;amp;f%5Bsubcollection_ssi%5D%5B%5D=letters&amp;amp;match=one&amp;amp;search_field=Alt"><code class="docutils literal notranslate"><span class="pre">Danmarks</span> <span class="pre">Breve</span></code></a> collection, which holds 13,000+ printed letters and metadata.</p>
 <p><strong>Steps:</strong></p>
 <ul class="simple">
 <li><p>Load the harmonised bibliographic dataset derived from the XML files and inspect schemas for key entities (<code class="docutils literal notranslate"><span class="pre">sender_st</span></code>, <code class="docutils literal notranslate"><span class="pre">recipiant_st</span></code>, <code class="docutils literal notranslate"><span class="pre">text_st</span></code>, <code class="docutils literal notranslate"><span class="pre">year_st</span></code>).</p></li>
@@ -680,7 +689,7 @@ Top 10 Recipients:
 </div>
 </div>
 <div class="cell_output docutils container">
-<img alt="_images/a003493de5d72e9d9d30fab6476d98221abd22877e3162871ed4ea55eb479861.png" src="_images/a003493de5d72e9d9d30fab6476d98221abd22877e3162871ed4ea55eb479861.png" />
+<img alt="_images/5f7fa5eb356e43ea502d534825ccd0182b1c0cdc977399bcc83f9a5cf3399bc1.png" src="_images/5f7fa5eb356e43ea502d534825ccd0182b1c0cdc977399bcc83f9a5cf3399bc1.png" />
 </div>
 </div>
 </section>
@@ -1157,7 +1166,7 @@ Top 10 Recipients:
   <div class="footer-item">
     
 <p class="component-author">
-By Det Kgl. Bibliotek
+By The Royal Danish Library - Staff
 </p>
 
   </div>
