@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Explore Denmarks Letters (Danmarks Breve) &#8212; Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv</title>
+    <title>Explore Denmarks Letters (Danmarks Breve) &#8212; Cultural Heritage Data Guides - Python</title>
   
   
   
@@ -32,7 +32,7 @@
     <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
@@ -112,6 +112,15 @@
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
+<aside class="bd-header-announcement" aria-label="Announcement">
+  <div class="bd-header-announcement__content"><div>
+<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">
+<img src="https://kb-dk.github.io/cultural-heritage-data-guides-R/img/DKB_logo_simplified_black_RGB.png" alt="The Royal Danish Library logo" title="Back to Royal Danish Library's webpage" 
+style="width: 15%; height: auto;" Go to Cultural Heritage Collection as Data></a>
+<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data" style="color: orange;">Back to Royal Danish Library's webpage</a>
+</div>
+</div>
+</aside>
 
   
     <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
@@ -152,8 +161,8 @@
       
     
     
-    <img src="_static/DKB logo expanded black RGB.png" class="logo__image only-light" alt="Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv - Home"/>
-    <script>document.write(`<img src="_static/DKB logo expanded black RGB.png" class="logo__image only-dark" alt="Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv - Home"/>`);</script>
+    <img src="_static/DKB_logo_simplified_black_RGB.png" class="logo__image only-light" alt="Cultural Heritage Data Guides - Python - Home"/>
+    <script>document.write(`<img src="_static/DKB_logo_simplified_black_RGB.png" class="logo__image only-dark" alt="Cultural Heritage Data Guides - Python - Home"/>`);</script>
   
   
 </a></div>
@@ -174,13 +183,17 @@
         <ul class="nav bd-sidenav bd-sidenav__home-link">
             <li class="toctree-l1">
                 <a class="reference internal" href="intro.html">
-                    Guides to the Royal Danish Library’s Digital Cultural Heritage
+                    Cultural Heritage Data Guides - Python
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (Arkiv for Dansk Litteratur)</span></p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="Explore%20the%20ADL%20dataset.html">Explore the ADL dataset</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Set_up.html">How to get started</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (Arkiv for Dansk Litteratur)</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="explore%20the%20adl%20dataset.html">Explore the ADL dataset</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Flora Danica</span></p>
 <ul class="nav bd-sidenav">
@@ -254,7 +267,7 @@
       
       
       
-      <li><a href="https://github.com/kb-dk/Vejledninger-til-Det-Kgl.-Biblioteks-Digitale-Kulturarv" target="_blank"
+      <li><a href="https://github.com/kb-dk/cultural-heritage-data-guides-Python" target="_blank"
    class="btn btn-sm btn-source-repository-button dropdown-item"
    title="Source repository"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -271,7 +284,7 @@
       
       
       
-      <li><a href="https://github.com/kb-dk/Vejledninger-til-Det-Kgl.-Biblioteks-Digitale-Kulturarv/issues/new?title=Issue%20on%20page%20%2FExplore Denmarks Letters.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/kb-dk/cultural-heritage-data-guides-Python/issues/new?title=Issue%20on%20page%20%2FExplore Denmarks Letters.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -414,7 +427,7 @@ document.write(`
 <h1>Explore Denmarks Letters (Danmarks Breve)<a class="headerlink" href="#explore-denmarks-letters-danmarks-breve" title="Link to this heading">#</a></h1>
 <section id="script-summary">
 <h2>Script Summary<a class="headerlink" href="#script-summary" title="Link to this heading">#</a></h2>
-<p>This notebook explores a dataset constructed from the XML sources behind the Royal Danish Library’s digital <code class="docutils literal notranslate"><span class="pre">Danmarks</span> <span class="pre">Breve</span></code> collection, which holds 13,000+ printed letters and supporting metadata <a class="reference external" href="https://tekster.kb.dk/text?editorial=no&amp;amp;f%5Bsubcollection_ssi%5D%5B%5D=letters&amp;amp;match=one&amp;amp;search_field=Alt">source</a>.</p>
+<p>This notebook explores a dataset constructed from the XML sources behind the Royal Danish Library’s digital <a class="reference external" href="https://tekster.kb.dk/text?editorial=no&amp;amp;f%5Bsubcollection_ssi%5D%5B%5D=letters&amp;amp;match=one&amp;amp;search_field=Alt"><code class="docutils literal notranslate"><span class="pre">Danmarks</span> <span class="pre">Breve</span></code></a> collection, which holds 13,000+ printed letters and metadata.</p>
 <p><strong>Steps:</strong></p>
 <ul class="simple">
 <li><p>Load the harmonised bibliographic dataset derived from the XML files and inspect schemas for key entities (<code class="docutils literal notranslate"><span class="pre">sender_st</span></code>, <code class="docutils literal notranslate"><span class="pre">recipiant_st</span></code>, <code class="docutils literal notranslate"><span class="pre">text_st</span></code>, <code class="docutils literal notranslate"><span class="pre">year_st</span></code>).</p></li>
@@ -680,7 +693,7 @@ Top 10 Recipients:
 </div>
 </div>
 <div class="cell_output docutils container">
-<img alt="_images/a003493de5d72e9d9d30fab6476d98221abd22877e3162871ed4ea55eb479861.png" src="_images/a003493de5d72e9d9d30fab6476d98221abd22877e3162871ed4ea55eb479861.png" />
+<img alt="_images/93f075c6fc332f6120efc395c57c019a7c4398925a6754b6ffe4c9cf0fadaa50.png" src="_images/93f075c6fc332f6120efc395c57c019a7c4398925a6754b6ffe4c9cf0fadaa50.png" />
 </div>
 </div>
 </section>
@@ -789,16 +802,16 @@ Top 10 Recipients:
       <td>arkivet</td>
       <td>bibl</td>
       <td>kongl</td>
-      <td>1613</td>
-      <td>bruun</td>
-      <td>storthinget</td>
       <td>verk</td>
+      <td>bruun</td>
       <td>arkiver</td>
+      <td>storthinget</td>
       <td>daae</td>
+      <td>1613</td>
       <td>1660</td>
       <td>throndhjem</td>
       <td>assessor</td>
-      <td>gulbranson</td>
+      <td>1828</td>
     </tr>
     <tr>
       <th>1</th>
@@ -828,12 +841,12 @@ Top 10 Recipients:
       <td>gade</td>
       <td>sinfonie</td>
       <td>richardt</td>
-      <td>winding</td>
       <td>maries</td>
+      <td>winding</td>
       <td>hobro</td>
       <td>judith</td>
-      <td>niels</td>
       <td>im</td>
+      <td>niels</td>
       <td>wir</td>
       <td>text</td>
       <td>vaade</td>
@@ -844,16 +857,16 @@ Top 10 Recipients:
       <td>boghandlere</td>
       <td>hegel</td>
       <td>collett</td>
-      <td>honorar</td>
       <td>lie</td>
+      <td>honorar</td>
       <td>hilsener</td>
       <td>handelen</td>
       <td>bjørnson</td>
       <td>ibsen</td>
       <td>manuskriptet</td>
       <td>arket</td>
-      <td>udsolgt</td>
       <td>forlægge</td>
+      <td>udsolgt</td>
       <td>oplag</td>
       <td>kjærligste</td>
     </tr>
@@ -867,14 +880,14 @@ Top 10 Recipients:
       <td>keudell</td>
       <td>regering</td>
       <td>preussen</td>
+      <td>samtales</td>
+      <td>hiortlorenzen</td>
       <td>pligtforsømmelse</td>
-      <td>weserzeitung</td>
-      <td>hund</td>
-      <td>drøftet</td>
-      <td>kabinettet</td>
-      <td>statsministeren</td>
       <td>sønderrives</td>
       <td>tabes</td>
+      <td>hund</td>
+      <td>west</td>
+      <td>weserzeitung</td>
     </tr>
     <tr>
       <th>5</th>
@@ -890,28 +903,28 @@ Top 10 Recipients:
       <td>poulsen</td>
       <td>prokuratoren</td>
       <td>nicolaysen</td>
-      <td>oehlenschläger</td>
       <td>hennings</td>
-      <td>hauchs</td>
+      <td>oehlenschläger</td>
       <td>digtning</td>
+      <td>hauchs</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Krüger, Hans Andersen</td>
       <td>nordslesvig</td>
+      <td>ahlmann</td>
+      <td>nordslesvigere</td>
+      <td>høimodighed</td>
+      <td>elsasserne</td>
       <td>menig</td>
       <td>revision</td>
-      <td>ahlmann</td>
-      <td>elsasserne</td>
       <td>lempet</td>
-      <td>høimodighed</td>
-      <td>nordslesvigere</td>
       <td>quaade</td>
       <td>tydskerne</td>
       <td>tydskland</td>
       <td>vælgeres</td>
-      <td>tjenesten</td>
       <td>gengivelsen</td>
+      <td>tjenesten</td>
       <td>tydske</td>
     </tr>
     <tr>
@@ -930,8 +943,8 @@ Top 10 Recipients:
       <td>bonnat</td>
       <td>akademiet</td>
       <td>gøre</td>
-      <td>tuxen</td>
       <td>henningsen</td>
+      <td>tuxen</td>
     </tr>
     <tr>
       <th>8</th>
@@ -988,26 +1001,26 @@ Top 10 Recipients:
       <td>altergangen</td>
       <td>barnets</td>
       <td>forladelse</td>
-      <td>menighedens</td>
+      <td>tilsigelse</td>
     </tr>
     <tr>
       <th>11</th>
       <td>Quaade, George Joachim</td>
       <td>quaade</td>
       <td>gesandt</td>
-      <td>bemeldte</td>
       <td>herr</td>
       <td>kaiser</td>
       <td>excellences</td>
       <td>statssecretairen</td>
       <td>omhandlede</td>
-      <td>meer</td>
       <td>vedel</td>
       <td>vedels</td>
       <td>vien</td>
       <td>kaiseren</td>
       <td>heydebrand</td>
       <td>fyrst</td>
+      <td>rosenørnlehn</td>
+      <td>kammerherre</td>
     </tr>
     <tr>
       <th>12</th>
@@ -1025,8 +1038,8 @@ Top 10 Recipients:
       <td>koncept</td>
       <td>cette</td>
       <td>keis</td>
-      <td>vedels</td>
       <td>quaade</td>
+      <td>vedels</td>
     </tr>
     <tr>
       <th>13</th>
@@ -1045,7 +1058,7 @@ Top 10 Recipients:
       <td>frijs</td>
       <td>marskallen</td>
       <td>baron</td>
-      <td>slesv</td>
+      <td>fonnesbech</td>
     </tr>
     <tr>
       <th>14</th>
@@ -1060,8 +1073,8 @@ Top 10 Recipients:
       <td>athen</td>
       <td>sora</td>
       <td>jerndorff</td>
-      <td>lovisa</td>
       <td>siena</td>
+      <td>lovisa</td>
       <td>haslund</td>
       <td>rønne</td>
       <td>modeller</td>
@@ -1157,7 +1170,7 @@ Top 10 Recipients:
   <div class="footer-item">
     
 <p class="component-author">
-By Det Kgl. Bibliotek
+By The Royal Danish Library - Staff
 </p>
 
   </div>

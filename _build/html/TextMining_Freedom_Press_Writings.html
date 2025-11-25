@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Textmining Trykkefrihedens Skrifter &#8212; Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv</title>
+    <title>Textmining Trykkefrihedens Skrifter &#8212; Cultural Heritage Data Guides - Python</title>
   
   
   
@@ -32,7 +32,7 @@
     <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
@@ -113,6 +113,15 @@
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
+<aside class="bd-header-announcement" aria-label="Announcement">
+  <div class="bd-header-announcement__content"><div>
+<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">
+<img src="https://kb-dk.github.io/cultural-heritage-data-guides-R/img/DKB_logo_simplified_black_RGB.png" alt="The Royal Danish Library logo" title="Back to Royal Danish Library's webpage" 
+style="width: 15%; height: auto;" Go to Cultural Heritage Collection as Data></a>
+<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data" style="color: orange;">Back to Royal Danish Library's webpage</a>
+</div>
+</div>
+</aside>
 
   
     <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
@@ -153,8 +162,8 @@
       
     
     
-    <img src="_static/DKB logo expanded black RGB.png" class="logo__image only-light" alt="Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv - Home"/>
-    <script>document.write(`<img src="_static/DKB logo expanded black RGB.png" class="logo__image only-dark" alt="Vejledninger til Det Kgl. Biblioteks Digitale Kulturarv - Home"/>`);</script>
+    <img src="_static/DKB_logo_simplified_black_RGB.png" class="logo__image only-light" alt="Cultural Heritage Data Guides - Python - Home"/>
+    <script>document.write(`<img src="_static/DKB_logo_simplified_black_RGB.png" class="logo__image only-dark" alt="Cultural Heritage Data Guides - Python - Home"/>`);</script>
   
   
 </a></div>
@@ -175,13 +184,17 @@
         <ul class="nav bd-sidenav bd-sidenav__home-link">
             <li class="toctree-l1">
                 <a class="reference internal" href="intro.html">
-                    Guides to the Royal Danish Library’s Digital Cultural Heritage
+                    Cultural Heritage Data Guides - Python
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (Arkiv for Dansk Litteratur)</span></p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="Explore%20the%20ADL%20dataset.html">Explore the ADL dataset</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Set_up.html">How to get started</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (Arkiv for Dansk Litteratur)</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="explore%20the%20adl%20dataset.html">Explore the ADL dataset</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Flora Danica</span></p>
 <ul class="nav bd-sidenav">
@@ -255,7 +268,7 @@
       
       
       
-      <li><a href="https://github.com/kb-dk/Vejledninger-til-Det-Kgl.-Biblioteks-Digitale-Kulturarv" target="_blank"
+      <li><a href="https://github.com/kb-dk/cultural-heritage-data-guides-Python" target="_blank"
    class="btn btn-sm btn-source-repository-button dropdown-item"
    title="Source repository"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -272,7 +285,7 @@
       
       
       
-      <li><a href="https://github.com/kb-dk/Vejledninger-til-Det-Kgl.-Biblioteks-Digitale-Kulturarv/issues/new?title=Issue%20on%20page%20%2FTextMining_Freedom_Press_Writings.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/kb-dk/cultural-heritage-data-guides-Python/issues/new?title=Issue%20on%20page%20%2FTextMining_Freedom_Press_Writings.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -396,15 +409,15 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">1. Install and Import Dependencies</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">2. Load Data</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tokenization-with-regex">3. Tokenization with Regex</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stopword-handling">4. Stopword Handling</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#word-frequency-analysis-all-data">5. Word Frequency Analysis (All Data)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#filtered-analysis-raekke-1-bind-5-6">6. Filtered Analysis: Række 1, Bind 5+6</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#keyword-in-context-kwic-analysis">7. Keyword-in-Context (KWIC) Analysis</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-results">8. Save Results</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conclusion">9. Conclusion</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">Install and Import Dependencies</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">Load Data</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tokenization-with-regex">Tokenization with Regex</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stopword-handling">Stopword Handling</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#word-frequency-analysis-all-data">Word Frequency Analysis (All Data)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#filtered-analysis-raekke-1-bind-5-6">Filtered Analysis: Række 1, Bind 5+6</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#keyword-in-context-kwic-analysis">Keyword-in-Context (KWIC) Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-results">Save Results</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conclusion">Conclusion</a></li>
 </ul>
             </nav>
         </div>
@@ -430,7 +443,7 @@ document.write(`
 </ul>
 <hr class="docutils" />
 <section id="install-and-import-dependencies">
-<h2>1. Install and Import Dependencies<a class="headerlink" href="#install-and-import-dependencies" title="Link to this heading">#</a></h2>
+<h2>Install and Import Dependencies<a class="headerlink" href="#install-and-import-dependencies" title="Link to this heading">#</a></h2>
 <p>If running for the first time, uncomment and run the pip cell below.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -467,13 +480,33 @@ document.write(`
 </div>
 </section>
 <section id="load-data">
-<h2>2. Load Data<a class="headerlink" href="#load-data" title="Link to this heading">#</a></h2>
-<p>We load the main text data and project-specific stopwords from CSV files.</p>
+<h2>Load Data<a class="headerlink" href="#load-data" title="Link to this heading">#</a></h2>
+<p><strong>Check your data files:</strong>
+You need the main text data and project-specific stopwords as csv files.</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">tfs_structured.csv</span></code> — Main text data</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">tfs_stopord.csv</span></code> — Project-specific stopwords</p></li>
+</ul>
+<p>You can find them in the corresponding repository: <a class="github reference external" href="https://github.com/kb-dk/cultural-heritage-data-guides-Python">kb-dk/cultural-heritage-data-guides-Python</a></p>
+<p>Or you can load them through these links:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://raw.githubusercontent.com/maxodsbjerg/TextMiningTFS/refs/heads/main/data/tfs_structured.csv">https://raw.githubusercontent.com/maxodsbjerg/TextMiningTFS/refs/heads/main/data/tfs_structured.csv</a></p></li>
+<li><p><a class="reference external" href="https://raw.githubusercontent.com/maxodsbjerg/TextMiningTFS/refs/heads/main/data/tfs_stopord.csv">https://raw.githubusercontent.com/maxodsbjerg/TextMiningTFS/refs/heads/main/data/tfs_stopord.csv</a></p></li>
+</ul>
+<p>Here we load the .csv files from our project folder.</p>
+<p>The <strong>Data Structure</strong> in <code class="docutils literal notranslate"><span class="pre">tfs_structured.csv</span></code> is:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">refnr</span></code>: Reference number</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">række</span></code>: Series number</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">bind</span></code>: Volume number</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">side</span></code>: Page number</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">content</span></code>: Text content</p></li>
+</ul>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Path to your data files</span>
-<span class="n">main_data_path</span> <span class="o">=</span> <span class="s1">&#39;tfs_data/tfs_structured.csv&#39;</span>
-<span class="n">stopwords_path</span> <span class="o">=</span> <span class="s1">&#39;tfs_data/tfs_stopord.csv&#39;</span>
+<span class="n">main_data_path</span> <span class="o">=</span> <span class="s1">&#39;tfs_structured.csv&#39;</span>
+<span class="n">stopwords_path</span> <span class="o">=</span> <span class="s1">&#39;tfs_stopord.csv&#39;</span>
 
 <span class="c1"># Load main data</span>
 <span class="k">try</span><span class="p">:</span>
@@ -502,7 +535,7 @@ Loaded 60 project-specific stopwords.
 </div>
 </section>
 <section id="tokenization-with-regex">
-<h2>3. Tokenization with Regex<a class="headerlink" href="#tokenization-with-regex" title="Link to this heading">#</a></h2>
+<h2>Tokenization with Regex<a class="headerlink" href="#tokenization-with-regex" title="Link to this heading">#</a></h2>
 <p>We tokenize the text using the regex pattern <code class="docutils literal notranslate"><span class="pre">\b\S+\b</span></code> (matches non-whitespace word-like sequences).</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -529,10 +562,15 @@ Loaded 60 project-specific stopwords.
 </pre></div>
 </div>
 </div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Tokenization complete. Total tokens: 4430589
+</pre></div>
+</div>
+</div>
 </div>
 </section>
 <section id="stopword-handling">
-<h2>4. Stopword Handling<a class="headerlink" href="#stopword-handling" title="Link to this heading">#</a></h2>
+<h2>Stopword Handling<a class="headerlink" href="#stopword-handling" title="Link to this heading">#</a></h2>
 <p>We use Danish and German stopwords from NLTK, and add project-specific stopwords.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -555,7 +593,7 @@ German stopwords: 232
 </div>
 </section>
 <section id="word-frequency-analysis-all-data">
-<h2>5. Word Frequency Analysis (All Data)<a class="headerlink" href="#word-frequency-analysis-all-data" title="Link to this heading">#</a></h2>
+<h2>Word Frequency Analysis (All Data)<a class="headerlink" href="#word-frequency-analysis-all-data" title="Link to this heading">#</a></h2>
 <p>We count the frequency of each word, first including all words, then after removing stopwords.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -830,7 +868,7 @@ German stopwords: 232
 </div>
 </section>
 <section id="filtered-analysis-raekke-1-bind-5-6">
-<h2>6. Filtered Analysis: Række 1, Bind 5+6<a class="headerlink" href="#filtered-analysis-raekke-1-bind-5-6" title="Link to this heading">#</a></h2>
+<h2>Filtered Analysis: Række 1, Bind 5+6<a class="headerlink" href="#filtered-analysis-raekke-1-bind-5-6" title="Link to this heading">#</a></h2>
 <p>We focus on texts from Række 1 and Bind 5 or 6 (Landøkonomi).</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -973,7 +1011,7 @@ German stopwords: 232
 </div>
 </section>
 <section id="keyword-in-context-kwic-analysis">
-<h2>7. Keyword-in-Context (KWIC) Analysis<a class="headerlink" href="#keyword-in-context-kwic-analysis" title="Link to this heading">#</a></h2>
+<h2>Keyword-in-Context (KWIC) Analysis<a class="headerlink" href="#keyword-in-context-kwic-analysis" title="Link to this heading">#</a></h2>
 <p>We analyze the context of the keyword ‘jord’ within a window of 4 words.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -1104,7 +1142,7 @@ German stopwords: 232
 </div>
 </section>
 <section id="save-results">
-<h2>8. Save Results<a class="headerlink" href="#save-results" title="Link to this heading">#</a></h2>
+<h2>Save Results<a class="headerlink" href="#save-results" title="Link to this heading">#</a></h2>
 <p>You can save the results to CSV files for further analysis.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -1125,7 +1163,7 @@ German stopwords: 232
 </section>
 <hr class="docutils" />
 <section id="conclusion">
-<h2>9. Conclusion<a class="headerlink" href="#conclusion" title="Link to this heading">#</a></h2>
+<h2>Conclusion<a class="headerlink" href="#conclusion" title="Link to this heading">#</a></h2>
 <p>This notebook demonstrated a full text mining workflow for Trykkefrihedens Skrifter using Python, including regex-based tokenization, stopword removal, word frequency analysis, and keyword-in-context analysis.</p>
 <p>You can further explore the data, visualize results, or adapt the workflow to your needs!</p>
 </section>
@@ -1195,15 +1233,15 @@ German stopwords: 232
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">1. Install and Import Dependencies</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">2. Load Data</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tokenization-with-regex">3. Tokenization with Regex</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stopword-handling">4. Stopword Handling</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#word-frequency-analysis-all-data">5. Word Frequency Analysis (All Data)</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#filtered-analysis-raekke-1-bind-5-6">6. Filtered Analysis: Række 1, Bind 5+6</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#keyword-in-context-kwic-analysis">7. Keyword-in-Context (KWIC) Analysis</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-results">8. Save Results</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conclusion">9. Conclusion</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">Install and Import Dependencies</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">Load Data</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tokenization-with-regex">Tokenization with Regex</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#stopword-handling">Stopword Handling</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#word-frequency-analysis-all-data">Word Frequency Analysis (All Data)</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#filtered-analysis-raekke-1-bind-5-6">Filtered Analysis: Række 1, Bind 5+6</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#keyword-in-context-kwic-analysis">Keyword-in-Context (KWIC) Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-results">Save Results</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conclusion">Conclusion</a></li>
 </ul>
   </nav></div>
 
@@ -1218,7 +1256,7 @@ German stopwords: 232
   <div class="footer-item">
     
 <p class="component-author">
-By Det Kgl. Bibliotek
+By The Royal Danish Library - Staff
 </p>
 
   </div>

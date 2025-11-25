@@ -5,9 +5,15 @@ format: jb-book
 root: intro
 
 parts:
+
+  - caption: Set up
+    chapters:
+    - file: Set_up
+      title: How to get started
+
   - caption: Archive for Danish Literature (Arkiv for Dansk Litteratur)
     chapters:
-    - file: Explore the ADL dataset
+    - file: explore the adl dataset
       title: Explore the ADL dataset
   
   - caption: Flora Danica
