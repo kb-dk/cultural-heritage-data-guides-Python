@@ -179,10 +179,13 @@
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Back to Royal Danish Library's webpage</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference external" href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">Cultural Heritage Data as Datasets</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Set_up.html">How to get started</a></li>
-<li class="toctree-l1"><a class="reference external" href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">Back to Royal Danish Library's webpage (Cultural Heritage Data as Datasets)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (Arkiv for Dansk Litteratur)</span></p>
 <ul class="nav bd-sidenav">
@@ -401,12 +404,14 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#resize-images">Resize Images</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#display-images-in-a-jupyter-notebook">Display images in a Jupyter notebook</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-single-image">A single image</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#multiple-images">Multiple images</a></li>
 </ul>
 </li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
             </nav>
         </div>
@@ -420,8 +425,19 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="change-image-size">
 <h1>Change Image Size<a class="headerlink" href="#change-image-size" title="Link to this heading">#</a></h1>
-<p>The images in the Flora Danica dataset are large, so a script that can resize the images may be useful.</p>
+<section id="script-summary">
+<h2>Script Summary<a class="headerlink" href="#script-summary" title="Link to this heading">#</a></h2>
+<p>The images in the Flora Danica dataset are large, so a script that can resize the images may be useful for processing and analysis.</p>
+<p><strong>Steps:</strong></p>
+<ul class="simple">
+<li><p>Define a function to resize TIFF images while preserving their aspect ratio</p></li>
+<li><p>Process images from a source folder and save resized versions to a destination folder</p></li>
+<li><p>Display individual images in the Jupyter notebook</p></li>
+<li><p>Display multiple images in a grid layout for comparison</p></li>
+</ul>
+<p><strong>Outputs:</strong> Resized TIFF images saved to a destination folder, and image displays within the notebook for visualization.</p>
 <p>This notebook demonstrates how to resize TIFF files while preserving the aspect ratio. The script retrieves TIFF files from one folder and saves them as TIFF files in another folder (source_folder → destination_folder). It ensures that the destination folder exists and processes up to a specified number of files from the source folder.</p>
+</section>
 <section id="resize-images">
 <h2>Resize Images<a class="headerlink" href="#resize-images" title="Link to this heading">#</a></h2>
 <p>Define a function to resize TIFF images while preserving their aspect ratio. The function processes images from a source folder and saves the resized versions to a destination folder.</p>
@@ -531,6 +547,19 @@ document.write(`
 </div>
 </section>
 </section>
+<section id="other-studies">
+<h2>Other studies<a class="headerlink" href="#other-studies" title="Link to this heading">#</a></h2>
+<p>Image processing workflows for the Flora Danica dataset can be extended in several ways:</p>
+<ul class="simple">
+<li><p>Apply image enhancement techniques (contrast adjustment, noise reduction) to improve image quality for analysis.</p></li>
+<li><p>Extract image metadata (dimensions, color profiles, compression) to create a comprehensive image catalog.</p></li>
+<li><p>Implement image format conversion (TIFF to JPEG, PNG) for different use cases and storage optimization.</p></li>
+<li><p>Create thumbnail galleries for quick browsing of the entire collection.</p></li>
+<li><p>Apply image analysis techniques (edge detection, feature extraction) to identify and classify botanical elements.</p></li>
+<li><p>Develop image comparison tools to identify similar plants or detect variations across different plates.</p></li>
+<li><p>Integrate image processing with metadata analysis to create image-text correlation workflows.</p></li>
+</ul>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -597,12 +626,14 @@ document.write(`
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#resize-images">Resize Images</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#display-images-in-a-jupyter-notebook">Display images in a Jupyter notebook</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-single-image">A single image</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#multiple-images">Multiple images</a></li>
 </ul>
 </li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
   </nav></div>
 

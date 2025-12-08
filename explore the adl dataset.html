@@ -179,10 +179,13 @@
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Back to Royal Danish Library's webpage</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference external" href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">Cultural Heritage Data as Datasets</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Set_up.html">How to get started</a></li>
-<li class="toctree-l1"><a class="reference external" href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">Back to Royal Danish Library's webpage (Cultural Heritage Data as Datasets)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (Arkiv for Dansk Litteratur)</span></p>
 <ul class="current nav bd-sidenav">
@@ -401,12 +404,14 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#read-the-csv-file">Read the CSV file</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#explore-the-data">Explore the data</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#clean-the-text">Clean the text</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#remove-stopwords">Remove stopwords</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#collocation">Collocation</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualise-the-collocations">Visualise the collocations</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
             </nav>
         </div>
@@ -420,9 +425,22 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="explore-the-adl-dataset">
 <h1>Explore the ADL dataset<a class="headerlink" href="#explore-the-adl-dataset" title="Link to this heading">#</a></h1>
-<p>This notebook explores the parts of the ADL (Archive for Danish Literature) dataset that are in the public domain. You can explore the data through various text analysis techniques. It performs text cleaning, stopword removal, and shows a script for collocation analysis to identify words that frequently appear near specific keywords. Collocations can help reveal semantic patterns and linguistic relationships in Danish literary texts.</p>
-<p>If you wish to download the dataset, you can follow [this link](LINK TO LOAR).</p>
-<p>To close read the texts in ADL, you can follow <a class="reference external" href="https://tekster.kb.dk/text?editorial=no&amp;amp;f%5Bsubcollection_ssi%5D%5B%5D=adl&amp;amp;match=one&amp;amp;search_field=Alt">this link</a></p>
+<section id="script-summary">
+<h2>Script Summary<a class="headerlink" href="#script-summary" title="Link to this heading">#</a></h2>
+<p>This notebook explores the parts of the ADL (Archive for Danish Literature) dataset that are in the public domain. The dataset contains Danish literary texts that can be analyzed using various text mining techniques.</p>
+<p><strong>Steps:</strong></p>
+<ul class="simple">
+<li><p>Load the ADL dataset from a CSV file and inspect its structure</p></li>
+<li><p>Explore the dataset by counting texts per year and per author</p></li>
+<li><p>Calculate word counts per author to identify the most prolific writers</p></li>
+<li><p>Clean text data using regex methods to remove numbers, short words, and normalize formatting</p></li>
+<li><p>Remove stopwords to prepare text for analysis</p></li>
+<li><p>Perform collocation analysis to identify words that frequently appear near specific keywords (e.g., ‘fader’, ‘moder’, ‘barn’)</p></li>
+<li><p>Visualize collocations using bar charts</p></li>
+</ul>
+<p><strong>Outputs:</strong> Cleaned text data, collocation analysis results, and visualizations showing semantic patterns and linguistic relationships in Danish literary texts.</p>
+<p><strong>Dataset:</strong> If you wish to download the dataset, you can follow [this link](LINK TO LOAR).</p>
+<p><strong>Reading texts:</strong> To close read the texts in ADL, you can follow <a class="reference external" href="https://tekster.kb.dk/text?editorial=no&amp;amp;f%5Bsubcollection_ssi%5D%5B%5D=adl&amp;amp;match=one&amp;amp;search_field=Alt">this link</a>.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1">## Import modules</span>
@@ -434,6 +452,7 @@ document.write(`
 </div>
 </div>
 </div>
+</section>
 <section id="read-the-csv-file">
 <h2>Read the CSV file<a class="headerlink" href="#read-the-csv-file" title="Link to this heading">#</a></h2>
 <p>Load the dataset from a CSV file into a pandas DataFrame</p>
@@ -846,6 +865,19 @@ document.write(`
 </div>
 </div>
 </section>
+<section id="other-studies">
+<h2>Other studies<a class="headerlink" href="#other-studies" title="Link to this heading">#</a></h2>
+<p>The ADL dataset invites several complementary lines of inquiry beyond the current collocation analysis:</p>
+<ul class="simple">
+<li><p>Expand the keyword list to explore other thematic clusters (e.g., emotions, nature, social relationships) and compare collocation patterns across different semantic domains.</p></li>
+<li><p>Analyze temporal changes in vocabulary and collocations by comparing texts from different time periods to identify linguistic evolution.</p></li>
+<li><p>Investigate author-specific collocation patterns to see if certain authors have distinctive linguistic styles or preferred word combinations.</p></li>
+<li><p>Apply topic modeling techniques (e.g., LDA) to discover latent themes across the corpus.</p></li>
+<li><p>Compare collocation patterns between different genres or literary movements represented in the dataset.</p></li>
+<li><p>Explore gender-specific language patterns by analyzing collocations in texts written by male versus female authors.</p></li>
+<li><p>Investigate the relationship between word frequency and collocation strength to identify both common and distinctive linguistic patterns.</p></li>
+</ul>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -912,12 +944,14 @@ document.write(`
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#read-the-csv-file">Read the CSV file</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#explore-the-data">Explore the data</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#clean-the-text">Clean the text</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#remove-stopwords">Remove stopwords</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#collocation">Collocation</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualise-the-collocations">Visualise the collocations</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
   </nav></div>
 

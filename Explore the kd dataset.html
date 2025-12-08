@@ -179,10 +179,13 @@
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Back to Royal Danish Library's webpage</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference external" href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">Cultural Heritage Data as Datasets</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Set_up.html">How to get started</a></li>
-<li class="toctree-l1"><a class="reference external" href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">Back to Royal Danish Library's webpage (Cultural Heritage Data as Datasets)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (Arkiv for Dansk Litteratur)</span></p>
 <ul class="nav bd-sidenav">
@@ -401,6 +404,7 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#import-libraries">Import Libraries</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-the-dataset">Load the Dataset</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#explore-the-dataset-structure">Explore the Dataset Structure</a></li>
@@ -411,6 +415,7 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualize-word-frequencies">Visualize Word Frequencies</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#collocation-analysis">Collocation Analysis</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#concordance-analysis">Concordance Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
             </nav>
         </div>
@@ -424,6 +429,22 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="explore-the-copenhagen-diplomatarium-dataset-kobenhavns-diplomatarium">
 <h1>Explore the Copenhagen Diplomatarium dataset (Københavns Diplomatarium)<a class="headerlink" href="#explore-the-copenhagen-diplomatarium-dataset-kobenhavns-diplomatarium" title="Link to this heading">#</a></h1>
+<section id="script-summary">
+<h2>Script Summary<a class="headerlink" href="#script-summary" title="Link to this heading">#</a></h2>
+<p>This notebook explores the Copenhagen Diplomatarium dataset, which contains historical documents from medieval and early modern Denmark. The analysis focuses on text mining techniques to understand language patterns, word frequencies, and linguistic features of historical Danish texts.</p>
+<p><strong>Steps:</strong></p>
+<ul class="simple">
+<li><p>Load the Copenhagen Diplomatarium dataset from a CSV file</p></li>
+<li><p>Explore the dataset structure and time period coverage</p></li>
+<li><p>Analyze the distribution of sources across different years</p></li>
+<li><p>Visualize the top years with the most historical sources</p></li>
+<li><p>Perform word frequency analysis for a specific year (1658)</p></li>
+<li><p>Visualize the most common words from selected periods</p></li>
+<li><p>Analyze word collocations (bigrams and trigrams) across the entire corpus</p></li>
+<li><p>Perform concordance analysis to examine keyword contexts</p></li>
+</ul>
+<p><strong>Outputs:</strong> Word frequency distributions, collocation analysis results, concordance tables, and visualizations revealing linguistic patterns in historical Danish documents.</p>
+</section>
 <section id="import-libraries">
 <h2>Import Libraries<a class="headerlink" href="#import-libraries" title="Link to this heading">#</a></h2>
 <p>Import the required libraries for data manipulation, text processing, and visualization. NLTK resources are downloaded if not already present.</p>
@@ -703,6 +724,20 @@ TOP 20 TRIGRAM COLLOCATIONS (3-word phrases)
 <section id="concordance-analysis">
 <h2>Concordance Analysis<a class="headerlink" href="#concordance-analysis" title="Link to this heading">#</a></h2>
 <p>Use NLTK’s concordance tool to find and display all contexts where a specific keyword appears. This allows examination of how a word is used in different contexts throughout the corpus. The example searches for “christianshafn” and displays surrounding text for each occurrence.</p>
+</section>
+<section id="other-studies">
+<h2>Other studies<a class="headerlink" href="#other-studies" title="Link to this heading">#</a></h2>
+<p>The Copenhagen Diplomatarium dataset invites several complementary lines of inquiry:</p>
+<ul class="simple">
+<li><p>Analyze linguistic evolution by comparing word frequencies and collocations across different time periods to identify changes in language use over centuries.</p></li>
+<li><p>Investigate genre-specific patterns by examining differences in vocabulary and linguistic features between different types of historical documents.</p></li>
+<li><p>Explore geographic patterns if location data is available to understand regional linguistic variations in historical Danish.</p></li>
+<li><p>Apply named entity recognition to identify and analyze mentions of people, places, and institutions across the corpus.</p></li>
+<li><p>Investigate semantic networks by analyzing co-occurrence patterns of key historical terms and concepts.</p></li>
+<li><p>Compare linguistic features with other historical Danish text collections to identify distinctive characteristics of diplomatic documents.</p></li>
+<li><p>Analyze temporal trends in specific vocabulary domains (e.g., legal terms, religious language, administrative terminology).</p></li>
+<li><p>Explore the relationship between document length and linguistic complexity across different time periods.</p></li>
+</ul>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># NLTK Concordance tool - show all contexts for &quot;christianshafn&quot;</span>
@@ -842,6 +877,7 @@ Frequency: 0.0312%
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#import-libraries">Import Libraries</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-the-dataset">Load the Dataset</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#explore-the-dataset-structure">Explore the Dataset Structure</a></li>
@@ -852,6 +888,7 @@ Frequency: 0.0312%
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualize-word-frequencies">Visualize Word Frequencies</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#collocation-analysis">Collocation Analysis</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#concordance-analysis">Concordance Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
   </nav></div>
 

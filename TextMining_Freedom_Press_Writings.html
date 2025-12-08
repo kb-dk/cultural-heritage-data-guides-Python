@@ -179,10 +179,13 @@
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Back to Royal Danish Library's webpage</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference external" href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">Cultural Heritage Data as Datasets</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Set_up.html">How to get started</a></li>
-<li class="toctree-l1"><a class="reference external" href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">Back to Royal Danish Library's webpage (Cultural Heritage Data as Datasets)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (Arkiv for Dansk Litteratur)</span></p>
 <ul class="nav bd-sidenav">
@@ -401,6 +404,7 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">Install and Import Dependencies</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">Load Data</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tokenization-with-regex">Tokenization with Regex</a></li>
@@ -409,7 +413,7 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#filtered-analysis-raekke-1-bind-5-6">Filtered Analysis: Række 1, Bind 5+6</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#keyword-in-context-kwic-analysis">Keyword-in-Context (KWIC) Analysis</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-results">Save Results</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conclusion">Conclusion</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
             </nav>
         </div>
@@ -423,16 +427,21 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="textmining-trykkefrihedens-skrifter">
 <h1>Textmining Trykkefrihedens Skrifter<a class="headerlink" href="#textmining-trykkefrihedens-skrifter" title="Link to this heading">#</a></h1>
-<p>This notebook replicates the R text mining analysis for <em>Trykkefrihedens Skrifter</em> (Freedom of the Press Writings) using Python.</p>
-<p>We will perform:</p>
+<section id="script-summary">
+<h2>Script Summary<a class="headerlink" href="#script-summary" title="Link to this heading">#</a></h2>
+<p>This notebook replicates the R text mining analysis for <em>Trykkefrihedens Skrifter</em> (Freedom of the Press Writings) using Python. The analysis explores historical Danish texts to identify linguistic patterns, word frequencies, and contextual usage of keywords.</p>
+<p><strong>Steps:</strong></p>
 <ul class="simple">
-<li><p>Data loading</p></li>
-<li><p>Tokenization (using regex)</p></li>
-<li><p>Stopword removal (Danish, German, and project-specific)</p></li>
-<li><p>Word frequency analysis</p></li>
-<li><p>Filtered analysis (Række 1, Bind 5+6)</p></li>
-<li><p>Keyword-in-context (KWIC) analysis</p></li>
+<li><p>Load the structured dataset and project-specific stopwords</p></li>
+<li><p>Tokenize text using regex patterns to extract words</p></li>
+<li><p>Remove stopwords (Danish, German, and project-specific) to focus on meaningful content</p></li>
+<li><p>Perform word frequency analysis on the entire dataset</p></li>
+<li><p>Conduct filtered analysis focusing on specific series and volumes (Række 1, Bind 5+6)</p></li>
+<li><p>Perform keyword-in-context (KWIC) analysis to examine how specific words are used in context</p></li>
+<li><p>Export results to CSV files for further analysis</p></li>
 </ul>
+<p><strong>Outputs:</strong> Word frequency tables, filtered analysis results, KWIC tables, and CSV files ready for visualization or further linguistic study.</p>
+</section>
 <hr class="docutils" />
 <section id="install-and-import-dependencies">
 <h2>Install and Import Dependencies<a class="headerlink" href="#install-and-import-dependencies" title="Link to this heading">#</a></h2>
@@ -1154,10 +1163,19 @@ German stopwords: 232
 </div>
 </section>
 <hr class="docutils" />
-<section id="conclusion">
-<h2>Conclusion<a class="headerlink" href="#conclusion" title="Link to this heading">#</a></h2>
-<p>This notebook demonstrated a full text mining workflow for Trykkefrihedens Skrifter using Python, including regex-based tokenization, stopword removal, word frequency analysis, and keyword-in-context analysis.</p>
-<p>The data can be further explored, results can be visualized, or the workflow can be adapted to specific needs.</p>
+<section id="other-studies">
+<h2>Other studies<a class="headerlink" href="#other-studies" title="Link to this heading">#</a></h2>
+<p>The Trykkefrihedens Skrifter dataset invites several complementary lines of inquiry beyond the current text mining workflow:</p>
+<ul class="simple">
+<li><p>Expand keyword-in-context analysis to explore additional terms of historical or thematic interest and compare usage patterns across different volumes.</p></li>
+<li><p>Analyze temporal changes in vocabulary by comparing word frequencies and linguistic features across different publication periods.</p></li>
+<li><p>Investigate genre-specific patterns by examining differences in vocabulary between different types of writings in the collection.</p></li>
+<li><p>Apply topic modeling techniques (e.g., LDA) to discover latent themes and topics across the corpus.</p></li>
+<li><p>Explore semantic networks by analyzing co-occurrence patterns of key terms and concepts.</p></li>
+<li><p>Compare linguistic features with other historical Danish text collections to identify distinctive characteristics of freedom of press writings.</p></li>
+<li><p>Analyze the relationship between word frequency and contextual usage to identify both common and specialized terminology.</p></li>
+<li><p>Investigate author-specific patterns if author information is available to explore individual writing styles.</p></li>
+</ul>
 </section>
 </section>
 
@@ -1225,6 +1243,7 @@ German stopwords: 232
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">Install and Import Dependencies</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">Load Data</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#tokenization-with-regex">Tokenization with Regex</a></li>
@@ -1233,7 +1252,7 @@ German stopwords: 232
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#filtered-analysis-raekke-1-bind-5-6">Filtered Analysis: Række 1, Bind 5+6</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#keyword-in-context-kwic-analysis">Keyword-in-Context (KWIC) Analysis</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-results">Save Results</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#conclusion">Conclusion</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
   </nav></div>
 

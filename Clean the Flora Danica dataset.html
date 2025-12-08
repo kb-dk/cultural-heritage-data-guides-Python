@@ -179,10 +179,13 @@
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Back to Royal Danish Library's webpage</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference external" href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">Cultural Heritage Data as Datasets</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Set_up.html">How to get started</a></li>
-<li class="toctree-l1"><a class="reference external" href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">Back to Royal Danish Library's webpage (Cultural Heritage Data as Datasets)</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Archive for Danish Literature (Arkiv for Dansk Litteratur)</span></p>
 <ul class="nav bd-sidenav">
@@ -401,6 +404,7 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#import-the-libraries">Import the libraries</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#make-the-metadata-tidy">Make the metadata “tidy”</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#rename-columns">Rename columns</a></li>
@@ -412,6 +416,7 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#column-copyright-modify-text-string">Column copyright: modify text string</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#column-name-note">Column name: note</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#create-a-subset-and-save-it-as-a-csv-file">Create a “subset” and save it as a CSV file</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
             </nav>
         </div>
@@ -425,7 +430,26 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="clean-the-flora-danica-dataset">
 <h1>Clean the Flora Danica dataset<a class="headerlink" href="#clean-the-flora-danica-dataset" title="Link to this heading">#</a></h1>
-<p>The Flora Danica dataset contains more than 3000 .tiff files and also metadata in a xlsx file: <code class="docutils literal notranslate"><span class="pre">Index_FloraDanica.xlsx</span></code>. In this notebook, the metadata is cleaned to make it into a uniform, tidy format to enable explorative analysis downstream. You can find the metadata file on the <a class="reference external" href="https://loar.kb.dk/items/71694c8f-f4c5-4f22-ae44-009d5899d775">library’s open access repository (LOAR)</a>.</p>
+<section id="script-summary">
+<h2>Script Summary<a class="headerlink" href="#script-summary" title="Link to this heading">#</a></h2>
+<p>The Flora Danica dataset contains more than 3000 .tiff files and also metadata in an xlsx file: <code class="docutils literal notranslate"><span class="pre">Index_FloraDanica.xlsx</span></code>. This notebook cleans the metadata to transform it into a uniform, tidy format suitable for explorative analysis.</p>
+<p><strong>Steps:</strong></p>
+<ul class="simple">
+<li><p>Load the Flora Danica metadata from an Excel file</p></li>
+<li><p>Inspect the dataset structure and data types</p></li>
+<li><p>Rename columns to create consistent naming conventions</p></li>
+<li><p>Extract and standardize table numbers</p></li>
+<li><p>Process author information and publication details</p></li>
+<li><p>Clean issue numbers by removing path information</p></li>
+<li><p>Extract taxonomic group information from structured data</p></li>
+<li><p>Standardize copyright information</p></li>
+<li><p>Process note fields and extract relevant information</p></li>
+<li><p>Create a cleaned subset of the most relevant columns for downstream analysis</p></li>
+<li><p>Export the cleaned dataset as a CSV file</p></li>
+</ul>
+<p><strong>Outputs:</strong> A cleaned and standardized CSV file (<code class="docutils literal notranslate"><span class="pre">flora_danica_tidy_format.csv</span></code>) ready for visualization and further analysis.</p>
+<p><strong>Dataset:</strong> You can find the metadata file on the <a class="reference external" href="https://loar.kb.dk/items/71694c8f-f4c5-4f22-ae44-009d5899d775">library’s open access repository (LOAR)</a>.</p>
+</section>
 <section id="import-the-libraries">
 <h2>Import the libraries<a class="headerlink" href="#import-the-libraries" title="Link to this heading">#</a></h2>
 <div class="cell docutils container">
@@ -1396,7 +1420,9 @@ Latinsk familienavn: Rosaceae
 </div>
 <div class="cell_output docutils container">
 <div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Find relevant data in the values in the &quot;note&quot; column
-Done
+</pre></div>
+</div>
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Done
 Concatenate the data with the original dataframe
 Done. Dataframe shape: (3242, 19)
 </pre></div>
@@ -1417,6 +1443,19 @@ Done. Dataframe shape: (3242, 19)
 </div>
 </div>
 </div>
+</section>
+<section id="other-studies">
+<h2>Other studies<a class="headerlink" href="#other-studies" title="Link to this heading">#</a></h2>
+<p>The cleaned Flora Danica metadata invites several complementary lines of inquiry:</p>
+<ul class="simple">
+<li><p>Analyze temporal patterns in plant documentation by examining publication dates and author contributions over time to understand the evolution of botanical knowledge.</p></li>
+<li><p>Investigate taxonomic diversity by exploring the distribution of plant families, genera, and species across the collection.</p></li>
+<li><p>Explore author contributions by examining which authors documented which types of plants and whether certain authors specialized in particular taxonomic groups.</p></li>
+<li><p>Investigate geographic patterns if location data is available, to understand regional plant documentation.</p></li>
+<li><p>Analyze the relationship between publication issues and taxonomic groups to identify organizational patterns in the collection.</p></li>
+<li><p>Cross-reference the metadata with the actual TIFF images to create image-text analysis workflows.</p></li>
+<li><p>Explore copyright and publication information to understand the historical context and accessibility of the botanical illustrations.</p></li>
+</ul>
 </section>
 </section>
 
@@ -1484,6 +1523,7 @@ Done. Dataframe shape: (3242, 19)
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#import-the-libraries">Import the libraries</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#make-the-metadata-tidy">Make the metadata “tidy”</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#rename-columns">Rename columns</a></li>
@@ -1495,6 +1535,7 @@ Done. Dataframe shape: (3242, 19)
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#column-copyright-modify-text-string">Column copyright: modify text string</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#column-name-note">Column name: note</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#create-a-subset-and-save-it-as-a-csv-file">Create a “subset” and save it as a CSV file</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
   </nav></div>
 
