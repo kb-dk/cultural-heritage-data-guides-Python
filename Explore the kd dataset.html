@@ -61,7 +61,7 @@
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Textmining Trykkefrihedens Skrifter" href="TextMining_Freedom_Press_Writings.html" />
-    <link rel="prev" title="Change image size" href="Change%20size%20on%20tiff%20files%20of%20Flora%20Danica.html" />
+    <link rel="prev" title="Change Image Size" href="Change%20size%20on%20tiff%20files%20of%20Flora%20Danica.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -115,10 +115,7 @@
 </div>
 <aside class="bd-header-announcement" aria-label="Announcement">
   <div class="bd-header-announcement__content"><div>
-<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">
-<img src="https://kb-dk.github.io/cultural-heritage-data-guides-R/img/DKB_logo_simplified_black_RGB.png" alt="The Royal Danish Library logo" title="Back to Royal Danish Library's webpage" 
-style="width: 15%; height: auto;" Go to Cultural Heritage Collection as Data></a>
-<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data" style="color: orange;">Back to Royal Danish Library's webpage</a>
+  <a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data" style="color: black;">Back to Royal Danish Library's webpage</a>
 </div>
 </div>
 </aside>
@@ -386,7 +383,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
 </div></div>
       
     </div>
@@ -402,6 +401,23 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#import-libraries">Import Libraries</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-the-dataset">Load the Dataset</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#explore-the-dataset-structure">Explore the Dataset Structure</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#time-period-analysis">Time Period Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-sources-by-year">Count Sources by Year</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualize-top-years">Visualize Top Years</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#word-frequency-analysis-for-year-1658">Word Frequency Analysis for Year 1658</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualize-word-frequencies">Visualize Word Frequencies</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#collocation-analysis">Collocation Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#concordance-analysis">Concordance Analysis</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -413,6 +429,9 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="explore-the-copenhagen-diplomatarium-dataset-kobenhavns-diplomatarium">
 <h1>Explore the Copenhagen Diplomatarium dataset (Københavns Diplomatarium)<a class="headerlink" href="#explore-the-copenhagen-diplomatarium-dataset-kobenhavns-diplomatarium" title="Link to this heading">#</a></h1>
+<section id="import-libraries">
+<h2>Import Libraries<a class="headerlink" href="#import-libraries" title="Link to this heading">#</a></h2>
+<p>Import the required libraries for data manipulation, text processing, and visualization. NLTK resources are downloaded if not already present.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">pandas</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">pd</span>
@@ -439,6 +458,10 @@ document.write(`
 </div>
 </div>
 </div>
+</section>
+<section id="load-the-dataset">
+<h2>Load the Dataset<a class="headerlink" href="#load-the-dataset" title="Link to this heading">#</a></h2>
+<p>Load the Copenhagen Diplomatarium dataset from a CSV file.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s1">&#39;kd_std.csv&#39;</span><span class="p">)</span>
@@ -446,6 +469,10 @@ document.write(`
 </div>
 </div>
 </div>
+</section>
+<section id="explore-the-dataset-structure">
+<h2>Explore the Dataset Structure<a class="headerlink" href="#explore-the-dataset-structure" title="Link to this heading">#</a></h2>
+<p>Display the column names to understand the dataset structure.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">columns</span>
@@ -460,6 +487,10 @@ document.write(`
 </div>
 </div>
 </div>
+</section>
+<section id="time-period-analysis">
+<h2>Time Period Analysis<a class="headerlink" href="#time-period-analysis" title="Link to this heading">#</a></h2>
+<p>Display the time range covered by the dataset, showing the oldest and most recent sources.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Time period  </span>
@@ -475,6 +506,10 @@ The most recent source is from: 1728.0
 </div>
 </div>
 </div>
+</section>
+<section id="count-sources-by-year">
+<h2>Count Sources by Year<a class="headerlink" href="#count-sources-by-year" title="Link to this heading">#</a></h2>
+<p>Count the number of sources per year and prepare the data for visualization.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">year_count</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s1">&#39;year_std&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>\
@@ -485,6 +520,10 @@ The most recent source is from: 1728.0
 </div>
 </div>
 </div>
+</section>
+<section id="visualize-top-years">
+<h2>Visualize Top Years<a class="headerlink" href="#visualize-top-years" title="Link to this heading">#</a></h2>
+<p>Create a bar chart showing the top 10 years with the most historical sources.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Bar plot of the 10 most frequent years</span>
@@ -504,6 +543,10 @@ The most recent source is from: 1728.0
 <img alt="_images/dbc9385a4a415df2247d8c5f3221664921d6958d5262ed07cdc709453c2f9360.png" src="_images/dbc9385a4a415df2247d8c5f3221664921d6958d5262ed07cdc709453c2f9360.png" />
 </div>
 </div>
+</section>
+<section id="word-frequency-analysis-for-year-1658">
+<h2>Word Frequency Analysis for Year 1658<a class="headerlink" href="#word-frequency-analysis-for-year-1658" title="Link to this heading">#</a></h2>
+<p>Extract and clean text from sources dated 1658, remove stopwords, and calculate word frequencies. This analysis focuses on a specific year to examine the language and terminology used during that period.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">whole_1658</span> <span class="o">=</span> <span class="s1">&#39; &#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="n">df</span><span class="p">[</span><span class="s1">&#39;year_std&#39;</span><span class="p">]</span><span class="o">==</span><span class="mi">1658</span><span class="p">][</span><span class="s1">&#39;main_content&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">to_list</span><span class="p">())</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
@@ -529,6 +572,10 @@ The most recent source is from: 1728.0
 </div>
 </div>
 </div>
+</section>
+<section id="visualize-word-frequencies">
+<h2>Visualize Word Frequencies<a class="headerlink" href="#visualize-word-frequencies" title="Link to this heading">#</a></h2>
+<p>Create a horizontal bar chart displaying the top 20 most common words from sources dated 1658.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Visualization of common words from the year 1658</span>
@@ -552,6 +599,10 @@ The most recent source is from: 1728.0
 <img alt="_images/64b61b931fc8e684f1a222eb0e489e200439f36769a1f953b283de407e833c23.png" src="_images/64b61b931fc8e684f1a222eb0e489e200439f36769a1f953b283de407e833c23.png" />
 </div>
 </div>
+</section>
+<section id="collocation-analysis">
+<h2>Collocation Analysis<a class="headerlink" href="#collocation-analysis" title="Link to this heading">#</a></h2>
+<p>Analyze word collocations (frequently co-occurring word pairs and triplets) across the entire corpus. Collocations reveal common phrases and linguistic patterns in the historical texts. The analysis uses Pointwise Mutual Information (PMI) to identify meaningful word combinations.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># NLTK collocation tool </span>
@@ -653,6 +704,10 @@ TOP 20 TRIGRAM COLLOCATIONS (3-word phrases)
 </div>
 </div>
 </div>
+</section>
+<section id="concordance-analysis">
+<h2>Concordance Analysis<a class="headerlink" href="#concordance-analysis" title="Link to this heading">#</a></h2>
+<p>Use NLTK’s concordance tool to find and display all contexts where a specific keyword appears. This allows examination of how a word is used in different contexts throughout the corpus. The example searches for “christianshafn” and displays surrounding text for each occurrence.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># NLTK Concordance tool - show all contexts for &quot;christianshafn&quot;</span>
@@ -726,6 +781,7 @@ Frequency: 0.0312%
 </div>
 </div>
 </section>
+</section>
 
     <script type="text/x-thebe-config">
     {
@@ -763,7 +819,7 @@ Frequency: 0.0312%
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Change image size</p>
+        <p class="prev-next-title">Change Image Size</p>
       </div>
     </a>
     <a class="right-next"
@@ -781,6 +837,30 @@ Frequency: 0.0312%
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#import-libraries">Import Libraries</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-the-dataset">Load the Dataset</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#explore-the-dataset-structure">Explore the Dataset Structure</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#time-period-analysis">Time Period Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#count-sources-by-year">Count Sources by Year</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualize-top-years">Visualize Top Years</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#word-frequency-analysis-for-year-1658">Word Frequency Analysis for Year 1658</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualize-word-frequencies">Visualize Word Frequencies</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#collocation-analysis">Collocation Analysis</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#concordance-analysis">Concordance Analysis</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>

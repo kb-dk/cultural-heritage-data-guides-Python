@@ -114,10 +114,7 @@
 </div>
 <aside class="bd-header-announcement" aria-label="Announcement">
   <div class="bd-header-announcement__content"><div>
-<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">
-<img src="https://kb-dk.github.io/cultural-heritage-data-guides-R/img/DKB_logo_simplified_black_RGB.png" alt="The Royal Danish Library logo" title="Back to Royal Danish Library's webpage" 
-style="width: 15%; height: auto;" Go to Cultural Heritage Collection as Data></a>
-<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data" style="color: orange;">Back to Royal Danish Library's webpage</a>
+  <a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data" style="color: black;">Back to Royal Danish Library's webpage</a>
 </div>
 </div>
 </aside>
@@ -409,6 +406,7 @@ document.write(`
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#filter-and-subset-the-data">Filter and Subset the Data</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#who-wrote-to-whom-network-analysis-with-networkx">Who wrote to whom? Network analysis with NetworkX</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-did-they-write-about-tfidf-with-scikit-learn">What did they write about? TF–IDF with scikit-learn</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
@@ -453,6 +451,7 @@ document.write(`
 </div>
 </div>
 </div>
+<p>Load the dataset and inspect the shape, the columns, and the datatypes of the dataset.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Read the data</span>
@@ -524,6 +523,10 @@ dtype: object
 </div>
 </div>
 </div>
+</section>
+<section id="filter-and-subset-the-data">
+<h2>Filter and Subset the Data<a class="headerlink" href="#filter-and-subset-the-data" title="Link to this heading">#</a></h2>
+<p>Rows with missing values in the sender or recipient columns are filtered out. A subset of the data is created by selecting rows within a specific time period (1870-1885).</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Filter out rows with NaN in sender or recipient columns</span>
@@ -693,7 +696,7 @@ Top 10 Recipients:
 </div>
 </div>
 <div class="cell_output docutils container">
-<img alt="_images/93f075c6fc332f6120efc395c57c019a7c4398925a6754b6ffe4c9cf0fadaa50.png" src="_images/93f075c6fc332f6120efc395c57c019a7c4398925a6754b6ffe4c9cf0fadaa50.png" />
+<img alt="_images/a9142d10cb5e6d4ab127e165668cc06f59baa2fa1b01749b513875670b6e3712.png" src="_images/a9142d10cb5e6d4ab127e165668cc06f59baa2fa1b01749b513875670b6e3712.png" />
 </div>
 </div>
 </section>
@@ -1153,6 +1156,7 @@ Top 10 Recipients:
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#filter-and-subset-the-data">Filter and Subset the Data</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#who-wrote-to-whom-network-analysis-with-networkx">Who wrote to whom? Network analysis with NetworkX</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#what-did-they-write-about-tfidf-with-scikit-learn">What did they write about? TF–IDF with scikit-learn</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>

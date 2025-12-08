@@ -115,10 +115,7 @@
 </div>
 <aside class="bd-header-announcement" aria-label="Announcement">
   <div class="bd-header-announcement__content"><div>
-<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">
-<img src="https://kb-dk.github.io/cultural-heritage-data-guides-R/img/DKB_logo_simplified_black_RGB.png" alt="The Royal Danish Library logo" title="Back to Royal Danish Library's webpage" 
-style="width: 15%; height: auto;" Go to Cultural Heritage Collection as Data></a>
-<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data" style="color: orange;">Back to Royal Danish Library's webpage</a>
+  <a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data" style="color: black;">Back to Royal Danish Library's webpage</a>
 </div>
 </div>
 </aside>
@@ -428,7 +425,9 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="explore-the-adl-dataset">
 <h1>Explore the ADL dataset<a class="headerlink" href="#explore-the-adl-dataset" title="Link to this heading">#</a></h1>
-<p>This notebook explores the ADL dataset (Arkiv for Dansk Litteratur) through various text analysis techniques. It performs basic data exploration, text cleaning, stopword removal, and collocation analysis to identify words that frequently appear near specific keywords. The analysis helps reveal semantic patterns and linguistic relationships in Danish literary texts.</p>
+<p>This notebook explores the parts of the ADL (Archive for Danish Literature) dataset that are in the public domain. You can explore the data through various text analysis techniques. It performs text cleaning, stopword removal, and shows a script for collocation analysis to identify words that frequently appear near specific keywords. Collocations can help reveal semantic patterns and linguistic relationships in Danish literary texts.</p>
+<p>If you wish to download the dataset, you can follow [this link](LINK TO LOAR).</p>
+<p>To close read the texts in ADL, you can follow <a class="reference external" href="https://tekster.kb.dk/text?editorial=no&amp;amp;f%5Bsubcollection_ssi%5D%5B%5D=adl&amp;amp;match=one&amp;amp;search_field=Alt">this link</a></p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1">## Import modules</span>
@@ -453,6 +452,7 @@ document.write(`
 </section>
 <section id="explore-the-data">
 <h2>Explore the data<a class="headerlink" href="#explore-the-data" title="Link to this heading">#</a></h2>
+<p>Count the number of texts per year and display the top 10 years with the most texts</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">value_counts</span><span class="p">(</span><span class="s1">&#39;year&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">to_frame</span><span class="p">()</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
@@ -537,6 +537,7 @@ document.write(`
 </table>
 </div></div></div>
 </div>
+<p>Count the number of texts per author and display the top 10 authors with the most texts</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">value_counts</span><span class="p">(</span><span class="s1">&#39;author&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">to_frame</span><span class="p">()</span><span class="o">.</span><span class="n">reset_index</span><span class="p">()</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span>
@@ -621,13 +622,17 @@ document.write(`
 </table>
 </div></div></div>
 </div>
+<p>Calculate the total word count for each author and display the top 10 authors with the most words across all their texts.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="k">def</span><span class="w"> </span><span class="nf">word_count</span><span class="p">(</span><span class="n">text</span><span class="p">):</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Define a function to count words in a text using regex</span>
+<span class="k">def</span><span class="w"> </span><span class="nf">word_count</span><span class="p">(</span><span class="n">text</span><span class="p">):</span>
     <span class="k">return</span> <span class="nb">len</span><span class="p">(</span><span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="sa">r</span><span class="s1">&#39;\b\S+\b&#39;</span><span class="p">,</span> <span class="n">text</span><span class="p">))</span>
 
+<span class="c1"># Add a new column with word count for each text</span>
 <span class="n">df</span><span class="p">[</span><span class="s1">&#39;word_count&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s1">&#39;text&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">apply</span><span class="p">(</span> <span class="k">lambda</span> <span class="n">x</span> <span class="p">:</span> <span class="n">word_count</span><span class="p">(</span><span class="n">x</span><span class="p">))</span> 
 
+<span class="c1"># Group by author, sum word counts, and display the top 10 authors</span>
 <span class="n">df</span><span class="o">.</span><span class="n">groupby</span><span class="p">(</span><span class="s1">&#39;author&#39;</span><span class="p">)[</span><span class="s1">&#39;word_count&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">sum</span><span class="p">()</span>\
                                 <span class="o">.</span><span class="n">to_frame</span><span class="p">()</span>\
                                 <span class="o">.</span><span class="n">sort_values</span><span class="p">(</span><span class="s1">&#39;word_count&#39;</span><span class="p">,</span> <span class="n">ascending</span><span class="o">=</span><span class="kc">False</span><span class="p">)</span>\
@@ -717,7 +722,7 @@ document.write(`
 </section>
 <section id="clean-the-text">
 <h2>Clean the text<a class="headerlink" href="#clean-the-text" title="Link to this heading">#</a></h2>
-<p>To get more uniform text data I use regex methods. I use .findall() to find all data between word bounderies that is not a whitespace. I use .sub() to avoid numbers, words containing numbers, words with a lenght of 1 or 2; and any sequences of more than one whitespaces. Finaly I lower the letters and returns the clean text.</p>
+<p>To get more uniform text data, regex methods are used. The <code class="docutils literal notranslate"><span class="pre">.findall()</span></code> method with regex <code class="docutils literal notranslate"><span class="pre">'\b\S+\b'</span></code> finds all data between word boundaries that is not whitespace. The <code class="docutils literal notranslate"><span class="pre">.sub()</span></code> method removes numbers, words containing numbers, words with a length of 1 or 2, and any sequences of more than one whitespace. Finally, the letters are converted to lowercase to return the clean text.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Make a function to clean the text using regular expressions</span>
@@ -749,8 +754,8 @@ document.write(`
 </section>
 <section id="remove-stopwords">
 <h2>Remove stopwords<a class="headerlink" href="#remove-stopwords" title="Link to this heading">#</a></h2>
-<p>I want to apply a collocation tool downstream, and in that I do not wish to include stopword, so I choose to make new text strings without stopwords, to be able to get better results out of a my collocation analysis.</p>
-<p>I the folder “stopwords” I have a txt file with stopwords. I read the txt into the script, make it into a list, and with the make place for adding additional stuff to the list.</p>
+<p>To apply collocation analysis downstream, stopwords should be excluded to improve the results. Therefore, new text strings without stopwords are created.</p>
+<p>A text file containing stopwords is loaded from the file system. The file is read into the script and converted into a list. Additional stopwords, punctuation marks, or special characters can be added to the list as needed.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Load a list of danish stopwords from a text file</span>
@@ -778,7 +783,7 @@ document.write(`
 </section>
 <section id="collocation">
 <h2>Collocation<a class="headerlink" href="#collocation" title="Link to this heading">#</a></h2>
-<p>This section performs collocation analysis to identify words that frequently appear near specific keywords in the corpus. Collocations are words that tend to co-occur with your target keywords, which can reveal semantic patterns, themes, and linguistic relationships in the text.</p>
+<p>This section performs collocation analysis to identify words that frequently appear near specific keywords in the corpus. Collocations are words that tend to co-occur with your target keywords, and it is a helpfull method to reveal semantic patterns, themes, and linguistic relationships in the text.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Define keywords for collocation analysis</span>
@@ -812,7 +817,7 @@ document.write(`
 </section>
 <section id="visualise-the-collocations">
 <h2>Visualise the collocations<a class="headerlink" href="#visualise-the-collocations" title="Link to this heading">#</a></h2>
-<p>If I print the content of the variable “filtered_keyword_proximity_counts” we can watch the different keywords together with the collocations. It is the collocations that exists after we have removed stopwords and defined a window size of 10. It can be a bit confusing to watch the data in the printed format, so I chose to use math plot lib to visualise the colllocations with bar plots.</p>
+<p>The content of the variable <code class="docutils literal notranslate"><span class="pre">filtered_keyword_proximity_counts</span></code> shows the different keywords together with their collocations. These collocations are the results after stopwords have been removed and a window size of 10 has been defined. To make the data easier to interpret, matplotlib is used to visualise the collocations with bar plots.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Convert each group&#39;s Counter to a DataFrame</span>
