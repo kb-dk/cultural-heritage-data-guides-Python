@@ -28,10 +28,3 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  announcement: |
-    <div>
-    <a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">
-    <img src="https://kb-dk.github.io/cultural-heritage-data-guides-R/img/DKB_logo_simplified_black_RGB.png" alt="The Royal Danish Library logo" title="Back to Royal Danish Library's webpage" 
-    style="width: 15%; height: auto;" Go to Cultural Heritage Collection as Data></a>
-    <a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data" style="color: orange;">Back to Royal Danish Library's webpage</a>
-    </div>

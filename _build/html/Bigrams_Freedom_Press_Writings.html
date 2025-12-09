@@ -32,7 +32,7 @@
     <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
@@ -113,15 +113,6 @@
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
-<aside class="bd-header-announcement" aria-label="Announcement">
-  <div class="bd-header-announcement__content"><div>
-<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">
-<img src="https://kb-dk.github.io/cultural-heritage-data-guides-R/img/DKB_logo_simplified_black_RGB.png" alt="The Royal Danish Library logo" title="Back to Royal Danish Library's webpage" 
-style="width: 15%; height: auto;" Go to Cultural Heritage Collection as Data></a>
-<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data" style="color: orange;">Back to Royal Danish Library's webpage</a>
-</div>
-</div>
-</aside>
 
   
     <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
@@ -188,7 +179,11 @@ style="width: 15%; height: auto;" Go to Cultural Heritage Collection as Data></a
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Back to Royal Danish Library's webpage</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference external" href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">Cultural Heritage Data as Datasets</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Set_up.html">How to get started</a></li>
 </ul>
@@ -409,6 +404,7 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">Install and Import Dependencies</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">Load Data</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#formation-of-bigrams">Formation of Bigrams</a></li>
@@ -418,6 +414,7 @@ document.write(`
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#search-for-specific-bigrams-e-g-where-word2-matches-a-pattern">Search for Specific Bigrams (e.g., where word2 matches a pattern)</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualization-as-network-graph">Visualization as Network Graph</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-graph-and-results">Save Graph and Results</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
             </nav>
         </div>
@@ -431,7 +428,22 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="bigram-analysis-of-trykkefrihedens-skrifter">
 <h1>Bigram Analysis of Trykkefrihedens Skrifter<a class="headerlink" href="#bigram-analysis-of-trykkefrihedens-skrifter" title="Link to this heading">#</a></h1>
-<p>This notebook performs bigram (word pair) analysis on <em>Trykkefrihedens Skrifter</em> in Python, inspired by the R workflow.</p>
+<section id="script-summary">
+<h2>Script Summary<a class="headerlink" href="#script-summary" title="Link to this heading">#</a></h2>
+<p>This notebook performs bigram (word pair) analysis on <em>Trykkefrihedens Skrifter</em> in Python, inspired by the R workflow. Bigram analysis identifies frequently co-occurring word pairs to reveal linguistic patterns and phrase structures in historical Danish texts.</p>
+<p><strong>Steps:</strong></p>
+<ul class="simple">
+<li><p>Load the structured dataset and project-specific stopwords</p></li>
+<li><p>Create bigrams (word pairs) for each text in the dataset</p></li>
+<li><p>Count the frequency of each bigram across the corpus</p></li>
+<li><p>Filter out bigrams containing stopwords to focus on meaningful word combinations</p></li>
+<li><p>Search for specific bigrams matching patterns (e.g., words starting with ‘gud’)</p></li>
+<li><p>Visualize frequent bigrams as network graphs showing word relationships</p></li>
+<li><p>Export results to CSV files and save network visualizations</p></li>
+</ul>
+<p><strong>Outputs:</strong> Bigram frequency tables, filtered bigram results, pattern-matched bigrams, network graph visualizations, and CSV files for further analysis.</p>
+</section>
+<hr class="docutils" />
 <section id="install-and-import-dependencies">
 <h2>Install and Import Dependencies<a class="headerlink" href="#install-and-import-dependencies" title="Link to this heading">#</a></h2>
 <p>If you’re missing any packages, uncomment and run the pip cell below.</p>
@@ -1175,7 +1187,7 @@ Loaded 60 project-specific stopwords.
 </div>
 </div>
 <div class="cell_output docutils container">
-<img alt="_images/900ed5fa14a2aeadf084f585141d28ad0e8a48fa5795535c4f1e8c6673782e2c.png" src="_images/900ed5fa14a2aeadf084f585141d28ad0e8a48fa5795535c4f1e8c6673782e2c.png" />
+<img alt="_images/700c16d0ffe98dc7f6efa50e516c7b0b4370eef25beb767bbbaf7dc4b0f7340d.png" src="_images/700c16d0ffe98dc7f6efa50e516c7b0b4370eef25beb767bbbaf7dc4b0f7340d.png" />
 </div>
 </div>
 </section>
@@ -1200,6 +1212,20 @@ Loaded 60 project-specific stopwords.
 </div>
 </div>
 </div>
+</section>
+<section id="other-studies">
+<h2>Other studies<a class="headerlink" href="#other-studies" title="Link to this heading">#</a></h2>
+<p>The bigram analysis of Trykkefrihedens Skrifter can be extended with several complementary approaches:</p>
+<ul class="simple">
+<li><p>Expand pattern matching to explore other semantic domains (e.g., political terms, social concepts, religious language) and identify distinctive phrase patterns.</p></li>
+<li><p>Analyze temporal changes in bigram usage by comparing frequent word pairs across different publication periods.</p></li>
+<li><p>Investigate trigram and n-gram patterns to explore longer phrase structures and multi-word expressions.</p></li>
+<li><p>Apply network analysis techniques to identify central nodes and communities in the bigram network.</p></li>
+<li><p>Compare bigram patterns with other historical Danish text collections to identify genre-specific or period-specific linguistic features.</p></li>
+<li><p>Explore the relationship between bigram frequency and semantic coherence to identify meaningful versus coincidental co-occurrences.</p></li>
+<li><p>Analyze bigram patterns in specific volumes or series to identify thematic or stylistic variations.</p></li>
+<li><p>Integrate bigram analysis with topic modeling to understand how word pairs contribute to broader thematic structures.</p></li>
+</ul>
 </section>
 </section>
 
@@ -1267,6 +1293,7 @@ Loaded 60 project-specific stopwords.
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#install-and-import-dependencies">Install and Import Dependencies</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#load-data">Load Data</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#formation-of-bigrams">Formation of Bigrams</a></li>
@@ -1276,6 +1303,7 @@ Loaded 60 project-specific stopwords.
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#search-for-specific-bigrams-e-g-where-word2-matches-a-pattern">Search for Specific Bigrams (e.g., where word2 matches a pattern)</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#visualization-as-network-graph">Visualization as Network Graph</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#save-graph-and-results">Save Graph and Results</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
   </nav></div>
 

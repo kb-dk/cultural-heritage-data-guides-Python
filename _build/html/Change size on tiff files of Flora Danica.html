@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>Change image size &#8212; Cultural Heritage Data Guides - Python</title>
+    <title>Change Image Size &#8212; Cultural Heritage Data Guides - Python</title>
   
   
   
@@ -32,7 +32,7 @@
     <link rel="stylesheet" type="text/css" href="_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css?v=be8a1c11" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-design.min.css?v=95c83b7e" />
   
@@ -113,15 +113,6 @@
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
 </div>
-<aside class="bd-header-announcement" aria-label="Announcement">
-  <div class="bd-header-announcement__content"><div>
-<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">
-<img src="https://kb-dk.github.io/cultural-heritage-data-guides-R/img/DKB_logo_simplified_black_RGB.png" alt="The Royal Danish Library logo" title="Back to Royal Danish Library's webpage" 
-style="width: 15%; height: auto;" Go to Cultural Heritage Collection as Data></a>
-<a href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data" style="color: orange;">Back to Royal Danish Library's webpage</a>
-</div>
-</div>
-</aside>
 
   
     <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
@@ -188,7 +179,11 @@ style="width: 15%; height: auto;" Go to Cultural Heritage Collection as Data></a
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Back to Royal Danish Library's webpage</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference external" href="https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data">Cultural Heritage Data as Datasets</a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Set up</span></p>
 <ul class="nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="Set_up.html">How to get started</a></li>
 </ul>
@@ -399,7 +394,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>Change image size</h1>
+    <h1>Change Image Size</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -409,11 +404,14 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#resize-images">Resize Images</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#display-images-in-a-jupyter-notebook">Display images in a Jupyter notebook</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-single-image">A single image</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#multiple-images">Multiple images</a></li>
 </ul>
 </li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
             </nav>
         </div>
@@ -426,9 +424,23 @@ document.write(`
                 <article class="bd-article">
                   
   <section class="tex2jax_ignore mathjax_ignore" id="change-image-size">
-<h1>Change image size<a class="headerlink" href="#change-image-size" title="Link to this heading">#</a></h1>
-<p>The images in the Flora Danica dataset are large, so you might find it useful to have a script that can resize the images.</p>
-<p>The script shows how to resize tif files while preserving the aspect ratio. It retrieves tiff files from one folder and saves them as tiff files in another (source_folder –&gt; destination_folder). It ensures that the destination folder exists and processes up to a specified number of files from the first folder.</p>
+<h1>Change Image Size<a class="headerlink" href="#change-image-size" title="Link to this heading">#</a></h1>
+<section id="script-summary">
+<h2>Script Summary<a class="headerlink" href="#script-summary" title="Link to this heading">#</a></h2>
+<p>The images in the Flora Danica dataset are large, so a script that can resize the images may be useful for processing and analysis.</p>
+<p><strong>Steps:</strong></p>
+<ul class="simple">
+<li><p>Define a function to resize TIFF images while preserving their aspect ratio</p></li>
+<li><p>Process images from a source folder and save resized versions to a destination folder</p></li>
+<li><p>Display individual images in the Jupyter notebook</p></li>
+<li><p>Display multiple images in a grid layout for comparison</p></li>
+</ul>
+<p><strong>Outputs:</strong> Resized TIFF images saved to a destination folder, and image displays within the notebook for visualization.</p>
+<p>This notebook demonstrates how to resize TIFF files while preserving the aspect ratio. The script retrieves TIFF files from one folder and saves them as TIFF files in another folder (source_folder → destination_folder). It ensures that the destination folder exists and processes up to a specified number of files from the source folder.</p>
+</section>
+<section id="resize-images">
+<h2>Resize Images<a class="headerlink" href="#resize-images" title="Link to this heading">#</a></h2>
+<p>Define a function to resize TIFF images while preserving their aspect ratio. The function processes images from a source folder and saves the resized versions to a destination folder.</p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">os</span>
@@ -462,6 +474,7 @@ document.write(`
 </div>
 </div>
 </div>
+</section>
 <section id="display-images-in-a-jupyter-notebook">
 <h2>Display images in a Jupyter notebook<a class="headerlink" href="#display-images-in-a-jupyter-notebook" title="Link to this heading">#</a></h2>
 <section id="a-single-image">
@@ -534,6 +547,19 @@ document.write(`
 </div>
 </section>
 </section>
+<section id="other-studies">
+<h2>Other studies<a class="headerlink" href="#other-studies" title="Link to this heading">#</a></h2>
+<p>Image processing workflows for the Flora Danica dataset can be extended in several ways:</p>
+<ul class="simple">
+<li><p>Apply image enhancement techniques (contrast adjustment, noise reduction) to improve image quality for analysis.</p></li>
+<li><p>Extract image metadata (dimensions, color profiles, compression) to create a comprehensive image catalog.</p></li>
+<li><p>Implement image format conversion (TIFF to JPEG, PNG) for different use cases and storage optimization.</p></li>
+<li><p>Create thumbnail galleries for quick browsing of the entire collection.</p></li>
+<li><p>Apply image analysis techniques (edge detection, feature extraction) to identify and classify botanical elements.</p></li>
+<li><p>Develop image comparison tools to identify similar plants or detect variations across different plates.</p></li>
+<li><p>Integrate image processing with metadata analysis to create image-text correlation workflows.</p></li>
+</ul>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -600,11 +626,14 @@ document.write(`
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#script-summary">Script Summary</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#resize-images">Resize Images</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#display-images-in-a-jupyter-notebook">Display images in a Jupyter notebook</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-single-image">A single image</a></li>
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#multiple-images">Multiple images</a></li>
 </ul>
 </li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-studies">Other studies</a></li>
 </ul>
   </nav></div>
 

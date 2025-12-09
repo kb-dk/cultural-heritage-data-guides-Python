@@ -1,0 +1,19 @@
+/* Custom CSS for white header background */
+.bd-header {
+    background-color: white !important;
+}
+
+.bd-header__inner {
+    background-color: white !important;
+}
+
+/* Also style the navbar if needed */
+.navbar {
+    background-color: white !important;
+}
+
+/* Style the announcement bar to match */
+.announcement {
+    background-color: white !important;
+}
+

@@ -6,6 +6,11 @@ root: intro
 
 parts:
 
+  - caption: Back to Royal Danish Library's webpage
+    chapters:
+    - url: https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarvssamlingerne-som-data
+      title: Cultural Heritage Data as Datasets
+
   - caption: Set up
     chapters:
     - file: Set_up
