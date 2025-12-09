@@ -4,6 +4,7 @@ Welcome to these guides for working with the Royal Danish Library's digital cult
 
 This site contains guides in the form of Python scripts that you can use to programmatically explore datasets that are made from the Royal Danish Library's digital collections. [If you are more familiar with R you can find R scripts on another page.](https://github.com/kb-dk/cultural-heritage-data-guides-R)
 
+To read more about the Royal Danish Library's digital cultural heritage materials and open datasets, [click here to go to Cultural Heritage as Data and Datasets](https://www.kb.dk/services/kulturarv-til-forskning-og-studier/kulturarv-som-data-og-datasaet).
  
 ## Guides
 
