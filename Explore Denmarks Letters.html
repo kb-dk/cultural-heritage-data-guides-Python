@@ -426,14 +426,14 @@ document.write(`
 <p>This notebook explores a dataset constructed from the XML sources behind the Royal Danish Library’s digital <a class="reference external" href="https://tekster.kb.dk/text?editorial=no&amp;amp;f%5Bsubcollection_ssi%5D%5B%5D=letters&amp;amp;match=one&amp;amp;search_field=Alt"><code class="docutils literal notranslate"><span class="pre">Danmarks</span> <span class="pre">Breve</span></code></a> collection, which holds 13,000+ printed letters and metadata.</p>
 <p><strong>Steps:</strong></p>
 <ul class="simple">
-<li><p>Load the harmonised bibliographic dataset derived from the XML files and inspect schemas for key entities (<code class="docutils literal notranslate"><span class="pre">sender_st</span></code>, <code class="docutils literal notranslate"><span class="pre">recipiant_st</span></code>, <code class="docutils literal notranslate"><span class="pre">text_st</span></code>, <code class="docutils literal notranslate"><span class="pre">year_st</span></code>).</p></li>
+<li><p>Load the harmonised bibliographic dataset, <em>Denmarks_letters_dataset.csv</em>, derived from the XML files and inspect schemas for key entities (<code class="docutils literal notranslate"><span class="pre">sender_st</span></code>, <code class="docutils literal notranslate"><span class="pre">recipiant_st</span></code>, <code class="docutils literal notranslate"><span class="pre">text_st</span></code>, <code class="docutils literal notranslate"><span class="pre">year_st</span></code>).</p></li>
 <li><p>Build directed correspondence networks for selected time windows, compute centrality summaries, and visualise letter flows between prominent individuals.</p></li>
 <li><p>Aggregate letters per sender and run TF–IDF analysis to surface each sender’s 15 most distinctive words.</p></li>
 <li><p>Prepare helper tables (<code class="docutils literal notranslate"><span class="pre">_top_senders_df</span></code>, <code class="docutils literal notranslate"><span class="pre">sender_tfidf_top_words</span></code>) for downstream analysis or export.</p></li>
 </ul>
 <p><strong>Outputs:</strong> Network statistics/plots, sender-level TF–IDF tables, and dataframes ready for further historical or linguistic study.</p>
 <p><strong>Dataset:</strong> To download the dataset follow go to the [Library’s Open Access Repository](LINK TL LOAR).</p>
-<p><strong>Digital Collection:</strong> To close read the letters in Denmarks Letters go to the <a class="reference external" href="https://tekster.kb.dk/text?editorial=no&amp;amp;f%5Bsubcollection_ssi%5D%5B%5D=letters&amp;amp;match=one&amp;amp;search_field=Alt">Letter Collection</a>.</p>
+<p><strong>Digital Collection:</strong> To close read the letters in Denmarks Letters go to the <a class="reference external" href="https://loar.kb.dk/handle/1902/49123">Letter Collection</a>.</p>
 <hr class="docutils" />
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -697,7 +697,7 @@ Top 10 Recipients:
 </div>
 </div>
 <div class="cell_output docutils container">
-<img alt="_images/edecae6759470bfc13e9d99a74471d598501e61115679e7bdf3f8536377191c5.png" src="_images/edecae6759470bfc13e9d99a74471d598501e61115679e7bdf3f8536377191c5.png" />
+<img alt="_images/bf23f2743b5d5f8def71ca7d1c07e947b9613c9a975d7033b01966253d1ee83b.png" src="_images/bf23f2743b5d5f8def71ca7d1c07e947b9613c9a975d7033b01966253d1ee83b.png" />
 </div>
 </div>
 </section>
