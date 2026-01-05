@@ -37,5 +37,4 @@ This site contains guides in the form of Python scripts that you can use to prog
 
 ## AI Disclosure
 
-This page has been created with the assistance of the artificial intelligence tools Cursor, a code editor built for scripting 
-and programming. Cursor has been used to write Python scripts, to translate from Danish to English, and to organise the content of the notebooks in a similar structure. For example in writing the "Script Summary" sections that is found in the begining of each notebooks. The use of Cursor has served as an opportunity to dive into how to use an ai tool as a "scripting companion". All content has been reviewed.
+This page has been created with the assistance of the artificial intelligence tools Cursor, a code editor built for scripting and programming. Cursor has been used to co-write scripts, to draft translation from Danish to English, and to organise the content of the notebooks in a similar structure: for example in writing the “Script Summary” sections that is found in the begining of each notebooks. The use of Cursor has served as an opportunity to dive into how to use an AI tool as a “scripting companion”. All AI-created content has been reviewed and critically assessed.
